@@ -4,7 +4,7 @@
 */
 
 import React, { useState, useRef, useEffect } from 'react';
-import { MessageCircle, X, Send, GripHorizontal, MoveDiagonal, MoveDiagonal2, ChevronDown } from 'lucide-react';
+import { MessageCircle, X, Send, MoveDiagonal, MoveDiagonal2, ChevronDown } from 'lucide-react';
 import { motion, AnimatePresence, useDragControls, useMotionValue } from 'framer-motion';
 import { sendMessageToGemini, type AIProvider } from '../services/geminiService';
 import type { ChatMessage, FuyaoPersonality } from '../types';
@@ -44,6 +44,10 @@ const PROVIDER_LABELS: Record<AIProvider, { en: string; zh: string }> = {
 const AIChat: React.FC<AIChatProps> = ({ lang, isOpen, setIsOpen, personality, setPersonality }) => {
   // AI Provider State
   const [provider, setProvider] = useState<AIProvider>('gemini');
+
+  // 🟢 新增：控制下拉菜单的开关
+  const [isProviderOpen, setIsProviderOpen] = useState(false);
+  const [isPersonalityOpen, setIsPersonalityOpen] = useState(false);
 
   const placeholders: Record<'en' | 'zh', string> = {
     en: 'Ask Fuyao about weather tools, models...',
@@ -269,6 +273,11 @@ const AIChat: React.FC<AIChatProps> = ({ lang, isOpen, setIsOpen, personality, s
             {/* Draggable Header with Personality Selector */}
             <div
               onPointerDown={(e: React.PointerEvent) => dragControls.start(e)}
+              // 🟢 新增：点击标题栏空白处，关闭所有菜单
+              onClick={() => {
+                setIsProviderOpen(false);
+                setIsPersonalityOpen(false);
+              }}
               className="flex-none bg-gradient-to-r from-sky-900/50 to-blue-900/50 p-4 flex justify-between items-center border-b border-white/10 cursor-move touch-none select-none group"
             >
               <div className="flex items-center gap-3 pointer-events-none">
@@ -279,51 +288,73 @@ const AIChat: React.FC<AIChatProps> = ({ lang, isOpen, setIsOpen, personality, s
               </div>
 
               <div className="flex items-center gap-2">
-                {/* Provider Selector */}
-                <div className="relative group">
-                  <button className="flex items-center gap-1 text-[10px] uppercase bg-black/20 hover:bg-black/40 px-2 py-1 rounded text-white/70 hover:text-white transition-colors border border-white/10 whitespace-nowrap">
+                
+                {/* ✅ 修复版：Provider Selector */}
+                <div className="relative">
+                  <button 
+                    onClick={(e) => { 
+                      e.stopPropagation(); 
+                      setIsProviderOpen(!isProviderOpen); // 点击切换开关
+                      setIsPersonalityOpen(false); // 同时关掉另一个菜单，防止重叠
+                    }}
+                    className="flex items-center gap-1 text-[10px] uppercase bg-black/20 hover:bg-black/40 px-2 py-1 rounded text-white/70 hover:text-white transition-colors border border-white/10 whitespace-nowrap"
+                  >
                     {PROVIDER_LABELS[provider][lang]} <ChevronDown className="w-3 h-3" />
                   </button>
-                  {/* Dropdown Menu */}
-                  <div className="absolute top-full right-0 mt-1 w-24 bg-[#0f172a] border border-white/20 rounded-lg shadow-xl overflow-hidden hidden group-hover:block z-50">
-                    {(['gemini', 'deepseek'] as AIProvider[]).map(p => (
-                      <button
-                        key={p}
-                        onClick={(e) => { e.stopPropagation(); setProvider(p); }}
-                        className={`w-full text-left px-3 py-2 text-[10px] hover:bg-sky-500/20 text-gray-300 hover:text-white ${provider === p ? 'text-sky-400 font-bold' : ''}`}
-                      >
-                        {PROVIDER_LABELS[p][lang]}
-                      </button>
-                    ))}
-                  </div>
+                  
+                  {/* Dropdown Menu: 用状态变量控制显示，而不是 hover */}
+                  {isProviderOpen && (
+                    <div className="absolute top-full right-0 mt-1 w-24 bg-[#0f172a] border border-white/20 rounded-lg shadow-xl overflow-hidden z-50">
+                      {(['gemini', 'deepseek'] as AIProvider[]).map(p => (
+                        <button
+                          key={p}
+                          onClick={(e) => { 
+                            e.stopPropagation(); 
+                            setProvider(p); 
+                            setIsProviderOpen(false); // 选完自动关闭
+                          }}
+                          className={`w-full text-left px-3 py-2 text-[10px] hover:bg-sky-500/20 text-gray-300 hover:text-white ${provider === p ? 'text-sky-400 font-bold' : ''}`}
+                        >
+                          {PROVIDER_LABELS[p][lang]}
+                        </button>
+                      ))}
+                    </div>
+                  )}
                 </div>
 
-                {/* Personality Selector */}
-                <div className="relative group">
-                  <button className="flex items-center gap-1 text-[10px] uppercase bg-black/20 hover:bg-black/40 px-2 py-1 rounded text-white/70 hover:text-white transition-colors border border-white/10 whitespace-nowrap">
+                {/* ✅ 修复版：Personality Selector */}
+                <div className="relative">
+                  <button 
+                    onClick={(e) => { 
+                      e.stopPropagation(); 
+                      setIsPersonalityOpen(!isPersonalityOpen); // 点击切换开关
+                      setIsProviderOpen(false); // 关掉另一个
+                    }}
+                    className="flex items-center gap-1 text-[10px] uppercase bg-black/20 hover:bg-black/40 px-2 py-1 rounded text-white/70 hover:text-white transition-colors border border-white/10 whitespace-nowrap"
+                  >
                     {PERSONALITY_LABELS[personality][lang]} <ChevronDown className="w-3 h-3" />
                   </button>
+                  
                   {/* Dropdown Menu */}
-                  <div className="absolute top-full right-0 mt-1 w-24 bg-[#0f172a] border border-white/20 rounded-lg shadow-xl overflow-hidden hidden group-hover:block z-50">
-                    {(['RANDOM', 'PLAYFUL', 'CYBER', 'ANCIENT', 'CARING'] as FuyaoPersonality[]).map(p => (
-                      <button
-                        key={p}
-                        onClick={(e) => { e.stopPropagation(); setPersonality(p); }}
-                        className={`w-full text-left px-3 py-2 text-[10px] hover:bg-sky-500/20 text-gray-300 hover:text-white ${personality === p ? 'text-sky-400 font-bold' : ''}`}
-                      >
-                        {PERSONALITY_LABELS[p][lang]}
-                      </button>
-                    ))}
-                  </div>
+                  {isPersonalityOpen && (
+                    <div className="absolute top-full right-0 mt-1 w-24 bg-[#0f172a] border border-white/20 rounded-lg shadow-xl overflow-hidden z-50">
+                      {(['RANDOM', 'PLAYFUL', 'CYBER', 'ANCIENT', 'CARING'] as FuyaoPersonality[]).map(p => (
+                        <button
+                          key={p}
+                          onClick={(e) => { 
+                            e.stopPropagation(); 
+                            setPersonality(p); 
+                            setIsPersonalityOpen(false); // 选完自动关闭
+                          }}
+                          className={`w-full text-left px-3 py-2 text-[10px] hover:bg-sky-500/20 text-gray-300 hover:text-white ${personality === p ? 'text-sky-400 font-bold' : ''}`}
+                        >
+                          {PERSONALITY_LABELS[p][lang]}
+                        </button>
+                      ))}
+                    </div>
+                  )}
                 </div>
 
-                <button
-                  onClick={(e) => { e.stopPropagation(); setIsOpen(false); }}
-                  className="text-white/50 hover:text-white pointer-events-auto p-1 rounded hover:bg-white/10 transition-colors"
-                  data-hover="true"
-                >
-                  <X className="w-5 h-5" />
-                </button>
               </div>
             </div>
 

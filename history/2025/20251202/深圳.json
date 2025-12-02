@@ -145,5 +145,26 @@
     "ai_briefing_zh": "天阴有风，微凉，记得添衣别着凉哦。",
     "ai_briefing_en": "Cloudy and breezy at 19°C . Grab a jacket to stay warm and comfy !",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-03T04:18+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing": "AI ERROR 429",
+    "ai_briefing_zh": "AI ERROR 429",
+    "ai_briefing_en": "AI ERROR 429",
+    "alert": null
   }
 ]

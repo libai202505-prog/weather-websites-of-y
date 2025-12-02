@@ -66,9 +66,10 @@ jobs:
         run: npm run build
 
       # 第三步：将构建后的 dist 拷贝到 gh-pages 分支（保留 history 目录）
-      - name: 📂 同步 dist 到 gh-pages（保留 history）
+      - name: 📂 同步 dist 到 gh-pages（保留 history 与 .git）
         run: |
           rsync -av --delete \
+            --exclude '.git/' \
             --exclude 'history/' \
             --exclude 'weather-status.json' \
             --exclude 'latest-briefings.json' \

@@ -259,19 +259,30 @@ const WeatherBoard: React.FC<WeatherBoardProps> = ({ lang = 'zh' }) => {
                                 >
                                     {/* 状态徽章 */}
                                     {currentAlertLevel === 'none' ? (
-                                        <div className="flex items-center gap-1.5 px-2 py-0.5 rounded-sm border bg-emerald-950/30 border-emerald-900/50 text-emerald-400">
+                                        <div className="shrink-0 flex items-center gap-1.5 px-2 py-0.5 rounded-sm border bg-emerald-950/30 border-emerald-900/50 text-emerald-400">
                                             <ShieldCheck className="w-3 h-3" />
-                                            <span className="font-bold text-[10px] sm:text-xs">
+                                            <span className="font-bold text-[10px] sm:text-xs whitespace-nowrap">
                                                 {isEn ? "OK" : "正常"}
                                             </span>
                                         </div>
                                     ) : (
-                                        <div className={`flex items-center gap-1.5 px-2 py-0.5 rounded-sm border ${
+                                        <div className={`shrink-0 flex items-center gap-1.5 px-2 py-0.5 rounded-sm border ${
                                             currentAlertLevel === 'red' ? 'bg-red-950/50 border-red-900 text-red-400' : 'bg-orange-950/40 border-orange-900 text-orange-300'
                                         }`}>
                                             <AlertTriangle className="w-3 h-3 animate-pulse" />
-                                            <span className="font-bold text-[10px] sm:text-xs">
-                                                {currentAlertLevel === 'red' ? (isEn ? "RED ALERT" : "红色预警") : (isEn ? "WARNING" : "异常提示")}
+                                            <span className="font-bold text-[10px] sm:text-xs whitespace-nowrap">
+                                                {/* 手机端 */}
+                                                <span className="sm:hidden">
+                                                    {currentAlertLevel ==='red'
+                                                        ?(isEn ? "ALERT" : "预警")
+                                                        :(isEn ? "NOTE" : "提示")}
+                                                </span>
+                                                <span className="hidden sm:inline">
+                                                    {currentAlertLevel ==='red'
+                                                    ?(isEn ? "RED ALERT" : "红色预警")
+                                                    :(isEn ? "WARNING" : "异常提示")}
+                                                </span>
+                                                
                                             </span>
                                         </div>
                                     )}

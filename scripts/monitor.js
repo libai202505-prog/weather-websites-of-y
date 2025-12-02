@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import fetch from 'node-fetch'; 
+import fetch from 'node-fetch';
 import { fileURLToPath } from 'node:url';
 import TARGET_CITIES from './cities.js';
 
@@ -21,16 +21,16 @@ const QWEATHER_KEY = process.env.QWEATHER_KEY;
 const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
 
 // 📁 文件路径配置
-const DATA_FILE = path.join(__dirname, '../public/weather-status.json');     
-const LATEST_FILE = path.join(__dirname, '../public/latest-briefings.json'); 
-const HISTORY_ROOT = path.join(__dirname, '../public/history');              
+const DATA_FILE = path.join(__dirname, '../public/weather-status.json');
+const LATEST_FILE = path.join(__dirname, '../public/latest-briefings.json');
+const HISTORY_ROOT = path.join(__dirname, '../public/history');
 
 // 🚨 报警阈值设置 (修改版)
 const THRESHOLDS = {
   // 1. 骤降阈值 (1小时体感降温)
   DROP_ORANGE: 3, // 橙色：降 3度
   DROP_RED: 5,    // 红色：降 5度
-  
+
   // 2. 极寒阈值 (体感绝对值)
   FREEZE_ORANGE: -15, // 橙色：低于 -15度
   FREEZE_RED: -20,    // 红色：低于 -20度
@@ -148,7 +148,7 @@ async function run() {
   const isSilentTime = (currentHour >= 22 || currentHour < 7);
 
   // 4. 遍历城市
-  const frontendList = []; 
+  const frontendList = [];
 
   for (const city of TARGET_CITIES) {
     // A. 查全量数据
@@ -160,7 +160,7 @@ async function run() {
     } catch (e) { console.error(`${city.name} API Error`, e); continue; }
     if (!now) continue;
 
-    // B. 🤖 生成 AI 简报
+    // B. 🤖 生成 AI 简报 (恢复暖心风格)
     const prompt = `
       城市：${city.name}
       天气：${now.text}，气温：${now.temp}℃，体感：${now.feelsLike}℃，风向：${now.windDir}，风力：${now.windScale}级，湿度：${now.humidity}%。
@@ -190,7 +190,7 @@ async function run() {
     // =========================================================
     // 🔥 C. 核心升级：体感 + 极寒 双重判断逻辑
     // =========================================================
-    
+
     if (!memory[city.name]) memory[city.name] = { lastSeverity: 0 };
     const cityMem = memory[city.name];
     const lastSeverity = cityMem.lastSeverity || 0;
@@ -202,25 +202,25 @@ async function run() {
 
     // 1. ❄️ 极寒绝对值判断 (新增逻辑)
     if (currentFeels <= THRESHOLDS.FREEZE_RED) {
-        myAlerts.push(`🥶 红色极寒警报：体感低至 ${currentFeels}℃`);
-        currentSeverity = 2; // 直接拉满
+      myAlerts.push(`🥶 红色极寒警报：体感低至 ${currentFeels}℃`);
+      currentSeverity = 2; // 直接拉满
     } else if (currentFeels <= THRESHOLDS.FREEZE_ORANGE) {
-        myAlerts.push(`❄️ 橙色寒冷提示：体感低至 ${currentFeels}℃`);
-        if (currentSeverity < 1) currentSeverity = 1;
+      myAlerts.push(`❄️ 橙色寒冷提示：体感低至 ${currentFeels}℃`);
+      if (currentSeverity < 1) currentSeverity = 1;
     }
 
     // 2. 📉 骤降判断 (结合旧数据)
     const lastCity = lastData.cities.find(c => c.name === city.name);
-    if (lastCity && lastCity.feelsLike) { 
+    if (lastCity && lastCity.feelsLike) {
       const drop = parseInt(lastCity.feelsLike) - currentFeels;
-      
+
       if (!Number.isNaN(drop) && drop > 0) {
         if (drop >= THRESHOLDS.DROP_RED) {
           myAlerts.push(`📉 红色降温预警：1小时骤降${drop}℃`);
           currentSeverity = 2; // 直接拉满
         } else if (drop >= THRESHOLDS.DROP_ORANGE) {
           myAlerts.push(`🟧 橙色降温提示：1小时降温${drop}℃`);
-          if (currentSeverity < 2) currentSeverity = 1; 
+          if (currentSeverity < 2) currentSeverity = 1;
         }
       }
     }
@@ -250,19 +250,19 @@ async function run() {
       name: city.name,
       updateTime: now.obsTime,
       temp: now.temp,
-      feelsLike: now.feelsLike, 
+      feelsLike: now.feelsLike,
       text: now.text,
       windDir: now.windDir,
       windScale: now.windScale,
-      windSpeed: now.windSpeed, 
-      wind360: now.wind360,     
-      humidity: now.humidity, 
-      precip: now.precip,     
-      pressure: now.pressure, 
-      vis: now.vis, 
-      dew: now.dew,             
-      cloud: now.cloud,         
-      ai_briefing: zhBrief,   
+      windSpeed: now.windSpeed,
+      wind360: now.wind360,
+      humidity: now.humidity,
+      precip: now.precip,
+      pressure: now.pressure,
+      vis: now.vis,
+      dew: now.dew,
+      cloud: now.cloud,
+      ai_briefing: zhBrief,
       ai_briefing_zh: zhBrief,
       ai_briefing_en: enBrief,
       alert: myAlerts.length > 0 ? myAlerts.join(' | ') : null
@@ -273,7 +273,7 @@ async function run() {
     frontendList.push({
       name: city.name,
       temp: now.temp,
-      feelsLike: now.feelsLike, 
+      feelsLike: now.feelsLike,
       text: now.text,
       wind: `${now.windDir}${now.windScale}级`,
       humidity: now.humidity,
@@ -294,7 +294,29 @@ async function run() {
   const archiveFile = path.join(dayDir, 'full_data.json');
   fs.writeFileSync(archiveFile, JSON.stringify(dailyData, null, 2));
 
-  console.log("💾 数据已全量保存 (含体感极寒/骤降判断)");
+  // 🔥 新增：按城市归档 (解决数据覆盖问题，一行一个时刻)
+  // 文件名示例: public/history/2025/20251202/北京.json
+  for (const city of TARGET_CITIES) {
+    const cityFile = path.join(dayDir, `${city.name}.json`);
+    let cityHistory = [];
+
+    // 1. 如果文件存在，先读取旧数据
+    if (fs.existsSync(cityFile)) {
+      try {
+        cityHistory = JSON.parse(fs.readFileSync(cityFile, 'utf8'));
+      } catch (e) { console.error(`读取历史文件失败: ${cityFile}`, e); }
+    }
+
+    // 2. 追加当前时刻的数据 (从 dailyData 中取)
+    if (dailyData[city.name]) {
+      cityHistory.push(dailyData[city.name]);
+    }
+
+    // 3. 写回文件
+    fs.writeFileSync(cityFile, JSON.stringify(cityHistory, null, 2));
+  }
+
+  console.log("💾 数据已按城市归档 (追加模式)");
 }
 
 run();

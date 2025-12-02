@@ -92,11 +92,15 @@ async function callGemini(prompt) {
   }
 }
 
-function getBeijingHour() {
+// 北京时间工具：获取当前北京时间对象和小时
+function getBeijingNow() {
   const date = new Date();
   const utc = date.getTime() + (date.getTimezoneOffset() * 60000);
-  const bjDate = new Date(utc + (3600000 * 8));
-  return bjDate.getHours();
+  return new Date(utc + (3600000 * 8));
+}
+
+function getBeijingHour() {
+  return getBeijingNow().getHours();
 }
 
 async function sendWeChat(markdown, tagId) {
@@ -152,9 +156,14 @@ async function run() {
     if (!fs.existsSync(d)) fs.mkdirSync(d, { recursive: true });
   });
 
-  const nowTime = new Date();
-  const dateStr = nowTime.toISOString().split('T')[0].replace(/-/g, '');
-  const dayDir = path.join(HISTORY_ROOT, nowTime.getFullYear().toString(), dateStr);
+  // 使用北京时间生成目录：history/年/YYYYMMDD
+  const bjNow = getBeijingNow();
+  const year = bjNow.getFullYear().toString();
+  const month = String(bjNow.getMonth() + 1).padStart(2, '0');
+  const day = String(bjNow.getDate()).padStart(2, '0');
+  const dateStr = `${bjNow.getFullYear()}${month}${day}`;
+
+  const dayDir = path.join(HISTORY_ROOT, year, dateStr);
   if (!fs.existsSync(dayDir)) fs.mkdirSync(dayDir, { recursive: true });
 
   // 2. 读取旧数据

@@ -19,5 +19,26 @@
     "ai_briefing_zh": "南京风大湿冷，记得多添衣保暖哦。",
     "ai_briefing_en": "Nanjing's windy and feels like 4 ℃. Bundle up to stay cozy!",
     "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-02T23:00+08:00",
+    "temp": "8",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "0",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "15",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing": "AI ERROR 429",
+    "ai_briefing_zh": "AI ERROR 429",
+    "ai_briefing_en": "AI ERROR 429",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

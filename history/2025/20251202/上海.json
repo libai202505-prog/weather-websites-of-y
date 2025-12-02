@@ -19,5 +19,26 @@
     "ai_briefing_zh": "阴天微凉 , 记得添衣保暖 , 别着凉哦 !",
     "ai_briefing_en": "It's cool and cloudy . Stay warm and cozy , Shanghai !",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-02T23:00+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "18",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing": "AI ERROR 429",
+    "ai_briefing_zh": "AI ERROR 429",
+    "ai_briefing_en": "AI ERROR 429",
+    "alert": null
   }
 ]

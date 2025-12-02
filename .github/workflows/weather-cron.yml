@@ -48,8 +48,10 @@ jobs:
           WECHAT_AGENT_ID: ${{ secrets.WECHAT_AGENT_ID }}
           QWEATHER_KEY: ${{ secrets.VITE_QWEATHER_KEY }} # 复用这个 Key
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} # 新增：Gemini API Key
-          # 关键：让 HISTORY_ROOT 指向 gh-pages 分支里的 history 目录（追加模式）
+          # 关键：让 HISTORY_ROOT / DATA_FILE / LATEST_FILE 指向 gh-pages（持久化）
           HISTORY_ROOT: ${{ github.workspace }}/gh-pages/history
+          DATA_FILE: ${{ github.workspace }}/gh-pages/weather-status.json
+          LATEST_FILE: ${{ github.workspace }}/gh-pages/latest-briefings.json
         working-directory: main
         run: node scripts/monitor.js
       
@@ -66,7 +68,11 @@ jobs:
       # 第三步：将构建后的 dist 拷贝到 gh-pages 分支（保留 history 目录）
       - name: 📂 同步 dist 到 gh-pages（保留 history）
         run: |
-          rsync -av --delete --exclude 'history/' main/dist/ gh-pages/
+          rsync -av --delete \
+            --exclude 'history/' \
+            --exclude 'weather-status.json' \
+            --exclude 'latest-briefings.json' \
+            main/dist/ gh-pages/
 
       # 第四步：提交并推送 gh-pages（包含最新网页和 history）
       - name: 🚀 提交并推送到 gh-pages

@@ -20,10 +20,13 @@ const WECHAT = {
 const QWEATHER_KEY = process.env.QWEATHER_KEY;
 const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
 
-// 📁 文件路径配置
-const DATA_FILE = path.join(__dirname, '../public/weather-status.json');
-const LATEST_FILE = path.join(__dirname, '../public/latest-briefings.json');
-const HISTORY_ROOT = process.env.HISTORY_ROOT || path.join(__dirname, '../public/history');
+// 📁 文件路径配置（支持通过环境变量覆盖，方便在 GitHub Actions 中持久化到 gh-pages）
+const DATA_FILE =
+  process.env.DATA_FILE || path.join(__dirname, '../public/weather-status.json');
+const LATEST_FILE =
+  process.env.LATEST_FILE || path.join(__dirname, '../public/latest-briefings.json');
+const HISTORY_ROOT =
+  process.env.HISTORY_ROOT || path.join(__dirname, '../public/history');
 
 // 🚨 报警阈值设置 (修改版)
 const THRESHOLDS = {

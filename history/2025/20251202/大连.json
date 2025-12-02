@@ -124,5 +124,26 @@
     "ai_briefing_zh": "AI ERROR 429",
     "ai_briefing_en": "AI ERROR 429",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-03T03:16+08:00",
+    "temp": "-7",
+    "feelsLike": "-13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "91",
+    "ai_briefing": "大连体感 -13℃ ，风大，记得多添衣保暖哦！",
+    "ai_briefing_zh": "大连体感 -13℃ ，风大，记得多添衣保暖哦！",
+    "ai_briefing_en": "Dalian feels -13°C. Windy day, so bundle up warmly!",
+    "alert": null
   }
 ]

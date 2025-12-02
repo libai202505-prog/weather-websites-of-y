@@ -117,6 +117,29 @@ async function sendWeChat(markdown, tagId) {
   } catch (e) { console.error("WeChat Error:", e.message); }
 }
 
+// 🛠️ 工具：保存为 Excel 可读的 CSV 格式
+function saveToCSV(city, now, dir) {
+  // 定义文件路径：public/history/2025/20251202/北京.csv
+  const csvFile = path.join(dir, `${city.name}.csv`);
+  
+  // 1. 准备表头 (Excel 需要 \uFEFF 来识别中文编码)
+  const header = "\uFEFF时间,城市,温度,天气,风力,体感,湿度,预警\n";
+  
+  // 2. 准备这一行数据 (用英文逗号隔开)
+  const alertText = now.myAlerts ? now.myAlerts.join(';') : '无';
+  // 注意：把时间里的 T 和 Z 去掉，方便 Excel 看
+  const cleanTime = new Date(now.obsTime).toLocaleString('zh-CN', { hour12: false }).replace(/\//g, '-');
+  
+  const row = `${cleanTime},${city.name},${now.temp},${now.text},${now.windDir}${now.windScale}级,${now.feelsLike},${now.humidity}%,${alertText}\n`;
+
+  // 3. 写入或追加
+  if (!fs.existsSync(csvFile)) {
+    fs.writeFileSync(csvFile, header + row, 'utf8');
+  } else {
+    fs.appendFileSync(csvFile, row, 'utf8');
+  }
+}
+
 // --- 主程序 ---
 async function run() {
   console.log("🚀 开始执行全量监控与归档...");
@@ -240,6 +263,7 @@ async function run() {
         await sendWeChat(msg, city.tagId);
       }
     }
+    saveToCSV(city, { ...now, myAlerts }, dayDir);
 
     // 5. 更新记忆
     cityMem.lastSeverity = currentSeverity;

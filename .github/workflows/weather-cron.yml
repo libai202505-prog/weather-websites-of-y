@@ -1,0 +1,56 @@
+name: Auto Weather System
+
+on:
+  # 1. 24小时不间断运行 (每小时一次)
+  schedule:
+    - cron: '0 * * * *'
+  # 2. 推送代码时触发
+  push:
+    branches: [ main ]
+  # 3. 手动触发按钮
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-system:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 拉取代码
+        uses: actions/checkout@v4
+
+      - name: ⚙️ 准备环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 安装依赖
+        run: npm install
+
+      # 第一步：跑机器人脚本 (需要微信和和风 Key)
+      - name: 🤖 运行气象监控
+        env:
+          WECHAT_CORP_ID: ${{ secrets.WECHAT_CORP_ID }}
+          WECHAT_APP_SECRET: ${{ secrets.WECHAT_APP_SECRET }}
+          WECHAT_AGENT_ID: ${{ secrets.WECHAT_AGENT_ID }}
+          QWEATHER_KEY: ${{ secrets.VITE_QWEATHER_KEY }} # 复用这个 Key
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} # 新增：Gemini API Key
+        run: node scripts/monitor.js
+      
+
+      # 第二步：构建网页 (需要注入前端用的 VITE_ 变量！)
+      - name: 🏗️ 构建网页 (Vite Build)
+        env:
+          # 🚨 关键！必须在这里声明，Vite 才能读到 Secrets 并打包进 dist
+          VITE_QWEATHER_KEY: ${{ secrets.VITE_QWEATHER_KEY }}
+          #VITE_DEEPSEEK_API_KEY: ${{ secrets.VITE_DEEPSEEK_API_KEY }}
+        run: npm run build
+
+      # 第三步：发布到 GitHub Pages
+      - name: 🚀 发布上线
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true

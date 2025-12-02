@@ -279,11 +279,12 @@ const WeatherBoard: React.FC<WeatherBoardProps> = ({ lang = 'zh' }) => {
                                         {currentCity.name}
                                     </span>
 
-                                    <div className="flex gap-2 text-slate-300 text-xs items-center">
-                                        <span className="w-10 text-right truncate hidden sm:block">
+                                    <div className="flex items-center justify-end gap-1.5 text-slate-300 text-xs">
+                                        <span className="text-right text-[10px] sm:text-xs whitespace-nowrap">
                                             {translateCondition(currentCity.text)}
                                         </span>
-                                        <span className="w-10 text-right text-white font-bold text-sm">
+                           {/* 温度保持加粗，也不要限制宽度 */}
+                                        <span className="text-right text-white font-bold text-sm">
                                             {currentCity.temp}°
                                         </span>
                                     </div>

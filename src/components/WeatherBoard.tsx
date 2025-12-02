@@ -225,14 +225,15 @@ const WeatherBoard: React.FC<WeatherBoardProps> = ({ lang = 'zh' }) => {
                         <span className="text-xs sm:text-sm font-bold flex items-center gap-1"><MapPin className="w-3 h-3" /> {userLocation}</span>
                     </div>
 
-                    <div className="h-6 w-[1px] bg-slate-700 mx-1 hidden sm:block"></div>
+                    <div className="h-6 w-[1px] bg-slate-700 mx-1 block"></div>
 
-                    <div className="hidden sm:flex items-center gap-3">
-                        <span className="text-lg font-bold text-white">{localWeather.temp}°</span>
+                    <div className="flex items-center gap-1 sm:gap-3 ml-2 sm:ml-0">
+                        <span className="text-sm sm:text-lg font-bold text-white">{localWeather.temp}°</span>
                         <div className="flex flex-col leading-tight text-[10px] text-slate-400">
-                            <span>{translateCondition(localWeather.text)}</span>
+                            <span className="truncate max-w-[40px] sm:max-w-none">
+                                {translateCondition(localWeather.text)}</span>
                             {/* 🔥 新增：显示体感温度 */}
-                            <span className="flex items-center gap-1 text-[9px] text-slate-500">
+                            <span className="flex items-center gap-1 text-[8px] sm:text-[9px] text-slate-500">
                                 FL: {localWeather.feelsLike}°
                             </span>
                         </div>

@@ -121,16 +121,16 @@ async function sendWeChat(markdown, tagId) {
 function saveToCSV(city, now, dir) {
   // 定义文件路径：public/history/2025/20251202/北京.csv
   const csvFile = path.join(dir, `${city.name}.csv`);
-  
+
   // 1. 准备表头 (Excel 需要 \uFEFF 来识别中文编码)
-  const header = "\uFEFF时间,城市,温度,天气,风力,体感,湿度,预警\n";
-  
+  const header = "\uFEFF时间,城市,温度,天气,风力,体感,湿度,风速(km/h),风向角,降水量(mm),气压(hPa),能见度(km),云量(%),预警\n";
+
   // 2. 准备这一行数据 (用英文逗号隔开)
   const alertText = now.myAlerts ? now.myAlerts.join(';') : '无';
   // 注意：把时间里的 T 和 Z 去掉，方便 Excel 看
   const cleanTime = new Date(now.obsTime).toLocaleString('zh-CN', { hour12: false }).replace(/\//g, '-');
-  
-  const row = `${cleanTime},${city.name},${now.temp},${now.text},${now.windDir}${now.windScale}级,${now.feelsLike},${now.humidity}%,${alertText}\n`;
+
+  const row = `${cleanTime},${city.name},${now.temp},${now.text},${now.windDir}${now.windScale}级,${now.feelsLike},${now.humidity}%,${now.windSpeed},${now.wind360},${now.precip},${now.pressure},${now.vis},${now.cloud},${alertText}\n`;
 
   // 3. 写入或追加
   if (!fs.existsSync(csvFile)) {
@@ -189,19 +189,12 @@ async function run() {
       天气：${now.text}，气温：${now.temp}℃，体感：${now.feelsLike}℃，风向：${now.windDir}，风力：${now.windScale}级，湿度：${now.humidity}%。
 
       请分别用「中文」和「英文」各写一句不超过 20 个字的天气关怀提示，语气要温暖、贴心、生活化。
-      
-      ⚠️ 格式排版要求（非常重要）：
-      1. 请仅在「℃单位」(如 15℃) 与「汉字，标点」之间添加一个空格，以增加美观度。
-         - ✅ 正确示范："气温 15℃ 左右，记得保暖。"
-         - ✅ 正确示范："气温 15℃ ,记得保暖。"
-         - ❌ 错误示范："气温15℃左右,记得保暖。" (太挤)
-         - ❌ 错误示范："气温 15 ℃ 左右 , 记得 保暖 。" (太散)
-      2. 汉字与标点符号之间不要加空格。
-      3. 中文简报和英文简报分开输出。
-      
+      ⚠️ 格式要求：
+      1. 在单位和标点/正文汉字或者字符周围必须加空格(例如: 16°C 多云,而不是16°C多云,也不是16°C,)。
+      2. 中文简报和英文简报必须分开输出，中间用空行隔开。
       严格按照下面格式输出：
-      ZH: 中文简报内容
-      EN: English Briefing Content
+      ZH: 中文简报
+      EN: ENGLISH BRIEFING
     `;
 
     await new Promise(r => setTimeout(r, 800));
@@ -270,10 +263,12 @@ async function run() {
         await sendWeChat(msg, city.tagId);
       }
     }
-    saveToCSV(city, { ...now, myAlerts }, dayDir);
 
     // 5. 更新记忆
     cityMem.lastSeverity = currentSeverity;
+
+    // 6. 保存到 CSV (新增字段)
+    saveToCSV(city, { ...now, myAlerts }, dayDir);
 
     // =========================================================
 
@@ -321,9 +316,6 @@ async function run() {
   }, null, 2));
 
   fs.writeFileSync(LATEST_FILE, JSON.stringify(dailyData, null, 2));
-
-  const archiveFile = path.join(dayDir, 'full_data.json');
-  fs.writeFileSync(archiveFile, JSON.stringify(dailyData, null, 2));
 
   // 🔥 新增：按城市归档 (解决数据覆盖问题，一行一个时刻)
   // 文件名示例: public/history/2025/20251202/北京.json

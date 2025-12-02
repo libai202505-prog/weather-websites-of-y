@@ -17,8 +17,19 @@ jobs:
   run-system:
     runs-on: ubuntu-latest
     steps:
-      - name: 📥 拉取代码
+      # 1️⃣ 分别拉取 main（源码）和 gh-pages（历史 + 站点）
+      - name: 📥 拉取 main 分支代码
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          path: main
+
+      - name: 📥 拉取 gh-pages 分支
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+          fetch-depth: 0
 
       - name: ⚙️ 准备环境
         uses: actions/setup-node@v4
@@ -26,9 +37,10 @@ jobs:
           node-version: '20'
 
       - name: 📦 安装依赖
+        working-directory: main
         run: npm install
 
-      # 第一步：跑机器人脚本 (需要微信和和风 Key)
+      # 第一步：跑机器人脚本 (需要微信和和风 Key)，并把历史写入 gh-pages/history
       - name: 🤖 运行气象监控
         env:
           WECHAT_CORP_ID: ${{ secrets.WECHAT_CORP_ID }}
@@ -36,6 +48,9 @@ jobs:
           WECHAT_AGENT_ID: ${{ secrets.WECHAT_AGENT_ID }}
           QWEATHER_KEY: ${{ secrets.VITE_QWEATHER_KEY }} # 复用这个 Key
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} # 新增：Gemini API Key
+          # 关键：让 HISTORY_ROOT 指向 gh-pages 分支里的 history 目录（追加模式）
+          HISTORY_ROOT: ${{ github.workspace }}/gh-pages/history
+        working-directory: main
         run: node scripts/monitor.js
       
 
@@ -45,12 +60,26 @@ jobs:
           # 🚨 关键！必须在这里声明，Vite 才能读到 Secrets 并打包进 dist
           VITE_QWEATHER_KEY: ${{ secrets.VITE_QWEATHER_KEY }}
           #VITE_DEEPSEEK_API_KEY: ${{ secrets.VITE_DEEPSEEK_API_KEY }}
+        working-directory: main
         run: npm run build
 
-      # 第三步：发布到 GitHub Pages
-      - name: 🚀 发布上线
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          force_orphan: true
+      # 第三步：将构建后的 dist 拷贝到 gh-pages 分支（保留 history 目录）
+      - name: 📂 同步 dist 到 gh-pages（保留 history）
+        run: |
+          rsync -av --delete --exclude 'history/' main/dist/ gh-pages/
+
+      # 第四步：提交并推送 gh-pages（包含最新网页和 history）
+      - name: 🚀 提交并推送到 gh-pages
+        working-directory: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update site & history $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin gh-pages
+          fi

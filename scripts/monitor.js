@@ -23,7 +23,7 @@ const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
 // 📁 文件路径配置
 const DATA_FILE = path.join(__dirname, '../public/weather-status.json');
 const LATEST_FILE = path.join(__dirname, '../public/latest-briefings.json');
-const HISTORY_ROOT = path.join(__dirname, '../public/history');
+const HISTORY_ROOT = process.env.HISTORY_ROOT || path.join(__dirname, '../public/history');
 
 // 🚨 报警阈值设置 (修改版)
 const THRESHOLDS = {

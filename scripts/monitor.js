@@ -95,6 +95,77 @@ async function callGemini(prompt) {
   }
 }
 
+// 简单清洗 AI 返回的文案： 去掉标点前多余空格 合并连续空格 去掉反引号等多余符号
+function sanitizeBrief(text) {
+  if (!text) return text;
+  let t = text;
+  // 去掉反引号
+  t = t.replace(/`/g, '');
+  // 标点前面的空格全部删掉
+  t = t.replace(/\s+([，。、！？；：,.!?])/g, '$1');
+  // 多个空格合并为一个
+  t = t.replace(/\s{2,}/g, ' ');
+  // 去掉开头/结尾空格
+  t = t.trim();
+  return t;
+}
+
+// 批量生成多城市简报，返回形如 { [cityName]: { zh, en } }
+async function generateBatchBriefings(preparedList) {
+  if (!GOOGLE_KEY) return {};
+  if (!preparedList || preparedList.length === 0) return {};
+
+  try {
+    const citiesInfo = preparedList.map(item => {
+      const now = item.now;
+      return `${item.city.name}: 天气${now.text}, 气温${now.temp}℃, 体感${now.feelsLike}℃, 风向${now.windDir}, 风力${now.windScale}级, 湿度${now.humidity}%`;
+    }).join('\n');
+
+    const prompt = [
+      '作为一位温暖贴心的天气播报员，请根据以下城市的实时天气数据，为每个城市生成一条简短的中英文关怀提示。',
+      '',
+      '【数据列表】',
+      citiesInfo,
+      '',
+      '【要求】',
+      '1. 语气温暖、贴心、生活化，每条不超过 25 个字。',
+      '2. 只在数字/单位与汉字之间加空格，例如：气温 5℃ 左右。',
+      '3. 输出必须是合法 JSON，键为城市名，值为 { "zh": "...", "en": "..." }。',
+      '4. 不要输出 Markdown 代码块标记。'
+    ].join('\n');
+
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GOOGLE_MODEL}:generateContent?key=${GOOGLE_KEY}`;
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { responseMimeType: 'application/json' }
+      })
+    });
+
+    if (!res.ok) {
+      console.error(`AI Batch Error: ${res.status}`);
+      return {};
+    }
+
+    const data = await res.json();
+    let rawText = data.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
+    rawText = rawText.replace(/```json/gi, '').replace(/```/g, '').trim();
+
+    try {
+      const parsed = JSON.parse(rawText);
+      return parsed && typeof parsed === 'object' ? parsed : {};
+    } catch (e) {
+      console.error('AI Batch JSON Parse Error:', e.message);
+      return {};
+    }
+  } catch (e) {
+    console.error('AI Batch Network Error:', e.message);
+    return {};
+  }
+}
+
 // 北京时间工具：获取当前北京时间对象和小时
 function getBeijingNow() {
   const date = new Date();
@@ -185,44 +256,45 @@ async function run() {
   const currentHour = getBeijingHour();
   const isSilentTime = (currentHour >= 22 || currentHour < 7);
 
-  // 4. 遍历城市
+  // 4. 遍历城市（拆成两步：先拉天气，再批量 AI，再逐城处理）
   const frontendList = [];
+  const preparedList = [];
 
+  // 4A. 先获取所有城市天气
   for (const city of TARGET_CITIES) {
-    // A. 查全量数据
     const url = `https://mh359fbvpj.re.qweatherapi.com/v7/weather/now?location=${city.id}&key=${QWEATHER_KEY}`;
     let now;
     try {
       const res = await fetchJson(url);
       if (res.code === '200') now = res.now;
-    } catch (e) { console.error(`${city.name} API Error`, e); continue; }
+    } catch (e) {
+      console.error(`${city.name} API Error`, e);
+      continue;
+    }
     if (!now) continue;
+    preparedList.push({ city, now });
+  }
 
-    // B. 🤖 生成 AI 简报 (恢复暖心风格) - 夜间跳过，节省配额
+  // 4B. 批量向 Gemini 请求所有城市的简报（仅白天，夜间直接用占位文案）
+  let batchBriefings = {};
+  if (!isSilentTime) {
+    batchBriefings = await generateBatchBriefings(preparedList);
+  }
+
+  // 4C. 再逐城市做报警判定、写 CSV、整理前端和归档数据
+  for (const item of preparedList) {
+    const city = item.city;
+    const now = item.now;
+
+    // AI 简报：优先用批量结果，其次是夜间占位
     let zhBrief = `${city.name} 夜间监测中，注意保暖`;
     let enBrief = `${city.name}: Night watch, stay warm.`;
-    if (!isSilentTime) {
-      const prompt = [
-        `城市：${city.name}`,
-        `天气：${now.text}，气温：${now.temp}℃，体感：${now.feelsLike}℃，风向：${now.windDir}，风力：${now.windScale}级，湿度：${now.humidity}%。`,
-        ``,
-        `写两句不超过 20 个字的天气关怀提示，语气温暖。`,
-        `⚠️ 每个逗号、顿号、句号前面不要额外加空格，只保留中文正常格式，数字与单位之间保留空格（例如 16°C 多云）。`,
-        `⚠️ 输出格式必须严格如下（注意冒号后紧跟内容，不要有空格）：`,
-        `ZH:中文提示`,
-        `EN:English tip`
-      ].join('\n');
-
-      await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
-      const rawBrief = await callGemini(prompt);
-
-      zhBrief = rawBrief;
-      enBrief = "";
-      const zhMatch = rawBrief.match(/ZH:\s*(.+)/i);
-      const enMatch = rawBrief.match(/EN:\s*(.+)/i);
-      if (zhMatch) zhBrief = zhMatch[1].trim();
-      if (enMatch) enBrief = enMatch[1].trim();
-      if (!enBrief) enBrief = zhBrief;
+    const batch = batchBriefings[city.name];
+    if (!isSilentTime && batch) {
+      if (batch.zh) zhBrief = batch.zh;
+      if (batch.en) enBrief = batch.en || zhBrief;
+      zhBrief = sanitizeBrief(zhBrief);
+      enBrief = sanitizeBrief(enBrief);
     }
 
     console.log(`🤖 [${city.name}] ZH: ${zhBrief}`);
@@ -275,7 +347,6 @@ async function run() {
     // 4. 决策：只在 "恶化" 时发送
     if (currentSeverity > lastSeverity) {
       if (city.isVip && city.tagId && !isSilentTime) {
-        // 把所有警报拼起来发
         const msg = `### 📍 ${city.name} 气象警报\n${myAlerts.join('\n')}\n当前: ${now.text} ${now.temp}℃ (体感 ${now.feelsLike}℃)\n[详情](https://libai202505-prog.github.io/weather-websites-of-y/)`;
         await sendWeChat(msg, city.tagId);
       }
@@ -323,6 +394,7 @@ async function run() {
       alert: myAlerts.length > 0 ? myAlerts.join(' ') : null
     });
   }
+
   frontendList.sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'));
 
   // 6. 保存文件

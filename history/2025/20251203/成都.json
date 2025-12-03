@@ -82,5 +82,26 @@
     "ai_briefing_zh": "体感十度有点凉, 记得加件外套哦!",
     "ai_briefing_en": "It's cool, feeling 10°C. Grab a jacket to stay cozy!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-03T14:25+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing": "AI ERROR 429",
+    "ai_briefing_zh": "AI ERROR 429",
+    "ai_briefing_en": "AI ERROR 429",
+    "alert": null
   }
 ]

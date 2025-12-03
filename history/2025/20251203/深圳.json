@@ -187,5 +187,26 @@
     "ai_briefing_zh": "深圳 ` 20°C ` 舒适 ` 宜人 ，` 微风 ` 起 ，` 记得 ` 带件 ` 薄外套 ` 哦 ！",
     "ai_briefing_en": "` 20°C ` feels ` great ` in ` Shenzhen! ` A ` light ` jacket ` will ` keep ` you ` comfy ` with ` the ` breeze.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-03T19:10+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "23",
+    "dew": "11",
+    "cloud": "3",
+    "ai_briefing": "多云 舒适 ， 记得 早晚 添衣 。",
+    "ai_briefing_zh": "多云 舒适 ， 记得 早晚 添衣 。",
+    "ai_briefing_en": "Cloudy and mild at 20 ℃ . Enjoy the breeze today !",
+    "alert": null
   }
 ]

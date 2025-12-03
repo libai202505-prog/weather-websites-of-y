@@ -250,5 +250,26 @@
     "ai_briefing_zh": "北京今天晴朗但体感很冷，注意保暖，别着凉哦！",
     "ai_briefing_en": "Beijing is sunny but feels very cold. Dress warmly to stay cozy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-03T21:24+08:00",
+    "temp": "-1",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "22",
+    "dew": "-19",
+    "cloud": "3",
+    "ai_briefing": "北京今天有点冷，体感-5℃，出门多穿点哦！",
+    "ai_briefing_zh": "北京今天有点冷，体感-5℃，出门多穿点哦！",
+    "ai_briefing_en": "Beijing is chilly at -5℃, remember to bundle up!",
+    "alert": null
   }
 ]

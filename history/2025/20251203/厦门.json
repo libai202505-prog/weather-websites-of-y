@@ -250,5 +250,26 @@
     "ai_briefing_zh": "厦门多云，体感 10℃。风力大，外出记得带件外套哦。",
     "ai_briefing_en": "Xiamen is cloudy, feels 10℃. Windy, remember a jacket when out.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-03T21:24+08:00",
+    "temp": "15",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "90",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "13",
+    "dew": "12",
+    "cloud": "1",
+    "ai_briefing": "厦门多云，15℃，风力 5级，体感较凉，注意防风。",
+    "ai_briefing_zh": "厦门多云，15℃，风力 5级，体感较凉，注意防风。",
+    "ai_briefing_en": "Xiamen is cloudy, 15℃, windy at Force 5. Stay warm!",
+    "alert": null
   }
 ]

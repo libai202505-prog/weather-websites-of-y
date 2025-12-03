@@ -103,5 +103,26 @@
     "ai_briefing_zh": "北京体感 -2℃ ，记得多穿衣多喝水 ！",
     "ai_briefing_en": "Cold -2°C in Beijing , layer up and stay hydrated !",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-03T15:17+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "270",
+    "humidity": "16",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "30",
+    "dew": "-23",
+    "cloud": "0",
+    "ai_briefing": "AI ERROR 429",
+    "ai_briefing_zh": "AI ERROR 429",
+    "ai_briefing_en": "AI ERROR 429",
+    "alert": null
   }
 ]

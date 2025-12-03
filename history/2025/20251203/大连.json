@@ -124,5 +124,26 @@
     "ai_briefing_zh": "AI ERROR 429",
     "ai_briefing_en": "AI ERROR 429",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-03T16:24+08:00",
+    "temp": "-4",
+    "feelsLike": "-10",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "315",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "-12",
+    "cloud": "10",
+    "ai_briefing": "大连风大体感冷 ， 多穿点别冻着啦 。",
+    "ai_briefing_zh": "大连风大体感冷 ， 多穿点别冻着啦 。",
+    "ai_briefing_en": "Brrr , it's super cold and windy in Dalian . Dress warmly !",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

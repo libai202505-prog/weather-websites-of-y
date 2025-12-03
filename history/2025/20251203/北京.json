@@ -40,5 +40,26 @@
     "ai_briefing_zh": "北京 1 °C，体感很冷，记得多穿衣保暖哦！",
     "ai_briefing_en": "Beijing is 1 °C, feels like -4 °C. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-03T12:25+08:00",
+    "temp": "1",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "135",
+    "humidity": "24",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "25",
+    "dew": "-24",
+    "cloud": "0",
+    "ai_briefing": "体感 -5℃， 记得多穿点， 别冻着了！",
+    "ai_briefing_zh": "体感 -5℃， 记得多穿点， 别冻着了！",
+    "ai_briefing_en": "It feels like -5°C. Bundle up and stay warm!",
+    "alert": null
   }
 ]

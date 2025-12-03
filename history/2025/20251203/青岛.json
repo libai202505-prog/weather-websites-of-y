@@ -145,5 +145,26 @@
     "ai_briefing_zh": "青岛 3℃ 风 大 ， 体感 寒冷 ， 记得 多 穿衣 哦 ！",
     "ai_briefing_en": "Qingdao's 3°C feels like -4°C . Strong wind , bundle up warm !",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-03T17:25+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "30",
+    "dew": "-11",
+    "cloud": "0",
+    "ai_briefing": "青岛天冷风大 ， 记得多添衣保暖 ， 注意防风 ！",
+    "ai_briefing_zh": "青岛天冷风大 ， 记得多添衣保暖 ， 注意防风 ！",
+    "ai_briefing_en": "Qingdao feels freezing and windy . Layer up , stay warm and hydrated !",
+    "alert": null
   }
 ]

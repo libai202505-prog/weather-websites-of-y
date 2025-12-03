@@ -145,5 +145,26 @@
     "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
     "ai_briefing_en": "重庆: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-04T07:09+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "12",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing": "重庆 11℃，阴天湿度高，体感微凉，小心感冒。",
+    "ai_briefing_zh": "重庆 11℃，阴天湿度高，体感微凉，小心感冒。",
+    "ai_briefing_en": "Chongqing 11℃, cloudy and humid. A bit cool, watch out for colds!",
+    "alert": null
   }
 ]

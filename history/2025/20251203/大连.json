@@ -271,5 +271,26 @@
     "ai_briefing_zh": "大连多云，体感-9℃，寒意浓浓，出门防寒。",
     "ai_briefing_en": "Dalian is cloudy, feels like -9℃. It's very cold, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-03T22:16+08:00",
+    "temp": "-5",
+    "feelsLike": "-9",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing": "大连 夜间监测中，注意保暖",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

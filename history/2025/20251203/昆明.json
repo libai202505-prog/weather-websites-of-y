@@ -271,5 +271,26 @@
     "ai_briefing_zh": "昆明晴朗，9℃，体感舒适，但湿度较大。",
     "ai_briefing_en": "Kunming is sunny and mild at 9℃. Enjoy the pleasant day!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-03T22:18+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "225",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "815",
+    "vis": "8",
+    "dew": "7",
+    "cloud": "0",
+    "ai_briefing": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

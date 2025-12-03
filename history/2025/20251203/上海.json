@@ -271,5 +271,26 @@
     "ai_briefing_zh": "上海晴好，但体感 2℃，别忘了加件外套哦。",
     "ai_briefing_en": "Shanghai is sunny but feels like 2℃. Stay cozy!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-03T22:16+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "26",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing": "上海 夜间监测中，注意保暖",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

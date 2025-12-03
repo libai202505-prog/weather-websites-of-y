@@ -19,6 +19,9 @@ const WECHAT = {
 };
 const QWEATHER_KEY = process.env.QWEATHER_KEY;
 const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
+const GEMINI_DELAY_MS = Number.isFinite(Number(process.env.GEMINI_DELAY_MS))
+  ? Number(process.env.GEMINI_DELAY_MS)
+  : 2500;
 
 // 📁 文件路径配置（支持通过环境变量覆盖，方便在 GitHub Actions 中持久化到 gh-pages）
 const DATA_FILE =
@@ -195,30 +198,32 @@ async function run() {
     } catch (e) { console.error(`${city.name} API Error`, e); continue; }
     if (!now) continue;
 
-    // B. 🤖 生成 AI 简报 (恢复暖心风格)
-    const prompt = `
-      城市：${city.name}
-      天气：${now.text}，气温：${now.temp}℃，体感：${now.feelsLike}℃，风向：${now.windDir}，风力：${now.windScale}级，湿度：${now.humidity}%。
+    // B. 🤖 生成 AI 简报 (恢复暖心风格) - 夜间跳过，节省配额
+    let zhBrief = `${city.name} 夜间监测中，注意保暖`;
+    let enBrief = `${city.name}: Night watch, stay warm.`;
+    if (!isSilentTime) {
+      const prompt = [
+        `城市：${city.name}`,
+        `天气：${now.text}，气温：${now.temp}℃，体感：${now.feelsLike}℃，风向：${now.windDir}，风力：${now.windScale}级，湿度：${now.humidity}%。`,
+        ``,
+        `写两句不超过 20 个字的天气关怀提示，语气温暖。`,
+        `⚠️ 每个逗号、顿号、句号前面不要额外加空格，只保留中文正常格式，数字与单位之间保留空格（例如 16°C 多云）。`,
+        `⚠️ 输出格式必须严格如下（注意冒号后紧跟内容，不要有空格）：`,
+        `ZH:中文提示`,
+        `EN:English tip`
+      ].join('\n');
 
-      请分别用「中文」和「英文」各写一句不超过 20 个字的天气关怀提示，语气要温暖、贴心、生活化。
-      ⚠️ 格式要求：
-      1. 在单位和标点/正文汉字或者字符周围必须加空格(例如: 16°C 多云,而不是16°C多云,也不是16°C,)。
-      2. 中文简报和英文简报必须分开输出，中间用空行隔开。
-      严格按照下面格式输出：
-      ZH: 中文简报
-      EN: ENGLISH BRIEFING
-    `;
+      await new Promise(r => setTimeout(r, GEMINI_DELAY_MS));
+      const rawBrief = await callGemini(prompt);
 
-    await new Promise(r => setTimeout(r, 800));
-    const rawBrief = await callGemini(prompt);
-
-    let zhBrief = rawBrief;
-    let enBrief = "";
-    const zhMatch = rawBrief.match(/ZH:\s*(.+)/i);
-    const enMatch = rawBrief.match(/EN:\s*(.+)/i);
-    if (zhMatch) zhBrief = zhMatch[1].trim();
-    if (enMatch) enBrief = enMatch[1].trim();
-    if (!enBrief) enBrief = zhBrief;
+      zhBrief = rawBrief;
+      enBrief = "";
+      const zhMatch = rawBrief.match(/ZH:\s*(.+)/i);
+      const enMatch = rawBrief.match(/EN:\s*(.+)/i);
+      if (zhMatch) zhBrief = zhMatch[1].trim();
+      if (enMatch) enBrief = enMatch[1].trim();
+      if (!enBrief) enBrief = zhBrief;
+    }
 
     console.log(`🤖 [${city.name}] ZH: ${zhBrief}`);
 

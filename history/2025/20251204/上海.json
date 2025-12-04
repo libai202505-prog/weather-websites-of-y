@@ -313,5 +313,26 @@
     "ai_briefing_zh": "上海阴天，气温 11℃，体感 9℃。穿暖暖，别着凉了。",
     "ai_briefing_en": "Shanghai is overcast, 11℃ feels like 9℃. Dress warmly to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-04T16:24+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "270",
+    "humidity": "24",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "24",
+    "dew": "-7",
+    "cloud": "91",
+    "ai_briefing": "上海多云 10℃，体感 8℃，风力不大，适度添衣。",
+    "ai_briefing_zh": "上海多云 10℃，体感 8℃，风力不大，适度添衣。",
+    "ai_briefing_en": "Shanghai is cloudy 10℃, feels like 8℃. Add layers!",
+    "alert": null
   }
 ]

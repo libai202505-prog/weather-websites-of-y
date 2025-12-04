@@ -313,5 +313,26 @@
     "ai_briefing_zh": "武汉阴天，气温 10℃，湿度大。添衣保暖，小心湿冷哦。",
     "ai_briefing_en": "Wuhan is overcast, 10℃ with high humidity. Dress warmly and watch out for the damp chill.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-04T16:24+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing": "武汉阴天 10℃，体感 8℃，湿度大，保暖很重要。",
+    "ai_briefing_zh": "武汉阴天 10℃，体感 8℃，湿度大，保暖很重要。",
+    "ai_briefing_en": "Wuhan is cloudy 10℃, feels like 8℃. Stay warm and cozy!",
+    "alert": null
   }
 ]

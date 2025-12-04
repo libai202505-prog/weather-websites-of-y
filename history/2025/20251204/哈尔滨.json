@@ -313,5 +313,26 @@
     "ai_briefing_zh": "哈尔滨晴朗严寒，气温 -13℃。全副武装，注意防冻保暖。",
     "ai_briefing_en": "Harbin is sunny and extremely cold, -13℃. Bundle up completely to prevent frostbite.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -17℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-04T16:24+08:00",
+    "temp": "-13",
+    "feelsLike": "-17",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "20",
+    "dew": "-18",
+    "cloud": "0",
+    "ai_briefing": "哈尔滨 -13℃，体感 -17℃，天寒地冻，全副武装！",
+    "ai_briefing_zh": "哈尔滨 -13℃，体感 -17℃，天寒地冻，全副武装！",
+    "ai_briefing_en": "Harbin is -13℃, feels like -17℃. Bundle up tight!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -17℃"
   }
 ]

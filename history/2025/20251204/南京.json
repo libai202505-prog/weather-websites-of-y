@@ -334,5 +334,26 @@
     "ai_briefing_zh": "南京阴天 9℃，体感 6℃，风力不大，注意保暖。",
     "ai_briefing_en": "Nanjing is cloudy 9℃, feels like 6℃. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-04T17:16+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "21",
+    "dew": "-8",
+    "cloud": "99",
+    "ai_briefing": "南京阴天偏冷，记得多穿点暖和哦。",
+    "ai_briefing_zh": "南京阴天偏冷，记得多穿点暖和哦。",
+    "ai_briefing_en": "Nanjing: Cloudy & cool. Dress warmly!",
+    "alert": null
   }
 ]

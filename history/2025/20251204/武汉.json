@@ -415,5 +415,25 @@
     "ai_briefing_zh": "武汉阴天，湿度较高，体感 7℃，记得带伞，别着凉。",
     "ai_briefing_en": "Wuhan is cloudy and humid with a 7℃ feel; bring an umbrella and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-04T20:40+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "7",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "大雾能见度低，出行请务必注意安全。",
+    "ai_briefing_en": "Heavy fog, low visibility, please drive safely.",
+    "alert": null
   }
 ]

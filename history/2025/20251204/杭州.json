@@ -415,5 +415,25 @@
     "ai_briefing_zh": "杭州阴天，体感 7℃，出门别忘带伞，注意保暖。",
     "ai_briefing_en": "Hangzhou is cloudy with a 7℃ feel; don't forget your umbrella and keep warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-04T20:40+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "14",
+    "dew": "-7",
+    "cloud": "98",
+    "ai_briefing_zh": "阴天体感较冷，多穿点，别着凉了。",
+    "ai_briefing_en": "Overcast and feels cold, wear more to avoid catching a cold.",
+    "alert": null
   }
 ]

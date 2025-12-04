@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-05T07:10+08:00",
+    "temp": "7",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "8",
+    "dew": "-2",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉7℃有雾，体感6℃。能见度低，注意安全和保暖。",
+    "ai_briefing_en": "Wuhan: 7℃ & foggy, feels like 6℃. Low visibility, stay safe & warm!",
+    "alert": null
   }
 ]

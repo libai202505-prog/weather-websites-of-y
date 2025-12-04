@@ -271,5 +271,26 @@
     "ai_briefing_zh": "沈阳晴朗，体感 -9℃，依然很冷。出门多穿防风衣物。",
     "ai_briefing_en": "Shenyang is sunny, feels like -9℃, still very cold. Wear windproof clothes!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-04T15:17+08:00",
+    "temp": "-4",
+    "feelsLike": "-8",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "30",
+    "dew": "-19",
+    "cloud": "91",
+    "ai_briefing": "沈阳晴冷，出门戴帽子围巾，暖和一整天。",
+    "ai_briefing_zh": "沈阳晴冷，出门戴帽子围巾，暖和一整天。",
+    "ai_briefing_en": "Shenyang: Sunny, cold. Hat and scarf!",
+    "alert": null
   }
 ]

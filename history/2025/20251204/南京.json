@@ -271,5 +271,26 @@
     "ai_briefing_zh": "南京阴天，体感 6℃，有点凉。出门多穿点，注意保暖。",
     "ai_briefing_en": "Nanjing is overcast, feels like 6℃, a bit chilly. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-04T15:17+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "25",
+    "dew": "-8",
+    "cloud": "100",
+    "ai_briefing": "南京阴天略冷，出门添衣，别让寒气入体。",
+    "ai_briefing_zh": "南京阴天略冷，出门添衣，别让寒气入体。",
+    "ai_briefing_en": "Nanjing: Overcast, chilly. Dress warmly!",
+    "alert": null
   }
 ]

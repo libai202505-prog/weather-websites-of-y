@@ -375,5 +375,25 @@
     "ai_briefing_zh": "武汉多云，体感 7℃。湿度较高，出门带伞以防万一。",
     "ai_briefing_en": "Wuhan is cloudy, feels like 7℃. High humidity, carry an umbrella just in case.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-04T18:16+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "9",
+    "dew": "0",
+    "cloud": "98",
+    "ai_briefing_zh": "武汉 9℃，阴天微风，体感稍凉，湿气重，注意保暖！",
+    "ai_briefing_en": "Wuhan 9℃, overcast with light breeze. Feels a bit cool and humid, keep warm!",
+    "alert": null
   }
 ]

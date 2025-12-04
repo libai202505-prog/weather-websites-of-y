@@ -395,5 +395,25 @@
     "ai_briefing_zh": "上海 9℃，多云天，体感略凉，别忘了带件外套哦！",
     "ai_briefing_en": "Shanghai is 9℃ and cloudy, feels a bit cool. Don't forget your jacket!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-04T19:08+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "24",
+    "dew": "-5",
+    "cloud": "91",
+    "ai_briefing_zh": "上海多云，体感 7℃，早晚温差大，添件薄外套。",
+    "ai_briefing_en": "Shanghai is cloudy with a 7℃ feel; there's a big temperature difference, add a light jacket.",
+    "alert": null
   }
 ]

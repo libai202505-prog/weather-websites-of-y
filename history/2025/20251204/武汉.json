@@ -395,5 +395,25 @@
     "ai_briefing_zh": "武汉 9℃，阴天微风，体感稍凉，湿气重，注意保暖！",
     "ai_briefing_en": "Wuhan 9℃, overcast with light breeze. Feels a bit cool and humid, keep warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-04T19:10+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "8",
+    "dew": "1",
+    "cloud": "97",
+    "ai_briefing_zh": "武汉阴天，湿度较高，体感 7℃，记得带伞，别着凉。",
+    "ai_briefing_en": "Wuhan is cloudy and humid with a 7℃ feel; bring an umbrella and don't catch a cold.",
+    "alert": null
   }
 ]

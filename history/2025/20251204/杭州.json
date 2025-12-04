@@ -187,5 +187,26 @@
     "ai_briefing_zh": "杭州晴朗微凉，早晚温差大，别着凉了。",
     "ai_briefing_en": "Hangzhou is sunny and cool. Mind the temperature change.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-04T11:16+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "18",
+    "dew": "-8",
+    "cloud": "0",
+    "ai_briefing": "杭州多云，体感微凉，出门别忘添衣，注意补水。",
+    "ai_briefing_zh": "杭州多云，体感微凉，出门别忘添衣，注意补水。",
+    "ai_briefing_en": "Hangzhou, it's cloudy and cool, wear an extra layer, stay hydrated!",
+    "alert": null
   }
 ]

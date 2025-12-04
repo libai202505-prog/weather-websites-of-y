@@ -187,5 +187,26 @@
     "ai_briefing_zh": "广州阴天，体感微凉，记得带件薄外套。",
     "ai_briefing_en": "Guangzhou is cloudy and cool. Bring a light jacket.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-04T11:16+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing": "广州天气阴沉，注意湿度变化，体感舒适。",
+    "ai_briefing_zh": "广州天气阴沉，注意湿度变化，体感舒适。",
+    "ai_briefing_en": "Guangzhou, it's cloudy and mild, be mindful of humidity.",
+    "alert": null
   }
 ]

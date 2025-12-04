@@ -208,5 +208,26 @@
     "ai_briefing_zh": "大连风力 5 级，体感很冷，注意防风保暖，小心感冒！",
     "ai_briefing_en": "Dalian, very windy (level 5) and cold, stay warm and wind-protected!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-04T12:24+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "315",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "91",
+    "ai_briefing": "大连多云有风，体感 -3℃，记得穿厚实点。",
+    "ai_briefing_zh": "大连多云有风，体感 -3℃，记得穿厚实点。",
+    "ai_briefing_en": "Dalian is cloudy and windy, feels like -3℃. Dress warmly.",
+    "alert": null
   }
 ]

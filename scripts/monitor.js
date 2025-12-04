@@ -347,9 +347,20 @@ async function run() {
     // 4. 决策：只在 "恶化" 时发送
     if (currentSeverity > lastSeverity) {
       if (city.isVip && city.tagId && !isSilentTime) {
+        console.log(
+          `🔔 [${city.name}] 触发微信推送：由等级 ${lastSeverity} -> ${currentSeverity}，警报：${myAlerts.join(' | ')}`
+        );
         const msg = `### 📍 ${city.name} 气象警报\n${myAlerts.join('\n')}\n当前: ${now.text} ${now.temp}℃ (体感 ${now.feelsLike}℃)\n[详情](https://libai202505-prog.github.io/weather-websites-of-y/)`;
         await sendWeChat(msg, city.tagId);
+      } else {
+        console.log(
+          `ℹ️ [${city.name}] 严重等级提升但未推送：isVip=${city.isVip}, tagId=${city.tagId}, isSilentTime=${isSilentTime}`
+        );
       }
+    } else if (myAlerts.length > 0) {
+      console.log(
+        `ℹ️ [${city.name}] 有警报(${myAlerts.join(' | ')})，但等级未从 ${lastSeverity} 提升，按去重规则不重复推送。`
+      );
     }
 
     // 5. 更新记忆

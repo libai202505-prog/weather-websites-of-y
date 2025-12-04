@@ -1,4 +1,4 @@
-import fs from 'node:fs';
+﻿import fs from 'node:fs';
 import path from 'node:path';
 import fetch from 'node-fetch';
 import { fileURLToPath } from 'node:url';
@@ -178,13 +178,34 @@ function getBeijingHour() {
 }
 
 async function sendWeChat(markdown, tagId) {
-  if (!tagId) return;
+  if (!tagId) {
+    console.log("⚠️ sendWeChat: tagId 为空，跳过发送");
+    return;
+  }
+
+  // 🔍 检查配置是否完整
+  console.log("🔧 微信配置检查:");
+  console.log(`   CORP_ID: ${WECHAT.CORP_ID ? "✅ 已配置" : "❌ 未配置"}`);
+  console.log(`   SECRET: ${WECHAT.SECRET ? "✅ 已配置" : "❌ 未配置"}`);
+  console.log(`   AGENT_ID: ${WECHAT.AGENT_ID ? "✅ 已配置" : "❌ 未配置"}`);
+
+  if (!WECHAT.CORP_ID || !WECHAT.SECRET || !WECHAT.AGENT_ID) {
+    console.error("❌ 微信配置不完整，无法发送！请检查 GitHub Secrets");
+    return;
+  }
+
   try {
     const tokenUrl = `https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=${WECHAT.CORP_ID}&corpsecret=${WECHAT.SECRET}`;
     const tokenData = await fetchJson(tokenUrl);
-    const sendUrl = `https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=${tokenData.access_token}`;
 
-    await fetch(sendUrl, {
+    if (!tokenData.access_token) {
+      console.error("❌ 获取 access_token 失败:", JSON.stringify(tokenData));
+      return;
+    }
+    console.log("✅ access_token 获取成功");
+
+    const sendUrl = `https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=${tokenData.access_token}`;
+    const response = await fetch(sendUrl, {
       method: 'POST',
       body: JSON.stringify({
         totag: tagId,
@@ -194,8 +215,16 @@ async function sendWeChat(markdown, tagId) {
         safe: 0
       })
     });
-    console.log(`📨 已推送至标签 [${tagId}]`);
-  } catch (e) { console.error("WeChat Error:", e.message); }
+
+    const result = await response.json();
+    if (result.errcode === 0) {
+      console.log(`📨 ✅ 成功推送至标签 [${tagId}]`);
+    } else {
+      console.error(`📨 ❌ 推送失败 [${tagId}]:`, JSON.stringify(result));
+    }
+  } catch (e) {
+    console.error("WeChat Error:", e.message);
+  }
 }
 
 // 🛠️ 工具：保存为 Excel 可读的 CSV 格式
@@ -387,7 +416,6 @@ async function run() {
       vis: now.vis,
       dew: now.dew,
       cloud: now.cloud,
-      ai_briefing: zhBrief,
       ai_briefing_zh: zhBrief,
       ai_briefing_en: enBrief,
       alert: myAlerts.length > 0 ? myAlerts.join(' | ') : null

@@ -435,5 +435,25 @@
     "ai_briefing_zh": "多云天气舒适，但湿度高，注意防潮。",
     "ai_briefing_en": "Cloudy and pleasant, high humidity, mind the damp.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-04T21:32+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "14",
+    "dew": "14",
+    "cloud": "4",
+    "ai_briefing_zh": "深圳多云，18℃。湿度大，出门带伞，祝您好心情！",
+    "ai_briefing_en": "Shenzhen is partly cloudy, 18℃. High humidity, bring an umbrella. Have a good day!",
+    "alert": null
   }
 ]

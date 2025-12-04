@@ -435,5 +435,25 @@
     "ai_briefing_zh": "阴天体感较冷，多穿点，别着凉了。",
     "ai_briefing_en": "Overcast and feels cold, wear more to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-04T21:32+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "13",
+    "dew": "-5",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴，体感 6℃。风力 2级，多穿点才暖和。",
+    "ai_briefing_en": "Hangzhou is cloudy, feels like 6℃. With 2-grade wind, dress warmly.",
+    "alert": null
   }
 ]

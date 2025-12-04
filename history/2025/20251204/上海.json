@@ -435,5 +435,25 @@
     "ai_briefing_zh": "阴沉微凉，注意保暖，保持好心情。",
     "ai_briefing_en": "Overcast and cool, keep warm and stay cheerful.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-04T21:32+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "18",
+    "dew": "-5",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天，体感 6℃。添衣保暖，别感冒了。",
+    "ai_briefing_en": "Shanghai is cloudy, feels like 6℃. Layer up to avoid a cold.",
+    "alert": null
   }
 ]

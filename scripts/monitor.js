@@ -17,6 +17,9 @@ const WECHAT = {
   SECRET: process.env.WECHAT_APP_SECRET,
   AGENT_ID: process.env.WECHAT_AGENT_ID,
 };
+// PushPlus 配置
+const PUSHPLUS_TOKEN = process.env.PUSHPLUS_TOKEN;
+
 const QWEATHER_KEY = process.env.QWEATHER_KEY;
 const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
 const GEMINI_DELAY_MS = Number.isFinite(Number(process.env.GEMINI_DELAY_MS))
@@ -177,53 +180,41 @@ function getBeijingHour() {
   return getBeijingNow().getHours();
 }
 
-async function sendWeChat(markdown, tagId) {
-  if (!tagId) {
-    console.log("⚠️ sendWeChat: tagId 为空，跳过发送");
-    return;
-  }
-
-  // 🔍 检查配置是否完整
-  console.log("🔧 微信配置检查:");
-  console.log(`   CORP_ID: ${WECHAT.CORP_ID ? "✅ 已配置" : "❌ 未配置"}`);
-  console.log(`   SECRET: ${WECHAT.SECRET ? "✅ 已配置" : "❌ 未配置"}`);
-  console.log(`   AGENT_ID: ${WECHAT.AGENT_ID ? "✅ 已配置" : "❌ 未配置"}`);
-
-  if (!WECHAT.CORP_ID || !WECHAT.SECRET || !WECHAT.AGENT_ID) {
-    console.error("❌ 微信配置不完整，无法发送！请检查 GitHub Secrets");
+// 📨 PushPlus 推送函数
+async function sendPushPlus(title, content, topic) {
+  if (!PUSHPLUS_TOKEN) {
+    console.error("❌ PUSHPLUS_TOKEN 未配置，无法发送！");
     return;
   }
 
   try {
-    const tokenUrl = `https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=${WECHAT.CORP_ID}&corpsecret=${WECHAT.SECRET}`;
-    const tokenData = await fetchJson(tokenUrl);
+    const url = 'http://www.pushplus.plus/send';
+    const body = {
+      token: PUSHPLUS_TOKEN,
+      title: title,
+      content: content,
+      template: 'markdown'
+    };
 
-    if (!tokenData.access_token) {
-      console.error("❌ 获取 access_token 失败:", JSON.stringify(tokenData));
-      return;
+    // 如果传入了群组编码，添加到请求参数中
+    if (topic) {
+      body.topic = topic;
     }
-    console.log("✅ access_token 获取成功");
 
-    const sendUrl = `https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=${tokenData.access_token}`;
-    const response = await fetch(sendUrl, {
+    const response = await fetch(url, {
       method: 'POST',
-      body: JSON.stringify({
-        totag: tagId,
-        msgtype: "markdown",
-        agentid: WECHAT.AGENT_ID,
-        markdown: { content: markdown },
-        safe: 0
-      })
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
     });
 
     const result = await response.json();
-    if (result.errcode === 0) {
-      console.log(`📨 ✅ 成功推送至标签 [${tagId}]`);
+    if (result.code === 200) {
+      console.log(`📨 ✅ PushPlus 推送成功: ${title} ${topic ? '(群组: ' + topic + ')' : ''}`);
     } else {
-      console.error(`📨 ❌ 推送失败 [${tagId}]:`, JSON.stringify(result));
+      console.error(`📨 ❌ PushPlus 推送失败:`, result.msg);
     }
   } catch (e) {
-    console.error("WeChat Error:", e.message);
+    console.error("PushPlus Error:", e.message);
   }
 }
 
@@ -375,15 +366,16 @@ async function run() {
 
     // 4. 决策：只在 "恶化" 时发送
     if (currentSeverity > lastSeverity) {
-      if (city.isVip && city.tagId && !isSilentTime) {
+      if (city.isVip && !isSilentTime) {
         console.log(
-          `🔔 [${city.name}] 触发微信推送：由等级 ${lastSeverity} -> ${currentSeverity}，警报：${myAlerts.join(' | ')}`
+          `🔔 [${city.name}] 触发推送：由等级 ${lastSeverity} -> ${currentSeverity}，警报：${myAlerts.join(' | ')}`
         );
-        const msg = `### 📍 ${city.name} 气象警报\n${myAlerts.join('\n')}\n当前: ${now.text} ${now.temp}℃ (体感 ${now.feelsLike}℃)\n[详情](https://libai202505-prog.github.io/weather-websites-of-y/)`;
-        await sendWeChat(msg, city.tagId);
+        const title = `📍 ${city.name} 气象警报`;
+        const content = `${myAlerts.join('\n\n')}\n\n**当前天气**: ${now.text} ${now.temp}℃ (体感 ${now.feelsLike}℃)\n\n[查看详情](https://libai202505-prog.github.io/weather-websites-of-y/)`;
+        await sendPushPlus(title, content, city.topic);
       } else {
         console.log(
-          `ℹ️ [${city.name}] 严重等级提升但未推送：isVip=${city.isVip}, tagId=${city.tagId}, isSilentTime=${isSilentTime}`
+          `ℹ️ [${city.name}] 严重等级提升但未推送：isVip=${city.isVip}, isSilentTime=${isSilentTime}`
         );
       }
     } else if (myAlerts.length > 0) {

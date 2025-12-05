@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉阴天，体感 10℃，风力 0级。出门依然要备件外套。",
     "ai_briefing_en": "Cloudy, feels like 10℃ with no wind. Still bring a jacket when out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-05T13:09+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "18",
+    "dew": "-3",
+    "cloud": "8",
+    "ai_briefing_zh": "武汉阴天，体感微凉。多喝热水，注意保暖！",
+    "ai_briefing_en": "Wuhan: Overcast, cool. Keep warm!",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "广州天晴暖和，体感 19℃，风力 4级。外出注意防风，多喝水！",
     "ai_briefing_en": "Sunny and warm, 19℃ but windy. Stay hydrated and mind the wind!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-05T13:09+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "315",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "1",
+    "ai_briefing_zh": "广州阳光暖和，微风宜人。出门享受好天气！",
+    "ai_briefing_en": "Guangzhou: Sunny, warm. Enjoy the day!",
+    "alert": null
   }
 ]

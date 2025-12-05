@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门天晴，体感 16℃，风力 4级。风大，出门注意防风哦！",
     "ai_briefing_en": "Sunny, feels like 16℃ but windy. Be mindful of the strong wind!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-05T13:09+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "45",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "1",
+    "ai_briefing_zh": "厦门阳光正好，体感舒适。别忘了防晒哦！",
+    "ai_briefing_en": "Xiamen: Sunny, comfy. Wear sunscreen!",
+    "alert": null
   }
 ]

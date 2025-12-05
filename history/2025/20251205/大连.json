@@ -238,5 +238,25 @@
     "ai_briefing_zh": "大连阴冷风大，多穿衣，小心感冒哦！",
     "ai_briefing_en": "Dalian: Overcast, cold. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-05T14:25+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "225",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "大连阴天微凉，风力稍大，记得多添衣物！",
+    "ai_briefing_en": "Dalian is cloudy and cool with some wind, remember to layer up!",
+    "alert": null
   }
 ]

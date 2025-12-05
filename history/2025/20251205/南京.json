@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京多云风力 3级，体感 6℃。注意防风保暖哦。",
     "ai_briefing_en": "Nanjing is cloudy with 3-level wind, feels like 6℃. Mind the wind, keep warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-05T12:24+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "135",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "10",
+    "dew": "-4",
+    "cloud": "91",
+    "ai_briefing_zh": "南京阳光正好，体感 6℃。风力 3级，出门记得多穿点。",
+    "ai_briefing_en": "Sunny but feels like 6℃. It's breezy, dress warmly outside.",
+    "alert": null
   }
 ]

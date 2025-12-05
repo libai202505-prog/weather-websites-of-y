@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州阴天有点冷，体感 7℃。多穿点，别着凉了。",
     "ai_briefing_en": "Hangzhou is cloudy and a bit cold, feels like 7℃. Dress warmly, don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-05T12:24+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "18",
+    "dew": "-3",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴天，体感 7℃，有点凉意。出门别忘添衣哦。",
+    "ai_briefing_en": "Cloudy, feels like 7℃, a bit chilly. Don't forget an extra layer!",
+    "alert": null
   }
 ]

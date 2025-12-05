@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天，体感 8℃。记得添衣，暖暖和和过一天。",
     "ai_briefing_en": "Wuhan is cloudy, feels like 8℃. Remember to add layers and stay warm all day.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-05T12:24+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "135",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "7",
+    "ai_briefing_zh": "武汉阴天，体感 10℃，风力 0级。出门依然要备件外套。",
+    "ai_briefing_en": "Cloudy, feels like 10℃ with no wind. Still bring a jacket when out.",
+    "alert": null
   }
 ]

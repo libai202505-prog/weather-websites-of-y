@@ -298,5 +298,25 @@
     "ai_briefing_zh": "气温 3℃，体感 -2℃。天晴但寒冷，多穿点，小心着凉。",
     "ai_briefing_en": "Sunny but chilly. Dress warmly to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-05T17:16+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "225",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "-6",
+    "cloud": "5",
+    "ai_briefing_zh": "沈阳 2℃ 晴朗，体感 -3℃，注意防寒。",
+    "ai_briefing_en": "Shenyang 2℃, -3℃. Keep warm!",
+    "alert": null
   }
 ]

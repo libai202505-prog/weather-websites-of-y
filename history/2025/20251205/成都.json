@@ -298,5 +298,25 @@
     "ai_briefing_zh": "气温 13℃。多云天舒适，湿度较高，出门带伞有备无患。",
     "ai_briefing_en": "Cloudy and mild. High humidity, a small umbrella might be handy.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-05T17:18+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "成都多云 13℃，微风舒适，记得防晒。",
+    "ai_briefing_en": "Chengdu 13℃, cloudy. Mild!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "青岛晴朗 7℃，体感 3℃，风大注意保暖。",
     "ai_briefing_en": "Qingdao 7℃, 3℃. Windy. Warm up!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-05T18:16+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "225",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛晴朗 7℃ 体感 2℃，风力 4 级。风大体感冷，注意防风保暖哦。",
+    "ai_briefing_en": "Qingdao is sunny, 7℃ (feels like 2℃) with strong winds. It's windy and cold, stay warm!",
+    "alert": null
   }
 ]

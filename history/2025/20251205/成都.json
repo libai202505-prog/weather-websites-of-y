@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云天气，气温舒适。外出散步好选择！",
     "ai_briefing_en": "Partly cloudy, comfortable temps. Perfect for a stroll!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-05T16:18+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "964",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "9",
+    "ai_briefing_zh": "气温 13℃。多云天舒适，湿度较高，出门带伞有备无患。",
+    "ai_briefing_en": "Cloudy and mild. High humidity, a small umbrella might be handy.",
+    "alert": null
   }
 ]

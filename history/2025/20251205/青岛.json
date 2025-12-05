@@ -278,5 +278,25 @@
     "ai_briefing_zh": "晴朗有风，体感寒凉。多穿衣服防风呀。",
     "ai_briefing_en": "Sunny and windy, feels chilly. Wear extra layers against the wind.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-05T16:16+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "180",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "-1",
+    "cloud": "5",
+    "ai_briefing_zh": "气温 8℃，体感 4℃。多云风力 3级。风凉，记得多穿点。",
+    "ai_briefing_en": "Cloudy with a cool breeze. Dress warmly!",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云天气，气温适中。保持好心情！",
     "ai_briefing_en": "Partly cloudy, mild temps. Keep up the good mood!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-05T16:16+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "12",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "气温 11℃，体感 9℃。多云天微凉，注意保暖别着凉。",
+    "ai_briefing_en": "Cloudy and cool. Stay warm to avoid catching a cold!",
+    "alert": null
   }
 ]

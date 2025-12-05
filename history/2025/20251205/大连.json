@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云有大风，体感冰冷。务必穿厚保暖！",
     "ai_briefing_en": "Cloudy with strong winds, feels freezing. Bundle up well!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-05T16:16+08:00",
+    "temp": "5",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "225",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "气温 5℃，体感 0℃。多云风力 4级。风大寒冷，注意防风。",
+    "ai_briefing_en": "Cloudy with strong, cold winds. Stay warm and bundled up!",
+    "alert": null
   }
 ]

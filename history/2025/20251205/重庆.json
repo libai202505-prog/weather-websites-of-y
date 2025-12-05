@@ -358,5 +358,25 @@
     "ai_briefing_zh": "重庆有雾，体感 10℃，湿度较高。风力轻微，出行注意安全哦。",
     "ai_briefing_en": "Chongqing has fog, feels like 10℃ with high humidity. Light wind, travel safely.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-05T20:31+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "0",
+    "ai_briefing_zh": "重庆有雾，体感 10℃，记得带伞出行哦。",
+    "ai_briefing_en": "Chongqing is foggy, feels like 10℃. Don't forget your umbrella.",
+    "alert": null
   }
 ]

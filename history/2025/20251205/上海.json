@@ -358,5 +358,25 @@
     "ai_briefing_zh": "上海晴朗，体感 8℃。风小，昼夜温差大，记得添衣哦。",
     "ai_briefing_en": "Sunny Shanghai, feels like 8℃. Light breeze, big temperature difference, add layers.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-05T20:30+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "10",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "上海 7℃，晴好微凉，出门添衣哦。",
+    "ai_briefing_en": "Shanghai, 7℃ and sunny. A bit cool, wear more layers.",
+    "alert": null
   }
 ]

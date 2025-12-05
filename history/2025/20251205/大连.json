@@ -358,5 +358,25 @@
     "ai_briefing_zh": "大连多云，体感 -3℃，风力 5级。风大天冷，务必防风保暖！",
     "ai_briefing_en": "Dalian is cloudy, feels like -3℃, strong winds. Windy and cold, make sure to stay warm!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-05T20:31+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "225",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "-2",
+    "cloud": "5",
+    "ai_briefing_zh": "大连体感 0℃，风力 4级，多云，添衣保暖防感冒。",
+    "ai_briefing_en": "Dalian feels like 0℃ with strong winds, cloudy. Add layers to avoid colds.",
+    "alert": null
   }
 ]

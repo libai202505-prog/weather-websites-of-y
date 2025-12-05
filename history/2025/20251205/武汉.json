@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉7℃有雾，体感6℃。能见度低，注意安全和保暖。",
     "ai_briefing_en": "Wuhan: 7℃ & foggy, feels like 6℃. Low visibility, stay safe & warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-05T09:32+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "315",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "14",
+    "dew": "-2",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，气温 9℃，注意保暖，别着凉。",
+    "ai_briefing_en": "Cloudy in Wuhan, 9℃. Stay warm and don't catch a cold.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "青岛晴朗，体感 8℃。微风轻拂，注意保暖！",
     "ai_briefing_en": "Sunny, 8℃. Breeze.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-06T12:17+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗微凉，体感舒适，户外活动别着凉哦！",
+    "ai_briefing_en": "Sunny and cool, enjoy outdoors, but stay cozy!",
+    "alert": null
   }
 ]

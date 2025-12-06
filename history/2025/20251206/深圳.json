@@ -198,5 +198,25 @@
     "ai_briefing_zh": "深圳晴朗，体感 21℃。温暖宜人，湿度 64%。",
     "ai_briefing_en": "Sunny, 21℃. Warm and nice!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-06T12:17+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "19",
+    "dew": "13",
+    "cloud": "3",
+    "ai_briefing_zh": "天气晴朗，温暖舒适，别忘了保持好心情！",
+    "ai_briefing_en": "Sunny and pleasant, keep that good mood going!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京晴朗，体感 9℃。风力 3级，注意添衣！",
     "ai_briefing_en": "Sunny, 9℃. Breezy. Warm up!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-06T12:17+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "270",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "11",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "阳光正好，体感微凉，小心别着凉哦！",
+    "ai_briefing_en": "Sunny and cool, take care not to catch a cold!",
+    "alert": null
   }
 ]

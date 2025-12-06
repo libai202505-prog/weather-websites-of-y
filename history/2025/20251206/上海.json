@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海 10℃，阳光明媚，出行注意早晚温差。",
     "ai_briefing_en": "Shanghai 10℃, bright sunshine. Mind the temperature difference between day and night.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-06T11:00+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "10",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "上海晴朗，体感 12℃。微风拂面，很舒适哦！",
+    "ai_briefing_en": "Sunny, 12℃. Breeze.",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "青岛晴好，体感 11℃ 舒适，湿度略高！",
     "ai_briefing_en": "Qingdao: 11℃, sunny. Lovely day!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-06T17:16+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "5",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有雾，气温 12℃，体感微凉，能见度低，出行注意安全。",
+    "ai_briefing_en": "Qingdao is foggy and cool at 12℃. Drive safely, visibility is low.",
+    "alert": null
   }
 ]

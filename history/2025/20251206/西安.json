@@ -318,5 +318,25 @@
     "ai_briefing_zh": "西安阴天，气温 12℃，体感微凉干燥，注意补水和保暖。",
     "ai_briefing_en": "Xi'an is cloudy and cool at 12℃. Stay warm and hydrated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-06T18:14+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "16",
+    "dew": "0",
+    "cloud": "91",
+    "ai_briefing_zh": "西安阴天，气温 11℃，体感 9℃。天气有点干，记得多喝水滋润一下。",
+    "ai_briefing_en": "Xi'an is cloudy at 11℃, feels 9℃. It's a bit dry, remember to drink more water!",
+    "alert": null
   }
 ]

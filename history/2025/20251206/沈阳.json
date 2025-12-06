@@ -318,5 +318,25 @@
     "ai_briefing_zh": "沈阳 1℃，体感-2℃，多云，外出记得多穿点，注意保暖。",
     "ai_briefing_en": "Shenyang is 1℃, feeling like -2℃. Stay warm today!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-06T18:16+08:00",
+    "temp": "-1",
+    "feelsLike": "-4",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "180",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "16",
+    "dew": "-10",
+    "cloud": "1",
+    "ai_briefing_zh": "沈阳多云微冷，体感 -4℃。注意防寒保暖，别着凉哦！",
+    "ai_briefing_en": "Shenyang is cloudy and cool, feels like -4℃. Stay warm and avoid catching a cold!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "昆明 17℃，风力 5级，体感偏凉，注意防风保暖！",
     "ai_briefing_en": "Kunming is 17℃ but feels cool with strong 5-grade wind. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-06T15:11+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "225",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "812",
+    "vis": "30",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "昆明阳光明媚，体感 12℃。风力 4级，注意防风哦！",
+    "ai_briefing_en": "Kunming is sunny and feels 12℃. With a level 4 wind, remember to protect yourself from the wind!",
+    "alert": null
   }
 ]

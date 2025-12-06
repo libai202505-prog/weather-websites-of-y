@@ -398,5 +398,25 @@
     "ai_briefing_zh": "大连有雾且风力 3级，体感 3℃。注意保暖，小心慢行！",
     "ai_briefing_en": "Dalian is foggy and windy, feels like 3℃. Stay warm and proceed with caution!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-06T22:10+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "225",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "5",
+    "dew": "0",
+    "cloud": "0",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

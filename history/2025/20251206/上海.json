@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海晴好 10℃，体感微凉。出门添衣，享受阳光吧！",
     "ai_briefing_en": "Shanghai is sunny at 10℃, feels cool. Layer up and enjoy the sun!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-06T22:09+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "5",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

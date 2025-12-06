@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海大雾，能见度不高，出行请注意交通安全。",
     "ai_briefing_en": "Shanghai is foggy; visibility is low. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-06T09:24+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "上海 10℃，阳光明媚，出行注意早晚温差。",
+    "ai_briefing_en": "Shanghai 10℃, bright sunshine. Mind the temperature difference between day and night.",
+    "alert": null
   }
 ]

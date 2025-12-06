@@ -278,5 +278,25 @@
     "ai_briefing_zh": "哈尔滨体感 -5℃，阵阵西风凉意浓。请务必穿暖和！",
     "ai_briefing_en": "Harbin feels -5℃ with a chilly west wind. Please dress very warmly!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-06T16:18+08:00",
+    "temp": "-2",
+    "feelsLike": "-6",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "19",
+    "dew": "-8",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨体感 -6℃，非常寒冷，务必多穿衣物！",
+    "ai_briefing_en": "Harbin: Feels -6℃. Bundle up!",
+    "alert": null
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "南京天气晴朗，气温 13℃，体感 11℃。风力不大，适合户外活动！",
     "ai_briefing_en": "Nanjing is sunny, 13℃, feels 11℃. Light wind, perfect for outdoor activities!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-06T19:01+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "180",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "12",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "南京晴好，体感 10℃。昼夜温差大，早晚注意保暖。",
+    "ai_briefing_en": "Nanjing is sunny, feels like 10℃. Big temp difference, dress for warmth!",
+    "alert": null
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "杭州晴好，气温 12℃，体感 11℃，无风。享受这份冬日暖阳吧！",
     "ai_briefing_en": "Hangzhou is clear and 12℃, feels 11℃, no wind. Enjoy the lovely winter sunshine!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-06T19:01+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "225",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "9",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州晴朗，体感 10℃ 舒适。天气正好，适合户外活动。",
+    "ai_briefing_en": "Hangzhou is sunny, feels like 10℃. Perfect weather for outdoor fun!",
+    "alert": null
   }
 ]

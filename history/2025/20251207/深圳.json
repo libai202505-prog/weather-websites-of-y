@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
     "ai_briefing_en": "深圳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-07T07:08+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "8",
+    "dew": "15",
+    "cloud": "0",
+    "ai_briefing_zh": "深圳雾气重，视线不佳，注意安全哦。",
+    "ai_briefing_en": "Shenzhen is foggy, watch your step.",
+    "alert": null
   }
 ]

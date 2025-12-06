@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-07T07:08+08:00",
+    "temp": "7",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "4",
+    "dew": "8",
+    "cloud": "0",
+    "ai_briefing_zh": "上海有雾，天冷加衣，注意安全。",
+    "ai_briefing_en": "Shanghai is foggy, keep warm and safe.",
+    "alert": null
   }
 ]

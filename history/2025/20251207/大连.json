@@ -418,5 +418,25 @@
     "ai_briefing_zh": "大连风力 4 级，体感 2℃，很冷，记得多穿点哦！",
     "ai_briefing_en": "Dalian feels 2℃ with 4-level wind. It's cold, bundle up!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-07T20:34+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "315",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感 1℃，风力 3级。海边风大，注意防寒多穿衣！",
+    "ai_briefing_en": "Dalian is sunny, feels like 1℃ with 3-level wind. Windy by the sea, dress warm!",
+    "alert": null
   }
 ]

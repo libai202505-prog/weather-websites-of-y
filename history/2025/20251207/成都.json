@@ -418,5 +418,25 @@
     "ai_briefing_zh": "成都阳光 10℃，湿度 77%，注意保暖也别忘补水。",
     "ai_briefing_en": "Chengdu is sunny at 10℃. Stay warm and hydrated!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-07T20:34+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "45",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "966",
+    "vis": "16",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "成都晴朗，体感 7℃，湿度高。享受阳光，注意补水润燥哦！",
+    "ai_briefing_en": "Chengdu is sunny and 7℃, high humidity. Enjoy the sun, hydrate!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

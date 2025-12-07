@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都多云，湿气重，注意防潮保暖。",
     "ai_briefing_en": "Chengdu is cloudy and damp, stay warm!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-07T09:42+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "成都晴朗湿度大，感觉润润的，记得多喝水哦。",
+    "ai_briefing_en": "Chengdu is sunny and very humid, stay hydrated!",
+    "alert": null
   }
 ]

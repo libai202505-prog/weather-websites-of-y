@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-08T07:10+08:00",
+    "temp": "-7",
+    "feelsLike": "-10",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳很冷，体感-10℃，出门记得多穿点，注意保暖。",
+    "ai_briefing_en": "Shenyang is very cold, feels like -10℃, dress warmly when going out.",
+    "alert": null
   }
 ]

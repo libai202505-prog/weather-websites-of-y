@@ -8,6 +8,7 @@ import TARGET_CITIES from './cities.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+console.log("🚀 monitor.js v2.0 - PushPlus 版本 (更新于 2024-12-07)");
 console.log("正在检查 Key...");
 console.log("QWEATHER_KEY:", process.env.QWEATHER_KEY ? "✅ 已读取 (前4位: " + process.env.QWEATHER_KEY.substring(0, 4) + ")" : "❌ 未读取 (undefined)");
 console.log("GOOGLE_KEY:", process.env.GOOGLE_API_KEY ? "✅ 已读取" : "❌ 未读取");

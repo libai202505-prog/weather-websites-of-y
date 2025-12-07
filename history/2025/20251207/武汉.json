@@ -398,5 +398,25 @@
     "ai_briefing_zh": "武汉阴天，气温不高，添件衣物更舒适。",
     "ai_briefing_en": "Wuhan is overcast and mild; a light layer will keep you cozy.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-07T19:09+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "270",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "4",
+    "dew": "3",
+    "cloud": "7",
+    "ai_briefing_zh": "武汉大雾，能见度低，外出注意交通安全！",
+    "ai_briefing_en": "Wuhan is foggy. Low visibility, drive safely!",
+    "alert": null
   }
 ]

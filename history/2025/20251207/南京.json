@@ -398,5 +398,25 @@
     "ai_briefing_zh": "南京晴朗无风，气温适宜，尽情享受。",
     "ai_briefing_en": "Nanjing is sunny and still, with pleasant temperatures.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-07T19:08+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "45",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "11",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "南京 11℃ 晴朗，体感 10℃，记得添衣保暖哦。",
+    "ai_briefing_en": "Nanjing is sunny at 11℃, feels 10℃. Remember to dress warmly!",
+    "alert": null
   }
 ]

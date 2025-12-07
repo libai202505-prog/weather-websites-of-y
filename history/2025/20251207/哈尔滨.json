@@ -398,5 +398,25 @@
     "ai_briefing_zh": "哈尔滨有雾且寒冷，出行注意交通安全保暖。",
     "ai_briefing_en": "Harbin is foggy and very cold; take care when traveling and keep warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-07T19:08+08:00",
+    "temp": "-6",
+    "feelsLike": "-12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "9",
+    "dew": "-9",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 -6℃，体感 -12℃，风力 4 级！务必穿暖和！",
+    "ai_briefing_en": "Harbin is -6℃, feels -12℃ with 4-level wind! Dress very warmly!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

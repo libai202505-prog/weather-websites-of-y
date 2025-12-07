@@ -378,5 +378,25 @@
     "ai_briefing_zh": "北京体感 0℃ 伴 4 级风，干燥寒冷，记得保暖多喝水！",
     "ai_briefing_en": "Beijing, feels like 0℃ with strong winds. Stay warm and hydrated!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-07T18:16+08:00",
+    "temp": "6",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "0",
+    "humidity": "8",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "30",
+    "dew": "-22",
+    "cloud": "0",
+    "ai_briefing_zh": "北京风大体感冷，注意保暖防干燥。",
+    "ai_briefing_en": "Beijing is windy and feels cold; keep warm and moisturized.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

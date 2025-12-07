@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海阳光普照，体感 14℃，微风和煦，愿你心情明媚！",
     "ai_briefing_en": "Shanghai, sunny and mild at 14℃. A pleasant day awaits you!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-07T18:16+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "0",
+    "ai_briefing_zh": "上海晴朗舒适，享受美好时光吧。",
+    "ai_briefing_en": "Shanghai is clear and pleasant; enjoy the lovely day!",
+    "alert": null
   }
 ]

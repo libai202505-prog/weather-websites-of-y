@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉多云，体感 12℃ 略有凉意，记得添衣保暖哦！",
     "ai_briefing_en": "Wuhan, cloudy and a bit cool at 12℃. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-07T18:16+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "5",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天，气温不高，添件衣物更舒适。",
+    "ai_briefing_en": "Wuhan is overcast and mild; a light layer will keep you cozy.",
+    "alert": null
   }
 ]

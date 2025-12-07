@@ -278,5 +278,25 @@
     "ai_briefing_zh": "天气有霾，外出记得戴口罩，保护好呼吸道哦。",
     "ai_briefing_en": "Hazy weather, wear a mask when going out to protect your respiratory system!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-07T15:00+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "315",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "6",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有霾体感微凉，出门注意防护，多喝水。",
+    "ai_briefing_en": "Qingdao has haze and feels cool, take precautions and hydrate!",
+    "alert": null
   }
 ]

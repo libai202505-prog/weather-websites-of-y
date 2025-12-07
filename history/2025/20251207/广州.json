@@ -278,5 +278,25 @@
     "ai_briefing_zh": "气温回升，体感温暖，但别忘了及时补充水分哦。",
     "ai_briefing_en": "Temperatures are rising, feels warm. Remember to stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-07T15:00+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "广州温暖舒适，阳光正好，出行别忘防晒哦！",
+    "ai_briefing_en": "Guangzhou is warm and sunny, don't forget your sunscreen!",
+    "alert": null
   }
 ]

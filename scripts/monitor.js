@@ -13,11 +13,6 @@ console.log("正在检查 Key...");
 console.log("QWEATHER_KEY:", process.env.QWEATHER_KEY ? "✅ 已读取 (前4位: " + process.env.QWEATHER_KEY.substring(0, 4) + ")" : "❌ 未读取 (undefined)");
 console.log("GOOGLE_KEY:", process.env.GOOGLE_API_KEY ? "✅ 已读取" : "❌ 未读取");
 
-const WECHAT = {
-  CORP_ID: process.env.WECHAT_CORP_ID,
-  SECRET: process.env.WECHAT_APP_SECRET,
-  AGENT_ID: process.env.WECHAT_AGENT_ID,
-};
 // PushPlus 配置
 const PUSHPLUS_TOKEN = process.env.PUSHPLUS_TOKEN;
 

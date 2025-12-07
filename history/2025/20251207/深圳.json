@@ -338,5 +338,25 @@
     "ai_briefing_zh": "深圳虽然阴天，但体感 24℃，暖洋洋的，注意保持心情愉悦哦。",
     "ai_briefing_en": "Shenzhen is cloudy but feels like 24℃. It's warm, keep your spirits high!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-07T16:18+08:00",
+    "temp": "24",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "27",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天但体感暖和，微风习习，记得带伞哦。",
+    "ai_briefing_en": "Cloudy but feels warm, light breeze. Remember to bring an umbrella!",
+    "alert": null
   }
 ]

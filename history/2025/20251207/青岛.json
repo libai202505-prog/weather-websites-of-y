@@ -338,5 +338,25 @@
     "ai_briefing_zh": "青岛有霾且体感 6℃，风力 4级，出门务必戴口罩并注意保暖。",
     "ai_briefing_en": "Qingdao is hazy and feels like 6℃ with wind. Wear a mask and keep warm!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-07T16:16+08:00",
+    "temp": "12",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "0",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "16",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "阴冷，体感 5℃，北风 5级，风力大，务必多穿防风。",
+    "ai_briefing_en": "Cloudy and cold at 5℃, strong 5-level north wind. Dress warmly and protect from wind!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

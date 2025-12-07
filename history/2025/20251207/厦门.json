@@ -198,5 +198,25 @@
     "ai_briefing_zh": "多云温暖，体感舒适。享受这宜人的好天气吧！",
     "ai_briefing_en": "Cloudy and warm, feels pleasant. Enjoy this lovely weather!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-07T12:24+08:00",
+    "temp": "22",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "2",
+    "ai_briefing_zh": "厦门多云温暖，气温 22℃，体感舒适，湿度较大。",
+    "ai_briefing_en": "Xiamen: Cloudy, warm, 22℃.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "有霾，空气质量不佳。减少户外，注意防护！",
     "ai_briefing_en": "Hazy, air quality poor. Limit outdoor activities, protect yourself.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-07T12:24+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "270",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "3",
+    "ai_briefing_zh": "武汉有霾，外出请佩戴口罩，气温 16℃。",
+    "ai_briefing_en": "Wuhan: Hazy. Mask up!",
+    "alert": null
   }
 ]

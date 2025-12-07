@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛有霾体感 8℃，外出请戴口罩，添衣保暖！",
     "ai_briefing_en": "Qingdao: Hazy, 8℃. Mask & warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-07T13:08+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "315",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "4",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有霾，体感凉，风大。戴好口罩！",
+    "ai_briefing_en": "Qingdao hazy.",
+    "alert": null
   }
 ]

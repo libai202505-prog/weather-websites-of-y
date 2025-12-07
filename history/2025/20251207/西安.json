@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安多云，气温 14℃，天气干燥，注意补水！",
     "ai_briefing_en": "Xi'an: Cloudy and dry. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-07T13:10+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "10",
+    "precip": "0.0",
+    "pressure": "980",
+    "vis": "16",
+    "dew": "-6",
+    "cloud": "91",
+    "ai_briefing_zh": "西安多云，体感凉，天气干燥，多喝水。",
+    "ai_briefing_en": "Xi'an cloudy, dry.",
+    "alert": null
   }
 ]

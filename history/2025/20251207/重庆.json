@@ -218,5 +218,25 @@
     "ai_briefing_zh": "重庆有雾，能见度低，出行请注意交通安全！",
     "ai_briefing_en": "Chongqing: Foggy. Stay safe!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-07T13:08+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆有雾，行车注意安全，慢行哦。",
+    "ai_briefing_en": "Chongqing foggy.",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳今日阴天，气温 23℃ 舒适，湿度较大。",
     "ai_briefing_en": "Shenzhen: Cloudy, comfy 23℃.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-07T13:10+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "18",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，气温适中，备好雨伞哦。",
+    "ai_briefing_en": "Shenzhen cloudy, mild. Umbrella?",
+    "alert": null
   }
 ]

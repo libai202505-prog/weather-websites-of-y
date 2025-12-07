@@ -238,5 +238,25 @@
     "ai_briefing_zh": "厦门多云，气温舒适，海边风大，注意防晒！",
     "ai_briefing_en": "Xiamen cloudy.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-07T14:25+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "29",
+    "dew": "14",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门多云 23℃，体感温暖，是出行的好天气呢。",
+    "ai_briefing_en": "Xiamen is cloudy and warm at 23℃. A good day for going out!",
+    "alert": null
   }
 ]

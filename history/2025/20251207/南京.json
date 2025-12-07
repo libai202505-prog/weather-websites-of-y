@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京晴朗，昼夜温差大，记得添衣。",
     "ai_briefing_en": "Nanjing sunny. Layer up.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-07T14:25+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "270",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "17",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "南京气温 19℃，晴好舒适，记得多喝水润润喉。",
+    "ai_briefing_en": "Nanjing is sunny and comfy at 19℃. Remember to drink more water!",
+    "alert": null
   }
 ]

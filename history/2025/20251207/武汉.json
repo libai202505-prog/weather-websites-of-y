@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉大雾弥漫，出行请务必小心驾驶，注意安全。",
     "ai_briefing_en": "Wuhan is very foggy, please drive carefully and safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-07T11:17+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "有霾，空气质量不佳。减少户外，注意防护！",
+    "ai_briefing_en": "Hazy, air quality poor. Limit outdoor activities, protect yourself.",
+    "alert": null
   }
 ]

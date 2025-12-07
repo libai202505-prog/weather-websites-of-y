@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京风力 6级，体感 0℃，注意防风保暖哦！",
     "ai_briefing_en": "Beijing feels like 0℃ with strong winds. Remember to stay warm and shield from the wind!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 6级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-07T14:40+08:00",
+    "temp": "9",
+    "feelsLike": "1",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "0",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "25",
+    "dew": "-18",
+    "cloud": "0",
+    "ai_briefing_zh": "风力 5级 偏大，体感较冷，注意保暖，小心着凉哦！",
+    "ai_briefing_en": "Strong wind at level 5, feels cold. Remember to keep warm!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

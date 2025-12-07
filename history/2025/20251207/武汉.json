@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉多云 15℃，体感 14℃。天气微凉，记得添衣。",
     "ai_briefing_en": "Wuhan is cloudy 15℃, feels like 14℃. Slightly cool, remember to add a layer.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-07T15:16+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "10",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天，体感 14℃，有点凉，出门添件外套更舒服。",
+    "ai_briefing_en": "Wuhan is cloudy and feels like 14℃. A bit cool, wear a jacket when going out.",
+    "alert": null
   }
 ]

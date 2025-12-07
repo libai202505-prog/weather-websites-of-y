@@ -358,5 +358,25 @@
     "ai_briefing_zh": "多云体感 2℃，西北风 4级，风大，记得防风保暖哦。",
     "ai_briefing_en": "Cloudy, feels 2℃, strong 4-level northwest wind. Keep warm and protected from wind!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-07T17:08+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "大连体感 2℃ 偏凉，伴 3 级北风，外出记得多穿衣！",
+    "ai_briefing_en": "Dalian, feels like 2℃ with moderate winds. Dress warmly!",
+    "alert": null
   }
 ]

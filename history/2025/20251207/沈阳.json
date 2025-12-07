@@ -358,5 +358,25 @@
     "ai_briefing_zh": "晴朗但体感很冷，西风 4级，风力大，注意防风保暖。",
     "ai_briefing_en": "Sunny but feels very cold with 4-level west wind. Keep warm and protected from wind!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-07T17:09+08:00",
+    "temp": "3",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "270",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "-11",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳体感 -3℃ 较冷，风力 3 级，注意防风保暖哦！",
+    "ai_briefing_en": "Shenyang, feels like -3℃ with moderate winds. Stay warm!",
+    "alert": null
   }
 ]

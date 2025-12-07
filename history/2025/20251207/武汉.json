@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天有点凉，湿度较高，出门记得添衣，注意防潮。",
     "ai_briefing_en": "Cloudy and a bit cool with high humidity. Dress warmly and mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-07T17:10+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云，体感 12℃ 略有凉意，记得添衣保暖哦！",
+    "ai_briefing_en": "Wuhan, cloudy and a bit cool at 12℃. Remember to dress warmly!",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天但体感暖和，微风习习，记得带伞哦。",
     "ai_briefing_en": "Cloudy but feels warm, light breeze. Remember to bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-07T17:10+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "29",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，体感 22℃ 宜人，户外活动别忘防晒哦！",
+    "ai_briefing_en": "Shenzhen is cloudy with a pleasant 22℃. Enjoy your day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

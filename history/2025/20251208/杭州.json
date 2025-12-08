@@ -318,5 +318,25 @@
     "ai_briefing_zh": "有霾天气，出门请注意防护，戴好口罩哦。",
     "ai_briefing_en": "Hazy conditions, please take precautions and wear a mask.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-08T18:16+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "7",
+    "dew": "6",
+    "cloud": "6",
+    "ai_briefing_zh": "杭州晴好，气温 12℃。湿度略高，记得保持室内通风。",
+    "ai_briefing_en": "Hangzhou is sunny at 12℃. Humidity is a bit high, keep your home ventilated.",
+    "alert": null
   }
 ]

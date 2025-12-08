@@ -318,5 +318,25 @@
     "ai_briefing_zh": "天气寒冷有风，注意头部和颈部保暖哦。",
     "ai_briefing_en": "Cold and windy, remember to keep your head and neck warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-08T18:16+08:00",
+    "temp": "-2",
+    "feelsLike": "-6",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴冷，体感 -6℃。注意防寒保暖，谨防感冒。",
+    "ai_briefing_en": "Shenyang is clear and cold at -6℃. Stay warm and protect yourself from colds.",
+    "alert": null
   }
 ]

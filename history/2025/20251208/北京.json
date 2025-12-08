@@ -318,5 +318,25 @@
     "ai_briefing_zh": "天气寒冷干燥，记得多穿衣，多喝水哦！",
     "ai_briefing_en": "Cold and dry weather, remember to dress warmly and hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-08T18:16+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "180",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "26",
+    "dew": "-17",
+    "cloud": "0",
+    "ai_briefing_zh": "北京晴冷，体感 -1℃，注意防寒保暖，多喝水哦。",
+    "ai_briefing_en": "Beijing is clear but chilly, feels like -1℃. Stay warm and hydrated!",
+    "alert": null
   }
 ]

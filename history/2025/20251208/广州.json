@@ -338,5 +338,25 @@
     "ai_briefing_zh": "广州温暖晴朗，气温 19℃。湿度高，注意身体舒适。",
     "ai_briefing_en": "Guangzhou is warm and sunny at 19℃. High humidity, stay comfortable!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-08T19:09+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "10",
+    "cloud": "0",
+    "ai_briefing_zh": "广州 17℃，湿度 82%。记得多喝水哦！",
+    "ai_briefing_en": "17℃, humid. Drink water!",
+    "alert": null
   }
 ]

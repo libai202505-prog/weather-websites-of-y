@@ -338,5 +338,25 @@
     "ai_briefing_zh": "西安阴天，气温 8℃。体感较凉，外出记得多添衣。",
     "ai_briefing_en": "Xi'an is overcast and cool at 8℃. Feels chilly, dress warmly when going out.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-08T19:08+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "西安，体感 5℃ 阴天。穿暖和些哦！",
+    "ai_briefing_en": "5℃, cloudy. Dress warm!",
+    "alert": null
   }
 ]

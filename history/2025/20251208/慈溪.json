@@ -338,5 +338,25 @@
     "ai_briefing_zh": "慈溪晴好，风力 4级。外出记得添衣，防风保暖。",
     "ai_briefing_en": "Cixi is sunny and windy, with a level 4 breeze. Dress warmly and mind the wind!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-08T19:08+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "23",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪，10℃ 阳光好。享受好天气！",
+    "ai_briefing_en": "Cixi: 10℃, sunny. Enjoy!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "慈溪多云 16℃，体感舒适，记得添衣别着凉。",
     "ai_briefing_en": "Cixi is cloudy, 16°C. Feels comfy, but add layers to avoid chills.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-08T15:16+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "0",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "15",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪风力不小，多云天气，出门记得加件外套。",
+    "ai_briefing_en": "Cixi is breezy and cloudy, remember to wear a jacket when going out.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

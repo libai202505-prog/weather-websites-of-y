@@ -378,5 +378,25 @@
     "ai_briefing_zh": "青岛 5℃ 多云，体感 2℃。天气微凉，记得添衣。",
     "ai_briefing_en": "Qingdao 5℃, feels 2℃. Warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-08T21:24+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "28",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛多云体感凉，出门带件厚外套，别着凉。",
+    "ai_briefing_en": "Qingdao is cloudy and cool, bring a warm jacket, stay well.",
+    "alert": null
   }
 ]

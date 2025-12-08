@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，体感 1℃，天冷干燥，记得多喝水。",
     "ai_briefing_en": "Xi'an is overcast and feels like 1℃, cold and dry, remember to hydrate.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-08T09:32+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "983",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天，体感寒冷，注意添衣保暖。",
+    "ai_briefing_en": "Xi'an is cloudy and cold. Remember to dress warmly.",
+    "alert": null
   }
 ]

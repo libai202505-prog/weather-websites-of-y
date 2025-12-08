@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大连体感 0℃，多云微凉，注意添衣保暖。",
     "ai_briefing_en": "Dalian feels 0℃, cloudy and cool, remember to dress warmly.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-08T12:24+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "0",
+    "ai_briefing_zh": "大连 3℃，体感 -1℃，风力 3级，海边风大，多穿点。",
+    "ai_briefing_en": "Dalian 3°C, feels -1°C, windy. Dress warmly by the sea!",
+    "alert": null
   }
 ]

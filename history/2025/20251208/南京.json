@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京晴朗，体感凉爽，风力 3级，别着凉。",
     "ai_briefing_en": "Nanjing is sunny and cool with wind, don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-08T12:24+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "19",
+    "dew": "0",
+    "cloud": "91",
+    "ai_briefing_zh": "南京晴朗，体感 12℃，天气舒适，心情美美的。",
+    "ai_briefing_en": "Nanjing is sunny, feels 12°C. Pleasant weather.",
+    "alert": null
   }
 ]

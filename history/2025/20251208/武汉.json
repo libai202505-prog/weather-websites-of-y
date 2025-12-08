@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉雾大 6℃，注意出行安全和保暖！",
     "ai_briefing_en": "6℃, foggy. Safe, warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-08T20:32+08:00",
+    "temp": "6",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "4",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 6℃ 有雾，视线不佳。出行请注意交通安全。",
+    "ai_briefing_en": "Wuhan 6℃, foggy. Drive safe!",
+    "alert": null
   }
 ]

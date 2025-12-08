@@ -358,5 +358,25 @@
     "ai_briefing_zh": "成都阴天 10℃，湿度 97%。带伞防潮哦！",
     "ai_briefing_en": "10℃, cloudy, humid. Cozy!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-08T20:32+08:00",
+    "temp": "10",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "45",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "966",
+    "vis": "16",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 10℃ 阴天，湿度 100%。多喝水，注意身体。",
+    "ai_briefing_en": "Chengdu 10℃. Humid. Drink.",
+    "alert": null
   }
 ]

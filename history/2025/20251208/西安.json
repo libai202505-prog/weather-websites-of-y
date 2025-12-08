@@ -358,5 +358,25 @@
     "ai_briefing_zh": "西安，体感 5℃ 阴天。穿暖和些哦！",
     "ai_briefing_en": "5℃, cloudy. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-08T20:32+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "180",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "979",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 6℃ 阴天，体感 4℃。天气微凉，记得添衣。",
+    "ai_briefing_en": "Xi'an 6℃, feels 4℃. Warm up.",
+    "alert": null
   }
 ]

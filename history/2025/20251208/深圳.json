@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳天气晴好，有风稍凉。外出游玩时，别忘了防晒防风！",
     "ai_briefing_en": "Shenzhen is sunny with some breeze. Don't forget sun protection!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-08T14:24+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "10",
+    "cloud": "0",
+    "ai_briefing_zh": "深圳 25℃ 晴好，暖洋洋的，防晒补水记得安排上！",
+    "ai_briefing_en": "Shenzhen is sunny 25°C, lovely and warm. Remember sunscreen and hydration!",
+    "alert": null
   }
 ]

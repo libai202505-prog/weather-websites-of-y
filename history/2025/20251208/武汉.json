@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉阳光明媚，体感舒适。快出门走走，享受好时光吧！",
     "ai_briefing_en": "Wuhan is sunny and pleasant. Get out and enjoy the lovely weather!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-08T14:26+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "8",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有霾 17℃，体感 15℃，出门记得戴口罩防护。",
+    "ai_briefing_en": "Wuhan has haze, 17°C. Wear a mask when going out for protection.",
+    "alert": null
   }
 ]

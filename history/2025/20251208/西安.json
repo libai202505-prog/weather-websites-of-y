@@ -398,5 +398,25 @@
     "ai_briefing_zh": "西安阴天体感冷，多穿点，别冻着了，照顾好自己。",
     "ai_briefing_en": "Xi'an is cloudy and cold, dress warmly, take care!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-08T22:13+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "979",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

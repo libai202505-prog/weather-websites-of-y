@@ -398,5 +398,25 @@
     "ai_briefing_zh": "厦门风力较大，体感稍冷，注意防风保暖哦。",
     "ai_briefing_en": "Xiamen is windy and feels cool, remember to shield from wind and stay warm.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-08T22:16+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "90",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "18",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "昆明阳光正好 18℃，体感宜人。享受这份春日般的温暖吧！",
     "ai_briefing_en": "Kunming is sunny and pleasant at 18℃. Enjoy this spring-like warmth!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-09T18:17+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "180",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "2",
+    "ai_briefing_zh": "16℃ 晴朗，阳光正好，户外活动很舒适。",
+    "ai_briefing_en": "Sunny 16℃, perfect for outdoor activities.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

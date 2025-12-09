@@ -318,5 +318,25 @@
     "ai_briefing_zh": "广州阳光明媚，22℃ 很暖和。外出注意防晒，保持好心情！",
     "ai_briefing_en": "Guangzhou is sunny and warm at 22℃. Don't forget sunscreen and enjoy!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-09T18:17+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "9",
+    "cloud": "0",
+    "ai_briefing_zh": "19℃ 晴，温暖宜人，湿度稍高，保持好心情。",
+    "ai_briefing_en": "Sunny 19℃, lovely and mild. Stay cheerful!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

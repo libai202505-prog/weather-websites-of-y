@@ -338,5 +338,25 @@
     "ai_briefing_zh": "13℃ 雾气浓重，湿度大，出行注意交通安全。",
     "ai_briefing_en": "Heavy fog at 13℃, high humidity. Travel safely!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-09T19:08+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "3",
+    "dew": "11",
+    "cloud": "99",
+    "ai_briefing_zh": "重庆雾气浓浓，湿度 84%。请小心慢行，注意安全。",
+    "ai_briefing_en": "Chongqing is very foggy, 84% humidity. Drive carefully!",
+    "alert": null
   }
 ]

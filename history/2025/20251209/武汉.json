@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有霾，体感 12℃。出行记得戴口罩，保护好自己。",
     "ai_briefing_en": "Wuhan: Hazy, 12℃. Wear a mask outdoors!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-09T12:24+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "135",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "9",
+    "dew": "4",
+    "cloud": "7",
+    "ai_briefing_zh": "武汉有霾，体感 12℃，外出注意防护，记得戴口罩。",
+    "ai_briefing_en": "Wuhan is hazy at 12℃. Wear a mask for protection when out.",
+    "alert": null
   }
 ]

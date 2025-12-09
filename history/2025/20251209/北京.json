@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京晴冷，体感 -1℃。添衣保暖，别着凉哦！",
     "ai_briefing_en": "Beijing: Sunny, feels like -1℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-09T12:25+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "20",
+    "dew": "-15",
+    "cloud": "0",
+    "ai_briefing_zh": "北京天晴，体感 0℃ 需添衣保暖，注意补水哦！",
+    "ai_briefing_en": "Beijing is clear and feels like 0℃. Dress warm and stay hydrated!",
+    "alert": null
   }
 ]

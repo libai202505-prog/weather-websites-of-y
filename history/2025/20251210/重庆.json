@@ -138,5 +138,25 @@
     "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
     "ai_briefing_en": "重庆: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-10T07:08+08:00",
+    "temp": "12",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "270",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "3",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾，能见度不佳，出行小心，保重身体。",
+    "ai_briefing_en": "Chongqing is foggy with poor visibility. Travel carefully and take care of yourself.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门 17℃，风力 3级，体感舒适，注意防风哦！",
     "ai_briefing_en": "Xiamen is 17℃ with a breeze. Enjoy the pleasant weather!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-09T11:17+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "26",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天，体感 17℃。气候宜人，注意保持好心情哦。",
+    "ai_briefing_en": "Xiamen: Cloudy, 17℃. Pleasant weather, enjoy your day!",
+    "alert": null
   }
 ]

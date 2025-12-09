@@ -278,5 +278,25 @@
     "ai_briefing_zh": "西安阴天，体感 6℃ 较冷，湿度低。注意保暖，多补水哦！",
     "ai_briefing_en": "Overcast in Xi'an, feels cold at 6℃ with low humidity. Keep warm and hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-09T16:25+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "973",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 9℃ 阴天，体感 6℃ 偏凉，注意保暖！",
+    "ai_briefing_en": "Xi'an, 9℃ cloudy but feels 6℃, stay warm!",
+    "alert": null
   }
 ]

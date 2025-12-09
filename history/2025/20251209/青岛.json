@@ -258,5 +258,25 @@
     "ai_briefing_zh": "青岛 10℃ 多云，体感微凉。海边风大，注意保暖防风。",
     "ai_briefing_en": "Qingdao is cloudy and 10℃, feeling a bit cool. It's windy by the sea, stay warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-09T15:16+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "180",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "21",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛晴朗，体感 6℃ 略凉，海风较大。出门记得多穿点。",
+    "ai_briefing_en": "Sunny in Qingdao, feels cool at 6℃ with a strong breeze. Dress warmly!",
+    "alert": null
   }
 ]

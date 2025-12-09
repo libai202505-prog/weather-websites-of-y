@@ -258,5 +258,25 @@
     "ai_briefing_zh": "重庆 13℃ 阴天，湿度偏高。室内除湿，保持干爽哦！",
     "ai_briefing_en": "Chongqing is cloudy and 13℃ with high humidity. Dehumidify indoors to stay dry!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-09T15:16+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "3",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆起雾啦，湿度 82%，体感 12℃。出行注意交通安全哦！",
+    "ai_briefing_en": "Foggy in Chongqing with 82% humidity, 12℃. Drive safely!",
+    "alert": null
   }
 ]

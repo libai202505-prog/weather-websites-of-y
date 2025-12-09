@@ -238,5 +238,25 @@
     "ai_briefing_zh": "成都阴天 13℃，湿度较高，注意防潮哦！",
     "ai_briefing_en": "CD 13℃. Cloudy, humid.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-09T14:20+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "11",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 13℃ 阴天，湿度较高。出门带伞，注意室内通风。",
+    "ai_briefing_en": "Chengdu is cloudy and 13℃ with high humidity. Take an umbrella and ventilate indoors.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京 15℃，风力 4级，体感较凉，多穿点哦！",
     "ai_briefing_en": "NJ 15℃. Windy, feels cold.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-09T14:20+08:00",
+    "temp": "15",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "90",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "17",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 15℃，风力 5级，体感较凉。风大干燥，注意保暖！",
+    "ai_briefing_en": "Nanjing is 15℃ but feels cold with 5-level wind. It's windy and dry, stay warm!",
+    "alert": null
   }
 ]

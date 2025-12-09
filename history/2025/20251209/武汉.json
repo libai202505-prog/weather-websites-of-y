@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉大雾湿冷，能见度低，注意出行安全。",
     "ai_briefing_en": "Wuhan is foggy and cold, drive safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-09T09:33+08:00",
+    "temp": "8",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "3",
+    "dew": "5",
+    "cloud": "3",
+    "ai_briefing_zh": "武汉 8℃，轻度霾。出行请戴好口罩，注意防护。",
+    "ai_briefing_en": "Wuhan, 8℃ and hazy. Wear a mask when going out for protection.",
+    "alert": null
   }
 ]

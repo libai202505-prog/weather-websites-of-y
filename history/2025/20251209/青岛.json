@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛多云，体感 3℃，记得穿暖和点哦。",
     "ai_briefing_en": "Qingdao is cloudy, feels like 3℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-09T09:32+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "180",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "22",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛多云 9℃，风力 3级，体感较凉，注意防风保暖。",
+    "ai_briefing_en": "Qingdao is cloudy, 9℃ with a breeze. Stay warm and wear layers!",
+    "alert": null
   }
 ]

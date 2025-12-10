@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州 16℃，体感微凉，出门记得带件外套。",
     "ai_briefing_en": "Hangzhou is 16℃, a bit cool. Bring a jacket when you go out.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-10T13:16+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "15",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴天，体感 15℃，早晚注意保暖哦。",
+    "ai_briefing_en": "Hangzhou is cloudy, feels 15℃. Keep warm morning and evening.",
+    "alert": null
   }
 ]

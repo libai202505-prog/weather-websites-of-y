@@ -318,5 +318,25 @@
     "ai_briefing_zh": "大连阴天，气温偏凉，出门记得添衣哦！",
     "ai_briefing_en": "Dalian: Cloudy, cool. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-10T18:16+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "10",
+    "dew": "4",
+    "cloud": "85",
+    "ai_briefing_zh": "大连小雨 9℃，体感 8℃。细雨霏霏，出门记得带伞，路上慢行。",
+    "ai_briefing_en": "Dalian has light rain at 9℃, feels like 8℃. Drizzling, take an umbrella and walk carefully.",
+    "alert": null
   }
 ]

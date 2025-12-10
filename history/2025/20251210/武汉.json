@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉多云，气温适宜，记得放松心情哦！",
     "ai_briefing_en": "Wuhan: Cloudy, mild. Relax!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-10T18:14+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "135",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "6",
+    "ai_briefing_zh": "武汉大雾 14℃，体感 13℃。能见度低，开车出门请减速慢行。",
+    "ai_briefing_en": "Wuhan is foggy at 14℃, feels like 13℃. Low visibility, drive slowly and carefully.",
+    "alert": null
   }
 ]

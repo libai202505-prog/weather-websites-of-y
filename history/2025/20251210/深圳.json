@@ -318,5 +318,25 @@
     "ai_briefing_zh": "深圳小雨绵绵，出门记得带伞，别淋湿哦！",
     "ai_briefing_en": "Shenzhen: Light rain. Stay dry!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-10T18:16+08:00",
+    "temp": "17",
+    "feelsLike": "18",
+    "text": "阵雨",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "92",
+    "precip": "1.0",
+    "pressure": "1011",
+    "vis": "4",
+    "dew": "15",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阵雨 17℃，体感 18℃。湿度 92%，出门记得带伞，小心路滑！",
+    "ai_briefing_en": "Shenzhen has showers at 17℃, feels like 18℃. High humidity, take an umbrella and watch your step!",
+    "alert": null
   }
 ]

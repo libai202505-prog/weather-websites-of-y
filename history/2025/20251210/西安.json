@@ -318,5 +318,25 @@
     "ai_briefing_zh": "西安晴朗有风，温差大，注意添衣别着凉。",
     "ai_briefing_en": "Xi'an: Sunny, windy. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-10T18:15+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "225",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "973",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "西安晴天 11℃，体感 9℃。阳光明媚，但体感微凉，记得添衣哦。",
+    "ai_briefing_en": "Xi'an is sunny at 11℃, feels like 9℃. Bright sunshine, but slightly cool, remember to layer up!",
+    "alert": null
   }
 ]

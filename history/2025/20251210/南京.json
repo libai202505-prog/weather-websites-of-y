@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京多云，气温适中，愿你有个好心情。",
     "ai_briefing_en": "Nanjing: Cloudy, mild. Take care!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-10T18:16+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "225",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "10",
+    "dew": "6",
+    "cloud": "9",
+    "ai_briefing_zh": "南京晴天 14℃，体感 13℃。阳光正好，出门晒晒太阳，心情会更好！",
+    "ai_briefing_en": "Nanjing is sunny at 14℃, feels like 13℃. Perfect sunshine, go out and soak it in!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京有雾，体感 9℃。能见度低，注意交通安全。",
     "ai_briefing_en": "Nanjing is foggy, feels like 9℃. Drive safe in low visibility.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-10T11:16+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "15",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "南京多云有风，体感稍凉，出门记得多穿点。",
+    "ai_briefing_en": "Nanjing is cloudy and breezy; it feels cool, so dress warmly.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州阴天，体感 15℃，早晚注意保暖哦。",
     "ai_briefing_en": "Hangzhou is cloudy, feels 15℃. Keep warm morning and evening.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-10T14:24+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "180",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "17",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴天微凉，添件薄外套，保持舒适。",
+    "ai_briefing_en": "Hangzhou is cloudy and cool. Add a light jacket!",
+    "alert": null
   }
 ]

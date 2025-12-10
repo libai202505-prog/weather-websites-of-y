@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天，体感舒适，注意适时增减衣物。",
     "ai_briefing_en": "Shanghai is cloudy, comfy 18℃. Adjust clothing as needed.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-10T14:24+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "21",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天，体感舒适，但别忘了带伞哦。",
+    "ai_briefing_en": "Shanghai is cloudy and mild. Don't forget your umbrella!",
+    "alert": null
   }
 ]

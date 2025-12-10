@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉大雾 14℃，体感 13℃。能见度低，开车出门请减速慢行。",
     "ai_briefing_en": "Wuhan is foggy at 14℃, feels like 13℃. Low visibility, drive slowly and carefully.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-10T19:10+08:00",
+    "temp": "12",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉今天有雾，能见度不高。出行务必减速慢行，注意安全！",
+    "ai_briefing_en": "Wuhan is foggy today, visibility is low. Please drive slowly and safely.",
+    "alert": null
   }
 ]

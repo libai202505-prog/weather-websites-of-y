@@ -278,5 +278,25 @@
     "ai_briefing_zh": "气温略凉，体感微凉，记得添衣保暖。",
     "ai_briefing_en": "It's cool. Layer up.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-10T16:24+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "14",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，气温 16℃，早晚温差大，注意添衣哦！",
+    "ai_briefing_en": "Cloudy, temp 16℃. Big temperature difference, dress in layers!",
+    "alert": null
   }
 ]

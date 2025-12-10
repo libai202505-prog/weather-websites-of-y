@@ -278,5 +278,25 @@
     "ai_briefing_zh": "气温暖和，体感舒适，多喝水保持活力。",
     "ai_briefing_en": "Warm, pleasant. Stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-10T16:24+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "气温 23℃，体感暖和，湿度适中，祝您心情愉悦！",
+    "ai_briefing_en": "Temp 23℃, feels warm, moderate humidity. Have a pleasant day!",
+    "alert": null
   }
 ]

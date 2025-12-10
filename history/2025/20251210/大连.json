@@ -278,5 +278,25 @@
     "ai_briefing_zh": "气温微凉，体感偏冷，记得多添衣。",
     "ai_briefing_en": "It's a bit cool. Add a layer.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-10T16:24+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "13",
+    "dew": "4",
+    "cloud": "67",
+    "ai_briefing_zh": "小雨天气，体感 6℃，风力 3级，出门记得带伞并保暖。",
+    "ai_briefing_en": "Light rain, feels like 6℃, 3-grade wind. Bring an umbrella and stay warm.",
+    "alert": null
   }
 ]

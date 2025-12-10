@@ -278,5 +278,25 @@
     "ai_briefing_zh": "晴朗干燥，温差较大，注意多补水。",
     "ai_briefing_en": "Sunny and dry. Keep hydrated.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-10T16:22+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "973",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "天气晴朗，风力 3级，体感 11℃，注意防风保暖！",
+    "ai_briefing_en": "Sunny with a 3-grade wind, feels like 11℃. Stay warm and bundled!",
+    "alert": null
   }
 ]

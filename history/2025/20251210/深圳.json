@@ -278,5 +278,25 @@
     "ai_briefing_zh": "湿度较大，体感舒适，记得备把雨伞。",
     "ai_briefing_en": "Humid. Carry an umbrella.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-10T16:24+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "阵雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "4",
+    "dew": "14",
+    "cloud": "96",
+    "ai_briefing_zh": "阵雨天气，湿度 89%，出门记得带伞，注意防潮。",
+    "ai_briefing_en": "Showers and 89% humidity. Carry an umbrella and stay dry!",
+    "alert": null
   }
 ]

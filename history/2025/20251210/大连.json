@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连大雾，体感 4℃ 还伴有风。外出注意保暖和交通安全。",
     "ai_briefing_en": "Dalian is very foggy, feels like 4℃ with wind. Stay warm and mind traffic safety.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-10T09:32+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "225",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "大连有雾，体感 5℃。风大，能见度低，出行多注意。",
+    "ai_briefing_en": "Dalian is foggy, feels like 5℃. Windy and low visibility, be careful.",
+    "alert": null
   }
 ]

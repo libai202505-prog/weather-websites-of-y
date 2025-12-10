@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京大雾弥漫，气温 8℃。出行务必注意交通安全。",
     "ai_briefing_en": "Nanjing is very foggy with 8℃. Please pay attention to traffic safety when going out.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-10T09:32+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "135",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "8",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "南京有雾，体感 9℃。能见度低，注意交通安全。",
+    "ai_briefing_en": "Nanjing is foggy, feels like 9℃. Drive safe in low visibility.",
+    "alert": null
   }
 ]

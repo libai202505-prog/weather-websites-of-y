@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛阴天，体感 8℃，风力 3级。记得多穿件外套，别感冒了。",
     "ai_briefing_en": "Qingdao is overcast, feels like 8℃ with level 3 wind. Remember to wear an extra jacket to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-10T09:32+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "180",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛多云，体感 8℃。风力 4级，小心着凉哦。",
+    "ai_briefing_en": "Qingdao is cloudy, feels like 8℃ with strong winds. Keep warm!",
+    "alert": null
   }
 ]

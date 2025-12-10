@@ -358,5 +358,25 @@
     "ai_briefing_zh": "沈阳有霾且体感 -11℃。风力大，外出请戴口罩、多穿衣。",
     "ai_briefing_en": "Shenyang is hazy and feels like -11℃. Windy, wear a mask and warm clothes outside.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-10T20:40+08:00",
+    "temp": "-6",
+    "feelsLike": "-12",
+    "text": "中雪",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "3",
+    "dew": "-7",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳下中雪啦！-6℃ 寒冷，路滑，出行注意安全。",
+    "ai_briefing_en": "Shenyang has moderate snow! -6℃ and slippery roads, please travel safely.",
+    "alert": null
   }
 ]

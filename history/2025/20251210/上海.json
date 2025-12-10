@@ -358,5 +358,25 @@
     "ai_briefing_zh": "上海阴天，体感 16℃。湿度有点高，出门带件薄外套吧。",
     "ai_briefing_en": "Shanghai is cloudy, feels like 16℃. It's a bit humid, bring a light jacket.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-10T20:32+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "15",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 14℃ 阴天，湿度有点大，注意保持好心情哦。",
+    "ai_briefing_en": "Shanghai is cloudy at 14℃, quite humid. Keep a good mood!",
+    "alert": null
   }
 ]

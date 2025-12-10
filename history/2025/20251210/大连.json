@@ -298,5 +298,25 @@
     "ai_briefing_zh": "小雨天气，体感 6℃，风力 3级，出门记得带伞并保暖。",
     "ai_briefing_en": "Light rain, feels like 6℃, 3-grade wind. Bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-10T17:16+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "225",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "14",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "大连阴天，气温偏凉，出门记得添衣哦！",
+    "ai_briefing_en": "Dalian: Cloudy, cool. Stay warm!",
+    "alert": null
   }
 ]

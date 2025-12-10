@@ -298,5 +298,25 @@
     "ai_briefing_zh": "气温 18℃，略有凉意，注意适度增减衣物。",
     "ai_briefing_en": "Temp 18℃, slightly cool. Adjust your clothes accordingly.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-10T17:16+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "24",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪阴天，体感舒适，出门可带把伞。",
+    "ai_briefing_en": "Cixi: Cloudy, mild. Umbrella!",
+    "alert": null
   }
 ]

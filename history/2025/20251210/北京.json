@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气转凉，体感 2℃，记得添衣保暖哦！",
     "ai_briefing_en": "It's getting cooler, feels like 2℃. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-10T17:16+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "11",
+    "dew": "-10",
+    "cloud": "10",
+    "ai_briefing_zh": "北京冷意浓，记得添衣保暖哦！",
+    "ai_briefing_en": "Beijing is chilly. Stay warm!",
+    "alert": null
   }
 ]

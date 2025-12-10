@@ -298,5 +298,25 @@
     "ai_briefing_zh": "晴朗宜人，气温 19℃，体感舒适，保持好心情哦！",
     "ai_briefing_en": "Sunny and pleasant, temp 19℃, feels good. Keep a happy mood!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-10T17:16+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "135",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "22",
+    "dew": "15",
+    "cloud": "1",
+    "ai_briefing_zh": "厦门多云有湿意，体感舒适，注意防潮。",
+    "ai_briefing_en": "Xiamen: Cloudy, humid. Take care!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "气温 23℃，体感暖和，湿度适中，祝您心情愉悦！",
     "ai_briefing_en": "Temp 23℃, feels warm, moderate humidity. Have a pleasant day!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-10T17:17+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "92",
+    "ai_briefing_zh": "广州温暖多云，湿度大，记得保持清爽。",
+    "ai_briefing_en": "Guangzhou: Warm, humid. Take care!",
+    "alert": null
   }
 ]

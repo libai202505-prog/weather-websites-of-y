@@ -378,5 +378,25 @@
     "ai_briefing_zh": "西安 7℃，阳光正好，但体感稍凉，注意保暖哦。",
     "ai_briefing_en": "Xi'an is sunny at 7℃, feels a bit cool. Remember to stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-10T21:34+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "8",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有霾，请注意防护，外出记得戴口罩。",
     "ai_briefing_en": "Wuhan has haze; please wear a mask and take care when outside.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-10T12:24+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，气温 15℃，出行注意防护。",
+    "ai_briefing_en": "Wuhan is hazy at 15℃. Take precautions when going out.",
+    "alert": null
   }
 ]

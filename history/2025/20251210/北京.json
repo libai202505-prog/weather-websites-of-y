@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京体感偏凉，多云天气，记得添衣保暖哦！",
     "ai_briefing_en": "Beijing feels chilly with cloudy skies, remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-10T12:24+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "14",
+    "dew": "-11",
+    "cloud": "100",
+    "ai_briefing_zh": "北京阴冷，体感 1℃，多穿点哦！",
+    "ai_briefing_en": "Beijing is chilly, feels like 1℃. Stay warm!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州阳光正好，早晚温差大，别忘了添衣。",
     "ai_briefing_en": "Hangzhou is sunny, mind the temperature difference.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-11T17:16+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州有霾，体感 13℃。注意防护，保持健康！",
+    "ai_briefing_en": "Hangzhou has haze, feels like 13℃. Stay protected!",
+    "alert": null
   }
 ]

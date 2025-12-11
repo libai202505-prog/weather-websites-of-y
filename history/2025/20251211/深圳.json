@@ -298,5 +298,25 @@
     "ai_briefing_zh": "深圳多云暖暖的，湿度适中，记得多喝水。",
     "ai_briefing_en": "Shenzhen is warm and cloudy, don't forget to drink water.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-11T17:16+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "225",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "11",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云 22℃，体感舒适，留意风力 3级。",
+    "ai_briefing_en": "Shenzhen is cloudy 22℃, comfortable. Watch for moderate wind.",
+    "alert": null
   }
 ]

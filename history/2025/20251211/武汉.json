@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有霾，出门注意防护，呼吸更顺畅。",
     "ai_briefing_en": "Wuhan has haze. Protect yourself for smoother breathing.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-11T12:26+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，气温 17℃，体感微凉，出门注意防护呀！",
+    "ai_briefing_en": "Wuhan is hazy, 17℃ and feels cool. Take care when going out!",
+    "alert": null
   }
 ]

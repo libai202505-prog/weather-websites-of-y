@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都多云，湿度 100%。小心湿滑，别感冒了！",
     "ai_briefing_en": "Chengdu: Humid. Caution!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-11T09:42+08:00",
+    "temp": "9",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "11",
+    "dew": "9",
+    "cloud": "10",
+    "ai_briefing_zh": "成都湿度超高，有点凉，记得穿暖和点！",
+    "ai_briefing_en": "Chengdu is very humid and cool. Remember to dress warmly!",
+    "alert": null
   }
 ]

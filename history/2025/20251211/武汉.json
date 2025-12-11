@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雾，气温 4℃。注意保暖，小心慢行！",
     "ai_briefing_en": "Wuhan: Foggy. Be careful!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-11T09:33+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "3",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉雾气重，视线不好，出行一定要小心。",
+    "ai_briefing_en": "Wuhan is very foggy, visibility is poor. Be careful when going out.",
+    "alert": null
   }
 ]

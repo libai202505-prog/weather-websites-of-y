@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛有雾，体感 -1℃，风力 6级。多穿点，注意防风！",
     "ai_briefing_en": "Qingdao: -1℃. Bundle up!",
     "alert": "💨 北风警报：北风 6级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-11T09:30+08:00",
+    "temp": "5",
+    "feelsLike": "-2",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "0",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "7",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛大雾且风大，体感很冷，注意防寒保暖。",
+    "ai_briefing_en": "Qingdao is foggy and very windy. Stay warm!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

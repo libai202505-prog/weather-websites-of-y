@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连体感 -16℃，风力 6级。天寒风大，务必多穿！",
     "ai_briefing_en": "Dalian: -16℃. Bundle up!",
     "alert": "❄️ 橙色寒冷提示：体感低至 -16℃ | 💨 北风警报：北风 6级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-11T09:30+08:00",
+    "temp": "-6",
+    "feelsLike": "-13",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "0",
+    "ai_briefing_zh": "大连多云风大，体感刺骨寒，务必穿暖和。",
+    "ai_briefing_en": "Dalian is cloudy and windy. It's biting cold, dress warmly!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

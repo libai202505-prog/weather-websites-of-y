@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京体感 -7℃，多穿点，注意保暖哦！",
     "ai_briefing_en": "Beijing: Feels -7℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-11T09:30+08:00",
+    "temp": "1",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "90",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "8",
+    "dew": "-8",
+    "cloud": "2",
+    "ai_briefing_zh": "北京风大天冷，出门裹严实点，别冻着了！",
+    "ai_briefing_en": "Beijing is windy and cold. Bundle up to stay warm!",
+    "alert": null
   }
 ]

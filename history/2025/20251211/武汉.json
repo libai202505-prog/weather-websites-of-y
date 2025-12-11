@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉阴天，体感 10℃。风力 3级，添衣保暖。",
     "ai_briefing_en": "Wuhan: 10℃. Wind 3. Layer up!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-11T21:34+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "45",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "4",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有霾 12℃，体感 9℃。外出请戴好口罩哦。",
+    "ai_briefing_en": "Wuhan has haze at 12℃, feels like 9℃. Remember to wear a mask if you go out.",
+    "alert": null
   }
 ]

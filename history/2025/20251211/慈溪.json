@@ -258,5 +258,25 @@
     "ai_briefing_zh": "慈溪风力不小，别忘了挡风哦！",
     "ai_briefing_en": "Cixi's breezy. Dress well!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-11T15:16+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "10",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "天气有霾，外出戴好口罩，保护呼吸道。",
+    "ai_briefing_en": "Hazy weather, wear a mask when going out to protect your respiratory system.",
+    "alert": null
   }
 ]

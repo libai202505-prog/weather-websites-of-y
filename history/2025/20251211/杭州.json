@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州风力不小，早晚注意保暖哦！",
     "ai_briefing_en": "Hangzhou's breezy. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-11T15:16+08:00",
+    "temp": "18",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "7",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "霾天气，风力稍大，请注意防霾保暖。",
+    "ai_briefing_en": "Hazy weather with some wind, remember to protect from haze and keep warm.",
+    "alert": null
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "杭州阳光明媚，体感舒适。享受好天气吧！",
     "ai_briefing_en": "Hangzhou is sunny and pleasant. Enjoy the day!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-11T19:10+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "6",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州有霾，出行注意防护，戴好口罩哦。",
+    "ai_briefing_en": "Haze in Hangzhou, take precautions and wear a mask.",
+    "alert": null
   }
 ]

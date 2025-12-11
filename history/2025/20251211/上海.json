@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海阴天 12℃，体感 10℃。早晚温差大，注意添衣。",
     "ai_briefing_en": "Shanghai is cloudy at 12℃, feels like 10℃. Mind the temperature change, dress appropriately.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-11T22:16+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "93",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

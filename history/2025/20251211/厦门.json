@@ -398,5 +398,25 @@
     "ai_briefing_zh": "厦门多云 18℃，体感 16℃。微风舒适，很适合户外活动。",
     "ai_briefing_en": "Xiamen is cloudy at 18℃, feels like 16℃. Pleasant breeze, great for outdoors.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-11T22:16+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "21",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

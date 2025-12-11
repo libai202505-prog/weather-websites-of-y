@@ -278,5 +278,25 @@
     "ai_briefing_zh": "霾且风大，外出务必做好防护和保暖。",
     "ai_briefing_en": "Hazy and windy, make sure to take precautions and keep warm when going out.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-11T16:25+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "45",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "6",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "南京有霾，风力较大，出门记得戴口罩哦。",
+    "ai_briefing_en": "Nanjing has haze and strong wind, wear a mask!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

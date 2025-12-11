@@ -278,5 +278,25 @@
     "ai_briefing_zh": "霾天气，请注意防护，多喝水润润喉。",
     "ai_briefing_en": "Hazy weather, please take precautions and drink more water.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-11T16:25+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "5",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有霾，出门注意防护，呼吸更顺畅。",
+    "ai_briefing_en": "Shanghai has haze, take care when going out.",
+    "alert": null
   }
 ]

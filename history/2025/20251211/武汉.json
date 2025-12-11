@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉阴天，体感 15℃。注意添衣，小心着凉。",
     "ai_briefing_en": "Wuhan is cloudy, feels like 15℃. Add clothes, don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-11T18:17+08:00",
+    "temp": "12",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "6",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感舒适。注意保持好心情哦！",
+    "ai_briefing_en": "Wuhan is cloudy and mild. Stay cheerful!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

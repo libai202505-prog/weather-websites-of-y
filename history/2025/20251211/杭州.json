@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州 18℃，风力 4级，体感有点冷，出门记得防风哦！",
     "ai_briefing_en": "Hangzhou is 18℃ with strong winds. Feels a bit cold, remember to bundle up!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-11T13:00+08:00",
+    "temp": "18",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "45",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "7",
+    "dew": "6",
+    "cloud": "6",
+    "ai_briefing_zh": "杭州风力较大，体感稍凉，记得添衣防风。",
+    "ai_briefing_en": "Strong winds in Hangzhou, feels cooler. Dress warmly!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

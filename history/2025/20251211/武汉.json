@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉有霾，气温 17℃，体感微凉，出门注意防护呀！",
     "ai_briefing_en": "Wuhan is hazy, 17℃ and feels cool. Take care when going out!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-11T13:00+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，体感舒适，外出别忘了戴口罩！",
+    "ai_briefing_en": "Hazy in Wuhan, comfortable temps. Remember your mask!",
+    "alert": null
   }
 ]

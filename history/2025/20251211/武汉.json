@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉雾气重，视线不好，出行一定要小心。",
     "ai_briefing_en": "Wuhan is very foggy, visibility is poor. Be careful when going out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-11T11:16+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，出门注意防护，呼吸更顺畅。",
+    "ai_briefing_en": "Wuhan has haze. Protect yourself for smoother breathing.",
+    "alert": null
   }
 ]

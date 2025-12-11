@@ -178,5 +178,25 @@
     "ai_briefing_zh": "青岛大雾且风大，体感很冷，注意防寒保暖。",
     "ai_briefing_en": "Qingdao is foggy and very windy. Stay warm!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-11T11:16+08:00",
+    "temp": "5",
+    "feelsLike": "-4",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "6",
+    "windSpeed": "39",
+    "wind360": "45",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "21",
+    "dew": "-2",
+    "cloud": "1",
+    "ai_briefing_zh": "青岛风力大，体感寒冷，务必做好防风保暖。",
+    "ai_briefing_en": "Qingdao is very windy and feels cold. Dress warmly and protect from wind.",
+    "alert": "💨 北风警报：东北风 6级"
   }
 ]

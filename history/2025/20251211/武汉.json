@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉有霾，体感舒适，外出别忘了戴口罩！",
     "ai_briefing_en": "Hazy in Wuhan, comfortable temps. Remember your mask!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-11T14:33+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "7",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有霾，记得戴口罩，注意防护哦！",
+    "ai_briefing_en": "Wuhan's hazy. Mask up!",
+    "alert": null
   }
 ]

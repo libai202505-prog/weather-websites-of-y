@@ -238,5 +238,25 @@
     "ai_briefing_zh": "成都阴天，湿度较高，体感有点湿冷哦。",
     "ai_briefing_en": "Cloudy and humid in Chengdu, feels a bit damp and cool.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-11T14:33+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "225",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "3",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "成都天阴湿润，体感稍凉，注意防潮！",
+    "ai_briefing_en": "Chengdu's humid and cool.",
+    "alert": null
   }
 ]

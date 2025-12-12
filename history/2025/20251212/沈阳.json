@@ -278,5 +278,25 @@
     "ai_briefing_zh": "沈阳阴天 -8℃，体感寒冷。多穿保暖衣物，注意防寒保暖。",
     "ai_briefing_en": "Shenyang is overcast at -8℃, feels cold. Wear warm clothes and pay attention to keeping warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-12T16:24+08:00",
+    "temp": "-9",
+    "feelsLike": "-13",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "30",
+    "dew": "-25",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "广州 21℃，虽然阴天，体感依然舒适，湿度 71%。",
     "ai_briefing_en": "Guangzhou 21℃, cloudy but feels pleasant with 71% humidity.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-12T20:33+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "广州阴天 20℃，体感舒适。带伞，以防万一哦。",
+    "ai_briefing_en": "Guangzhou is overcast 20℃, feels comfy. Carry an umbrella just in case.",
+    "alert": null
   }
 ]

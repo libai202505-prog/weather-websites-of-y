@@ -358,5 +358,25 @@
     "ai_briefing_zh": "西安阴天，体感 2℃。湿度 81%，多喝热水，保重身体。",
     "ai_briefing_en": "Xi'an is cloudy, feels like 2℃. With 81% humidity, drink warm water and take care.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-12T20:40+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "135",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "91",
+    "ai_briefing_zh": "西安阴天，体感 2℃。虽不冷，也要注意保暖哦。",
+    "ai_briefing_en": "Xi'an is overcast, feels like 2℃. Still, remember to stay warm.",
+    "alert": null
   }
 ]

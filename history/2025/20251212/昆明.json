@@ -158,5 +158,25 @@
     "ai_briefing_zh": "昆明有雾，体感 5℃。能见度低，记得添衣，注意安全。",
     "ai_briefing_en": "Kunming is foggy, feels like 5℃. Low visibility, add layers and stay safe!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-12T09:40+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "814",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明有雾，体感7℃。出门注意安全，小心驾驶。",
+    "ai_briefing_en": "Kunming is foggy, feels like 7℃. Drive safely.",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "南京阴天，体感 3℃，风力 4级。多穿点，别着凉。",
     "ai_briefing_en": "Nanjing is overcast, feels like 3℃ with a force 4 wind. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-12T21:24+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "24",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "成都阴天，体感 7℃，风力 3级。多喝热水，注意保暖。",
     "ai_briefing_en": "Chengdu is overcast, feels like 7℃ with a force 3 wind. Drink hot water and stay warm.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-12T21:33+08:00",
+    "temp": "11",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "3",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "沈阳阴冷，体感 -15℃。天气寒冷，记得多穿厚衣服哦！",
     "ai_briefing_en": "Shenyang is gloomy and cold, feels like -15℃. It's chilly, remember to wear thick clothes!",
     "alert": "❄️ 橙色寒冷提示：体感低至 -15℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-12T12:24+08:00",
+    "temp": "-10",
+    "feelsLike": "-15",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "30",
+    "dew": "-26",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴冷，体感 -15℃，记得多穿衣服，别冻着。",
+    "ai_briefing_en": "Shenyang: -15℃. Bundle up!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -15℃"
   }
 ]

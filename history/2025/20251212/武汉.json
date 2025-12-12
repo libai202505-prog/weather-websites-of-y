@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有雾，能见度低，风力 4级体感 5℃。驾车请慢行！",
     "ai_briefing_en": "Wuhan is foggy with low visibility, feels like 5℃ with a 4-level wind. Drive carefully!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-12T12:24+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "9",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有雾，能见度低，出行请注意交通安全哦。",
+    "ai_briefing_en": "Wuhan: foggy. Watch out!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州阴天，体感 10℃。早晚温差大，注意添减衣物哦！",
     "ai_briefing_en": "Hangzhou is cloudy, feels like 10℃. Mind the temperature difference and dress accordingly!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-12T12:24+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "17",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天，体感 10℃。早晚温差大，小心别感冒。",
+    "ai_briefing_en": "Hangzhou: cloudy, 10℃. Dress warm!",
+    "alert": null
   }
 ]

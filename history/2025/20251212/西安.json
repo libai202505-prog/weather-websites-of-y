@@ -258,5 +258,25 @@
     "ai_briefing_zh": "西安阵雨，体感 1℃ 湿冷。湿度 100%，带伞防潮，注意保暖！",
     "ai_briefing_en": "Xi'an has showers, feels damp and cold at 1℃. It's 100% humidity, bring an umbrella and stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-12T15:14+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "315",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "16",
+    "dew": "0",
+    "cloud": "99",
+    "ai_briefing_zh": "西安小雨 5℃，体感湿冷。出门带伞，注意防寒保暖。",
+    "ai_briefing_en": "Xi'an has light rain at 5℃, feels cold and damp. Take an umbrella and stay warm.",
+    "alert": null
   }
 ]

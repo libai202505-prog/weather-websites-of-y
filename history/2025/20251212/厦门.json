@@ -258,5 +258,25 @@
     "ai_briefing_zh": "厦门阴天风力大，体感 15℃ 凉意。海边风大，注意防风保暖哦！",
     "ai_briefing_en": "Xiamen is cloudy with strong winds, feels cool at 15℃. Be mindful of the strong winds, especially by the sea!",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-12T15:16+08:00",
+    "temp": "19",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "0",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "18",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天 19℃，风力 5 级体感凉。风大，注意防风保暖哦！",
+    "ai_briefing_en": "Xiamen is overcast at 19℃, 5-level wind makes it feel cool. Windy, pay attention to wind protection and warmth!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

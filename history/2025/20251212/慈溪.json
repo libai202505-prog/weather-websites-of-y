@@ -258,5 +258,25 @@
     "ai_briefing_zh": "慈溪阴天风力大，体感 8℃ 凉意浓，出门记得添衣保暖哦。",
     "ai_briefing_en": "Cixi is cloudy with strong winds, feels cool at 8℃. Remember to layer up!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-12T15:16+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "45",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "26",
+    "dew": "6",
+    "cloud": "94",
+    "ai_briefing_zh": "慈溪阴天 12℃。风力 4 级体感较凉，注意添衣别着凉。",
+    "ai_briefing_en": "Cixi is overcast, 12℃. The 4-level wind makes it feel cool, remember to add layers to avoid catching a cold.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

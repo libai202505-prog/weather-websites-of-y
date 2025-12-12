@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海阴天，体感 10℃ 较舒适。早晚温差大，记得添衣别着凉！",
     "ai_briefing_en": "Shanghai is cloudy, feels comfy at 10℃. Mind the day-night temp difference, dress accordingly!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-12T15:16+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "26",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天 11℃，体感 9℃。气温适中，注意适时增减衣物。",
+    "ai_briefing_en": "Shanghai is overcast at 11℃, feels like 9℃. The temperature is moderate, adjust clothing as needed.",
+    "alert": null
   }
 ]

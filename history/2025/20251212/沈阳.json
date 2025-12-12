@@ -238,5 +238,25 @@
     "ai_briefing_zh": "沈阳体感寒冷，气温低，外出别忘了戴手套帽子哦。",
     "ai_briefing_en": "Shenyang is very cold, remember your hat and gloves!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-12T14:24+08:00",
+    "temp": "-8",
+    "feelsLike": "-12",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "135",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "23",
+    "dew": "-25",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，体感-12℃ 寒冷。寒风阵阵，戴好帽子手套，注意保暖！",
+    "ai_briefing_en": "Shenyang is cloudy, feels cold at -12℃. Chilly winds, remember your hat and gloves!",
+    "alert": null
   }
 ]

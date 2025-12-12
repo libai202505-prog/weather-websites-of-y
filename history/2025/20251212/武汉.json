@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉大雾弥漫，能见度低，驾车出行请注意安全！",
     "ai_briefing_en": "Wuhan is foggy, visibility is low, drive safely!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-12T14:24+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "13",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 4℃ 阵阵寒意。北风呼啸，多穿衣物保暖哦！",
+    "ai_briefing_en": "Wuhan is cloudy, feels chilly at 4℃ with cold winds. Bundle up well!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

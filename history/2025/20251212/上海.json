@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天微凉，体感舒适，出行记得带伞哦。",
     "ai_briefing_en": "Shanghai is cloudy and mild, a light jacket is good.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-12T14:24+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "23",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天，体感 10℃ 较舒适。早晚温差大，记得添衣别着凉！",
+    "ai_briefing_en": "Shanghai is cloudy, feels comfy at 10℃. Mind the day-night temp difference, dress accordingly!",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安阵雨，湿度 100%。出门记得带伞，注意防潮。",
     "ai_briefing_en": "Xi'an: showers. Take care!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-12T13:14+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "180",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "983",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "99",
+    "ai_briefing_zh": "西安体感寒冷，湿度较高，注意防潮和保暖。",
+    "ai_briefing_en": "Xi'an is cold and humid, stay warm and dry!",
+    "alert": null
   }
 ]

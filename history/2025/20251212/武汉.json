@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉阴天，体感 1℃，风力大，穿厚点，多喝热水哦。",
     "ai_briefing_en": "Wuhan is cloudy and feels like 1℃ with strong winds. Dress warmly and drink hot water!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-12T19:16+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "0",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "13",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉体感-2℃，风力 4级，湿度 91%。很湿冷，务必多穿！",
+    "ai_briefing_en": "Wuhan feels like -2℃ with level 4 wind and 91% humidity. It's damp and cold, dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "沈阳阴天，体感 -12℃，虽然无风，也要全副武装保暖。",
     "ai_briefing_en": "Shenyang is cloudy and feels like -12℃. Even without wind, remember to bundle up warmly.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-12T19:16+08:00",
+    "temp": "-9",
+    "feelsLike": "-12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "16",
+    "dew": "-16",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，体感-12℃。天气寒冷，记得戴帽子手套哦。",
+    "ai_briefing_en": "Shenyang is cloudy, feels like -12℃. It's cold, remember your hat and gloves.",
+    "alert": null
   }
 ]

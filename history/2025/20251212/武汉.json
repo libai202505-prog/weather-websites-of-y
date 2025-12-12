@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉小雨，体感5℃，风力4级。记得带伞，多穿衣。",
     "ai_briefing_en": "Wuhan has light rain, feels like 5℃. Grab your umbrella, dress warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-12T11:17+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "45",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "98",
+    "ai_briefing_zh": "武汉有雾，能见度低，风力 4级体感 5℃。驾车请慢行！",
+    "ai_briefing_en": "Wuhan is foggy with low visibility, feels like 5℃ with a 4-level wind. Drive carefully!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

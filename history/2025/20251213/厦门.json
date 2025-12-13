@@ -318,5 +318,25 @@
     "ai_briefing_zh": "厦门阴天体感温暖，出门享受这宜人天气吧。",
     "ai_briefing_en": "Xiamen is overcast and warm, enjoy the pleasant weather.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-13T18:17+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门阴天，体感16℃，舒适微凉，记得带件薄外套。",
+    "ai_briefing_en": "Xiamen is cloudy, feels like 16℃. Mild and cool, bring a light jacket.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "广州阵雨，记得带伞，体感微凉别着凉！",
     "ai_briefing_en": "Guangzhou has showers, take an umbrella, stay warm!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-13T18:16+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "315",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "广州湿冷有风，体感9℃，出行记得添衣保暖！",
+    "ai_briefing_en": "Guangzhou is damp and windy, feels like 9℃. Remember to dress warm when out!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

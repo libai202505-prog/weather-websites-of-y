@@ -318,5 +318,25 @@
     "ai_briefing_zh": "沈阳阴天湿冷，体感很凉，务必注意保暖。",
     "ai_briefing_en": "Shenyang is overcast and damp-cold, feels very chilly, stay extra warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-13T18:16+08:00",
+    "temp": "-6",
+    "feelsLike": "-10",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "9",
+    "dew": "-10",
+    "cloud": "99",
+    "ai_briefing_zh": "沈阳有雾，体感-10℃，湿冷，出行小心慢行。",
+    "ai_briefing_en": "Shenyang is foggy, feels like -10℃ and damp. Drive carefully!",
+    "alert": null
   }
 ]

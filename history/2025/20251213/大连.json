@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大连阴天微冷，注意添衣，别着凉哦。",
     "ai_briefing_en": "Dalian is cloudy and a bit cold. Add layers to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-13T12:17+08:00",
+    "temp": "0",
+    "feelsLike": "-3",
+    "text": "阵雪",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "5",
+    "dew": "-1",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阵雪体感 -3℃，地面湿滑，请您注意脚下安全，穿暖和！",
+    "ai_briefing_en": "Dalian has snow showers and feels like -3℃. Roads might be slippery, watch your step and stay warm!",
+    "alert": null
   }
 ]

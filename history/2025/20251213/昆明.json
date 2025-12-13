@@ -198,5 +198,25 @@
     "ai_briefing_zh": "昆明多云微凉，早晚温差大，记得添衣。",
     "ai_briefing_en": "Kunming is cloudy and cool. Big day-night temperature difference, remember to add layers.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-13T12:16+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "819",
+    "vis": "10",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明阴天体感 10℃，早晚温差大，出门记得带件外套。",
+    "ai_briefing_en": "Kunming is cloudy and feels like 10℃. Mind the temperature change, bring a jacket!",
+    "alert": null
   }
 ]

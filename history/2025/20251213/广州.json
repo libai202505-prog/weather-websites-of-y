@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州小雨湿度高，记得带伞，小心路滑。",
     "ai_briefing_en": "Guangzhou is rainy and humid. Bring an umbrella, watch for slippery roads.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-13T12:16+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "阵雨",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阵雨体感 14℃ 伴有大风，出门别忘带雨具，注意防风。",
+    "ai_briefing_en": "Guangzhou has showers and feels like 14℃ with strong winds. Bring rain gear and stay wind-proof.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

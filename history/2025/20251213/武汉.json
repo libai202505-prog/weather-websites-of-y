@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴冷体感低，注意保暖，别着凉。",
     "ai_briefing_en": "Wuhan is cloudy and feels cold. Stay warm and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-13T12:16+08:00",
+    "temp": "8",
+    "feelsLike": "2",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "19",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉体感 2℃ 伴 5级 大风，户外活动务必多穿，小心着凉！",
+    "ai_briefing_en": "Wuhan feels like 2℃ with strong winds. Layer up for outdoor activities and stay warm!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "青岛大雾严寒，注意防滑保暖和出行安全。",
     "ai_briefing_en": "Qingdao is very foggy and freezing. Watch out for slips, keep warm, and travel safely.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-13T14:24+08:00",
+    "temp": "0",
+    "feelsLike": "-8",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "315",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "9",
+    "dew": "-3",
+    "cloud": "99",
+    "ai_briefing_zh": "大雾降温，风力强劲，体感极寒，注意防风保暖。",
+    "ai_briefing_en": "Heavy fog and strong winds make it feel extremely cold. Protect yourself from wind and stay warm.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

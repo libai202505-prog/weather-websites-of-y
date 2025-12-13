@@ -238,5 +238,25 @@
     "ai_briefing_zh": "大连有雾，体感湿冷，注意保暖和交通安全。",
     "ai_briefing_en": "Dalian is foggy and damp-cold. Keep warm and be careful on the roads.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-13T14:24+08:00",
+    "temp": "0",
+    "feelsLike": "-6",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "0",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "6",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "雾气弥漫，体感寒冷，多穿衣，出行注意安全。",
+    "ai_briefing_en": "Foggy and feels cold. Dress warmly and be safe when out.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 4级"
   }
 ]

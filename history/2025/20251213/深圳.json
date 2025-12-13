@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳阴天宜人，注意适时增减衣物。",
     "ai_briefing_en": "Shenzhen is cloudy and pleasant. Adjust your clothing as needed.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-13T14:24+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "16",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天，风儿微凉，注意早晚温差。",
+    "ai_briefing_en": "Cloudy in Shenzhen, a bit breezy. Mind the temperature difference between day and night.",
+    "alert": null
   }
 ]

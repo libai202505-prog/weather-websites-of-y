@@ -358,5 +358,25 @@
     "ai_briefing_zh": "晴天但体感凉，风力 3级，小心着凉。",
     "ai_briefing_en": "Sunny but feels cool, wind force 3. Be careful not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-13T20:32+08:00",
+    "temp": "3",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "315",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "16",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "南京风大体感冷，多穿点，别冻着了哦！",
+    "ai_briefing_en": "Nanjing is windy and feels cold, wear more to stay warm!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

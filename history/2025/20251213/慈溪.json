@@ -358,5 +358,25 @@
     "ai_briefing_zh": "北风 6级，体感很冷，注意防风保暖。",
     "ai_briefing_en": "Strong north wind, feels very cold. Stay warm and protect from wind.",
     "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：北风 6级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-13T20:32+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "14",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪风大体感冷，注意保暖别着凉！",
+    "ai_briefing_en": "Cixi is windy and feels cold, keep warm to avoid catching a cold!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

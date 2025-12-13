@@ -358,5 +358,25 @@
     "ai_briefing_zh": "湿度高，风力大，体感较凉，记得保暖。",
     "ai_briefing_en": "High humidity, strong wind, feels cool. Remember to keep warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-13T20:32+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阴天潮湿，带把伞有备无患哦。",
+    "ai_briefing_en": "Guangzhou is cloudy and humid, bring an umbrella just in case.",
+    "alert": null
   }
 ]

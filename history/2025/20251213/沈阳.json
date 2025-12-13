@@ -358,5 +358,25 @@
     "ai_briefing_zh": "大雾湿冷，能见度低，多穿衣慢出行。",
     "ai_briefing_en": "Heavy fog and damp cold, low visibility. Dress warmly and drive carefully.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-13T20:32+08:00",
+    "temp": "-7",
+    "feelsLike": "-10",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "9",
+    "dew": "-10",
+    "cloud": "99",
+    "ai_briefing_zh": "沈阳多云严寒，外出穿厚实点，注意防寒。",
+    "ai_briefing_en": "Shenyang is cloudy and severely cold, wear thick clothes when going out and stay warm.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天微凉，风力不大，穿暖和点哦。",
     "ai_briefing_en": "Cloudy and cool, light wind. Dress warmly.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-13T20:33+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "971",
+    "vis": "3",
+    "dew": "-5",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天凉爽，早晚温差大，注意添衣哦。",
+    "ai_briefing_en": "Chengdu is cloudy and cool, with a big temperature difference between morning and night, remember to add layers.",
+    "alert": null
   }
 ]

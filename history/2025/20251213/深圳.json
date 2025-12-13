@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天湿度大，北风微凉，注意别感冒。",
     "ai_briefing_en": "Cloudy and humid, north wind is cool. Take care not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-13T20:32+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "14",
+    "dew": "11",
+    "cloud": "83",
+    "ai_briefing_zh": "深圳小雨风大，出门记得带伞，注意防风哦！",
+    "ai_briefing_en": "Shenzhen has light rain and strong winds, remember your umbrella and stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 4级"
   }
 ]

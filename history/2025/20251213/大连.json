@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连阵雪体感 -3℃，地面湿滑，请您注意脚下安全，穿暖和！",
     "ai_briefing_en": "Dalian has snow showers and feels like -3℃. Roads might be slippery, watch your step and stay warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-13T13:17+08:00",
+    "temp": "1",
+    "feelsLike": "-2",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "99",
+    "ai_briefing_zh": "大连有雾，体感湿冷，注意保暖和交通安全。",
+    "ai_briefing_en": "Dalian is foggy and damp-cold. Keep warm and be careful on the roads.",
+    "alert": null
   }
 ]

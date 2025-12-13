@@ -378,5 +378,25 @@
     "ai_briefing_zh": "广州阴天潮湿，带把伞有备无患哦。",
     "ai_briefing_en": "Guangzhou is cloudy and humid, bring an umbrella just in case.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-13T21:16+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "98",
+    "ai_briefing_zh": "广州阴天潮湿，带伞防雨，注意保暖。",
+    "ai_briefing_en": "GZ: humid, keep warm!",
+    "alert": null
   }
 ]

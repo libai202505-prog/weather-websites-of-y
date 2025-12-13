@@ -378,5 +378,25 @@
     "ai_briefing_zh": "沈阳多云严寒，外出穿厚实点，注意防寒。",
     "ai_briefing_en": "Shenyang is cloudy and severely cold, wear thick clothes when going out and stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-13T21:16+08:00",
+    "temp": "-9",
+    "feelsLike": "-12",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "8",
+    "dew": "-11",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳大雾寒冷，出行注意安全，慢行哦！",
+    "ai_briefing_en": "SY: foggy, cold, caution!",
+    "alert": null
   }
 ]

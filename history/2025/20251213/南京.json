@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阵雨，湿度 100%。体感 4℃，出门带伞，穿暖和些。",
     "ai_briefing_en": "Nanjing has showers, 100% humidity. Feels like 4℃, bring an umbrella, dress warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-13T09:32+08:00",
+    "temp": "5",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "315",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "9",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "南京风力4级，体感0℃，湿度96%。多穿点，注意防潮！",
+    "ai_briefing_en": "Nanjing has a force 4 wind, feels like 0℃. Very humid, dress warmly and stay dry!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 4级"
   }
 ]

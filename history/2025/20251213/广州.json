@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州阴天潮湿，体感 17℃。小心湿滑，出门记得带伞。",
     "ai_briefing_en": "Guangzhou is cloudy and humid, feels like 17℃. Watch your step, bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-13T09:32+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "10",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "广州大雾湿度94%，体感19℃，出行注意安全哦。",
+    "ai_briefing_en": "Guangzhou is foggy with 94% humidity. Be careful when traveling.",
+    "alert": null
   }
 ]

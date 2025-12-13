@@ -398,5 +398,25 @@
     "ai_briefing_zh": "成都阴天，气温 7℃ 左右，注意适量穿衣。",
     "ai_briefing_en": "CD: cloudy, 7℃, cozy up!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-13T22:10+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "971",
+    "vis": "3",
+    "dew": "-5",
+    "cloud": "9",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

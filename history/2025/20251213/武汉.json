@@ -398,5 +398,25 @@
     "ai_briefing_zh": "武汉晴冷，湿度大，记得多喝水哦！",
     "ai_briefing_en": "WH: sunny, cold, hydrate!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-13T22:09+08:00",
+    "temp": "1",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "17",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

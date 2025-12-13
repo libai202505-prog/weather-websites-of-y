@@ -398,5 +398,25 @@
     "ai_briefing_zh": "重庆多云，气温 10℃，注意添衣防寒！",
     "ai_briefing_en": "CQ: cloudy, 10℃, warm up!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-13T22:08+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "18",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
+    "ai_briefing_en": "重庆: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -398,5 +398,25 @@
     "ai_briefing_zh": "北京寒冷，注意保暖，别着凉哦！",
     "ai_briefing_en": "Beijing is cold, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-13T22:09+08:00",
+    "temp": "-5",
+    "feelsLike": "-9",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "225",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "19",
+    "dew": "-8",
+    "cloud": "0",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

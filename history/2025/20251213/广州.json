@@ -398,5 +398,25 @@
     "ai_briefing_zh": "广州阴天潮湿，带伞防雨，注意保暖。",
     "ai_briefing_en": "GZ: humid, keep warm!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-13T22:08+08:00",
+    "temp": "13",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "0",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "98",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

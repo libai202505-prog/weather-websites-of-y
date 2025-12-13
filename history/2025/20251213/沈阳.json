@@ -338,5 +338,25 @@
     "ai_briefing_zh": "沈阳有雾，体感-10℃，湿冷，出行小心慢行。",
     "ai_briefing_en": "Shenyang is foggy, feels like -10℃ and damp. Drive carefully!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-13T19:10+08:00",
+    "temp": "-6",
+    "feelsLike": "-11",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "9",
+    "dew": "-10",
+    "cloud": "99",
+    "ai_briefing_zh": "大雾湿冷，能见度低，多穿衣慢出行。",
+    "ai_briefing_en": "Heavy fog and damp cold, low visibility. Dress warmly and drive carefully.",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "成都阴天，体感 6℃，微风，出门加件衣。",
     "ai_briefing_en": "Chengdu is cloudy, feels like 6℃ with light breeze. Grab an extra layer!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-13T17:17+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "970",
+    "vis": "3",
+    "dew": "-2",
+    "cloud": "4",
+    "ai_briefing_zh": "成都阴天湿度低，体感微凉，出门添衣哦。",
+    "ai_briefing_en": "Chengdu is overcast and dry, feels a bit cool, add a layer.",
+    "alert": null
   }
 ]

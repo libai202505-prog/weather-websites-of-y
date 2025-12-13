@@ -258,5 +258,25 @@
     "ai_briefing_zh": "天气阴沉风力大，体感较凉，湿度高，注意防风保暖。",
     "ai_briefing_en": "Cloudy, windy and humid. Dress warmly and stay protected from the wind.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-13T15:16+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "广州风力较大体感凉，湿度高，注意防潮。",
+    "ai_briefing_en": "Windy and cool in Guangzhou, high humidity, mind the dampness.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

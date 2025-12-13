@@ -258,5 +258,25 @@
     "ai_briefing_zh": "天气阴冷，记得多穿衣，别忘了带伞。",
     "ai_briefing_en": "Cloudy and chilly, dress warmly and bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-13T15:16+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "315",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "20",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪阴天风大体感凉，多穿点别感冒！",
+    "ai_briefing_en": "Cloudy and windy in Cixi, feels cold, dress warmly!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

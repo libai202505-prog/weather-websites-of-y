@@ -358,5 +358,25 @@
     "ai_briefing_zh": "哈尔滨晴，体感-14℃，风大极冷，务必多穿！",
     "ai_briefing_en": "Harbin is sunny, feels like -14℃. Extremely cold and windy, bundle up!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-14T20:33+08:00",
+    "temp": "-8",
+    "feelsLike": "-16",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "225",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "15",
+    "dew": "-17",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨 -8℃，体感 -16℃ 伴大风，注意防寒保暖！",
+    "ai_briefing_en": "Harbin is -8℃, feels like -16℃ with strong winds. Extreme cold, bundle up!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -16℃"
   }
 ]

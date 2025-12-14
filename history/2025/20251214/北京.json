@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京寒冷，体感 -11℃，注意保暖防感冒哦！",
     "ai_briefing_en": "Beijing is very cold at -11℃. Dress warmly to avoid colds!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-14T09:40+08:00",
+    "temp": "-2",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "270",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "10",
+    "dew": "-8",
+    "cloud": "8",
+    "ai_briefing_zh": "北京很冷，体感-5℃！注意保暖，别着凉哦。",
+    "ai_briefing_en": "Beijing is chilly at -5℃! Stay warm and don't catch a cold.",
+    "alert": null
   }
 ]

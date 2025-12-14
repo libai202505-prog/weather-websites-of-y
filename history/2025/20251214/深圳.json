@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳多云 15℃。早晚凉，记得加外套。",
     "ai_briefing_en": "Shenzhen 15℃, cloudy. Jacket for cool nights.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-14T13:16+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "315",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "29",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天，体感 15℃。风力 3级，小心着凉。",
+    "ai_briefing_en": "Shenzhen is cloudy, feels like 15℃. Mind the cool breeze!",
+    "alert": null
   }
 ]

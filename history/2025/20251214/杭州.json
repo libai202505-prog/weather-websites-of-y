@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州 8℃，体感 5℃。风干物燥，注意补水保湿哦。",
     "ai_briefing_en": "Hangzhou is 8℃, feels like 5℃. It's dry, so remember to hydrate and moisturize.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-14T12:34+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "315",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "16",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州体感 3℃。风有点大，注意防风。",
+    "ai_briefing_en": "Hangzhou feels 3℃, quite windy. Stay warm!",
+    "alert": null
   }
 ]

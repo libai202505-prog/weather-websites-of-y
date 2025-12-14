@@ -278,5 +278,25 @@
     "ai_briefing_zh": "沈阳体感 -8℃，虽然晴朗，保暖可是重中之重哦！",
     "ai_briefing_en": "Shenyang feels like -8℃, though sunny, keeping warm is key!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-14T16:16+08:00",
+    "temp": "-6",
+    "feelsLike": "-9",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "180",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "15",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳气温很低，风力不大，保暖工作要做好哦。",
+    "ai_briefing_en": "Shenyang is very cold with light wind. Make sure to dress warmly.",
+    "alert": null
   }
 ]

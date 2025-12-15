@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉多云，体感舒适。风力不大，适合户外散步。",
     "ai_briefing_en": "Wuhan is cloudy and feels good. Light breeze, suitable for outdoor walks.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-15T21:33+08:00",
+    "temp": "6",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "135",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "13",
+    "dew": "0",
+    "cloud": "3",
+    "ai_briefing_zh": "武汉多云，体感 5℃，湿度较高，出门带伞，注意添衣哦。",
+    "ai_briefing_en": "Wuhan is cloudy and feels like 5℃. High humidity, bring an umbrella and layer up.",
+    "alert": null
   }
 ]

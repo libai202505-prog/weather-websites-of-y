@@ -358,5 +358,25 @@
     "ai_briefing_zh": "南京晴朗，体感3℃，早晚温差大，注意及时添衣哦。",
     "ai_briefing_en": "Nanjing is clear but feels like 3°C. Big temperature swings, dress in layers.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-15T20:41+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "90",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "10",
+    "dew": "-4",
+    "cloud": "91",
+    "ai_briefing_zh": "南京晴朗，体感微凉。多喝温水，保持活力满满！",
+    "ai_briefing_en": "Nanjing is sunny and cool. Drink warm water to stay energized!",
+    "alert": null
   }
 ]

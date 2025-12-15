@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海 9℃ 晴朗，体感 7℃。出门穿暖些。",
     "ai_briefing_en": "Shanghai 9℃, feels like 7℃. Dress warmly when out.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-15T18:16+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "315",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "8",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "上海8℃，体感7℃，天气晴朗，记得添衣哦！",
+    "ai_briefing_en": "Shanghai is 8℃, feels like 7℃. Sunny, dress well!",
+    "alert": null
   }
 ]

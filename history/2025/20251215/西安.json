@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安晴朗但寒冷，体感 -2℃，多加衣物，注意防寒。",
     "ai_briefing_en": "Xi'an is sunny but cold, feels like -2℃. Layer up and stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-15T09:39+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "西安晴朗 2℃，体感很冷，风也凉，务必多穿！",
+    "ai_briefing_en": "Xi'an is sunny but feels very cold. Bundle up!",
+    "alert": null
   }
 ]

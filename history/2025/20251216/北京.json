@@ -378,5 +378,25 @@
     "ai_briefing_zh": "北京晴朗，但体感冻人，注意保暖别感冒哦！",
     "ai_briefing_en": "Beijing is clear but feels very cold. Bundle up to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-16T21:32+08:00",
+    "temp": "0",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "225",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "8",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "青岛有雾 8℃，风力 4级。能见度差，多穿衣，注意安全。",
     "ai_briefing_en": "Qingdao is foggy 8℃ with strong wind. Low visibility, dress warmly, stay safe.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-16T20:40+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "315",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "2",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛大雾，湿度大，风力 3 级，请注意行车安全。",
+    "ai_briefing_en": "Qingdao is very foggy, humid, and windy. Drive safely!",
+    "alert": null
   }
 ]

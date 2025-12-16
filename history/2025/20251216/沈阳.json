@@ -198,5 +198,25 @@
     "ai_briefing_zh": "沈阳晴天，气温 -4℃，体感 -10℃。风大，务必多穿！",
     "ai_briefing_en": "Shenyang: Feels -10℃! Dress very warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-16T12:24+08:00",
+    "temp": "-2",
+    "feelsLike": "-8",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "25",
+    "dew": "-12",
+    "cloud": "10",
+    "ai_briefing_zh": "晴朗 -2℃，体感 -8℃，风力 4级，出门防风保暖很重要哦！",
+    "ai_briefing_en": "Sunny -2℃, feels like -8℃ with a strong breeze. Stay warm and protected from wind!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

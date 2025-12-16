@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州阴天 12℃，体感 9℃。记得添衣，小心着凉！",
     "ai_briefing_en": "Hangzhou: Cloudy, feels 9℃. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-16T12:24+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "13",
+    "dew": "-1",
+    "cloud": "2",
+    "ai_briefing_zh": "多云 15℃，体感 12℃ 且风力 3级。出门添件薄外套哦。",
+    "ai_briefing_en": "Cloudy 15℃, feels like 12℃ with a gentle breeze. Grab a light jacket!",
+    "alert": null
   }
 ]

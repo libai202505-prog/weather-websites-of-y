@@ -338,5 +338,25 @@
     "ai_briefing_zh": "大连有霾 0℃，风大体感更冷，注意防霾保暖。",
     "ai_briefing_en": "Dalian is hazy at 0℃, strong wind makes it colder, mind the haze and stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-16T19:16+08:00",
+    "temp": "-1",
+    "feelsLike": "-8",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "315",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "8",
+    "dew": "-7",
+    "cloud": "91",
+    "ai_briefing_zh": "大连有霾 -1℃，风力 4级。空气质量差，出门戴口罩。",
+    "ai_briefing_en": "Dalian has haze -1℃, strong wind. Poor air, wear a mask outside.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

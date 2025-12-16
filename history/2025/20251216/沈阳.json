@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴天 -6℃，体感 -12℃。风大天冷，记得戴帽子手套！",
     "ai_briefing_en": "Clear -6℃, feels like -12℃. Windy and cold, wear gloves and hat!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-16T11:16+08:00",
+    "temp": "-4",
+    "feelsLike": "-10",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "17",
+    "dew": "-11",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳晴天，气温 -4℃，体感 -10℃。风大，务必多穿！",
+    "ai_briefing_en": "Shenyang: Feels -10℃! Dress very warm!",
+    "alert": null
   }
 ]

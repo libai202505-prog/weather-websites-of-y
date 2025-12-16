@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛有雾，气温偏低，保暖的同时注意行车安全。",
     "ai_briefing_en": "Qingdao is foggy and cold. Stay warm and drive safely.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-16T09:32+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "晴天 7℃，体感 3℃。风力不小，多穿点，注意防风！",
+    "ai_briefing_en": "Clear 7℃, feels like 3℃. Quite windy, dress warm and block the wind!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都阴冷潮湿，湿度 100%，多穿点别冻着啦。",
     "ai_briefing_en": "Chengdu is gloomy, cold, and very humid (100%). Dress warmly to avoid getting cold.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-16T09:33+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "3",
+    "cloud": "98",
+    "ai_briefing_zh": "多云 6℃，湿度 100%。有点湿冷，注意防潮和保暖！",
+    "ai_briefing_en": "Cloudy 6℃, 100% humidity. Damp and cold, stay warm!",
+    "alert": null
   }
 ]

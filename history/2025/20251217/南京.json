@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京有霾，9℃ 有些凉，出门请注意防护。",
     "ai_briefing_en": "Nanjing has haze, 9°C is a bit cool. Take precautions when out.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-17T12:24+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "4",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "南京有霾，体感 6℃，出行注意防寒保暖。",
+    "ai_briefing_en": "Nanjing: hazy, feels 6℃. Dress warmly.",
+    "alert": null
   }
 ]

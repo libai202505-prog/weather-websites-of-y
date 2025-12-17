@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安晴朗 8℃，风力不小，干燥注意补水哦。",
     "ai_briefing_en": "Xi'an is clear 8°C, quite windy. Dry, remember to hydrate.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-17T12:22+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "135",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "983",
+    "vis": "16",
+    "dew": "-4",
+    "cloud": "10",
+    "ai_briefing_zh": "西安晴冷干燥，体感 4℃，注意补水和保暖哦！",
+    "ai_briefing_en": "Xi'an: sunny, dry, feels 4℃. Hydrate, keep warm.",
+    "alert": null
   }
 ]

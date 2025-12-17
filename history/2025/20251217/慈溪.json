@@ -198,5 +198,25 @@
     "ai_briefing_zh": "慈溪晴好 14℃，微风吹拂，体感舒适。",
     "ai_briefing_en": "Cixi is clear 14°C, a gentle breeze, pleasant weather.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-17T12:24+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "9",
+    "dew": "0",
+    "cloud": "4",
+    "ai_briefing_zh": "慈溪有霾风大，注意防护，添件衣裳。",
+    "ai_briefing_en": "Cixi: hazy, windy. Take precautions.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

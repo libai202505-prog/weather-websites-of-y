@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安晴朗但湿度高，体感湿冷，注意保暖。",
     "ai_briefing_en": "Xi'an is sunny but very humid, feels damp cold. Remember to keep warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-17T11:09+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "西安晴朗 8℃，风力不小，干燥注意补水哦。",
+    "ai_briefing_en": "Xi'an is clear 8°C, quite windy. Dry, remember to hydrate.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "南京霾天，体感 4℃。天气阴冷，保暖别忘戴口罩。",
     "ai_briefing_en": "Nanjing hazy, feels like 4℃. Cold & gloomy, stay warm, wear a mask.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-17T20:40+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "6",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

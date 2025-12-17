@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雾 3℃，能见度低，开车注意安全。",
     "ai_briefing_en": "Wuhan: 3℃ foggy. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-17T09:32+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "4",
+    "dew": "1",
+    "cloud": "1",
+    "ai_briefing_zh": "武汉有霾且体感冷，注意防护和添衣保暖。",
+    "ai_briefing_en": "Wuhan is hazy and feels cold, take precautions and dress warmly.",
+    "alert": null
   }
 ]

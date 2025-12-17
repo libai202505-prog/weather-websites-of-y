@@ -238,5 +238,25 @@
     "ai_briefing_zh": "慈溪晴好，体感 11℃。风力 3级，出门添件衣裳哦。",
     "ai_briefing_en": "Cixi is sunny, feels like 11℃. A bit breezy, remember an extra layer!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-17T14:24+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "9",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "慈溪有霾，体感 11℃。外出记得戴口罩，注意健康！",
+    "ai_briefing_en": "Cixi is hazy, feels like 11℃. Wear a mask if you go out, stay safe!",
+    "alert": null
   }
 ]

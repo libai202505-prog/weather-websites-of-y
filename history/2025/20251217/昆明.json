@@ -238,5 +238,25 @@
     "ai_briefing_zh": "昆明阴天，体感 10℃，湿度大。出门记得带把伞哦。",
     "ai_briefing_en": "Kunming is cloudy, feels like 10℃ with high humidity. Remember your umbrella!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-17T14:26+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "816",
+    "vis": "15",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明阴天，体感 12℃。早晚较凉，记得添件外套！",
+    "ai_briefing_en": "Kunming is cloudy, feels like 12℃. Cooler mornings/evenings, bring a jacket!",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "沈阳晴好，体感 -3℃ 还有点冷。别忘多加衣哦。",
     "ai_briefing_en": "Shenyang is sunny but feels like -3℃. Don't forget to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-18T22:16+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "24",
+    "dew": "-4",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

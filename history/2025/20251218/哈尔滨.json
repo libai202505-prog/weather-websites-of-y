@@ -198,5 +198,25 @@
     "ai_briefing_zh": "严寒刺骨，体感冰冷，请务必全副武装防寒！",
     "ai_briefing_en": "Freezing cold! Bundle up completely to stay warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-18T12:24+08:00",
+    "temp": "-8",
+    "feelsLike": "-14",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "90",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "11",
+    "dew": "-12",
+    "cloud": "98",
+    "ai_briefing_zh": "哈尔滨 -8℃，体感 -14℃，务必穿暖和防冻！",
+    "ai_briefing_en": "Harbin: Frigid -8℃. Bundle up!",
+    "alert": null
   }
 ]

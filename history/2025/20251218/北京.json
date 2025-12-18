@@ -338,5 +338,25 @@
     "ai_briefing_zh": "北京霾天气温 2℃，体感很冷，外出记得戴口罩和保暖哦！",
     "ai_briefing_en": "Beijing is hazy and feels cold. Remember your mask and keep warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-18T20:32+08:00",
+    "temp": "3",
+    "feelsLike": "1",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "2",
+    "dew": "-4",
+    "cloud": "91",
+    "ai_briefing_zh": "北京霾重，体感 1℃，请注意防护，保暖出行。",
+    "ai_briefing_en": "Beijing haze, feels like 1℃. Stay warm and protect yourself!",
+    "alert": null
   }
 ]

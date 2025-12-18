@@ -318,5 +318,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-18T18:16+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "2",
+    "dew": "-4",
+    "cloud": "10",
+    "ai_briefing_zh": "北京霾天气温 2℃，体感很冷，外出记得戴口罩和保暖哦！",
+    "ai_briefing_en": "Beijing is hazy and feels cold. Remember your mask and keep warm!",
+    "alert": null
   }
 ]

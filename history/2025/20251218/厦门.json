@@ -358,5 +358,25 @@
     "ai_briefing_zh": "厦门多云，体感 17℃。风力稍大，海边游玩注意安全。",
     "ai_briefing_en": "Xiamen cloudy, feels like 17℃. Windy, be safe near the sea.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-18T21:24+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "14",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天，体感 14℃ 暖和，风力 3级。出门注意防风。",
+    "ai_briefing_en": "Xiamen is cloudy and feels warm at 14℃, with 3-level wind. Watch out for the wind!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

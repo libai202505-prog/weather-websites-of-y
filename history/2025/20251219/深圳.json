@@ -338,5 +338,25 @@
     "ai_briefing_zh": "深圳阴天，体感 23℃。注意天气变化，保持好心情哦！",
     "ai_briefing_en": "Shenzhen: Cloudy, feels 23℃. Keep an eye on changes!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-19T20:32+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "20",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳多云，气温 21℃，体感暖和，非常舒服呢。",
+    "ai_briefing_en": "Shenzhen is cloudy, 21℃, feeling warm and comfy.",
+    "alert": null
   }
 ]

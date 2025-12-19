@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉多云暖和，风力小，体感舒适，户外活动很不错。",
     "ai_briefing_en": "Wuhan is cloudy and warm with no wind. Perfect for outdoor activities!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-19T18:16+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "10",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云舒适，湿度较高，保持好心情。",
+    "ai_briefing_en": "Wuhan is cloudy and comfortable, but humid. Keep smiling!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

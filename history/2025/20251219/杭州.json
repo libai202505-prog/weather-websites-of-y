@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州阳光正好，气温宜人，快出门拥抱春天吧！",
     "ai_briefing_en": "Hangzhou is sunny and pleasant. Go out and embrace the spring!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-19T18:16+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "14",
+    "dew": "9",
+    "cloud": "7",
+    "ai_briefing_zh": "杭州阳光正好，体感舒适，宜出行。",
+    "ai_briefing_en": "Hangzhou is sunny and pleasant. Perfect for outdoor activities!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

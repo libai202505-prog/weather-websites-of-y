@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州有霾，风力较大，注意防护，小心着凉。",
     "ai_briefing_en": "Hazy in Hangzhou with strong winds, take precautions and avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-19T11:16+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "225",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "5",
+    "dew": "8",
+    "cloud": "4",
+    "ai_briefing_zh": "杭州有霾 15℃，体感凉，注意防霾保暖哦！",
+    "ai_briefing_en": "Hangzhou is hazy 15℃. Cool, mind the haze and stay warm!",
+    "alert": null
   }
 ]

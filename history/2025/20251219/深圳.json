@@ -318,5 +318,25 @@
     "ai_briefing_zh": "深圳阴天暖和，体感舒适，记得带伞。",
     "ai_briefing_en": "Shenzhen is cloudy and warm. Stay comfortable and bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-19T19:10+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "135",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "16",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天，体感 23℃。注意天气变化，保持好心情哦！",
+    "ai_briefing_en": "Shenzhen: Cloudy, feels 23℃. Keep an eye on changes!",
+    "alert": null
   }
 ]

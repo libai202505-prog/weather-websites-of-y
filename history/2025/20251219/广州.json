@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州大雨 15℃，出行记得带伞，注意安全。",
     "ai_briefing_en": "Guangzhou has heavy rain 15℃. Bring an umbrella, stay safe.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-19T09:32+08:00",
+    "temp": "17",
+    "feelsLike": "18",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "4",
+    "dew": "15",
+    "cloud": "2",
+    "ai_briefing_zh": "广州有雾，能见度低，开车出行请注意安全。",
+    "ai_briefing_en": "Foggy in Guangzhou, low visibility. Please drive safely.",
+    "alert": null
   }
 ]

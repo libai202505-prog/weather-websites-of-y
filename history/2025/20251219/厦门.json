@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门有阵雨，湿度很高，记得带伞出行。",
     "ai_briefing_en": "Xiamen has showers and high humidity, carry an umbrella.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-19T13:17+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "2",
+    "dew": "17",
+    "cloud": "98",
+    "ai_briefing_zh": "厦门有雾 16℃，湿度很高，注意路滑和潮湿。",
+    "ai_briefing_en": "Xiamen is foggy at 16℃ with high humidity. Watch out for slippery roads and dampness.",
+    "alert": null
   }
 ]

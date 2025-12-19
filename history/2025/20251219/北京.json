@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京有霾，出门记得戴口罩，注意保暖哦！",
     "ai_briefing_en": "Beijing has haze, wear a mask and keep warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-19T13:17+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "4",
+    "dew": "-8",
+    "cloud": "91",
+    "ai_briefing_zh": "北京霾天，体感较凉 4℃，出门请做好防护。",
+    "ai_briefing_en": "Beijing is hazy and feels cool at 4℃. Please take precautions outdoors.",
+    "alert": null
   }
 ]

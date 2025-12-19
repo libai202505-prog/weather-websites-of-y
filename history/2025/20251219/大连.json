@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大连阴天有点凉，湿度大，记得多添衣。",
     "ai_briefing_en": "Dalian is overcast and cool, high humidity, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-19T13:17+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "225",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "大连有雾 9℃，能见度差，出行请注意安全。",
+    "ai_briefing_en": "Dalian is foggy at 9℃ with poor visibility. Please take care when traveling.",
+    "alert": null
   }
 ]

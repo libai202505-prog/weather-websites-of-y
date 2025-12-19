@@ -278,5 +278,25 @@
     "ai_briefing_zh": "沈阳大雾体感 3℃，风大。注意保暖安全。",
     "ai_briefing_en": "Shenyang: Cold, foggy. Safe!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-19T17:16+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "8",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳有雾气温低，湿度大。注意出行安全，路面湿滑。",
+    "ai_briefing_en": "Shenyang is foggy and cool with high humidity. Be careful, roads might be slippery.",
+    "alert": null
   }
 ]

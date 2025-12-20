@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天，气温宜人，湿度适中，出行不必担心！",
     "ai_briefing_en": "Shanghai is cloudy with mild temperatures. Enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-20T14:24+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "3",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有霾，出门注意防护，空气质量不佳哦。",
+    "ai_briefing_en": "Shanghai is hazy, take protective measures when going out. Air quality is poor.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

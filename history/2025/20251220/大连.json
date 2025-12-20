@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连风大体感冷，注意防寒，多喝热水，保重身体。",
     "ai_briefing_en": "Dalian is windy and cold. Stay warm, drink hot water!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-20T13:08+08:00",
+    "temp": "2",
+    "feelsLike": "-4",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "100",
+    "ai_briefing_zh": "大连阴天，体感温度较低，风力较大，外出记得多穿衣！",
+    "ai_briefing_en": "Dalian is cloudy and feels cold with moderate winds. Dress warmly when going out!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

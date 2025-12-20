@@ -218,5 +218,25 @@
     "ai_briefing_zh": "沈阳天晴风大体感冷，多穿衣服，注意防寒保湿。",
     "ai_briefing_en": "Shenyang is sunny, windy, and cold. Dress warm, hydrate!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-20T13:08+08:00",
+    "temp": "-1",
+    "feelsLike": "-7",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "270",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-19",
+    "cloud": "8",
+    "ai_briefing_zh": "沈阳晴冷，体感温度低，风力较大，外出请注意防寒保暖！",
+    "ai_briefing_en": "Shenyang is sunny and feels cold with moderate winds. Dress warmly when going out!",
+    "alert": null
   }
 ]

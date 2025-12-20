@@ -378,5 +378,25 @@
     "ai_briefing_zh": "西安多云，气温偏低，早晚温差大，注意保暖。",
     "ai_briefing_en": "Xi'an is cloudy and cool. Big temperature difference between morning and night, keep warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-20T21:22+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "270",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴冷，体感偏低，记得穿厚外套暖和身体。",
+    "ai_briefing_en": "Xi'an is cloudy and cold, feels chilly, remember to wear a warm coat.",
+    "alert": null
   }
 ]

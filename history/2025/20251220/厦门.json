@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门有雾，气温19℃。出行注意安全，祝您愉快。",
     "ai_briefing_en": "Xiamen is foggy and 19℃. Drive safely, have a good day.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-20T11:10+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "5",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门有雾，出行注意交通安全，小心慢行。",
+    "ai_briefing_en": "Xiamen is foggy; please drive carefully and slowly.",
+    "alert": null
   }
 ]

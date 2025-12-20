@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉有霾，体感9℃。出门注意防护，小心着凉。",
     "ai_briefing_en": "Wuhan has haze, feels like 9℃. Take precautions when going out, avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-20T11:10+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "0",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有霾且风大，外出做好防护，小心感冒。",
+    "ai_briefing_en": "Wuhan has haze and wind; take precautions when out, avoid colds.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 4级"
   }
 ]

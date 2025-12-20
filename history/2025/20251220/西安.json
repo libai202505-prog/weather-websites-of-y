@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，气温 8℃。注意添衣，别着凉啦。",
     "ai_briefing_en": "Xi'an: Cool. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-20T09:32+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "24",
+    "precip": "0.0",
+    "pressure": "985",
+    "vis": "16",
+    "dew": "-2",
+    "cloud": "91",
+    "ai_briefing_zh": "西安阴天，体感5℃，有点凉。记得多喝水，注意保暖。",
+    "ai_briefing_en": "Xi'an is cloudy and feels like 5℃. Drink more water and stay warm.",
+    "alert": null
   }
 ]

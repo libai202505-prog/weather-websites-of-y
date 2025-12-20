@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州多云好天气，湿度大，记得多喝水哦。",
     "ai_briefing_en": "Guangzhou: Humid. Enjoy!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-20T09:33+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "10",
+    "ai_briefing_zh": "广州多云19℃，体感舒适，祝您有个愉快的一天！",
+    "ai_briefing_en": "Guangzhou is cloudy and 19℃. Enjoy your pleasant day!",
+    "alert": null
   }
 ]

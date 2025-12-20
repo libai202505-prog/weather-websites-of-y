@@ -278,5 +278,25 @@
     "ai_briefing_zh": "昆明多云，体感舒适，享受春城好天气吧。",
     "ai_briefing_en": "Kunming is cloudy and pleasant. Enjoy the Spring City weather!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-20T16:17+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "45",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "18",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明体感 12℃，微风舒适，注意早晚添衣哦。",
+    "ai_briefing_en": "Kunming feels 12℃ with a gentle breeze. Mind the morning/evening chill.",
+    "alert": null
   }
 ]

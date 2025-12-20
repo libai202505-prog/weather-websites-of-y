@@ -358,5 +358,25 @@
     "ai_briefing_zh": "慈溪有雾风大，驾车出行注意安全，别忘了添衣。",
     "ai_briefing_en": "Cixi is foggy and windy. Drive safely and remember to add a layer.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-20T20:32+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "4",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪有雾，驾车小心，昼夜温差大，别着凉。",
+    "ai_briefing_en": "Cixi is foggy, drive safely. Mind the temperature change, don't catch a cold.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "昆明多云微凉，风力稍大，出行注意保暖。",
     "ai_briefing_en": "Kunming is cloudy and a bit cool with some wind, dress warmly outdoors.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-20T20:32+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "17",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明多云，体感凉爽，早晚温差大，记得添衣。",
+    "ai_briefing_en": "Kunming is cloudy and cool. Large temperature difference, remember to add clothes.",
+    "alert": null
   }
 ]

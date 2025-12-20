@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海有霾，出门记得戴口罩，注意防护。",
     "ai_briefing_en": "Shanghai is hazy, wear a mask and protect yourself.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-20T17:08+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "225",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "2",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有霾湿度高，体感微凉。记得戴口罩，早晚添衣哦！",
+    "ai_briefing_en": "Shanghai is hazy and humid, feeling cool. Wear a mask and add layers!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

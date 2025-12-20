@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州有霾，体感 12℃，出门带好口罩，注意保暖。",
     "ai_briefing_en": "Hangzhou is hazy and feels 12℃. Wear a mask and stay warm.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-20T17:08+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "45",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "2",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州风力5级，体感偏冷。有霾记得戴口罩，注意防风保暖！",
+    "ai_briefing_en": "Hangzhou is windy and feels cold. Hazy, wear a mask, keep warm from wind!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

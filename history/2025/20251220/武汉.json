@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉有霾，体感 7℃，出门记得戴口罩，添衣保暖。",
     "ai_briefing_en": "Wuhan is hazy and 7℃. Wear a mask and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-20T17:08+08:00",
+    "temp": "10",
+    "feelsLike": "4",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "0",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "4",
+    "dew": "0",
+    "cloud": "98",
+    "ai_briefing_zh": "武汉风力5级，体感很冷。有霾戴口罩，注意防风保暖！",
+    "ai_briefing_en": "Wuhan is windy and feels very cold. Hazy, wear a mask, keep warm from wind!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 5级"
   }
 ]

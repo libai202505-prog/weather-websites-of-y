@@ -338,5 +338,25 @@
     "ai_briefing_zh": "北京晴朗但体感-5℃，北风 4级，记得多穿衣物保暖哦！",
     "ai_briefing_en": "Beijing is sunny but feels like -5℃ with a Level 4 northerly wind. Remember to dress warmly!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-20T19:08+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "16",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "30",
+    "dew": "-19",
+    "cloud": "0",
+    "ai_briefing_zh": "北京体感偏冷，户外注意保暖，多喝水哦。",
+    "ai_briefing_en": "Beijing feels chilly, stay warm outdoors and drink plenty of water.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉风力5级，体感很冷。有霾戴口罩，注意防风保暖！",
     "ai_briefing_en": "Wuhan is windy and feels very cold. Hazy, wear a mask, keep warm from wind!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-20T18:08+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "4",
+    "dew": "-2",
+    "cloud": "98",
+    "ai_briefing_zh": "武汉有霾，体感 6℃。风力 3级有点凉，记得戴口罩、多添衣！",
+    "ai_briefing_en": "Wuhan has haze and feels like 6℃. The Level 3 wind is a bit chilly, remember your mask and add layers!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉霾天风大，体感寒冷，请务必多穿衣戴口罩。",
     "ai_briefing_en": "Wuhan is hazy and windy, feels very cold. Please wear extra clothes and a mask.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-20T15:10+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "3",
+    "dew": "2",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉有霾，体感凉意，外出别忘戴口罩。",
+    "ai_briefing_en": "Wuhan has haze and feels cool. Remember your mask!",
+    "alert": null
   }
 ]

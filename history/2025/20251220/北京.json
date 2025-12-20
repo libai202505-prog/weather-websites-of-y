@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京风大天晴，体感很冷，注意保暖防风哦！",
     "ai_briefing_en": "Beijing is windy and clear, feels very cold. Remember to dress warmly and block the wind!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-20T15:09+08:00",
+    "temp": "3",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "315",
+    "humidity": "12",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "30",
+    "dew": "-23",
+    "cloud": "0",
+    "ai_briefing_zh": "北京风大体感冷，注意防风保暖哦！",
+    "ai_briefing_en": "Beijing is windy and feels cold. Stay warm!",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉阴天，体感 7℃。风小，别着凉哦！",
     "ai_briefing_en": "Wuhan: Cloudy. Feels 7℃. Warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-21T20:33+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "18",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 7℃。微凉，多喝热水暖暖身心。",
+    "ai_briefing_en": "Wuhan is overcast, feels like 7℃. Slightly cool, drink more hot water!",
+    "alert": null
   }
 ]

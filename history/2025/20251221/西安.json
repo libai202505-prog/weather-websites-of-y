@@ -338,5 +338,25 @@
     "ai_briefing_zh": "西安多云，体感 3℃。天气较干，记得多喝水哦！",
     "ai_briefing_en": "Xi'an is cloudy, feels like 3°C. Dry weather, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-21T19:11+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "135",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "974",
+    "vis": "16",
+    "dew": "0",
+    "cloud": "99",
+    "ai_briefing_zh": "西安阴天，体感 2℃。有 3级 风，多穿！",
+    "ai_briefing_en": "Xi'an: Cloudy. Feels 2℃. Warm.",
+    "alert": null
   }
 ]

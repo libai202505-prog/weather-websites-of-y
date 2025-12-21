@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天风大体感 1℃，湿冷。请多穿，注意防寒。",
     "ai_briefing_en": "Cloudy and windy, feels like 1℃. It's damp and cold, dress warmly!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-21T11:32+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "18",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴冷潮湿，体感较凉，别忘了穿暖和点。",
+    "ai_briefing_en": "Hangzhou is cold and damp, feels quite chilly, don't forget to dress warmly.",
+    "alert": null
   }
 ]

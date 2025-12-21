@@ -138,5 +138,25 @@
     "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
     "ai_briefing_en": "青岛: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-22T07:16+08:00",
+    "temp": "2",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛阴天2℃，体感-2℃，天气寒冷，记得保暖。",
+    "ai_briefing_en": "Qingdao is cloudy 2℃, feels -2℃. Cold weather, stay warm.",
+    "alert": null
   }
 ]

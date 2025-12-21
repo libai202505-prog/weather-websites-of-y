@@ -378,5 +378,25 @@
     "ai_briefing_zh": "深圳有雾，19℃。能见度低，驾车注意安全。",
     "ai_briefing_en": "Shenzhen is foggy at 19℃, low visibility. Drive safely and slowly!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-21T21:26+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "8",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳有雾，体感18℃。能见度低，出行注意安全哦！",
+    "ai_briefing_en": "Shenzhen is foggy, feels 18°C. Drive safely, visibility is low!",
+    "alert": null
   }
 ]

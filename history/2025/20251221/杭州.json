@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州阴冷潮湿，体感较凉，别忘了穿暖和点。",
     "ai_briefing_en": "Hangzhou is cold and damp, feels quite chilly, don't forget to dress warmly.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-21T12:32+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "21",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天微冷，注意添衣防感冒。",
+    "ai_briefing_en": "Cloudy and cool, dress warmly to avoid colds.",
+    "alert": null
   }
 ]

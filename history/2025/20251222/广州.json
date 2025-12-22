@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州多云，22℃。天气宜人，Enjoy the day！",
     "ai_briefing_en": "Guangzhou is cloudy, 22℃. Pleasant weather, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-22T17:25+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "0",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

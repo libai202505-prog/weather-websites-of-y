@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海体感 11℃，多穿件外套，别着凉啦！",
     "ai_briefing_en": "Shanghai feels like 11℃. Wear a jacket to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-22T16:24+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "27",
+    "dew": "5",
+    "cloud": "95",
+    "ai_briefing_zh": "上海阴天，体感 10℃。体感微凉，记得带件外套哦。",
+    "ai_briefing_en": "Shanghai is cloudy, feels like 10℃. A bit cool, bring a jacket.",
+    "alert": null
   }
 ]

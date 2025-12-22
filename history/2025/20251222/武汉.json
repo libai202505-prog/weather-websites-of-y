@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉体感 9℃，阴天微凉。记得多喝热水哦。",
     "ai_briefing_en": "Wuhan 9℃, cloudy. Drink warm water!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-22T21:24+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "8",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨 9℃，体感湿凉，出门记得带伞。",
+    "ai_briefing_en": "Wuhan has light rain 9℃. Feels damp and cool, take an umbrella.",
+    "alert": null
   }
 ]

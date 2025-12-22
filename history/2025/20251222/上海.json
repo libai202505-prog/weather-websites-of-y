@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天 12℃，微风舒适，记得带伞。",
     "ai_briefing_en": "Shanghai is overcast 12℃, a gentle breeze. Don't forget an umbrella!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-22T14:32+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "24",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴冷，体感 10℃。记得添衣，注意温差。",
+    "ai_briefing_en": "Shanghai feels like 10℃. Add layers for warmth.",
+    "alert": null
   }
 ]

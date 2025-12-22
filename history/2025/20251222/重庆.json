@@ -178,5 +178,25 @@
     "ai_briefing_zh": "重庆大雾10℃，湿度96%，出行注意安全！",
     "ai_briefing_en": "Chongqing dense fog 10℃, 96% humidity, stay safe when out!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-22T11:42+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "986",
+    "vis": "1",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆大雾 10℃，湿度高，出行注意。",
+    "ai_briefing_en": "Chongqing: Fog, 10℃. Be careful!",
+    "alert": null
   }
 ]

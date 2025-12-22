@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉阴天8℃，体感5℃，有风，出门多穿点。",
     "ai_briefing_en": "Wuhan cloudy 8℃, feels like 5℃, windy, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-22T11:40+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "14",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天 9℃，体感 7℃，多穿点哦！",
+    "ai_briefing_en": "Wuhan: 7℃ feels. Layer up!",
+    "alert": null
   }
 ]

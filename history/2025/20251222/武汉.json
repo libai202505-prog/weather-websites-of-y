@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天 9℃，体感 7℃，多穿点哦！",
     "ai_briefing_en": "Wuhan: 7℃ feels. Layer up!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-22T12:32+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "180",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "13",
+    "dew": "6",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉阴天，体感微凉，出门记得多穿点哦。",
+    "ai_briefing_en": "Wuhan is overcast and a bit cool. Remember to layer up!",
+    "alert": null
   }
 ]

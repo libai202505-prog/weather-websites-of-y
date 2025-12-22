@@ -218,5 +218,25 @@
     "ai_briefing_zh": "成都阴天，体感微凉，出门别忘添件薄外套。",
     "ai_briefing_en": "Chengdu is overcast and a bit cool. Don't forget a light jacket!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-22T13:17+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "956",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天，体感 9℃，湿度 60%，注意保暖，添衣勿忘。",
+    "ai_briefing_en": "Chengdu is overcast, feels like 9℃ with 60% humidity. Stay warm and dress in layers.",
+    "alert": null
   }
 ]

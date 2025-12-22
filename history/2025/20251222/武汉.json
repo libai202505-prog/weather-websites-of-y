@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉 10℃ 阴冷，多喝热水暖身心。",
     "ai_briefing_en": "Wuhan is cool and cloudy at 10℃. Stay warm and hydrated.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-22T20:41+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "10",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉体感 9℃，阴天微凉。记得多喝热水哦。",
+    "ai_briefing_en": "Wuhan 9℃, cloudy. Drink warm water!",
+    "alert": null
   }
 ]

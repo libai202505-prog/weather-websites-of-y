@@ -138,5 +138,25 @@
     "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
     "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-23T07:08+08:00",
+    "temp": "-4",
+    "feelsLike": "-9",
+    "text": "中雪",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "3",
+    "dew": "-7",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨中雪极寒，出行注意防滑保暖！",
+    "ai_briefing_en": "Heavy snow and freezing in Harbin. Watch out for slips and stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "小雨阵阵，风大湿冷。多穿衣，出门带伞，注意保暖哦。",
     "ai_briefing_en": "Light rain and strong, damp winds. Dress warmly, bring an umbrella, and stay cozy!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-23T12:32+08:00",
+    "temp": "6",
+    "feelsLike": "-1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "9",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛大雾且风大体感冷，能见度低，注意防寒和交通安全。",
+    "ai_briefing_en": "Qingdao is very foggy, windy and cold, drive safe and keep warm!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 5级"
   }
 ]

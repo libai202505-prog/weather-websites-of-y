@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉雾大风凉，体感较冷，多穿点。",
     "ai_briefing_en": "Foggy and windy in Wuhan, feels cold. Dress warmly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-23T09:32+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "10",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，体感 3℃。出行请注意安全，小心慢行！",
+    "ai_briefing_en": "Wuhan is foggy, feels like 3℃. Drive safe and take care!",
+    "alert": null
   }
 ]

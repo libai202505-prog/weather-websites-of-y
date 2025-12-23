@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都湿度 100%，多云湿冷，注意保暖。",
     "ai_briefing_en": "100% humidity in Chengdu, chilly. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2025-12-23T09:34+08:00",
+    "temp": "6",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "180",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "966",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "成都多云，体感 5℃ 左右，湿度 100%。注意添衣防潮哦！",
+    "ai_briefing_en": "Chengdu is cloudy, feels like 5℃. High humidity, stay warm!",
+    "alert": null
   }
 ]

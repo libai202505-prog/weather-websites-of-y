@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨中雪极寒，出行注意防滑保暖！",
     "ai_briefing_en": "Heavy snow and freezing in Harbin. Watch out for slips and stay warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-23T09:32+08:00",
+    "temp": "-2",
+    "feelsLike": "-7",
+    "text": "中雪",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "180",
+    "humidity": "93",
+    "precip": "1.0",
+    "pressure": "998",
+    "vis": "3",
+    "dew": "-4",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨中雪，体感 -7℃，风力较大。出行注意防滑保暖！",
+    "ai_briefing_en": "Harbin is snowing, feels like -7℃. Be careful and stay warm!",
+    "alert": null
   }
 ]

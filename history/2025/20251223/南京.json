@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京雾气浓，注意路况和健康。",
     "ai_briefing_en": "Heavy fog in Nanjing, mind the road and your health.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-23T09:32+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "12",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天微凉，体感 8℃。注意保暖，祝您顺利！",
+    "ai_briefing_en": "Nanjing is cloudy and cool, feels like 8℃. Stay warm!",
+    "alert": null
   }
 ]

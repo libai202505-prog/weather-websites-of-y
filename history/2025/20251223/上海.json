@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海大雾弥漫，出行注意安全，气温 10℃。",
     "ai_briefing_en": "Shanghai is very foggy, travel safely. It's 10℃.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-23T22:16+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

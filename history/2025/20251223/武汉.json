@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉有雾体感冷，注意交通安全和保暖。",
     "ai_briefing_en": "Wuhan is foggy and cold. Drive safely and keep warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-23T14:25+08:00",
+    "temp": "7",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "10",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天有些凉，出门记得穿暖和点呀！",
+    "ai_briefing_en": "Cloudy, cool. Dress warmly!",
+    "alert": null
   }
 ]

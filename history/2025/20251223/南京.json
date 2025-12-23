@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京有小雨体感冷，带伞多穿衣哦。",
     "ai_briefing_en": "Nanjing has light rain and feels cold. Bring an umbrella and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-23T14:25+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "大雾弥漫，开车慢点，注意安全哦！",
+    "ai_briefing_en": "Heavy fog, drive safe!",
+    "alert": null
   }
 ]

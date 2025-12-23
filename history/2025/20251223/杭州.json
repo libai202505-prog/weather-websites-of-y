@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州阴天微凉，注意添衣别感冒。",
     "ai_briefing_en": "Hangzhou is cloudy and cool. Dress warmly to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-23T14:25+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "19",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天微凉，外出注意添衣保暖哦！",
+    "ai_briefing_en": "Cloudy, cool. Dress warmly!",
+    "alert": null
   }
 ]

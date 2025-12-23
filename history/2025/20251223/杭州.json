@@ -358,5 +358,25 @@
     "ai_briefing_zh": "杭州阴天，体感 8℃。风大，注意防风保暖哦。",
     "ai_briefing_en": "HZ cloudy, 8℃. Windy, warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-23T20:33+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "98",
+    "ai_briefing_zh": "杭州有雾，体感 6℃。注意出行安全，小心驾驶！",
+    "ai_briefing_en": "Hangzhou 6℃. Foggy, caution!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

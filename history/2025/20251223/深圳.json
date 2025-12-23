@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳多云，湿度 90%。有点闷热，保持清爽！",
     "ai_briefing_en": "Shenzhen cloudy, humid. Fresh!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-23T20:34+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "135",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "12",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳多云，体感 19℃。湿度高，体感舒适。",
+    "ai_briefing_en": "Shenzhen 19℃. Cloudy, comfy.",
+    "alert": null
   }
 ]

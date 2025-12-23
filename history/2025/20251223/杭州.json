@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州阴天，体感 10℃ 微凉，北风习习，记得添衣哦！",
     "ai_briefing_en": "Hangzhou: Overcast. Feels 10℃, cool with north wind. Add a layer!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-23T18:16+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "8",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天有风，体感较凉，多穿件衣服再出门。",
+    "ai_briefing_en": "Hangzhou is cloudy and windy, feeling cool. Wear an extra layer!",
+    "alert": null
   }
 ]

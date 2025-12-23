@@ -318,5 +318,25 @@
     "ai_briefing_zh": "慈溪多云，体感 12℃ 宜人，但北风微凉，注意添衣！",
     "ai_briefing_en": "Cixi: Cloudy. Feels 12℃. North wind is cool, add a layer!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-23T18:16+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪多云，微风体感适中，注意适时添减衣物。",
+    "ai_briefing_en": "Cixi is cloudy with a moderate breeze. Dress appropriately.",
+    "alert": null
   }
 ]

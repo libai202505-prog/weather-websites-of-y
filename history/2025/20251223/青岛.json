@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛大雾且风大体感冷，能见度低，注意防寒和交通安全。",
     "ai_briefing_en": "Qingdao is very foggy, windy and cold, drive safe and keep warm!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 5级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-23T13:16+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "0",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "10",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛风力大体感冷，务必多穿防寒。",
+    "ai_briefing_en": "Qingdao is very windy and cold. Be sure to dress warmly.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

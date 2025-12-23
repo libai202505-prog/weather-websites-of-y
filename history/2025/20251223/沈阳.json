@@ -218,5 +218,25 @@
     "ai_briefing_zh": "沈阳中雪降临，路面湿滑，注意出行安全，多穿衣。",
     "ai_briefing_en": "Shenyang is snowing, roads are slick, stay safe and dress warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-23T13:16+08:00",
+    "temp": "1",
+    "feelsLike": "-2",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "270",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "9",
+    "dew": "-4",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳大雾弥漫体感冷，慢行保暖哦。",
+    "ai_briefing_en": "Shenyang is very foggy and cold. Drive slowly and stay warm.",
+    "alert": null
   }
 ]

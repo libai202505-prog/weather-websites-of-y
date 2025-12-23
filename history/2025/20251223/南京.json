@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京阴天体感 4℃，湿度 95%，注意防湿保暖。",
     "ai_briefing_en": "Nanjing cloudy, 4℃. High humidity, keep warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-23T17:16+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "11",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "南京大雾，体感 5℃ 湿冷，能见度低，务必注意安全！",
+    "ai_briefing_en": "Nanjing: Foggy. Feels 5℃, damp and cold. Low visibility, be safe!",
+    "alert": null
   }
 ]

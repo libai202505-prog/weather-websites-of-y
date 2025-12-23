@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉阴天体感 6℃，湿度 83%。注意防湿保暖。",
     "ai_briefing_en": "Wuhan cloudy, 6℃. Damp, keep warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-23T17:16+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "10",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感 7℃ 湿冷，风力不大，记得穿暖和点！",
+    "ai_briefing_en": "Wuhan: Overcast. Feels 7℃, damp and cold. Light wind, dress warmly!",
+    "alert": null
   }
 ]

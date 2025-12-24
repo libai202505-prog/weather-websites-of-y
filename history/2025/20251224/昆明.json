@@ -318,5 +318,25 @@
     "ai_briefing_zh": "昆明阴天，气温 14℃，体感舒适。但早晚仍需注意添衣。",
     "ai_briefing_en": "Kunming is cloudy at 14℃ and comfortable. Still, add clothes in morning/evening.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-24T18:16+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "225",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "809",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明多云，体感舒适，早晚温差注意添衣。",
+    "ai_briefing_en": "Kunming is cloudy and pleasant. Mind the temperature change between day and night.",
+    "alert": null
   }
 ]

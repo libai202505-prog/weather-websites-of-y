@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京晴朗体感 2℃，温差大，早晚注意保暖哦！",
     "ai_briefing_en": "Beijing is sunny but feels like 2℃. Big temperature difference, stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-24T15:16+08:00",
+    "temp": "6",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "315",
+    "humidity": "16",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗但风大体感冷，注意保暖防风，别着凉哦！",
+    "ai_briefing_en": "Sunny but windy and cold, keep warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：西北风 5级"
   }
 ]

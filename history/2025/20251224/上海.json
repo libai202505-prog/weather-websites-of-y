@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海有雾，能见度低，出行小心慢行。",
     "ai_briefing_en": "Shanghai: Foggy. Drive safe.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-24T11:16+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "5",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "上海有雾，能见度低，早安出行请注意安全！",
+    "ai_briefing_en": "Shanghai: Foggy. Stay safe!",
+    "alert": null
   }
 ]

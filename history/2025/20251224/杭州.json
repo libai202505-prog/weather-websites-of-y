@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州阴天，体感凉，记得带伞注意保暖。",
     "ai_briefing_en": "Hangzhou: Overcast, cool.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-24T11:16+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州雾气浓重 7℃，能见度差，出行千万小心。",
+    "ai_briefing_en": "Hangzhou: Foggy 7℃. Be safe!",
+    "alert": null
   }
 ]

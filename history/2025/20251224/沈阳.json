@@ -358,5 +358,25 @@
     "ai_briefing_zh": "沈阳多云，体感 -17℃。寒冷刺骨，请一定多穿厚衣服保暖！",
     "ai_briefing_en": "Cloudy in Shenyang, feels like -17℃. It's biting cold, so please layer up warmly!",
     "alert": "❄️ 橙色寒冷提示：体感低至 -17℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-24T20:32+08:00",
+    "temp": "-14",
+    "feelsLike": "-18",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "135",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "-15",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳体感 -18℃ 严寒，雾气大，出门务必多穿，注意安全！",
+    "ai_briefing_en": "Shenyang feels like -18°C with fog. Dress warmly and stay safe out there!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -18℃"
   }
 ]

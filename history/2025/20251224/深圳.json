@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳气温 20℃，体感 22℃，很舒适。多喝水，防晒也不能忘哦！",
     "ai_briefing_en": "Shenzhen is lovely at 20℃, feels like 22℃. Stay hydrated and remember sun protection!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-24T20:32+08:00",
+    "temp": "19",
+    "feelsLike": "20",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "9",
+    "dew": "15",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳有雾，体感 20℃ 暖和湿润，注意能见度，小心驾车！",
+    "ai_briefing_en": "Shenzhen is foggy and warm at 20°C. Mind visibility and drive carefully!",
+    "alert": null
   }
 ]

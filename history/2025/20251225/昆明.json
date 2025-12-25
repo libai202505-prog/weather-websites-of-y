@@ -238,5 +238,25 @@
     "ai_briefing_zh": "昆明阴冷，体感 1℃，记得多穿点，别冻着了！",
     "ai_briefing_en": "Kunming is overcast and chilly, feels like 1℃. Dress warmly to avoid getting cold!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-25T14:24+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "816",
+    "vis": "20",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天体感较冷，记得多穿件衣服。",
+    "ai_briefing_en": "Kunming is cloudy and cool. Remember to layer up!",
+    "alert": null
   }
 ]

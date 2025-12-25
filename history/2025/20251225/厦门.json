@@ -238,5 +238,25 @@
     "ai_briefing_zh": "厦门有阵雨，体感 11℃，出门带伞，注意防潮哦！",
     "ai_briefing_en": "Xiamen has showers, feels like 11℃. Bring an umbrella, stay dry!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-25T14:24+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "5",
+    "dew": "12",
+    "cloud": "99",
+    "ai_briefing_zh": "厦门大雾，能见度低，出行注意安全哦。",
+    "ai_briefing_en": "Xiamen is very foggy. Drive carefully, stay safe!",
+    "alert": null
   }
 ]

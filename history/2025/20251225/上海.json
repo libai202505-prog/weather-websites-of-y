@@ -218,5 +218,25 @@
     "ai_briefing_zh": "上海多云，气温 8℃，注意适时添衣哦。",
     "ai_briefing_en": "Shanghai is cloudy at 8℃, dress appropriately!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-25T13:16+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "12",
+    "dew": "-4",
+    "cloud": "5",
+    "ai_briefing_zh": "上海有点凉，体感 4℃，出门加件衣裳吧！",
+    "ai_briefing_en": "Shanghai is cool, feels like 4℃. Bring an extra layer when you go out!",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州多云有风，体感 3℃，小心别着凉哦。",
     "ai_briefing_en": "Hangzhou is breezy with a real feel of 3℃, keep warm!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-25T13:16+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "13",
+    "dew": "-5",
+    "cloud": "3",
+    "ai_briefing_zh": "杭州体感 4℃，别忘了加衣，注意防寒哦！",
+    "ai_briefing_en": "Hangzhou feels like 4℃. Don't forget layers and keep warm!",
+    "alert": null
   }
 ]

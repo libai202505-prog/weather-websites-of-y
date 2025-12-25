@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海晴朗，体感 3℃，早晚温差大，注意保暖。",
     "ai_briefing_en": "Shanghai is sunny, feels like 3℃. Mind the temp change.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-25T19:08+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "24",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "上海晴好，体感 2℃ 略凉，添衣防感冒哦。",
+    "ai_briefing_en": "Shanghai is sunny, feels 2℃. Add layers!",
+    "alert": null
   }
 ]

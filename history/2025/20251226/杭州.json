@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州体感 0℃，风力 3 级，穿暖暖防感冒哦！",
     "ai_briefing_en": "Hangzhou feels like 0°C, quite windy, dress warmly to prevent colds!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-26T11:16+08:00",
+    "temp": "5",
+    "feelsLike": "0",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "90",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "20",
+    "dew": "-7",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州天晴，体感 0℃，注意保暖别感冒哦。",
+    "ai_briefing_en": "Hangzhou, sunny but feels like 0℃. Stay warm!",
+    "alert": null
   }
 ]

@@ -398,5 +398,25 @@
     "ai_briefing_zh": "昆明 7℃，体感 6℃。虽晴好，早晚温差大，注意添衣。",
     "ai_briefing_en": "Kunming is 7℃, feels like 6℃. Sunny but with a big temp difference, layer up!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-26T22:12+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "225",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "15",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

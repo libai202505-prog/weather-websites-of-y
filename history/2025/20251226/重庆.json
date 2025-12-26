@@ -158,5 +158,25 @@
     "ai_briefing_zh": "重庆有雾，体感 8℃，能见度低，注意出行安全。",
     "ai_briefing_en": "Chongqing is foggy and feels like 8℃. Low visibility, travel safely.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-26T09:40+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "8",
+    "dew": "5",
+    "cloud": "97",
+    "ai_briefing_zh": "重庆大雾，湿度 90%，体感 8℃，注意交通安全。",
+    "ai_briefing_en": "Chongqing is foggy with 90% humidity, feels like 8°C, please be careful on the road.",
+    "alert": null
   }
 ]

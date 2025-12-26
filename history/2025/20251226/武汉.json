@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉晴朗，体感 6℃，风微凉，出门注意防风！",
     "ai_briefing_en": "Wuhan: feels 6℃. Breezy. Wind alert!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-26T16:24+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "135",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "22",
+    "dew": "-6",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，体感 6℃。白天阳光好，但早晚温差大。",
+    "ai_briefing_en": "Wuhan is sunny, feels like 6℃. Pleasant day, but mind the morning/night chill.",
+    "alert": null
   }
 ]

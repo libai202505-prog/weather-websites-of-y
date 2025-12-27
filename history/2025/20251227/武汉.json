@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉晴朗，体感 5℃，风力不大，很舒服。",
     "ai_briefing_en": "Wuhan is sunny and cool at 6℃. Enjoy the gentle day!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-27T19:10+08:00",
+    "temp": "4",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "90",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "8",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有雾，路面湿滑，请小心慢行，注意安全。",
+    "ai_briefing_en": "Wuhan is foggy and roads might be slick. Please drive safely.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉大雾，体感 -3℃，路滑，出行小心，注意保暖。",
     "ai_briefing_en": "Wuhan is foggy and slick, feels like -3℃. Drive carefully and stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-27T09:32+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "135",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "13",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，有点小湿冷，出门多穿一点点哦！",
+    "ai_briefing_en": "Wuhan is sunny, a bit damp and cold, wear an extra layer when going out!",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉有雾，路面湿滑，请小心慢行，注意安全。",
     "ai_briefing_en": "Wuhan is foggy and roads might be slick. Please drive safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-27T20:33+08:00",
+    "temp": "3",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉大雾，体感 2℃，能见度低，注意出行安全！",
+    "ai_briefing_en": "Wuhan is very foggy and 2℃. Low visibility, travel safely!",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳今天阳光明媚，温暖宜人，享受这好天气吧。",
     "ai_briefing_en": "Shenzhen is sunny and pleasant today. Enjoy the lovely weather!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-27T20:32+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "180",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "8",
+    "dew": "9",
+    "cloud": "0",
+    "ai_briefing_zh": "深圳有雾，体感 14℃，行车注意慢行，保持车距！",
+    "ai_briefing_en": "Shenzhen is foggy and 14℃. Drive slowly and keep distance!",
+    "alert": null
   }
 ]

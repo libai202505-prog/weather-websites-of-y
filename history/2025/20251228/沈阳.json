@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳多云有风，体感很冷，注意防风保暖！",
     "ai_briefing_en": "Shenyang is cloudy and windy, feels very cold. Stay warm and protect from wind!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-28T09:49+08:00",
+    "temp": "1",
+    "feelsLike": "-3",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "180",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "14",
+    "dew": "-7",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳多云，体感 -3℃，寒意浓浓，注意防寒。",
+    "ai_briefing_en": "Cloudy Shenyang feels like -3℃. It's chilly, keep warm!",
+    "alert": null
   }
 ]

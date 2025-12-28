@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉晴朗，气温 15℃，风力 3级，微凉记得防风哦。",
     "ai_briefing_en": "Wuhan: Sunny, cool. Breezy.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-28T15:10+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "180",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "14",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗舒适，微风和煦，适宜外出。",
+    "ai_briefing_en": "Sunny, comfy. Enjoy outside!",
+    "alert": null
   }
 ]

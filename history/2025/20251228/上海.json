@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海晴好，体感适宜，风和日丽好心情！",
     "ai_briefing_en": "Shanghai is sunny and mild, perfect weather for a good mood!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-28T17:10+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "10",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "上海晴天，体感 10 ℃。阳光正好，出门多走走吧！",
+    "ai_briefing_en": "Shanghai is sunny, feels like 10 ℃. Perfect for a stroll outside!",
+    "alert": null
   }
 ]

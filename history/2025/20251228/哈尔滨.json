@@ -218,5 +218,25 @@
     "ai_briefing_zh": "哈尔滨大雾，体感-9℃，风力 5级。务必多穿，出行注意安全哦！",
     "ai_briefing_en": "Harbin is foggy and feels -9℃ with strong winds. Be safe and dress very warmly!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-28T13:16+08:00",
+    "temp": "-2",
+    "feelsLike": "-10",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "180",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "6",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨-2℃，体感-10℃，风大有雾！保暖慢行哦。",
+    "ai_briefing_en": "Harbin, -2℃/-10℃, foggy & windy! Drive safe, stay warm!",
+    "alert": null
   }
 ]

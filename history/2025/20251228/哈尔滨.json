@@ -398,5 +398,25 @@
     "ai_briefing_zh": "哈尔滨雾气大，气温 -7℃，非常冷！务必穿厚点，小心地滑哦！",
     "ai_briefing_en": "Harbin is very foggy, -7℃, very cold! Be sure to dress warmly and watch out for slippery surfaces!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2025-12-28T22:08+08:00",
+    "temp": "-7",
+    "feelsLike": "-13",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "270",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "14",
+    "dew": "-11",
+    "cloud": "96",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": null
   }
 ]

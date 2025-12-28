@@ -278,5 +278,25 @@
     "ai_briefing_zh": "雾霾天气，注意防护，记得添衣。",
     "ai_briefing_en": "Hazy, mask up, stay warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2025-12-28T16:16+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "225",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "大连有霾天气凉，注意防护，多穿点哦！",
+    "ai_briefing_en": "Dalian is hazy and cool, take precautions and dress warmly!",
+    "alert": null
   }
 ]

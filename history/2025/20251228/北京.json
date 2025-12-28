@@ -278,5 +278,25 @@
     "ai_briefing_zh": "雾霾天气，戴口罩，注意保暖。",
     "ai_briefing_en": "Hazy. Wear mask, stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-28T16:16+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "135",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "6",
+    "dew": "-11",
+    "cloud": "2",
+    "ai_briefing_zh": "北京有霾，出门注意防护，小心着凉哦！",
+    "ai_briefing_en": "Beijing is hazy, protect yourself when going out and keep warm!",
+    "alert": null
   }
 ]

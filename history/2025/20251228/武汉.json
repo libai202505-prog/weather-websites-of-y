@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉有雾，能见度低。驾车慢行，注意交通安全呀！",
     "ai_briefing_en": "Wuhan is foggy with low visibility. Drive carefully and stay safe!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-28T20:32+08:00",
+    "temp": "4",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "135",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "5",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有雾又有点冷，注意出行安全和保暖。",
+    "ai_briefing_en": "Wuhan is foggy and cold. Stay safe and keep warm.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "慈溪阳光正好，气温 10℃ 左右，体感舒适，记得享受好天气！",
     "ai_briefing_en": "Cixi is sunny with comfortable 10℃. Enjoy the lovely weather!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2025-12-28T20:32+08:00",
+    "temp": "7",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "3",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "慈溪有雾，出行注意交通安全，小心慢行。",
+    "ai_briefing_en": "Cixi is foggy. Drive safely and take care on the roads.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

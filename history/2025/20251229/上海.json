@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海有霾，出门记得戴口罩，保护呼吸道！",
     "ai_briefing_en": "Shanghai has haze, wear a mask to protect your lungs!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-29T22:16+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "4",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

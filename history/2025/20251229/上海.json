@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海有霾 11℃，体感 9℃。出门记得戴口罩哦！",
     "ai_briefing_en": "Shanghai 11℃, hazy. Wear mask!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2025-12-29T21:32+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "6",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "上海有霾，出门记得戴口罩，保护呼吸道！",
+    "ai_briefing_en": "Shanghai has haze, wear a mask to protect your lungs!",
+    "alert": null
   }
 ]

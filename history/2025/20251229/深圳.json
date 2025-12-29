@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云天气，体感 21℃。气温适宜，记得多喝水。",
     "ai_briefing_en": "Partly cloudy, feels like 21℃. Pleasant day, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-29T17:25+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "9",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云20℃，暖暖的很舒服，保持好心情哦！",
+    "ai_briefing_en": "Shenzhen is cloudy and warm at 20℃. Enjoy the pleasant day!",
+    "alert": null
   }
 ]

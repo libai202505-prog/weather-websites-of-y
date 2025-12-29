@@ -298,5 +298,25 @@
     "ai_briefing_zh": "霾且风大，体感 2℃。注意防护，戴好口罩哦。",
     "ai_briefing_en": "Hazy and windy, feels like 2℃. Take precautions, wear a mask.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-29T17:24+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "315",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "2",
+    "dew": "0",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有霾体感2℃，注意防护和保暖，风大哦！",
+    "ai_briefing_en": "Qingdao has haze, feels 2℃. Protect yourself, stay warm, it's windy!",
+    "alert": null
   }
 ]

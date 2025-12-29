@@ -158,5 +158,25 @@
     "ai_briefing_zh": "晴朗但湿度高，早晚添衣，注意身体哦。",
     "ai_briefing_en": "Sunny but high humidity. Add clothes for morning/evening, take care.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2025-12-29T09:48+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "180",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "10",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明晴好，湿度 80%，体感 7℃，早晚添衣哦。",
+    "ai_briefing_en": "Kunming is sunny and 80% humid, feels like 7℃. Add layers morning/evening.",
+    "alert": null
   }
 ]

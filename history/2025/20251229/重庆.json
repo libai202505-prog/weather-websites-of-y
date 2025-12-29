@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天 13℃，体感 12℃。湿度较高，出门备好雨具。",
     "ai_briefing_en": "Overcast 13°C, feels like 12°C. High humidity, maybe an umbrella!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2025-12-29T16:24+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微凉，体感 12℃。湿度大，出门小心湿滑。",
+    "ai_briefing_en": "Overcast and cool, feels like 12℃. High humidity, watch for slippery spots.",
+    "alert": null
   }
 ]

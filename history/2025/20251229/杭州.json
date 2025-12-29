@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云 17℃，体感 14℃。早晚温差大，注意添减衣物。",
     "ai_briefing_en": "Cloudy 17°C, feels like 14°C. Mind the temp swings, dress smart!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2025-12-29T16:24+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "17",
+    "dew": "0",
+    "cloud": "99",
+    "ai_briefing_zh": "多云微凉，体感 14℃。早晚温差大，注意保暖。",
+    "ai_briefing_en": "Partly cloudy and cool, feels like 14℃. Mind the temp difference.",
+    "alert": null
   }
 ]

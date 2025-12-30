@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京有霾且风力 4级，体感较冷，出门注意防风保暖！",
     "ai_briefing_en": "Nanjing has haze and strong winds. It feels cold, so bundle up!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-30T12:22+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "4",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "南京晴朗 11℃，体感稍冷，注意保暖别着凉。",
+    "ai_briefing_en": "Nanjing is sunny at 11℃, feels a bit cool. Stay warm!",
+    "alert": null
   }
 ]

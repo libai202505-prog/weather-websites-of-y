@@ -358,5 +358,25 @@
     "ai_briefing_zh": "沈阳天寒地冻，注意防寒，多喝热水。",
     "ai_briefing_en": "Shenyang is freezing, stay warm and drink hot water.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-30T20:41+08:00",
+    "temp": "-12",
+    "feelsLike": "-16",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "30",
+    "dew": "-18",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴冷，体感-16℃。寒风刺骨，注意防寒哦。",
+    "ai_briefing_en": "Shenyang is sunny and cold, feels like -16℃. The wind is biting, stay warm!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -16℃ | 🟧 橙色降温提示：1小时降温3℃"
   }
 ]

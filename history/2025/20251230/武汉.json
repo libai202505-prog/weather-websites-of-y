@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉有霾，15℃。温馨提醒：注意防护，健康最重要！",
     "ai_briefing_en": "Wuhan has haze, 15℃. Gentle reminder: protect yourself, health is most important!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-30T16:25+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "7",
+    "dew": "5",
+    "cloud": "92",
+    "ai_briefing_zh": "武汉有霾，气温 15℃，出门记得戴口罩，保护自己。",
+    "ai_briefing_en": "Wuhan has haze, temperature 15℃. Remember to wear a mask when going out to protect yourself.",
+    "alert": null
   }
 ]

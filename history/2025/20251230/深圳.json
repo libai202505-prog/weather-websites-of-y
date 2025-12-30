@@ -318,5 +318,25 @@
     "ai_briefing_zh": "深圳多云，20℃ 左右，湿度较高。保持舒适最重要。",
     "ai_briefing_en": "Shenzhen is cloudy, around 20℃ and humid. Stay comfortable!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2025-12-30T18:16+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "135",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "6",
+    "dew": "12",
+    "cloud": "6",
+    "ai_briefing_zh": "深圳有雾，能见度低，出行慢些，注意安全哦。",
+    "ai_briefing_en": "Shenzhen has fog, visibility low. Drive safely and take care.",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉有霾，出门记得戴口罩，保护呼吸道健康。",
     "ai_briefing_en": "Wuhan has haze. Remember to wear a mask when going out for respiratory health.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-30T21:32+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "5",
+    "dew": "6",
+    "cloud": "97",
+    "ai_briefing_zh": "武汉有霾，注意防护。体感 10℃，记得多喝水。",
+    "ai_briefing_en": "Wuhan has haze, take precautions. Feels 10℃, remember to drink water.",
+    "alert": null
   }
 ]

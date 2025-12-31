@@ -278,5 +278,25 @@
     "ai_briefing_zh": "南京体感偏凉，风力不小，多穿点衣服哦。",
     "ai_briefing_en": "Nanjing feels cool, quite windy. Wear more clothes.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2025-12-31T16:24+08:00",
+    "temp": "6",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "13",
+    "dew": "-1",
+    "cloud": "99",
+    "ai_briefing_zh": "南京阴冷有 5级 风，体感 -1℃，出门务必多穿防风！",
+    "ai_briefing_en": "Nanjing is cloudy and cold with strong wind, feels like -1℃. Bundle up!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：东北风 5级"
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "广州天气温暖，但可能下雨，出门带伞哦。",
     "ai_briefing_en": "Guangzhou is warm, but it might rain. Bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-31T16:24+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 20℃ 舒适宜人，湿度较高，注意保持清爽。",
+    "ai_briefing_en": "Guangzhou is a pleasant 20℃ with high humidity. Stay fresh!",
+    "alert": null
   }
 ]

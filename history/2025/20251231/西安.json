@@ -238,5 +238,25 @@
     "ai_briefing_zh": "西安雨夹雪，体感很冷！注意防湿防滑。",
     "ai_briefing_en": "Xi'an: Sleet, cold. Mind wet & slip.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-31T14:32+08:00",
+    "temp": "0",
+    "feelsLike": "-5",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴冷湿气重，体感 -5℃。防寒防潮很重要！",
+    "ai_briefing_en": "Xi'an is cloudy, damp, and feels like -5℃. Stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

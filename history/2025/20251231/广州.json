@@ -338,5 +338,25 @@
     "ai_briefing_zh": "广州多云湿度高，注意防潮，保持心情舒畅哦！",
     "ai_briefing_en": "Guangzhou is humid, stay comfy and cheerful!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2025-12-31T19:08+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "10",
+    "ai_briefing_zh": "广州阴天，湿度 86%。体感舒适，但略有潮湿。",
+    "ai_briefing_en": "GZ: 16℃, humid. Feel cozy.",
+    "alert": null
   }
 ]

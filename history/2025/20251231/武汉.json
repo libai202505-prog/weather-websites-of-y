@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉小雨体感1℃，又湿又冷风力大，带伞多穿衣！",
     "ai_briefing_en": "Wuhan has light rain and feels like 1℃, bring an umbrella and layer up!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2025-12-31T19:08+08:00",
+    "temp": "6",
+    "feelsLike": "-1",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "45",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉中雨，体感 -1℃。风力 5级，务必保暖带伞！",
+    "ai_briefing_en": "Wuhan: -1℃, rain, wind. Stay dry!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

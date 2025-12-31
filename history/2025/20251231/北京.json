@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京很冷，体感-10℃！注意保暖，别着凉哦。",
     "ai_briefing_en": "Beijing is chilly at -10℃! Stay warm and bundle up, dear.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2025-12-31T12:32+08:00",
+    "temp": "-2",
+    "feelsLike": "-6",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "225",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "30",
+    "dew": "-21",
+    "cloud": "3",
+    "ai_briefing_zh": "北京很冷哦，体感 -6℃，注意保暖！",
+    "ai_briefing_en": "Beijing is chilly, feels like -6℃. Stay warm!",
+    "alert": null
   }
 ]

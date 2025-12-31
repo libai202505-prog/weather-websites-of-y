@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛体感 -3℃，今天比较冷，多穿点哦。",
     "ai_briefing_en": "Qingdao feels like -3℃. It's quite cold today, layer up!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-31T13:16+08:00",
+    "temp": "2",
+    "feelsLike": "-4",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "315",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "-9",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛风大体感冷，注意防风保暖，别着凉。",
+    "ai_briefing_en": "Qingdao: Windy, cold. Keep warm!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

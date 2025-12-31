@@ -358,5 +358,25 @@
     "ai_briefing_zh": "西安阴天，体感 -6℃。湿度 100%，出门小心湿滑！",
     "ai_briefing_en": "Xi'an: -6℃, 100% humidity. Slippery!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-31T20:32+08:00",
+    "temp": "-1",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "982",
+    "vis": "16",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "西安体感-6℃，湿度 100%。寒冷潮湿，注意保暖防滑。",
+    "ai_briefing_en": "Xi'an feels -6℃, 100% humidity. Cold and damp, stay warm and careful.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

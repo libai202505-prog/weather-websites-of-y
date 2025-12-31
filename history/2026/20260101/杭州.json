@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
     "ai_briefing_en": "杭州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-01T07:16+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "雨夹雪",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "0",
+    "humidity": "91",
+    "precip": "1.0",
+    "pressure": "1022",
+    "vis": "8",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州雨夹雪，体感 -1℃，路面湿滑，注意保暖和安全！",
+    "ai_briefing_en": "Hangzhou has sleet, feels like -1℃. Roads are slippery, stay warm and safe!",
+    "alert": null
   }
 ]

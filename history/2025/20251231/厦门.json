@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天微凉，体感13℃。风力大，出门记得添衣。",
     "ai_briefing_en": "Overcast, cool, feels like 13℃. Windy, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-31T18:17+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "23",
+    "dew": "10",
+    "cloud": "98",
+    "ai_briefing_zh": "厦门风力较大，体感13℃，出门多穿件外套哦！",
+    "ai_briefing_en": "Xiamen is breezy and feels like 13℃, bring a light jacket!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

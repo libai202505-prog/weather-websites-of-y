@@ -318,5 +318,25 @@
     "ai_briefing_zh": "多云寒冷，体感-5℃。风力大，请注意防寒！",
     "ai_briefing_en": "Cloudy, cold, feels like -5℃. Windy, keep warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2025-12-31T18:16+08:00",
+    "temp": "0",
+    "feelsLike": "-4",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "27",
+    "dew": "-9",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛体感-4℃，风力不小，多穿暖和点，小心感冒！",
+    "ai_briefing_en": "Qingdao feels like -4℃ with wind, dress very warmly to avoid colds!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安雨夹雪，体感-2℃，出门带伞，注意防滑。",
     "ai_briefing_en": "Xi'an has sleet and feels like -2℃. Bring an umbrella, watch your step!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2025-12-31T11:22+08:00",
+    "temp": "2",
+    "feelsLike": "0",
+    "text": "雨夹雪",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "1.0",
+    "pressure": "979",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "西安雨夹雪，体感0℃。路面湿滑，请小心慢行。",
+    "ai_briefing_en": "Xi'an has sleet, feels like 0℃. Roads are slippery, be careful!",
+    "alert": null
   }
 ]

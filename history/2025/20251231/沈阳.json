@@ -378,5 +378,25 @@
     "ai_briefing_zh": "沈阳体感-22℃，虽然晴朗，但还是要注意防寒。",
     "ai_briefing_en": "Shenyang feels -22℃. Sunny but cold, remember to stay warm.",
     "alert": "🥶 红色极寒警报：体感低至 -22℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2025-12-31T21:24+08:00",
+    "temp": "-19",
+    "feelsLike": "-23",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "16",
+    "dew": "-21",
+    "cloud": "7",
+    "ai_briefing_zh": "沈阳晴天体感 -23℃，非常冷，注意防寒保暖。",
+    "ai_briefing_en": "Shenyang is sunny but feels -23℃. It's very cold, stay warm!",
+    "alert": "🥶 红色极寒警报：体感低至 -23℃"
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "厦门阴天，体感 10℃，风有点大，注意添衣防风。",
     "ai_briefing_en": "Xiamen is cloudy, feels 10℃ with wind. Add a layer and stay warm.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2025-12-31T21:24+08:00",
+    "temp": "14",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "45",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门阴天风力 5级，体感 8℃。风大体感凉，注意保暖。",
+    "ai_briefing_en": "Xiamen is cloudy with strong wind, feels 8℃. Stay warm!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

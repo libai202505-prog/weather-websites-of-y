@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天，体感微凉。记得带伞，小心着凉感冒哦。",
     "ai_briefing_en": "Shanghai is overcast and cool. Bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-01T16:24+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "25",
+    "dew": "0",
+    "cloud": "99",
+    "ai_briefing_zh": "上海体感 3℃，阴沉湿冷。记得添衣，照顾好自己。",
+    "ai_briefing_en": "Shanghai feels 3℃, cloudy and chilly. Remember to layer up and take care.",
+    "alert": null
   }
 ]

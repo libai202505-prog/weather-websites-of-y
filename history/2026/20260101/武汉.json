@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴冷，体感低于 0℃，多穿保暖，当心着凉感冒。",
     "ai_briefing_en": "Wuhan is overcast and cold, feels below 0℃. Stay warm to avoid colds!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-01T16:24+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "15",
+    "dew": "1",
+    "cloud": "92",
+    "ai_briefing_zh": "武汉体感 -2℃，阴沉湿冷。暖宝宝备好了吗？",
+    "ai_briefing_en": "Wuhan feels -2℃, cloudy and damp. Got your hand warmers ready?",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "昆明晴天，体感 2℃，湿度 90%，温差大注意保暖！",
     "ai_briefing_en": "Kunming is clear, feels like 2℃, 90% humidity. Big temperature difference, stay warm!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-01T09:48+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "812",
+    "vis": "18",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明晴天，早晚温差大，记得加减衣物。",
+    "ai_briefing_en": "Kunming is sunny with large day-night temperature differences. Remember to adjust your clothing.",
+    "alert": null
   }
 ]

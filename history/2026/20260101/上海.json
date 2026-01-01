@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海阴天，体感 2℃，微凉，记得多穿件外套哦！",
     "ai_briefing_en": "Shanghai is cloudy, feels like 2℃. A bit chilly, remember to wear an extra coat!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-01T09:48+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "45",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "29",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴冷，体感偏低，保暖是关键哦。",
+    "ai_briefing_en": "Cloudy and chilly in Shanghai, it feels colder. Keeping warm is key.",
+    "alert": null
   }
 ]

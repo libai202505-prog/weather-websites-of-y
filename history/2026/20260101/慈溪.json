@@ -158,5 +158,25 @@
     "ai_briefing_zh": "慈溪阵雨并有 4 级风，体感 2℃，出行记得带伞添衣！",
     "ai_briefing_en": "Cixi has showers and 4-level wind, feels like 2℃. Take an umbrella and dress warmly!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-01T09:48+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "16",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪小雨，体感湿冷，别忘了带伞加衣。",
+    "ai_briefing_en": "Light rain in Cixi, feeling damp and cold. Don't forget your umbrella and warm clothes.",
+    "alert": null
   }
 ]

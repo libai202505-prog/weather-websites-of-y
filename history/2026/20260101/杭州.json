@@ -378,5 +378,25 @@
     "ai_briefing_zh": "杭州体感 -1℃，阴冷潮湿。出门保暖，别着凉了。",
     "ai_briefing_en": "Hangzhou feels like -1℃, damp and chilly. Stay warm when out, don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-01T21:24+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "15",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州体感 -1℃，阴冷。多穿厚衣服，别冻着了哦。",
+    "ai_briefing_en": "Hangzhou feels like -1℃, cloudy and cold. Bundle up!",
+    "alert": null
   }
 ]

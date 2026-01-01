@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州体感 14℃，风力 4级有点凉。记得添件外套哦。",
     "ai_briefing_en": "Guangzhou feels 14℃, a bit cool with a Level 4 wind. Don't forget a jacket!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-01T17:17+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴凉，体感15℃。早晚温差大，注意添减衣物。",
+    "ai_briefing_en": "Guangzhou: Cloudy, feels 15℃. Mind the temperature changes!",
+    "alert": null
   }
 ]

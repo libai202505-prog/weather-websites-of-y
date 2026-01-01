@@ -398,5 +398,25 @@
     "ai_briefing_zh": "北京真冷，体感 -10℃。记得多穿衣，注意保暖哦！",
     "ai_briefing_en": "Beijing is very cold, feels like -10℃. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-01T22:08+08:00",
+    "temp": "-7",
+    "feelsLike": "-10",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "13",
+    "dew": "-21",
+    "cloud": "91",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

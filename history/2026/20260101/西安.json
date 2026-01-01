@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安阴冷湿润，体感冰冷，小心着凉哦。",
     "ai_briefing_en": "Xi'an is cloudy, cold, and damp. It feels icy, so take care not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-01T11:38+08:00",
+    "temp": "1",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "16",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "西安阴天湿冷，体感 -2℃，湿度 100%，出门小心路滑。",
+    "ai_briefing_en": "Xi'an is overcast and damp-cold, feels like -2℃ with 100% humidity. Be careful of slippery roads.",
+    "alert": null
   }
 ]

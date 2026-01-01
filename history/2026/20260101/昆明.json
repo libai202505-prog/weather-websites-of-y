@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明晴天，早晚温差大，记得加减衣物。",
     "ai_briefing_en": "Kunming is sunny with large day-night temperature differences. Remember to adjust your clothing.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-01T11:42+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "11",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明多云微凉，体感 9℃，早晚温差大，注意添减衣物。",
+    "ai_briefing_en": "Kunming is cloudy and a bit cool, feels like 9℃. Mind the temperature difference between day and night.",
+    "alert": null
   }
 ]

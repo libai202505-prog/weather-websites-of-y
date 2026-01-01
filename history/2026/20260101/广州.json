@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州天气舒适，体感 18℃，阴天出门带件薄外套。",
     "ai_briefing_en": "Guangzhou is comfortable, feels like 18℃. Take a light jacket for overcast days.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-01T12:41+08:00",
+    "temp": "21",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云舒适 18℃，风力不小，外出注意防风。",
+    "ai_briefing_en": "Guangzhou feels like 18℃, partly cloudy. Breezy, so mind the wind!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

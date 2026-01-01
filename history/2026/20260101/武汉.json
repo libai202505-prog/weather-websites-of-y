@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉阴冷，体感 -1℃，北风 3级，湿度大，请注意防寒。",
     "ai_briefing_en": "Wuhan is cloudy and damp cold, feels like -1℃. Remember to keep warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-01T15:16+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "15",
+    "dew": "1",
+    "cloud": "93",
+    "ai_briefing_zh": "阴冷，体感低于 0℃，多穿保暖，当心着凉感冒。",
+    "ai_briefing_en": "Wuhan is overcast and cold, feels below 0℃. Stay warm to avoid colds!",
+    "alert": null
   }
 ]

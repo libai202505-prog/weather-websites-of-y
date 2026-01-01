@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州阴天湿冷，体感 1℃，北风 3级，穿暖和再出门哦。",
     "ai_briefing_en": "Hangzhou is cloudy and damp cold, feels like 1℃. Dress warmly before heading out.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-01T15:16+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "24",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "阴冷潮湿，体感 0℃，多穿点，暖暖和和别感冒！",
+    "ai_briefing_en": "Hangzhou is cold and damp, feels like 0℃. Bundle up to avoid catching a cold!",
+    "alert": null
   }
 ]

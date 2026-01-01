@@ -258,5 +258,25 @@
     "ai_briefing_zh": "深圳阴天，气温 20℃，微风舒适，但昼夜温差也需留意。",
     "ai_briefing_en": "Shenzhen is cloudy, 20℃. Light breeze, still mind the day-night temperature difference.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-01T15:16+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "15",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天温度宜人，出门散步很舒服，但记得带伞哦。",
+    "ai_briefing_en": "Shenzhen is overcast and pleasant. Great for a walk, but bring an umbrella!",
+    "alert": null
   }
 ]

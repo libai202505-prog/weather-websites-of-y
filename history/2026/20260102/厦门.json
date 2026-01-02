@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门晴朗，体感 10℃，风力 4级，出门加件外套，别着凉哦。",
     "ai_briefing_en": "Sunny Xiamen, feels like 10℃ with winds. Wear a jacket when going out to avoid a chill.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-02T13:16+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "45",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门风力较大，体感微凉，出门要注意防风保暖哦！",
+    "ai_briefing_en": "Xiamen is quite windy and feels a bit cool, take care to stay warm and guard against wind!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

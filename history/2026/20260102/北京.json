@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京体感-5℃，天晴干燥，注意保暖补水！",
     "ai_briefing_en": "Beijing: -5℃. Warm, hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-02T12:32+08:00",
+    "temp": "2",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "270",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "28",
+    "dew": "-18",
+    "cloud": "0",
+    "ai_briefing_zh": "北京晴朗但寒冷，体感 -2℃，注意保暖，多喝水哦。",
+    "ai_briefing_en": "Sunny in Beijing but feels like -2℃. Stay warm and hydrated!",
+    "alert": null
   }
 ]

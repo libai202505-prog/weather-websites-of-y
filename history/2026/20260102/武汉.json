@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉体感0℃，湿度较高。多云天，穿暖别感冒。",
     "ai_briefing_en": "Wuhan: 0℃. Humid. Dress warm, stay well!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-02T12:32+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1034",
+    "vis": "15",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴冷，体感 1℃。多穿点，注意防寒，别感冒了。",
+    "ai_briefing_en": "Overcast and chilly Wuhan, feels like 1℃. Dress warmly to avoid catching a cold.",
+    "alert": null
   }
 ]

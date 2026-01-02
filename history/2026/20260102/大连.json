@@ -258,5 +258,25 @@
     "ai_briefing_zh": "大连晴冷，体感-8℃，风力 3级，务必做好御寒措施。",
     "ai_briefing_en": "Dalian is clear and cold, feels like -8℃. With level 3 wind, be sure to keep warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-02T15:16+08:00",
+    "temp": "-2",
+    "feelsLike": "-7",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-11",
+    "cloud": "1",
+    "ai_briefing_zh": "大连晴朗但体感严寒，出门多穿，注意防风。",
+    "ai_briefing_en": "Dalian is clear but bitterly cold. Dress very warmly and mind the wind.",
+    "alert": null
   }
 ]

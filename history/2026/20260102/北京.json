@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京好冷，体感-8℃，注意保暖防寒！",
     "ai_briefing_en": "Beijing is chilly, feels like -8℃. Stay warm and protect from cold!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-02T11:32+08:00",
+    "temp": "0",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "225",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "30",
+    "dew": "-19",
+    "cloud": "0",
+    "ai_briefing_zh": "北京体感-5℃，天晴干燥，注意保暖补水！",
+    "ai_briefing_en": "Beijing: -5℃. Warm, hydrate!",
+    "alert": null
   }
 ]

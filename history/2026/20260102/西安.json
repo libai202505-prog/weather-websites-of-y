@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安体感-4℃，湿度 100%，湿冷，注意保暖。",
     "ai_briefing_en": "Xi'an feels like -4℃ with 100% humidity. It's damp and cold, stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-02T11:34+08:00",
+    "temp": "-1",
+    "feelsLike": "-5",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "225",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "16",
+    "dew": "-3",
+    "cloud": "91",
+    "ai_briefing_zh": "西安体感-5℃，湿度 100%。天冷潮湿，多加衣物！",
+    "ai_briefing_en": "Xi'an: -5℃, 100% humid. Dress warm!",
+    "alert": null
   }
 ]

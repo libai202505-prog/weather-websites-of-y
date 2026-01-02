@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州天气晴好，体感舒适。风力 4级，注意防风哦！",
     "ai_briefing_en": "Guangzhou is sunny and pleasant. Mind the 4-level wind!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-02T17:16+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "广州阳光正好，气温 15℃。早晚温差大，别忘了添减衣物。",
+    "ai_briefing_en": "Guangzhou is sunny at 15°C. Mind the temperature changes, dress accordingly.",
+    "alert": null
   }
 ]

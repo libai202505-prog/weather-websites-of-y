@@ -138,5 +138,25 @@
     "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
     "ai_briefing_en": "昆明: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-03T07:10+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "18",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明多云，体感 5℃。湿度大，早晚注意添衣，小心着凉！",
+    "ai_briefing_en": "Kunming is cloudy at 5℃ with high humidity. Dress warmly, especially in mornings/evenings!",
+    "alert": null
   }
 ]

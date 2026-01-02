@@ -318,5 +318,25 @@
     "ai_briefing_zh": "西安阴冷，体感 -3℃，湿度较高。注意保暖，别感冒了。",
     "ai_briefing_en": "Xi'an is overcast and feels like -3°C with high humidity. Stay warm to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-02T18:13+08:00",
+    "temp": "0",
+    "feelsLike": "-3",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "985",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "阴冷体感零下。多穿衣，防感冒！",
+    "ai_briefing_en": "Overcast, feels cold. Stay warm!",
+    "alert": null
   }
 ]

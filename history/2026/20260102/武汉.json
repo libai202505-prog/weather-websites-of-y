@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉多云，体感 2℃，略有湿冷感。记得多添衣哦。",
     "ai_briefing_en": "Wuhan is cloudy, feels like 2°C with dampness. Remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-02T18:16+08:00",
+    "temp": "2",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "11",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "多云潮湿体感零度。注意保暖！",
+    "ai_briefing_en": "Cloudy, humid, 0℃. Wear layers!",
+    "alert": null
   }
 ]

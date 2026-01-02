@@ -238,5 +238,25 @@
     "ai_briefing_zh": "广州风力不小，早晚温差大，别忘了添衣防风哦！",
     "ai_briefing_en": "Guangzhou is quite windy, with a large day-night temp difference, remember to layer up!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-02T14:24+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "广州天气晴朗很舒适，体感 13℃，享受阳光吧！",
+    "ai_briefing_en": "Guangzhou is sunny and comfy, feels like 13℃. Enjoy the sunshine!",
+    "alert": null
   }
 ]

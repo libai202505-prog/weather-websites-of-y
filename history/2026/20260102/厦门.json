@@ -278,5 +278,25 @@
     "ai_briefing_zh": "厦门晴朗温暖，风力较大，出门注意防风防晒。",
     "ai_briefing_en": "Xiamen is sunny and warm, but windy. Mind the wind and sun.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-02T16:24+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门多云，体感 10℃ 左右，温度适宜，享受生活。",
+    "ai_briefing_en": "Xiamen is cloudy and feels about 10℃. The temperature is pleasant, enjoy life!",
+    "alert": null
   }
 ]

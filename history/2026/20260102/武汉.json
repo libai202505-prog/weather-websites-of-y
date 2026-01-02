@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉阴天微冷，体感偏凉，记得多穿衣服哦。",
     "ai_briefing_en": "Wuhan is overcast and chilly. Remember to wear extra layers.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-02T16:24+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "16",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天体感 2℃，湿冷感强。外出注意添衣保暖。",
+    "ai_briefing_en": "Wuhan is gloomy and feels like 2℃, damp and cold. Dress warm!",
+    "alert": null
   }
 ]

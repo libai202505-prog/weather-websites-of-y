@@ -338,5 +338,25 @@
     "ai_briefing_zh": "晴朗体感偏冷。多穿衣，小心着凉！",
     "ai_briefing_en": "Clear, feels chilly. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-02T19:10+08:00",
+    "temp": "1",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "20",
+    "dew": "-14",
+    "cloud": "0",
+    "ai_briefing_zh": "南京体感 -1℃，晴朗无风。虽然无风，也要注意保暖哦。",
+    "ai_briefing_en": "Nanjing feels like -1℃, clear and no wind. Stay warm even without wind.",
+    "alert": null
   }
 ]

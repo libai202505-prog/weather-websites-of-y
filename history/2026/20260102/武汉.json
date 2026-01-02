@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉 2℃有雾，体感湿冷。出行注意安全，多穿衣。",
     "ai_briefing_en": "Wuhan is 2℃ with fog and feels damp. Travel safely and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-02T21:24+08:00",
+    "temp": "2",
+    "feelsLike": "0",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "6",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有雾，体感0℃，出门小心慢行，注意防寒。",
+    "ai_briefing_en": "Wuhan is foggy and feels 0℃. Drive carefully and keep warm.",
+    "alert": null
   }
 ]

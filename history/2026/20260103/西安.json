@@ -238,5 +238,25 @@
     "ai_briefing_zh": "西安体感寒冷，请务必多穿几层，暖暖和和过一天。",
     "ai_briefing_en": "Xi'an feels very cold. Be sure to layer up and stay warm all day.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-03T14:22+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "980",
+    "vis": "16",
+    "dew": "-6",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴冷，体感 -1℃。超高湿度，千万别着凉！",
+    "ai_briefing_en": "Cold and cloudy Xi'an, feels like -1℃. Very humid, don't catch a cold!",
+    "alert": null
   }
 ]

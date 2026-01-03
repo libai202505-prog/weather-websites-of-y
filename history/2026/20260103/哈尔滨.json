@@ -278,5 +278,25 @@
     "ai_briefing_zh": "哈尔滨多云，体感 -17℃！严寒来袭，务必全副武装，注意防冻！",
     "ai_briefing_en": "Harbin is cloudy and feels like -17℃! It's freezing, so dress very warmly and prevent frostbite.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -17℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-01-03T16:16+08:00",
+    "temp": "-13",
+    "feelsLike": "-17",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "225",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "10",
+    "dew": "-17",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨天寒地冻，体感 -17℃！一定要裹严实哦！",
+    "ai_briefing_en": "Harbin is freezing, feels like -17℃! Make sure to bundle up warmly!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -17℃"
   }
 ]

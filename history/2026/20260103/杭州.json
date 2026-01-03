@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州有霾，体感 1℃。出门请戴口罩，注意添衣。",
     "ai_briefing_en": "Hangzhou is hazy, real feel 1℃. Wear a mask and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-03T13:10+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "9",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州有霾且体感冷，出门记得戴口罩，注意保暖哦。",
+    "ai_briefing_en": "Hangzhou has haze and feels cold. Wear a mask outdoors and keep warm!",
+    "alert": null
   }
 ]

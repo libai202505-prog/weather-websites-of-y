@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海晴朗，体感 2℃，早晚温差大，注意添衣。",
     "ai_briefing_en": "Shanghai is sunny, feels like 2℃. Mind the temp difference.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-03T19:08+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "13",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "上海晴朗，体感2℃，早晚温差大，记得及时添衣哦。",
+    "ai_briefing_en": "Shanghai is sunny, feels like 2℃. Mind the temperature difference, dress accordingly!",
+    "alert": null
   }
 ]

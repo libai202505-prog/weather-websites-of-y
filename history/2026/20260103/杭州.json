@@ -358,5 +358,25 @@
     "ai_briefing_zh": "杭州晴朗，体感1℃，早晚温差大，别忘了保暖哦。",
     "ai_briefing_en": "Hangzhou is sunny, feels like 1℃. Big temperature swing, remember to stay warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-03T20:33+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "135",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "6",
+    "dew": "-6",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州有霾，气温 3℃。外出请戴口罩，保护呼吸道。",
+    "ai_briefing_en": "Hangzhou is hazy, 3℃. Wear a mask outdoors for protection.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉大雾湿冷，出行小心慢行，注意保暖。",
     "ai_briefing_en": "Wuhan is foggy, damp, and cold. Drive carefully, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-03T11:16+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "9",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云微凉，体感 3℃。风力稍大，出门加衣防寒。",
+    "ai_briefing_en": "Wuhan is cloudy and cool, feels like 3℃. It's a bit windy, so add layers when you go out.",
+    "alert": null
   }
 ]

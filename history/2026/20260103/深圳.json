@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳晴朗，体感 5℃，东北风 3级。早晚温差大，别着凉！",
     "ai_briefing_en": "Shenzhen feels like 5℃. Mind the temperature change, stay warm!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-03T09:32+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "27",
+    "dew": "0",
+    "cloud": "0",
+    "ai_briefing_zh": "深圳天气晴朗舒适，享受美好的一天吧！",
+    "ai_briefing_en": "Shenzhen is clear and pleasant. Enjoy your beautiful day!",
+    "alert": null
   }
 ]

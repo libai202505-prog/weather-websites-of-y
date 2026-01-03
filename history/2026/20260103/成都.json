@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都阴天湿度 100%，湿冷感明显。注意防潮保暖，小心感冒！",
     "ai_briefing_en": "Chengdu is damp and feels chilly. Stay warm and watch out for colds!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-03T09:32+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "966",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴冷湿漉漉，注意防潮保暖，别着凉。",
+    "ai_briefing_en": "Chengdu is cloudy, cold, and damp. Stay warm and dry.",
+    "alert": null
   }
 ]

@@ -398,5 +398,25 @@
     "ai_briefing_zh": "青岛晴朗，体感 0℃。外出记得穿厚一点哦。",
     "ai_briefing_en": "Qingdao is sunny but feels like 0℃. Remember to dress warmly when outside!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-03T22:16+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "10",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

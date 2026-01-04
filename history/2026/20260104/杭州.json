@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州有霾，气温 4℃。外出请注意防护，呼吸健康最重要！",
     "ai_briefing_en": "Hangzhou has haze, 4℃. Please protect yourself outdoors, health first!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-04T11:41+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "270",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "6",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州有霾，气温有点凉。注意防护，多喝水！",
+    "ai_briefing_en": "Hangzhou has haze and it's a bit cool. Stay protected and hydrated!",
+    "alert": null
   }
 ]

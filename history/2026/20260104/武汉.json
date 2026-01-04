@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉大雾，能见度低。出行务必减速慢行，注意安全！",
     "ai_briefing_en": "Wuhan has heavy fog, low visibility. Drive slowly and stay safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-04T11:46+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "4",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉大雾，能见度低。驾车请慢行，注意保暖！",
+    "ai_briefing_en": "Wuhan is very foggy with low visibility. Drive slowly and stay warm!",
+    "alert": null
   }
 ]

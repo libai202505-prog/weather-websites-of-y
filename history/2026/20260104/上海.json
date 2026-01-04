@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海小雨飘，气温 6℃，出门记得带伞，小心路滑。",
     "ai_briefing_en": "Light rain in Shanghai, 6℃. Don't forget your umbrella, be careful!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-04T22:10+08:00",
+    "temp": "5",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "4",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

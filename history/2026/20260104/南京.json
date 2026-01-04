@@ -398,5 +398,25 @@
     "ai_briefing_zh": "南京雨夹雪，体感 1℃，地面湿滑，请小心慢行，注意防寒。",
     "ai_briefing_en": "Sleet in Nanjing, feels like 1℃. Roads are slippery, drive safe and stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-04T22:10+08:00",
+    "temp": "3",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "1",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

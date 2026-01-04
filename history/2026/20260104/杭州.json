@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州大雾 5℃，能见度低，出行请注意交通安全。",
     "ai_briefing_en": "Heavy fog in Hangzhou, 5℃. Low visibility, drive safely please.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-04T18:18+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "4",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，体感 3℃，出门带伞，注意路滑哦。",
+    "ai_briefing_en": "Light rain in Hangzhou, feels like 3℃. Carry an umbrella and watch your step!",
+    "alert": null
   }
 ]

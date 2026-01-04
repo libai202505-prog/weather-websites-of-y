@@ -378,5 +378,25 @@
     "ai_briefing_zh": "广州晴朗，体感 10℃，昼夜温差大，别着凉。",
     "ai_briefing_en": "Sunny in Guangzhou, feels like 10℃. Big temperature difference, don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-04T21:24+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "广州晴好，但湿度高，早晚温差大，注意适时增减衣物。",
+    "ai_briefing_en": "Guangzhou is sunny but humid. Mind the temperature changes!",
+    "alert": null
   }
 ]

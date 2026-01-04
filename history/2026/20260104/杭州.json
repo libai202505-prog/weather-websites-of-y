@@ -278,5 +278,25 @@
     "ai_briefing_zh": "小雨微凉，外出记得带伞，注意保暖。",
     "ai_briefing_en": "Light rain and cool. Bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-04T16:16+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "3",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州大雾弥漫，气温 5℃ 较冷，请注意交通安全和保暖。",
+    "ai_briefing_en": "Dense fog in Hangzhou, a cold 5℃. Please drive carefully and stay warm.",
+    "alert": null
   }
 ]

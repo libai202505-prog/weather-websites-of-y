@@ -278,5 +278,25 @@
     "ai_briefing_zh": "大雾笼罩，气温偏低，请注意出行安全。",
     "ai_briefing_en": "Dense fog and cool. Please be safe when traveling.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-04T16:16+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，体感 2℃ 湿冷，出行注意保暖和安全。",
+    "ai_briefing_en": "Fog in Wuhan, feels damp and cold at 2℃. Stay warm and safe when traveling.",
+    "alert": null
   }
 ]

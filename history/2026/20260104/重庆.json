@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天湿润，气温舒适，保持好心情。",
     "ai_briefing_en": "Overcast and humid, pleasant temperature. Keep a good mood!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-04T16:16+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "12",
+    "dew": "5",
+    "cloud": "97",
+    "ai_briefing_zh": "重庆阴天，体感 8℃ 较凉，湿度较高，注意防潮保暖。",
+    "ai_briefing_en": "Overcast in Chongqing, a cool 8℃ with high humidity. Stay warm and mind the dampness.",
+    "alert": null
   }
 ]

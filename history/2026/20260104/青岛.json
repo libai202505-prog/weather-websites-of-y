@@ -278,5 +278,25 @@
     "ai_briefing_zh": "雾霾天气，能见度一般，外出戴好口罩。",
     "ai_briefing_en": "Hazy weather, moderate visibility. Wear a mask outdoors.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-04T16:16+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "315",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "5",
+    "dew": "-4",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有霾，体感 2℃ 伴有风，外出注意防护和保暖。",
+    "ai_briefing_en": "Haze in Qingdao, feels like 2℃ with wind. Wear protection and stay warm outdoors.",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉有雾，体感 2℃ 湿冷，出行注意保暖和安全。",
     "ai_briefing_en": "Fog in Wuhan, feels damp and cold at 2℃. Stay warm and safe when traveling.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-04T17:10+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "270",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "7",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾 5℃，能见度不高，注意交通安全和保暖。",
+    "ai_briefing_en": "Foggy in Wuhan, 5℃. Low visibility. Drive safely and keep warm.",
+    "alert": null
   }
 ]

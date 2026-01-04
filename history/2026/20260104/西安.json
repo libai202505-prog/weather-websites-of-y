@@ -298,5 +298,25 @@
     "ai_briefing_zh": "西安阴天，体感 -1℃ 寒冷，风力不小，务必多穿衣。",
     "ai_briefing_en": "Overcast in Xi'an, a cold -1℃ with noticeable wind. Make sure to dress warmly.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-04T17:14+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "981",
+    "vis": "16",
+    "dew": "-7",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天 4℃，体感微凉，记得添衣，注意防寒。",
+    "ai_briefing_en": "Xi'an is overcast, 4℃. Feels a bit chilly, dress warmly to keep out the cold.",
+    "alert": null
   }
 ]

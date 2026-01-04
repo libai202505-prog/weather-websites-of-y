@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海阴天，体感 7℃。出门记得带把伞，注意保暖防寒。",
     "ai_briefing_en": "Shanghai is cloudy, feels like 7°C. Bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-04T15:16+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "15",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微凉无风，外出记得带件外套。",
+    "ai_briefing_en": "Cloudy and cool with no wind. Bring a jacket when going out.",
+    "alert": null
   }
 ]

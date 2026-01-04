@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州有小雨，体感 5℃。出门带伞，注意防湿防着凉。",
     "ai_briefing_en": "Hangzhou has light rain, feels like 5°C. Carry an umbrella, stay dry.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-04T15:16+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "4",
+    "dew": "-5",
+    "cloud": "99",
+    "ai_briefing_zh": "小雨微凉，外出记得带伞，注意保暖。",
+    "ai_briefing_en": "Light rain and cool. Bring an umbrella and stay warm.",
+    "alert": null
   }
 ]

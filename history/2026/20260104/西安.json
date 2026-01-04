@@ -358,5 +358,25 @@
     "ai_briefing_zh": "西安多云，体感 零下1℃。早晚温差大，注意添衣。",
     "ai_briefing_en": "Xi'an is cloudy, feeling like -1℃. Big temperature swings, dress accordingly.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-04T20:32+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "983",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "6",
+    "ai_briefing_zh": "西安多云，体感 -1℃。风寒，记得多穿点。",
+    "ai_briefing_en": "Cloudy in Xi'an, feels like -1℃. It's windy and cold, dress warmly.",
+    "alert": null
   }
 ]

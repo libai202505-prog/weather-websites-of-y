@@ -338,5 +338,25 @@
     "ai_briefing_zh": "南京有霾，气温 5℃。出门戴口罩，保护呼吸道健康。",
     "ai_briefing_en": "Nanjing is hazy, 5℃. Wear a mask when out for your health.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-05T19:16+08:00",
+    "temp": "4",
+    "feelsLike": "3",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "3",
+    "dew": "-3",
+    "cloud": "10",
+    "ai_briefing_zh": "南京有霾，体感 3℃。出门记得戴口罩，保护呼吸道。",
+    "ai_briefing_en": "Nanjing has haze, feels like 3℃. Wear a mask when going out to protect your lungs.",
+    "alert": null
   }
 ]

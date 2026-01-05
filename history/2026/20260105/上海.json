@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海多云，气温 5℃ 左右。风小，湿度大，体感尚可。",
     "ai_briefing_en": "Shanghai is cloudy, around 5℃. Low wind, stay comfortable!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-05T19:17+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "225",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "3",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有雾，体感 3℃，注意交通安全和呼吸道健康。",
+    "ai_briefing_en": "Shanghai is foggy, feels like 3℃, mind traffic safety and respiratory health.",
+    "alert": null
   }
 ]

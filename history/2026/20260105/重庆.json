@@ -198,5 +198,25 @@
     "ai_briefing_zh": "重庆有雾，湿度高，能见度低，开车注意安全哦。",
     "ai_briefing_en": "Foggy and humid in Chongqing. Drive safely due to low visibility.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-05T12:48+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "8",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆阴天 10℃，体感 8℃，微凉，记得添件衣服。",
+    "ai_briefing_en": "Chongqing is overcast 10℃, feels like 8℃. It's a bit cool, remember to add a layer.",
+    "alert": null
   }
 ]

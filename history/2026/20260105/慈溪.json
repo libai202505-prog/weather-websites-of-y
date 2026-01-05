@@ -218,5 +218,25 @@
     "ai_briefing_zh": "慈溪大雾 1℃，北风 4级，小心慢行，注意保暖。",
     "ai_briefing_en": "Cixi is foggy and chilly 1℃ with strong wind. Drive carefully and stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-05T13:32+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "4",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪有雾风大，体感很冷！出行务必小心，注意保暖。",
+    "ai_briefing_en": "Foggy and windy in Cixi, feels very cold! Drive safely and keep warm.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

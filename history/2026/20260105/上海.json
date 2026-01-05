@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海有雾，体感湿冷。注意添衣，出行小心驾驶。",
     "ai_briefing_en": "Shanghai is foggy and damp. Dress warmly and drive carefully.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-05T11:49+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "315",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "7",
+    "dew": "-2",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有霾，气温不高，出行记得戴口罩、添衣保暖。",
+    "ai_briefing_en": "Hazy and cool in Shanghai. Remember your mask and extra layers!",
+    "alert": null
   }
 ]

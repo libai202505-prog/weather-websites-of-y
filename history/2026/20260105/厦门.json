@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门有雾，能见度低，外出请注意交通安全。",
     "ai_briefing_en": "Fog in Xiamen! Drive carefully, visibility is low.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-05T09:48+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "7",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门有雾，能见度低。出行注意交通安全哦！",
+    "ai_briefing_en": "Xiamen is foggy with low visibility. Drive safely!",
+    "alert": null
   }
 ]

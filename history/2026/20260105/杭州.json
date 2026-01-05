@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州雨夹雪，体感湿冷，带好雨具，注意保暖。",
     "ai_briefing_en": "Sleet in Hangzhou! It's damp and cold, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-05T09:48+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "5",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州有雾体感冻，出行注意交通安全，保暖要做好。",
+    "ai_briefing_en": "Hangzhou is foggy and freezing. Drive safely and stay warm.",
+    "alert": null
   }
 ]

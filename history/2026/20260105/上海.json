@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海有雾，能见度低，驾车请慢行，注意安全。",
     "ai_briefing_en": "Fog in Shanghai! Drive slowly and stay safe.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-05T09:48+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "270",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "3",
+    "dew": "-1",
+    "cloud": "67",
+    "ai_briefing_zh": "上海有雾，体感湿冷。注意添衣，出行小心驾驶。",
+    "ai_briefing_en": "Shanghai is foggy and damp. Dress warmly and drive carefully.",
+    "alert": null
   }
 ]

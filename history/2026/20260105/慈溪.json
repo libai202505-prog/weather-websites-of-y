@@ -158,5 +158,25 @@
     "ai_briefing_zh": "慈溪雨夹雪体感凉，出门带伞，注意路滑。",
     "ai_briefing_en": "Sleet in Cixi! Take an umbrella and watch your step.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-05T09:48+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "4",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪有雾风大，体感较冷。出行请注意交通安全和防寒。",
+    "ai_briefing_en": "Cixi is foggy and windy. Drive safely and keep warm!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

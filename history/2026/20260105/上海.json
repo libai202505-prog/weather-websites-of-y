@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海有霾，体感凉凉。出门戴口罩，注意添衣哦！",
     "ai_briefing_en": "Hazy in Shanghai, feels cool. Wear a mask when out and dress warmly!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-05T14:30+08:00",
+    "temp": "7",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "90",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "7",
+    "dew": "-3",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天，气温 7℃，感觉有点凉。注意保暖哦！",
+    "ai_briefing_en": "Shanghai is cloudy, 7℃. It feels a bit chilly, stay warm!",
+    "alert": null
   }
 ]

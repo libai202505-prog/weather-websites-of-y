@@ -238,5 +238,25 @@
     "ai_briefing_zh": "成都阴天，体感 8℃。温度不高，多加衣物别着凉。",
     "ai_briefing_en": "Overcast in Chengdu, feels 8℃. Keep warm and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-05T14:33+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天，气温 9℃。微凉的天气，别忘了喝杯热茶！",
+    "ai_briefing_en": "Chengdu is cloudy, 9℃. A bit cool, maybe a warm cup of tea?",
+    "alert": null
   }
 ]

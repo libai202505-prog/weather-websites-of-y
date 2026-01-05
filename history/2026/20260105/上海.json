@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-05T21:32+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "270",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "3",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有霾，气温 4℃，出门请戴好口罩哦。",
+    "ai_briefing_en": "Shanghai has haze at 4℃. Wear a mask when going out.",
+    "alert": null
   }
 ]

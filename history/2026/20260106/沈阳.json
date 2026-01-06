@@ -378,5 +378,25 @@
     "ai_briefing_zh": "沈阳风力强劲，体感极寒，请务必做好防风保暖。",
     "ai_briefing_en": "Shenyang has strong winds and feels extremely cold. Please bundle up!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-06T21:32+08:00",
+    "temp": "-1",
+    "feelsLike": "-11",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "315",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "-12",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳风力大体感冷，外出务必多穿，小心防风！",
+    "ai_briefing_en": "Shenyang is very windy and feels extremely cold. Dress in many layers and protect yourself from wind!",
+    "alert": "💨 北风警报：西北风 6级"
   }
 ]

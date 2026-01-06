@@ -378,5 +378,25 @@
     "ai_briefing_zh": "广州风力较大，气温偏凉，记得多穿件衣服呀。",
     "ai_briefing_en": "Guangzhou is windy and cool. Remember to wear an extra layer!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-06T21:32+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "0",
+    "cloud": "4",
+    "ai_briefing_zh": "广州阳光正好，虽暖也要注意，昼夜温差大哦！",
+    "ai_briefing_en": "Guangzhou is sunny and nice, but mind the temperature changes between day and night!",
+    "alert": null
   }
 ]

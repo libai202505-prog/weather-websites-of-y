@@ -378,5 +378,25 @@
     "ai_briefing_zh": "深圳风力不小，虽然晴朗，体感还是有点凉哦。",
     "ai_briefing_en": "Shenzhen is sunny but windy. It feels a bit cool, so dress accordingly.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-06T21:32+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "17",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳北风体感凉，多穿衣物防寒，别感冒了！",
+    "ai_briefing_en": "Shenzhen feels cool with the north wind. Dress warmly to prevent colds!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

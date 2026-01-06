@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉晴好，体感微凉。出门别忘带件外套哦。",
     "ai_briefing_en": "Wuhan: Clear & cool. Don't forget a jacket!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-06T19:10+08:00",
+    "temp": "3",
+    "feelsLike": "1",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "225",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "21",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，体感 1 ℃。气温低，无风也需多穿衣！",
+    "ai_briefing_en": "Sunny in Wuhan, feels cold. Dress warmly even with no wind!",
+    "alert": null
   }
 ]

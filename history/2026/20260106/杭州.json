@@ -338,5 +338,25 @@
     "ai_briefing_zh": "杭州有雾，体感湿冷。出行注意安全，别忘添衣！",
     "ai_briefing_en": "Hangzhou: Foggy, damp-cold. Drive safe, layer up!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-06T19:10+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "4",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州大雾，体感 1 ℃，湿度 81%！出行注意安全，保暖。",
+    "ai_briefing_en": "Heavy fog in Hangzhou, feels cold. Drive safely and keep warm!",
+    "alert": null
   }
 ]

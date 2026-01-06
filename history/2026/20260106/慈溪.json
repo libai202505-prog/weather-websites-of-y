@@ -338,5 +338,25 @@
     "ai_briefing_zh": "慈溪有霾，气温不高，出门记得戴口罩、添衣！",
     "ai_briefing_en": "Cixi: Hazy, cool. Mask up, dress warm!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-06T19:10+08:00",
+    "temp": "6",
+    "feelsLike": "-1",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "0",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "2",
+    "dew": "1",
+    "cloud": "95",
+    "ai_briefing_zh": "慈溪有霾，风力 5 级体感冷！戴口罩，多穿点哦！",
+    "ai_briefing_en": "Hazy with strong winds in Cixi, feels cold. Wear a mask and bundle up!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 5级"
   }
 ]

@@ -398,5 +398,25 @@
     "ai_briefing_zh": "杭州有雾气温低，慢行注意安全，记得多添衣！",
     "ai_briefing_en": "Hangzhou is foggy and cold. Drive carefully and remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-06T22:16+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "7",
+    "dew": "1",
+    "cloud": "2",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

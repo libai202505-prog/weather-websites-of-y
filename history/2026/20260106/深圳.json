@@ -398,5 +398,25 @@
     "ai_briefing_zh": "深圳北风体感凉，多穿衣物防寒，别感冒了！",
     "ai_briefing_en": "Shenzhen feels cool with the north wind. Dress warmly to prevent colds!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-06T22:16+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "18",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
+    "ai_briefing_en": "深圳: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天湿冷，注意保暖，别让湿气入侵身体。",
     "ai_briefing_en": "Overcast and damp cold. Stay warm, protect yourself from the dampness.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-06T15:16+08:00",
+    "temp": "4",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "816",
+    "vis": "26",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天体感 -1℃，东北风 4 级。湿冷感强，注意防寒哦！",
+    "ai_briefing_en": "Cloudy and feels -1℃ in Kunming with northeast winds. It's damp and cold, so stay warm!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

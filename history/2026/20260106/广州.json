@@ -258,5 +258,25 @@
     "ai_briefing_zh": "晴朗却风大体感冷，出门多穿，注意防风。",
     "ai_briefing_en": "Sunny but windy and cold. Dress warmly, mind the wind!",
     "alert": "💨 北风警报：北风 6级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-06T15:16+08:00",
+    "temp": "13",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "6",
+    "windSpeed": "41",
+    "wind360": "45",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "广州阳光好，但风力 6 级体感冷！外出务必防风保暖。",
+    "ai_briefing_en": "Sunny in Guangzhou, but strong winds make it feel cold! Dress warmly against the wind.",
+    "alert": "💨 北风警报：东北风 6级"
   }
 ]

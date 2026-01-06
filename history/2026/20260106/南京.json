@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京大雾体感-1 ℃，注意交通安全，别忘添衣。",
     "ai_briefing_en": "Nanjing is very foggy and feels like -1 ℃. Drive safe, don't forget extra layers.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-06T11:33+08:00",
+    "temp": "5",
+    "feelsLike": "0",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "225",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "3",
+    "dew": "-1",
+    "cloud": "5",
+    "ai_briefing_zh": "南京有雾，体感 0℃，风力不小。出行注意安全与保暖！",
+    "ai_briefing_en": "Nanjing is foggy, feels like 0℃. Drive safely and stay warm!",
+    "alert": null
   }
 ]

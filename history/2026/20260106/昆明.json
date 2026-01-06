@@ -358,5 +358,25 @@
     "ai_briefing_zh": "昆明阴冷，体感-1 ℃，湿度 78%。添衣防湿防寒哦！",
     "ai_briefing_en": "Overcast and damp cold in Kunming. Dress warmly and stay dry!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-06T20:30+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "817",
+    "vis": "14",
+    "dew": "0",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明体感偏冷，空气湿润，记得添衣别着凉哦。",
+    "ai_briefing_en": "Kunming feels quite cold and damp. Remember to add layers to avoid catching a cold.",
+    "alert": null
   }
 ]

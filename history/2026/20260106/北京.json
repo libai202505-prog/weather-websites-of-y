@@ -238,5 +238,25 @@
     "ai_briefing_zh": "天气阴冷，体感仅 0℃，注意保暖防寒哦。",
     "ai_briefing_en": "Cloudy and chilly, feels like 0℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-06T14:24+08:00",
+    "temp": "6",
+    "feelsLike": "-2",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "270",
+    "humidity": "19",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "21",
+    "dew": "-16",
+    "cloud": "10",
+    "ai_briefing_zh": "体感很冷风又大，多穿衣物，注意防风保湿哦！",
+    "ai_briefing_en": "Feels very cold and windy. Bundle up, stay warm and moisturized!",
+    "alert": null
   }
 ]

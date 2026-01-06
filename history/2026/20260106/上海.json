@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气有霾，气温偏低，外出记得戴好口罩，注意保暖。",
     "ai_briefing_en": "Hazy and cool, wear a mask outside. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-06T17:16+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "180",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "3",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "上海有霾，体感微凉。外出记得戴口罩，别忘了添衣。",
+    "ai_briefing_en": "Shanghai, hazy and cool. Wear a mask if out, dress warmly.",
+    "alert": null
   }
 ]

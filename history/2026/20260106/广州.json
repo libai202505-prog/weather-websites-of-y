@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州多云，北风 5级体感 6℃。风大体感冷，注意防风保暖！",
     "ai_briefing_en": "Guangzhou is cloudy with strong winds, feels like 6℃. Stay warm!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-06T12:32+08:00",
+    "temp": "14",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "0",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "广州晴好，但风力 5级不小，注意防风保暖哦。",
+    "ai_briefing_en": "Guangzhou is sunny, but with level 5 winds. Stay warm and protect from wind!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

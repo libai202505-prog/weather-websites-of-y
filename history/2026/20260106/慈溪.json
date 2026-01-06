@@ -198,5 +198,25 @@
     "ai_briefing_zh": "慈溪有霾体感 3℃，北风呼呼。注意防护和保暖！",
     "ai_briefing_en": "Cixi has haze, feels like 3℃ with strong north wind. Take care and stay warm!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-06T12:32+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "2",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪多云，体感 3℃，记得添衣，小心着凉！",
+    "ai_briefing_en": "Cixi is cloudy, feels like 3℃. Don't forget layers, avoid catching a cold!",
+    "alert": null
   }
 ]

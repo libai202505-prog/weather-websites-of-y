@@ -318,5 +318,25 @@
     "ai_briefing_zh": "昆明阴冷有风，体感已是零下。多穿厚衣，注意防寒哦！",
     "ai_briefing_en": "Kunming, overcast, windy, and feels below zero. Dress warmly, stay safe from cold!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-06T18:16+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "816",
+    "vis": "19",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明体感寒冷，昼夜温差大。小心别着凉哦！",
+    "ai_briefing_en": "Kunming, cold. Mind temp swings, avoid colds!",
+    "alert": null
   }
 ]

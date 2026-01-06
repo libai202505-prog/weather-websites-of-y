@@ -318,5 +318,25 @@
     "ai_briefing_zh": "广州风力大，体感偏冷，注意防风保暖，谨防感冒。",
     "ai_briefing_en": "Guangzhou is windy and chilly. Keep warm and stay safe from the wind.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-06T18:16+08:00",
+    "temp": "10",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "广州风力大，体感较冷，出行记得防风保暖！",
+    "ai_briefing_en": "Guangzhou, windy & cool. Dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 5级"
   }
 ]

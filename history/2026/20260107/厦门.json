@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门晴朗但风大，体感 7℃ 稍凉。注意防风，多喝水润润喉。",
     "ai_briefing_en": "Xiamen is sunny but windy, feeling a bit cool at 7℃. Guard against the wind and drink more water.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-07T13:08+08:00",
+    "temp": "13",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门晴朗，体感 8℃。阳光正好，别忘添件外套防风。",
+    "ai_briefing_en": "Xiamen is sunny and feels like 8℃. Enjoy the sun, but add a jacket!",
+    "alert": null
   }
 ]

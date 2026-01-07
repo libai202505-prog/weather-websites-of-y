@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州 夜间监测中，注意保暖",
     "ai_briefing_en": "广州: Night watch, stay warm.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-07T12:30+08:00",
+    "temp": "14",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "广州晴好，但有 4级 北风，体感 9℃。穿件厚外套，别着凉了。",
+    "ai_briefing_en": "Guangzhou is sunny, but with a 4-level north wind, it feels like 9℃. Grab a warm jacket to avoid catching a cold.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

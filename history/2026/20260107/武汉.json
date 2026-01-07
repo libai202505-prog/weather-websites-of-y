@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-07T12:30+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "270",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "13",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阳光正好，体感 7℃ 较凉。外出别忘加衣，保持舒适。",
+    "ai_briefing_en": "Wuhan is sunny and feels cool at 7℃. Don't forget to add layers when going out to stay comfortable.",
+    "alert": null
   }
 ]

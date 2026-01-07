@@ -278,5 +278,25 @@
     "ai_briefing_zh": "西安 夜间监测中，注意保暖",
     "ai_briefing_en": "西安: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-07T16:25+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "9",
+    "precip": "0.0",
+    "pressure": "982",
+    "vis": "16",
+    "dew": "-9",
+    "cloud": "8",
+    "ai_briefing_zh": "西安晴朗，体感 6℃。空气干燥，多喝水润润喉。",
+    "ai_briefing_en": "Xi'an is sunny, feels like 6°C. Air is dry, drink more water.",
+    "alert": null
   }
 ]

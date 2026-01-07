@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳体感-14℃，风力 5 级，寒风刺骨，出门注意保暖。",
     "ai_briefing_en": "Shenyang feels like -14℃ with strong winds. It's biting cold, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-07T15:16+08:00",
+    "temp": "-6",
+    "feelsLike": "-13",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-17",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

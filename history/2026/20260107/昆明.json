@@ -298,5 +298,25 @@
     "ai_briefing_zh": "昆明阴天，体感 3℃，湿度 82%。湿冷入骨，注意添衣。",
     "ai_briefing_en": "Kunming is overcast, feels like 3°C with 82% humidity. It's damp and cold, add layers.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-07T17:16+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "814",
+    "vis": "12",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

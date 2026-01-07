@@ -158,5 +158,25 @@
     "ai_briefing_zh": "昆明大雾弥漫，体感 0℃，出行注意安全，小心湿滑！",
     "ai_briefing_en": "Kunming is very foggy, feels like 0℃. Travel safely and watch for slippery roads!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-07T09:40+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "818",
+    "vis": "11",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明有雾，体感 0℃，能见度低，出行请注意安全。",
+    "ai_briefing_en": "Kunming is foggy at 3℃, feels like 0℃. Low visibility, travel safely.",
+    "alert": null
   }
 ]

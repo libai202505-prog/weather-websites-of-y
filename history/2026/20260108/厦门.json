@@ -238,5 +238,25 @@
     "ai_briefing_zh": "厦门晴朗风大，体感 8℃，风力 5级，注意防风保暖。",
     "ai_briefing_en": "Sunny & windy in Xiamen, feels like 8℃. Watch out for the strong winds!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-08T14:32+08:00",
+    "temp": "15",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "90",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

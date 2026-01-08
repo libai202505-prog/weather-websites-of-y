@@ -258,5 +258,25 @@
     "ai_briefing_zh": "南京 夜间监测中，注意保暖",
     "ai_briefing_en": "南京: Night watch, stay warm.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-08T15:16+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "315",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "15",
+    "dew": "-6",
+    "cloud": "0",
+    "ai_briefing_zh": "南京晴好，微风送爽。早晚温差大，记得加件外套。",
+    "ai_briefing_en": "Nanjing is clear with a gentle breeze. Mind the temperature difference.",
+    "alert": null
   }
 ]

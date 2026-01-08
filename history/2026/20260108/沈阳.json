@@ -358,5 +358,25 @@
     "ai_briefing_zh": "沈阳晴天，体感 -10℃，很冷。记得多穿衣服哦。",
     "ai_briefing_en": "Shenyang: clear, -10℃. So cold. Bundle up!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-08T20:40+08:00",
+    "temp": "-6",
+    "feelsLike": "-11",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "180",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "2",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

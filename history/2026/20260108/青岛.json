@@ -358,5 +358,25 @@
     "ai_briefing_zh": "青岛晴天，体感 -1℃。风力 3级，海边更冷，注意保暖。",
     "ai_briefing_en": "Qingdao: clear, -1℃. Sea cold. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-08T20:40+08:00",
+    "temp": "3",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "180",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "-6",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

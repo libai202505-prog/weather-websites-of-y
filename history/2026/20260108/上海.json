@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海 5℃ 阳光好，体感 3℃ 仍需添衣保暖。",
     "ai_briefing_en": "Shanghai 5℃, sunny. Feels like 3℃, so dress warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-08T11:32+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "9",
+    "dew": "-2",
+    "cloud": "1",
+    "ai_briefing_zh": "上海有霾，气温 8℃。出行请做好防护，注意健康。",
+    "ai_briefing_en": "Shanghai: Haze, 8℃. Be safe!",
+    "alert": null
   }
 ]

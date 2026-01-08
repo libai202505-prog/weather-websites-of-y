@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京 4℃ 体感 -1℃，北风 3级，风寒记得添衣！",
     "ai_briefing_en": "Nanjing 4℃, feels like -1℃ with north wind. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-08T11:32+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "9",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "南京天晴但体感 3℃，记得多加衣物，注意保暖。",
+    "ai_briefing_en": "Nanjing: sunny, feels 3℃. Dress warmly!",
+    "alert": null
   }
 ]

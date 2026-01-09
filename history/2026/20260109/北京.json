@@ -338,5 +338,25 @@
     "ai_briefing_zh": "气温 4℃ 体感 -3℃，风力 4级，多云有风，注意保暖别感冒哦！",
     "ai_briefing_en": "It feels like -3℃ with strong winds. Stay warm and don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-09T19:08+08:00",
+    "temp": "6",
+    "feelsLike": "-6",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "7",
+    "windSpeed": "54",
+    "wind360": "270",
+    "humidity": "19",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "6",
+    "dew": "-14",
+    "cloud": "10",
+    "ai_briefing_zh": "北京风力 7级，体感很冷！请注意防风保暖。",
+    "ai_briefing_en": "Beijing: -6℃, windy. Stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

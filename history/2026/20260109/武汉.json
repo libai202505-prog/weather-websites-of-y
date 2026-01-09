@@ -338,5 +338,25 @@
     "ai_briefing_zh": "晴朗 10℃，体感 8℃。湿度稍高，体感舒适，记得多喝水哦！",
     "ai_briefing_en": "Sunny 10℃, feels like 8℃. Humidity is a bit high, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-09T19:10+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "9",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有雾 6℃，能见度低，出行请注意安全。",
+    "ai_briefing_en": "Wuhan: Foggy, 6℃. Be safe!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

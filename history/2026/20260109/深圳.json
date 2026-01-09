@@ -338,5 +338,25 @@
     "ai_briefing_zh": "多云 15℃，体感 12℃。早晚温差大，记得及时添衣哦！",
     "ai_briefing_en": "Cloudy 15℃, feels like 12℃. Mind the temperature change between morning and evening!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-09T19:08+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "20",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳 15℃ 暖洋洋，阳光正好，记得补水。",
+    "ai_briefing_en": "Shenzhen: 15℃, sunny. Hydrate!",
+    "alert": null
   }
 ]

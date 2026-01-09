@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉多云，体感 4℃，出门别忘了加件外套哦！",
     "ai_briefing_en": "Wuhan is cloudy and feels like 4°C. Don't forget your jacket when you go out!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-09T11:32+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "180",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "12",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，体感稍凉，出门记得带件外套。",
+    "ai_briefing_en": "Cloudy and a bit cool, grab a jacket when you go out.",
+    "alert": null
   }
 ]

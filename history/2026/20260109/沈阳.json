@@ -378,5 +378,25 @@
     "ai_briefing_zh": "沈阳下雪路滑，出行注意安全哦。",
     "ai_briefing_en": "Shenyang: snow, drive safe!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-09T21:30+08:00",
+    "temp": "-1",
+    "feelsLike": "-3",
+    "text": "中雪",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "2",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳中雪湿冷，路面湿滑，注意防滑保暖！",
+    "ai_briefing_en": "Shenyang: Snowy, damp. Slippery.",
+    "alert": null
   }
 ]

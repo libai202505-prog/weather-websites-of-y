@@ -378,5 +378,25 @@
     "ai_briefing_zh": "西安天冷干燥，注意补水和保暖。",
     "ai_briefing_en": "Xi'an: cold, dry, stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-09T21:34+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "西安晴朗干燥，气温偏低，请多补水防干燥。",
+    "ai_briefing_en": "Xi'an: Dry, cool. Hydrate.",
+    "alert": null
   }
 ]

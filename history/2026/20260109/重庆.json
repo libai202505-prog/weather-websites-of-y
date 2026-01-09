@@ -378,5 +378,25 @@
     "ai_briefing_zh": "重庆有阳光不冷，早晚温差别忽视。",
     "ai_briefing_en": "Chongqing: sunny, mind the temp!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-09T21:30+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "270",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "4",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆有雾湿度高，出行注意交通安全哦！",
+    "ai_briefing_en": "Chongqing: Foggy, humid. Caution.",
+    "alert": null
   }
 ]

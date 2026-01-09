@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉大雾湿冷，出行小心多穿衣。",
     "ai_briefing_en": "Wuhan: foggy, cold, take care!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-09T21:33+08:00",
+    "temp": "3",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "135",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "5",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有雾体感湿冷，驾车出行注意安全哦！",
+    "ai_briefing_en": "Wuhan: Foggy, damp. Drive safe.",
+    "alert": null
   }
 ]

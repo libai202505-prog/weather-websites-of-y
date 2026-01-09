@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海晴朗，体感 8℃，出门别忘了带件外套。",
     "ai_briefing_en": "Shanghai is sunny, feels like 8°C. Don't forget a jacket!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-09T14:24+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "225",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "11",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "晴空万里，微风不燥，适合户外活动！",
+    "ai_briefing_en": "Clear skies, gentle breeze, great for outdoors!",
+    "alert": null
   }
 ]

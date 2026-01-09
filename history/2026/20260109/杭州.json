@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州晴朗，体感 7℃，早晚温差大，注意加衣。",
     "ai_briefing_en": "Hangzhou is sunny, feels like 7°C. Mind the temperature difference!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-09T14:33+08:00",
+    "temp": "13",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "180",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "18",
+    "dew": "-6",
+    "cloud": "9",
+    "ai_briefing_zh": "晴空微风，气温宜人，别忘了带外套！",
+    "ai_briefing_en": "Clear skies, light breeze, don't forget your jacket!",
+    "alert": null
   }
 ]

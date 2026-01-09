@@ -198,5 +198,25 @@
     "ai_briefing_zh": "有霾哦，出门记得戴口罩，注意防护！",
     "ai_briefing_en": "Hazy out, wear a mask when you go out.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-09T12:32+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "7",
+    "dew": "-3",
+    "cloud": "10",
+    "ai_briefing_zh": "上海有霾，出门记得防护。注意健康！",
+    "ai_briefing_en": "Shanghai has haze, remember protection when out. Take care!",
+    "alert": null
   }
 ]

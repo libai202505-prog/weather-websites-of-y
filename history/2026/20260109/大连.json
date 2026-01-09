@@ -298,5 +298,25 @@
     "ai_briefing_zh": "大连多云，体感 0℃。风力 4级，小心着凉，注意保暖。",
     "ai_briefing_en": "Dalian is cloudy, feels like 0℃. Windy (level 4), stay warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-09T17:24+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "225",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "11",
+    "dew": "-2",
+    "cloud": "1",
+    "ai_briefing_zh": "大连多云，体感微凉，出门添衣，小心着凉。",
+    "ai_briefing_en": "Cloudy and a bit cool in Dalian. Remember to layer up, don't catch a cold.",
+    "alert": null
   }
 ]

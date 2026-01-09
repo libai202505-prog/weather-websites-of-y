@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阳光明媚，风力不小，记得多穿点！",
     "ai_briefing_en": "Bright sun, quite windy, remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-09T15:16+08:00",
+    "temp": "14",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "270",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "14",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉晴朗，体感 9℃。风力 4级，别忘了添件外套。",
+    "ai_briefing_en": "Wuhan is sunny, but feels like 9℃. With 4-level wind, remember an extra layer.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "青岛 8℃ 晴朗，风力 4级，出门别忘添衣。",
     "ai_briefing_en": "Qingdao: 8℃, sunny. Windy. Dress!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-09T20:41+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "225",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "12",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛天晴风不小，注意保暖哦亲。",
+    "ai_briefing_en": "Qingdao: sunny, breezy, layers.",
+    "alert": null
   }
 ]

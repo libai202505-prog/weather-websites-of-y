@@ -358,5 +358,25 @@
     "ai_briefing_zh": "杭州晴朗，体感 5℃。风有点凉，记得多穿点。",
     "ai_briefing_en": "Hangzhou is sunny, feels like 5℃. It's a bit windy, remember to layer up.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-10T20:32+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "13",
+    "dew": "-8",
+    "cloud": "2",
+    "ai_briefing_zh": "杭州晴空万里，体感 3℃，出门别忘添衣！",
+    "ai_briefing_en": "Hangzhou: Clear, 3℃ felt. Remember to layer up!",
+    "alert": null
   }
 ]

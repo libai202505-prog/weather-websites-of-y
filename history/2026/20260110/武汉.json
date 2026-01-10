@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉晴朗，体感 2℃。户外活动记得保暖呀！",
     "ai_briefing_en": "Wuhan: Sunny, 2℃ felt. Stay warm outdoors!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-10T21:24+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "18",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，体感 1℃ 略冷。注意防寒保暖，身体要紧！",
+    "ai_briefing_en": "Wuhan is sunny but feels like 1℃. Keep warm and take care!",
+    "alert": null
   }
 ]

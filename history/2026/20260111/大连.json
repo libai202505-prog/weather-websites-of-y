@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-11T07:16+08:00",
+    "temp": "-8",
+    "feelsLike": "-12",
+    "text": "阵雪",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "9",
+    "dew": "-13",
+    "cloud": "54",
+    "ai_briefing_zh": "大连阵雪，体感-12℃。路滑注意安全。",
+    "ai_briefing_en": "Dalian: -12℃, snow. Be safe!",
+    "alert": null
   }
 ]

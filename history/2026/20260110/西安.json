@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安晴朗但体感凉，早晚温差大，记得添衣保暖。",
     "ai_briefing_en": "Xi'an is sunny but cool. Dress warmly due to temperature changes.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-10T11:12+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "10",
+    "precip": "0.0",
+    "pressure": "986",
+    "vis": "16",
+    "dew": "-10",
+    "cloud": "10",
+    "ai_briefing_zh": "西安天晴但干燥寒冷。多喝水，注意保暖哦！",
+    "ai_briefing_en": "Xi'an is sunny but dry and cold. Hydrate and stay warm!",
+    "alert": null
   }
 ]

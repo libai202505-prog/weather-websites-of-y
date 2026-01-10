@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州风力不小，体感偏凉，多穿点哦！",
     "ai_briefing_en": "Hangzhou is quite windy and feels cool, dress warmly!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-10T17:16+08:00",
+    "temp": "12",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "12",
+    "dew": "-8",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阳光明媚，体感微凉。记得添衣，别着凉哦！",
+    "ai_briefing_en": "Hangzhou is sunny with a slight chill. Remember to add layers and don't catch a cold!",
+    "alert": null
   }
 ]

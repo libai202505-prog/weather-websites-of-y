@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京风大体感冷，注意添衣防寒哦！",
     "ai_briefing_en": "Beijing is windy and feels very cold, bundle up!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-10T15:17+08:00",
+    "temp": "1",
+    "feelsLike": "-9",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "315",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "27",
+    "dew": "-23",
+    "cloud": "5",
+    "ai_briefing_zh": "北京风大天冷，体感 -9℃，外出务必多穿防风保暖衣物哦！",
+    "ai_briefing_en": "Beijing is very windy and cold, feels like -9℃. Bundle up warmly when you go out!",
+    "alert": "💨 北风警报：西北风 6级"
   }
 ]

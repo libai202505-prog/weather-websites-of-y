@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海阳光正好，早晚温差大注意保暖。",
     "ai_briefing_en": "Shanghai is sunny, mind the temperature difference between day and night.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-10T15:16+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "11",
+    "dew": "-13",
+    "cloud": "97",
+    "ai_briefing_zh": "上海多云，体感 9℃，早晚微凉。出门别忘带件外套哦！",
+    "ai_briefing_en": "Shanghai is cloudy, feels like 9℃. It's a bit cool, don't forget your jacket!",
+    "alert": null
   }
 ]

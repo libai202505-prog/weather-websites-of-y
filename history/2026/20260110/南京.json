@@ -338,5 +338,25 @@
     "ai_briefing_zh": "南京阴天体感凉，出门带伞，注意保暖。",
     "ai_briefing_en": "Cloudy, cool. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-10T19:10+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "13",
+    "dew": "-16",
+    "cloud": "91",
+    "ai_briefing_zh": "南京阴天，体感 3℃。出门注意保暖，别感冒哦。",
+    "ai_briefing_en": "Nanjing is cloudy, feels like 3℃. Stay warm when going out, don't catch a cold.",
+    "alert": null
   }
 ]

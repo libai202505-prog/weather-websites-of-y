@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉阴天，体感微凉，出门记得添衣防风。",
     "ai_briefing_en": "Cloudy, cool. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-10T19:08+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "18",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云，体感 6℃。注意保暖，多喝热水哦。",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 6℃. Keep warm and drink plenty of hot water.",
+    "alert": null
   }
 ]

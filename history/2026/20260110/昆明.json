@@ -238,5 +238,25 @@
     "ai_briefing_zh": "昆明多云 14℃，体感 10℃。早晚温差大，记得添衣。",
     "ai_briefing_en": "Kunming is cloudy 14℃, feels like 10℃. Mind the temperature difference.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-10T14:24+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "180",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "812",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明阳光舒适，早晚温差大，别着凉。",
+    "ai_briefing_en": "Kunming is sunny and pleasant, mind the temperature difference.",
+    "alert": null
   }
 ]

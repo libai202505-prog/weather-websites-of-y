@@ -238,5 +238,25 @@
     "ai_briefing_zh": "慈溪风力不小，体感 9℃。早晚温差大，别着凉。",
     "ai_briefing_en": "Cixi is breezy, feels like 9℃. Mind the temperature difference.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-10T14:24+08:00",
+    "temp": "16",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "0",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "12",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "慈溪风力较大，早晚注意添衣保暖！",
+    "ai_briefing_en": "Cixi is quite windy, remember to add clothes in mornings and evenings!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

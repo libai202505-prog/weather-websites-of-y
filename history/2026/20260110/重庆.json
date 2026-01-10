@@ -198,5 +198,25 @@
     "ai_briefing_zh": "重庆有雾，能见度低。驾车请减速慢行，注意安全！",
     "ai_briefing_en": "Chongqing is foggy, low visibility. Drive safely and slowly!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-10T12:24+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "5",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有霾，出门记得戴口罩，注意呼吸健康哦。",
+    "ai_briefing_en": "Chongqing has haze, wear a mask when going out for health.",
+    "alert": null
   }
 ]

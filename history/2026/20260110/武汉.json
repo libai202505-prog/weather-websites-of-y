@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉多云，体感适中。小心昼夜温差哦！",
     "ai_briefing_en": "Wuhan is cloudy and mild. Mind the temperature changes!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-10T12:24+08:00",
+    "temp": "14",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "15",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云 14℃，风力 4级略凉，注意保暖哦。",
+    "ai_briefing_en": "Wuhan is cloudy at 14℃, a bit breezy. Keep warm!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "广州晴好 8℃。湿度高，注意通风哦！",
     "ai_briefing_en": "Guangzhou: 8℃. Humid.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-11T21:24+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "广州阳光不错，但北风微凉。记得添件薄外套，保持舒爽哦！",
+    "ai_briefing_en": "Guangzhou is sunny, but a slight north wind makes it cool. Remember a light jacket to stay comfortable!",
+    "alert": null
   }
 ]

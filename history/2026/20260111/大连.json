@@ -258,5 +258,25 @@
     "ai_briefing_zh": "大连体感-15℃，风力 4级。帽子围巾手套，一个都不能少！",
     "ai_briefing_en": "Dalian feels -15℃ with 4-level winds. Don't forget hat, scarf, and gloves!",
     "alert": "❄️ 橙色寒冷提示：体感低至 -15℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-11T15:17+08:00",
+    "temp": "-6",
+    "feelsLike": "-13",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "91",
+    "ai_briefing_zh": "体感 -13℃，风力 4级，寒风凛冽，全副武装保暖！",
+    "ai_briefing_en": "Dalian feels like -13℃ with strong 4-level winds. It's biting cold, bundle up and stay warm!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

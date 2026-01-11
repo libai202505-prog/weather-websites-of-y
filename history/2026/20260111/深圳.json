@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳晴朗，体感 8℃。注意温差别感冒。",
     "ai_briefing_en": "Shenzhen: 8℃. Mind temp diff!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-11T09:48+08:00",
+    "temp": "16",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "45",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "29",
+    "dew": "-3",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳天气宜人，风力 4级，注意防风和温差哦。",
+    "ai_briefing_en": "Shenzhen is pleasant, moderate wind, mind the wind and temp difference!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海晴好体感 1℃，微风舒适，穿暖和哦。",
     "ai_briefing_en": "Shanghai: 1℃, sunny. Warm up!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-11T09:48+08:00",
+    "temp": "4",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "21",
+    "dew": "-15",
+    "cloud": "0",
+    "ai_briefing_zh": "上海体感 -1℃，注意添衣防寒，别忘了补水。",
+    "ai_briefing_en": "Shanghai feels like -1℃, add layers to keep warm, and stay hydrated!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连风力 5级体感 -17℃，穿得暖暖和和，小心着凉。",
     "ai_briefing_en": "Dalian, strong wind, feels like -17℃, dress warmly to avoid catching a cold.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -17℃ | 📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-11T11:48+08:00",
+    "temp": "-8",
+    "feelsLike": "-16",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "315",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "4",
+    "dew": "-16",
+    "cloud": "10",
+    "ai_briefing_zh": "大连体感 -16℃，风力 5级！出门多穿，注意防寒保暖！",
+    "ai_briefing_en": "Dalian feels -16℃, windy! Dress very warmly and stay safe from cold!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -16℃ | 💨 北风警报：西北风 5级"
   }
 ]

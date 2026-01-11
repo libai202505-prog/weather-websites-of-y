@@ -298,5 +298,25 @@
     "ai_briefing_zh": "成都阴天，体感 5℃，湿度高，出门记得带伞！",
     "ai_briefing_en": "Chengdu is cloudy, feels like 5℃ with high humidity. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-11T17:16+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天 8℃，湿度高。记得带伞，小心潮湿哦。",
+    "ai_briefing_en": "Chengdu is cloudy at 8℃, high humidity. Bring an umbrella, watch for dampness.",
+    "alert": null
   }
 ]

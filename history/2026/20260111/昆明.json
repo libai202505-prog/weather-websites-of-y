@@ -398,5 +398,25 @@
     "ai_briefing_zh": "昆明多云，风力 4级。风大体感凉，记得添衣，小心着凉哦！",
     "ai_briefing_en": "Kunming is cloudy with a 4-level wind. It feels cool due to the wind, remember to add layers and stay warm!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-11T22:10+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "225",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "23",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

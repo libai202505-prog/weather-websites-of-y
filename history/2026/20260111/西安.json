@@ -398,5 +398,25 @@
     "ai_briefing_zh": "西安晴朗，体感 0℃，湿度低。注意皮肤补水，保暖是关键！",
     "ai_briefing_en": "Xi'an is clear, feels like 0℃ with low humidity. Hydrate your skin, staying warm is key!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-11T22:08+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "16",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

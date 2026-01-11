@@ -398,5 +398,25 @@
     "ai_briefing_zh": "慈溪阳光好，但体感 0℃。出门别忘添衣，暖暖和和最重要！",
     "ai_briefing_en": "Cixi is sunny, but it feels like 0℃. Don't forget to add layers when you go out, staying warm is key!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-11T22:08+08:00",
+    "temp": "1",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "90",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "15",
+    "dew": "-11",
+    "cloud": "0",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "昆明 9℃ 阴天，湿度 77%。微凉，注意添衣别着凉哦！",
     "ai_briefing_en": "Kunming is 9℃ and cloudy, high humidity. It's cool, stay warm!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-11T12:42+08:00",
+    "temp": "10",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "180",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "816",
+    "vis": "14",
+    "dew": "4",
+    "cloud": "96",
+    "ai_briefing_zh": "昆明阴天体感 4℃，风力 4 级，多穿点，小心着凉。",
+    "ai_briefing_en": "Kunming is cloudy and feels like 4℃, level 4 wind. Dress warmly to avoid catching a cold.",
+    "alert": null
   }
 ]

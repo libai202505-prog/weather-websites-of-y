@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州 夜间监测中，注意保暖",
     "ai_briefing_en": "广州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-12T07:16+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "0",
+    "ai_briefing_zh": "广州6℃，体感3℃，湿度92%。天晴湿冷，小心别感冒呀。",
+    "ai_briefing_en": "Guangzhou 6℃, feels like 3℃, 92% humidity. Clear but damp and chilly, mind not to catch a cold!",
+    "alert": null
   }
 ]

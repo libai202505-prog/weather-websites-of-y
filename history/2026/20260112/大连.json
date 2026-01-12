@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连体感-4℃，风力 5级，注意防风防寒。",
     "ai_briefing_en": "Dalian: -4℃. Windy. Be safe!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-12T13:24+08:00",
+    "temp": "4",
+    "feelsLike": "-4",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "36",
+    "wind360": "225",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "18",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing_zh": "大连 多云，风力 5级，体感 -4℃，风大寒冷，注意防风。",
+    "ai_briefing_en": "Dalian: Cloudy with Force 5 wind, feels -4℃. Very windy and cold, stay warm!",
+    "alert": null
   }
 ]

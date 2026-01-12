@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海多云，体感 10℃。早晚温差大，注意保暖。",
     "ai_briefing_en": "Shanghai, partly cloudy, feels like 10℃. Mind the temperature change.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-12T17:24+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "65",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "12",
+    "dew": "-6",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

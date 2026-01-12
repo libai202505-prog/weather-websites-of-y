@@ -298,5 +298,25 @@
     "ai_briefing_zh": "哈尔滨大雾，体感 -20℃。注意保暖防滑，出行安全。",
     "ai_briefing_en": "Harbin, foggy and feels like -20℃. Stay warm, watch your step, stay safe!",
     "alert": "🥶 红色极寒警报：体感低至 -20℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-01-12T17:24+08:00",
+    "temp": "-16",
+    "feelsLike": "-20",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "319",
+    "humidity": "83",
+    "precip": "0.2",
+    "pressure": "994",
+    "vis": "5",
+    "dew": "-16",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": "🥶 红色极寒警报：体感低至 -20℃"
   }
 ]

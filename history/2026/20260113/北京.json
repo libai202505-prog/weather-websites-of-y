@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京阴冷，体感 -3℃，多穿点，注意保暖哦！",
     "ai_briefing_en": "Beijing is chilly at -3℃. Dress warmly and stay cozy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-13T11:24+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "199",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "30",
+    "dew": "-12",
+    "cloud": "10",
+    "ai_briefing_zh": "北京体感偏凉，注意保暖，别着凉哦！",
+    "ai_briefing_en": "Beijing is cold, bundle up!",
+    "alert": null
   }
 ]

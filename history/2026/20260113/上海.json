@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海晴好 9℃。微风习习，添衣享受好天气！",
     "ai_briefing_en": "Shanghai is sunny and 9℃. Dress warm and enjoy the nice weather!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-13T21:32+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "23",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "7",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "上海有霾，体感 6℃，出行记得戴口罩，注意健康。",
+    "ai_briefing_en": "Shanghai is hazy, feels 6℃. Wear a mask when out, stay healthy.",
+    "alert": null
   }
 ]

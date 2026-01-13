@@ -198,5 +198,25 @@
     "ai_briefing_zh": "昆明阳光明媚，注意早晚温差，别着凉。",
     "ai_briefing_en": "KM sunny, mind temps.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-13T12:34+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "816",
+    "vis": "15",
+    "dew": "3",
+    "cloud": "1",
+    "ai_briefing_zh": "昆明晴朗体感凉爽，湿度较高，享受好天气。",
+    "ai_briefing_en": "Kunming is sunny and cool, with high humidity, enjoy the nice weather.",
+    "alert": null
   }
 ]

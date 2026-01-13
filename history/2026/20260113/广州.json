@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州天气暖和，阳光明媚，出行好心情！",
     "ai_briefing_en": "GZ: Warm & sunny, enjoy!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-13T12:34+08:00",
+    "temp": "22",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "37",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "广州阳光明媚，体感温暖，记得防晒补水哦。",
+    "ai_briefing_en": "Guangzhou is bright and warm, remember to hydrate and use sunscreen.",
+    "alert": null
   }
 ]

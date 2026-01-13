@@ -198,5 +198,25 @@
     "ai_briefing_zh": "成都晴天，湿度较高，出门多穿点，注意防潮。",
     "ai_briefing_en": "CD sunny, humid, warm.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-13T12:34+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "41",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "成都晴朗体感凉爽，湿度较高，注意通风。",
+    "ai_briefing_en": "Chengdu is sunny and cool, with high humidity, ensure good ventilation.",
+    "alert": null
   }
 ]

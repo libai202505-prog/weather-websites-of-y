@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州晴朗，体感13℃。风力不大，适合户外活动！",
     "ai_briefing_en": "Hangzhou is sunny, feels like 13℃. Light breeze, good for outdoors!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-14T12:42+08:00",
+    "temp": "18",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "176",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "14",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云体感 14℃，微风舒适，早晚记得加衣！",
+    "ai_briefing_en": "Hangzhou is cloudy, feels like 14℃. Bring a jacket for cool evenings!",
+    "alert": null
   }
 ]

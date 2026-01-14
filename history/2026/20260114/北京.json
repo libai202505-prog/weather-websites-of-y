@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京阴冷，体感 -5℃，记得多添衣保暖哦！",
     "ai_briefing_en": "Beijing is gloomy and cold at -5°C, stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-14T11:40+08:00",
+    "temp": "0",
+    "feelsLike": "-4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "47",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "13",
+    "dew": "-8",
+    "cloud": "98",
+    "ai_briefing_zh": "北京阴天，体感-4℃，记得穿暖和，别着凉哦！",
+    "ai_briefing_en": "Beijing is cloudy, feels like -4℃. Stay warm and don't catch a cold!",
+    "alert": null
   }
 ]

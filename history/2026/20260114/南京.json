@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京多云，体感 7℃，风力 2 级，别忘添衣哦！",
     "ai_briefing_en": "Nanjing is cloudy and 7°C, a bit breezy, dress warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-14T11:40+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "134",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "12",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "南京多云，体感13℃。天气不错，注意保暖别着凉！",
+    "ai_briefing_en": "Nanjing is cloudy, feels like 13℃. Nice weather, stay warm!",
+    "alert": null
   }
 ]

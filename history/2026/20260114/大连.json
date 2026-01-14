@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天，体感 0 ℃。湿冷注意保暖，别着凉了。",
     "ai_briefing_en": "Dalian 0℃. Damp, keep warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-14T16:16+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "178",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "11",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "大连阴冷，体感2℃。潮湿，穿暖点，小心感冒！",
+    "ai_briefing_en": "Dalian cloudy, feels like 2℃. It's damp, dress warm, be careful!",
+    "alert": null
   }
 ]

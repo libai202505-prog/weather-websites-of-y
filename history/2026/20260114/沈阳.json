@@ -278,5 +278,25 @@
     "ai_briefing_zh": "体感 -9 ℃，阴天。出门注意防寒保暖哦！",
     "ai_briefing_en": "Shenyang -9℃. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-14T16:16+08:00",
+    "temp": "-4",
+    "feelsLike": "-9",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "139",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴冷，体感-9℃。多穿几层，暖暖和和过一天。",
+    "ai_briefing_en": "Shenyang cloudy, feels like -9℃. Layer up, stay warm all day!",
+    "alert": null
   }
 ]

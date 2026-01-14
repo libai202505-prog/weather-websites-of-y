@@ -278,5 +278,25 @@
     "ai_briefing_zh": "体感 -1 ℃，多云。出门注意保暖，别着凉哦！",
     "ai_briefing_en": "Beijing -1℃. Bundle up!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-14T16:16+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "208",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "12",
+    "dew": "-9",
+    "cloud": "10",
+    "ai_briefing_zh": "北京体感-1℃，多穿点，注意保暖别着凉！",
+    "ai_briefing_en": "Beijing feels like -1℃. Dress warmly, stay cozy!",
+    "alert": null
   }
 ]

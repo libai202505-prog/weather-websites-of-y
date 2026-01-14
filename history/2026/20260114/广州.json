@@ -318,5 +318,25 @@
     "ai_briefing_zh": "广州暖和，22℃，体感舒适。记得补水哦。",
     "ai_briefing_en": "Guangzhou is warm at 22℃, feels great. Remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-14T18:10+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "203",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "0",
+    "ai_briefing_zh": "广州 19℃ 暖阳相伴，很舒服，保持好心情哦！",
+    "ai_briefing_en": "Guangzhou is warm and sunny at 19℃. Enjoy the pleasant day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

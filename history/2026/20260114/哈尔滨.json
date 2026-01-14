@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨极寒，请务必全副武装，注意防冻！",
     "ai_briefing_en": "Harbin is extremely cold, please bundle up thoroughly and prevent frostbite!",
     "alert": "🥶 红色极寒警报：体感低至 -30℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-01-14T09:48+08:00",
+    "temp": "-20",
+    "feelsLike": "-26",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "296",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "-26",
+    "cloud": "0",
+    "ai_briefing_zh": "哈尔滨体感 -26℃，户外活动务必全副武装！",
+    "ai_briefing_en": "Harbin feels -26°C, bundle up if you go out!",
+    "alert": "🥶 红色极寒警报：体感低至 -26℃"
   }
 ]

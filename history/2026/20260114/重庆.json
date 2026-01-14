@@ -158,5 +158,25 @@
     "ai_briefing_zh": "重庆大雾，视线受影响，小心驾驶哦！",
     "ai_briefing_en": "Chongqing is very foggy, visibility is affected, drive carefully!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-14T09:48+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "318",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "2",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾，体感 7℃，湿度高，出行注意安全。",
+    "ai_briefing_en": "Chongqing is foggy and 7°C, high humidity, stay safe.",
+    "alert": null
   }
 ]

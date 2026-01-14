@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳阴冷，体感刺骨，多穿点，注意保暖！",
     "ai_briefing_en": "Shenyang is overcast and bitter cold, dress warmly and stay toasty!",
     "alert": "🥶 红色极寒警报：体感低至 -21℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-14T09:48+08:00",
+    "temp": "-12",
+    "feelsLike": "-17",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "66",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "19",
+    "dew": "-17",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳多云，体感 -17℃，气温骤降，注意防寒。",
+    "ai_briefing_en": "Shenyang is cloudy and -17°C, dress warmly!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -17℃"
   }
 ]

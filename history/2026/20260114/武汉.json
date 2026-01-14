@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉雾气浓，体感 8℃，出门要多注意安全呀。",
     "ai_briefing_en": "Wuhan is foggy, feels like 8℃. Please be extra careful outside.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-14T21:34+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "13",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "4",
+    "ai_briefing_zh": "武汉阳光明媚，但体感微凉。早晚温差大，注意添减衣物。",
+    "ai_briefing_en": "Wuhan is sunny but feels a bit cool. There's a big temperature difference between morning and evening, so adjust your clothes accordingly.",
+    "alert": null
   }
 ]

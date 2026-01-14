@@ -378,5 +378,25 @@
     "ai_briefing_zh": "重庆有霾，体感 10℃。出门记得戴好口罩哦！",
     "ai_briefing_en": "Chongqing is hazy, feels like 10℃. Remember your mask!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-14T21:32+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "342",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "2",
+    "dew": "7",
+    "cloud": "2",
+    "ai_briefing_zh": "重庆有霾且潮湿，请减少户外活动，注意防护，保护呼吸道。",
+    "ai_briefing_en": "Chongqing is hazy and humid. Please limit outdoor activities, take precautions, and protect your respiratory system.",
+    "alert": null
   }
 ]

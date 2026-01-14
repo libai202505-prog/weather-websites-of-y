@@ -258,5 +258,25 @@
     "ai_briefing_zh": "西安多云体感12℃，湿度很低，记得多喝水。",
     "ai_briefing_en": "Xi'an is cloudy and 12℃. Very low humidity, remember to drink water!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-14T15:18+08:00",
+    "temp": "16",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "287",
+    "humidity": "3",
+    "precip": "0.0",
+    "pressure": "973",
+    "vis": "16",
+    "dew": "-8",
+    "cloud": "10",
+    "ai_briefing_zh": "晴朗，体感 10 ℃。非常干燥，记得多补水！",
+    "ai_briefing_en": "Xi'an 10℃. Dry, hydrate!",
+    "alert": null
   }
 ]

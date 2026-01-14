@@ -298,5 +298,25 @@
     "ai_briefing_zh": "青岛有雾，体感5℃。能见度低，开车出行请注意安全！",
     "ai_briefing_en": "Qingdao foggy, feels like 5℃. Drive safely, visibility is low!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-14T17:25+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "131",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "5",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有雾，7℃。能见度低，出行请注意安全。",
+    "ai_briefing_en": "Qingdao is foggy at 7℃. Low visibility, please drive safely.",
+    "alert": null
   }
 ]

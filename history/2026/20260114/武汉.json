@@ -398,5 +398,25 @@
     "ai_briefing_zh": "武汉阳光明媚，但体感微凉。早晚温差大，注意添减衣物。",
     "ai_briefing_en": "Wuhan is sunny but feels a bit cool. There's a big temperature difference between morning and evening, so adjust your clothes accordingly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-14T22:10+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "359",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "8",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

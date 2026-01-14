@@ -398,5 +398,25 @@
     "ai_briefing_zh": "哈尔滨极寒有雾，务必多穿，小心路滑，安全第一！",
     "ai_briefing_en": "Harbin is extremely cold and foggy. Be sure to dress warmly, watch for slippery roads, and stay safe!",
     "alert": "🥶 红色极寒警报：体感低至 -29℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-01-14T22:08+08:00",
+    "temp": "-26",
+    "feelsLike": "-30",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "14",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "6",
+    "dew": "-24",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": "🥶 红色极寒警报：体感低至 -30℃"
   }
 ]

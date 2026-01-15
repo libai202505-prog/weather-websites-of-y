@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛有霾体感1℃，请注意防护保暖，出行也要小心！",
     "ai_briefing_en": "Qingdao has haze and feels like 1℃. Please protect yourself, stay warm, and travel carefully!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-15T09:40+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "284",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "3",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有霾，体感较冷，气温 5℃，出门注意防护。",
+    "ai_briefing_en": "Qingdao has haze and feels cold, 5℃. Protect yourself when going out.",
+    "alert": null
   }
 ]

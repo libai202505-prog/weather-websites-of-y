@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气很冷，多穿几层，注意头部和手脚保暖。",
     "ai_briefing_en": "Very cold, layer up and keep your head/extremities warm.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -16℃ | 📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-15T17:24+08:00",
+    "temp": "-11",
+    "feelsLike": "-14",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "32",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "25",
+    "dew": "-13",
+    "cloud": "2",
+    "ai_briefing_zh": "沈阳 -11℃，体感 -14℃。虽晴朗，但寒冷，别忘了防寒！",
+    "ai_briefing_en": "Shenyang is -11℃, feels like -14℃. It's sunny but cold, don't forget to stay warm!",
+    "alert": null
   }
 ]

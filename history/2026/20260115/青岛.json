@@ -278,5 +278,25 @@
     "ai_briefing_zh": "霾天 11℃，外出戴口罩，保重身体。",
     "ai_briefing_en": "Hazy 11℃. Wear a mask!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-15T16:24+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "156",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "5",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "霾天气温有点凉，记得戴口罩、添衣！",
+    "ai_briefing_en": "Hazy and cool, wear a mask and add layers!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

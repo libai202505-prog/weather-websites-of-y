@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳有雾，气温很低，体感-7℃，多穿点，慢点走。",
     "ai_briefing_en": "Shenyang is foggy and cold, -7℃. Dress warmly and take care.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-15T11:32+08:00",
+    "temp": "-6",
+    "feelsLike": "-9",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "267",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "9",
+    "dew": "-10",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳有雾，气温 -6℃，注意保暖，出行也要小心哦。",
+    "ai_briefing_en": "Shenyang is foggy at -6℃, stay warm and be careful when out!",
+    "alert": null
   }
 ]

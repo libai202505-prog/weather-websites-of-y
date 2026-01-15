@@ -258,5 +258,25 @@
     "ai_briefing_zh": "青岛晴朗，体感 9℃，阳光明媚，但早晚温差大哦。",
     "ai_briefing_en": "Qingdao is sunny, feels like 9℃. Bright sunshine, but big temp difference between day and night!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-15T15:18+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "168",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "6",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "霾天 11℃，外出戴口罩，保重身体。",
+    "ai_briefing_en": "Hazy 11℃. Wear a mask!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "厦门阴天，体感 18℃，气温适中，注意别着凉哦。",
     "ai_briefing_en": "Xiamen is overcast, feels like 18℃. Mild temperature, take care not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-15T15:16+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "266",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "15",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天 20℃，体感舒适。注意保持好心情！",
+    "ai_briefing_en": "Cloudy 20℃. Keep good mood!",
+    "alert": null
   }
 ]

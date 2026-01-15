@@ -338,5 +338,25 @@
     "ai_briefing_zh": "广州温暖如春，阳光明媚，出行心情一定棒！",
     "ai_briefing_en": "Warm and sunny in Guangzhou, enjoy the lovely weather!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-15T19:16+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "52",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "1",
+    "ai_briefing_zh": "广州阳光明媚，温暖宜人，别忘了补充水分。",
+    "ai_briefing_en": "Guangzhou is sunny and warm, remember to stay hydrated.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

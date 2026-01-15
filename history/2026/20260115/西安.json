@@ -378,5 +378,25 @@
     "ai_briefing_zh": "西安天气晴朗，气温 7℃。空气非常干燥，注意保湿。",
     "ai_briefing_en": "Xi'an is sunny, 7℃. Very dry air, remember to moisturize.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-15T21:32+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "349",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

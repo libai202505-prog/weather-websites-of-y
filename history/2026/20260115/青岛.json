@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛有霾，体感 7℃。户外活动注意防护，多喝水！",
     "ai_briefing_en": "Qingdao has haze, feels like 7℃. Protect yourself outdoors and drink more water!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-15T13:18+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "297",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "8",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有霾，气温 10℃，外出记得戴口罩防霾！",
+    "ai_briefing_en": "Hazy in Qingdao, 10℃. Wear a mask when going out!",
+    "alert": null
   }
 ]

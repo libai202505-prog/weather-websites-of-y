@@ -298,5 +298,25 @@
     "ai_briefing_zh": "冷！体感 -2℃，风大干燥，注意保暖补水哦！",
     "ai_briefing_en": "Cold! Feels like -2℃ with wind. Stay warm and hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-16T17:24+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "348",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "30",
+    "dew": "-19",
+    "cloud": "0",
+    "ai_briefing_zh": "阳光虽好，体感偏凉风力大，注意防寒保暖哦！",
+    "ai_briefing_en": "It's sunny but windy and chilly, remember to dress warmly!",
+    "alert": null
   }
 ]

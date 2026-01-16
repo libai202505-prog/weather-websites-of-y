@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉 19℃，阴天，气温适中，出门带把伞以防万一哦！",
     "ai_briefing_en": "Wuhan 19℃, cloudy. Moderate temperature, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-16T17:24+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "16",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天气，气温很舒服，微风习习，出门记得添衣哦。",
+    "ai_briefing_en": "Cloudy and comfortable with a light breeze, remember to add a layer!",
+    "alert": null
   }
 ]

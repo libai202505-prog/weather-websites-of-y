@@ -218,5 +218,25 @@
     "ai_briefing_zh": "重庆大雾，气温 12℃，能见度低，出行请注意安全。",
     "ai_briefing_en": "Chongqing is foggy, 12℃. Low visibility, please travel safely.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-16T13:16+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "156",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "986",
+    "vis": "2",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆有霾，湿度 78%。出门戴口罩，注意潮湿哦。",
+    "ai_briefing_en": "Chongqing has haze, 78% humidity. Wear a mask, be mindful of humidity.",
+    "alert": null
   }
 ]

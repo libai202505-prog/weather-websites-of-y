@@ -178,5 +178,25 @@
     "ai_briefing_zh": "重庆大雾弥漫，出行请慢行，注意安全。",
     "ai_briefing_en": "Chongqing is very foggy, please travel slowly and safely.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-16T11:24+08:00",
+    "temp": "10",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "17",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "2",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆大雾，驾车出行注意安全，慢一点。",
+    "ai_briefing_en": "Chongqing is very foggy, drive safely and slowly.",
+    "alert": null
   }
 ]

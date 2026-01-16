@@ -318,5 +318,25 @@
     "ai_briefing_zh": "多云天气，气温很舒服，微风习习，出门记得添衣哦。",
     "ai_briefing_en": "Cloudy and comfortable with a light breeze, remember to add a layer!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-16T18:18+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "1",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 15℃。湿度高，注意保暖，别感冒哦！",
+    "ai_briefing_en": "Wuhan is overcast and feels like 15℃. High humidity, keep warm and don't catch a cold!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海有霾，气温 18℃。出门请戴口罩，保护呼吸健康。",
     "ai_briefing_en": "Shanghai has haze, 18℃. Please wear a mask to protect your breathing.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-16T14:32+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "52",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "上海有霾，外出注意防护，多喝水。",
+    "ai_briefing_en": "Shanghai hazy. Take care!",
+    "alert": null
   }
 ]

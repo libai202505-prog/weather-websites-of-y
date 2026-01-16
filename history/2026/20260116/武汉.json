@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉有霾 19℃。出门戴好口罩，保护呼吸道健康。",
     "ai_briefing_en": "Wuhan has haze 19℃. Wear a mask outdoors to protect your respiratory health.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-16T14:32+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "24",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "7",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，外出请做好防护，保持健康。",
+    "ai_briefing_en": "Wuhan hazy. Take care.",
+    "alert": null
   }
 ]

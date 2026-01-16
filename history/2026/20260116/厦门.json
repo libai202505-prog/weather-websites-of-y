@@ -398,5 +398,25 @@
     "ai_briefing_zh": "厦门风力 3级，出门注意防风，小心着凉。",
     "ai_briefing_en": "Xiamen has 3-level wind, mind wind protection and avoid cold.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-16T22:16+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "67",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "15",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

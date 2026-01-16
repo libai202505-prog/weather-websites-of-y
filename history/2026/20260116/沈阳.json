@@ -398,5 +398,25 @@
     "ai_briefing_zh": "沈阳雾气蒙蒙，体感 -24℃，出行注意保暖。",
     "ai_briefing_en": "Shenyang is foggy, feels like -24℃, stay warm when out.",
     "alert": "🥶 红色极寒警报：体感低至 -24℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-16T22:18+08:00",
+    "temp": "-19",
+    "feelsLike": "-24",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "31",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "7",
+    "dew": "-19",
+    "cloud": "1",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "🥶 红色极寒警报：体感低至 -24℃"
   }
 ]

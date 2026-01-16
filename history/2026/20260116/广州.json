@@ -398,5 +398,25 @@
     "ai_briefing_zh": "广州有雾，路面湿滑，注意行车安全哦。",
     "ai_briefing_en": "Guangzhou is foggy, roads are slick, drive safely.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-16T22:16+08:00",
+    "temp": "14",
+    "feelsLike": "18",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "16",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "8",
+    "dew": "11",
+    "cloud": "10",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

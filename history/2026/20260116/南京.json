@@ -258,5 +258,25 @@
     "ai_briefing_zh": "南京有霾，呼吸道敏感的朋友要小心。",
     "ai_briefing_en": "Nanjing hazy. Be careful.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-16T15:14+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "145",
+    "humidity": "28",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "南京天气晴朗，体感舒适，多出去走走吧。",
+    "ai_briefing_en": "Nanjing is sunny and comfortable, enjoy a walk outside.",
+    "alert": null
   }
 ]

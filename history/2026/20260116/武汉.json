@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉阴天，体感 15℃。湿度高，注意保暖，别感冒哦！",
     "ai_briefing_en": "Wuhan is overcast and feels like 15℃. High humidity, keep warm and don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-16T19:16+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "338",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天 15℃，体感舒适。出门记得带伞哦。",
+    "ai_briefing_en": "Wuhan: 15℃, cloudy. Umbrella!",
+    "alert": null
   }
 ]

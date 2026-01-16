@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海朋友，大雾天气，视线不佳，注意交通安全。",
     "ai_briefing_en": "Shanghai friends, dense fog means low visibility, please mind traffic safety.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-16T21:32+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "337",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "上海雾气弥漫，出行注意交通安全哦。",
+    "ai_briefing_en": "Shanghai is foggy, please mind traffic safety.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有霾，请减少户外停留，注意健康。",
     "ai_briefing_en": "Wuhan has haze, please reduce outdoor time and mind your health.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-16T12:34+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "156",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，体感 17℃，出门记得戴口罩，注意健康。",
+    "ai_briefing_en": "Wuhan is hazy, feels like 17℃, wear a mask when going out for health.",
+    "alert": null
   }
 ]

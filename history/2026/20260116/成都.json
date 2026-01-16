@@ -198,5 +198,25 @@
     "ai_briefing_zh": "成都多云，气温 10℃ 左右，早晚加件外套。",
     "ai_briefing_en": "Chengdu is cloudy, around 10℃, wear an extra layer in the morning/evening.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-16T12:34+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "120",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "成都 14℃，多云，湿度 55%，出门别忘带伞哦。",
+    "ai_briefing_en": "Chengdu 14℃, cloudy with 55% humidity, don't forget your umbrella.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "青岛有霾，注意防护，多喝水润肺哦。",
     "ai_briefing_en": "Qingdao has haze, remember protection, and drink water to moisten your lungs.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-16T12:30+08:00",
+    "temp": "11",
+    "feelsLike": "6",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "253",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "2",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有霾，体感 6℃，风力 3级，出门防风保暖带口罩。",
+    "ai_briefing_en": "Qingdao is hazy, feels like 6℃, force 3 wind. Windproof, warm, and a mask!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门阴天，气温舒适，但小心温差变化。",
     "ai_briefing_en": "Xiamen is cloudy with comfortable temperature, but watch for temp changes.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-16T12:30+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "340",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "14",
+    "dew": "8",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门 20℃，阴天，体感舒适，出门带把伞，有备无患。",
+    "ai_briefing_en": "Xiamen 20℃, cloudy and pleasant. Bring an umbrella, just in case.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "杭州有雾，体感 8℃。注意交通安全，添衣保暖。",
     "ai_briefing_en": "Foggy Hangzhou, feels like 8℃. Drive safe and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-17T20:32+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "103",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州有雾，能见度不高，出行注意安全哦！",
+    "ai_briefing_en": "Foggy in Hangzhou, visibility is low. Please be careful when traveling!",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "沈阳 -20℃ 寒冷，请多添衣物，小心保暖。",
     "ai_briefing_en": "Shenyang is a chilly -20℃. Dress in layers and keep warm.",
     "alert": "🥶 红色极寒警报：体感低至 -20℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-17T20:32+08:00",
+    "temp": "-18",
+    "feelsLike": "-23",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "357",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "22",
+    "dew": "-20",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳严寒，体感极冷！外出一定多穿，注意防寒。",
+    "ai_briefing_en": "Severely cold in Shenyang! Dress warmly when going out to stay protected.",
+    "alert": "🥶 红色极寒警报：体感低至 -23℃ | 🟧 橙色降温提示：1小时降温3℃"
   }
 ]

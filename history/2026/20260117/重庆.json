@@ -218,5 +218,25 @@
     "ai_briefing_zh": "重庆有霾，湿度较高。戴口罩，注意呼吸健康哦！",
     "ai_briefing_en": "Chongqing has haze, high humidity. Wear a mask for health!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-17T13:16+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "261",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "982",
+    "vis": "2",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆有霾体感 12℃，外出戴口罩，保持室内通风。",
+    "ai_briefing_en": "Chongqing is hazy at 12°C. Wear a mask and ventilate well!",
+    "alert": null
   }
 ]

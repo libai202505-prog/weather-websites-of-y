@@ -218,5 +218,25 @@
     "ai_briefing_zh": "北京阵雪，体感-11℃，注意防寒保暖，别着凉哦！",
     "ai_briefing_en": "Beijing has snow, feels like -11℃. Bundle up warm, stay cozy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-17T13:17+08:00",
+    "temp": "-4",
+    "feelsLike": "-9",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "69",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "28",
+    "dew": "-16",
+    "cloud": "99",
+    "ai_briefing_zh": "北京天冷体感 -9℃，请务必多穿衣，注意保暖！",
+    "ai_briefing_en": "Beijing feels like -9°C. Please dress very warmly!",
+    "alert": null
   }
 ]

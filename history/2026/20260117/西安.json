@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安晴朗，但体感稍冷，注意添衣保暖。",
     "ai_briefing_en": "Xi'an is sunny but cool. Remember to add more layers.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-17T12:22+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "49",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "-2",
+    "cloud": "1",
+    "ai_briefing_zh": "西安晴朗，体感 1℃。天气微凉，多添衣物哦！",
+    "ai_briefing_en": "Xi'an is sunny, feels like 1℃. It's cool, wear more layers!",
+    "alert": null
   }
 ]

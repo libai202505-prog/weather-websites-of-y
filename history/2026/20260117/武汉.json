@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有霾，气温偏低，出门戴好口罩。",
     "ai_briefing_en": "Wuhan has haze and is cool. Wear a mask when going out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-17T12:26+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "353",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "3",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有霾，体感 6℃。出门记得戴口罩，注意保暖！",
+    "ai_briefing_en": "Wuhan has haze, feels like 6℃. Wear a mask, stay warm!",
+    "alert": null
   }
 ]

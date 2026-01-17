@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海阴天体感 8℃，出门别忘添衣。",
     "ai_briefing_en": "Shanghai is cloudy and feels like 8℃. Remember to add clothes.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-17T17:16+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "71",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "6",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "大雾弥漫，注意交通，小心慢行！",
+    "ai_briefing_en": "Dense fog, drive carefully!",
+    "alert": null
   }
 ]

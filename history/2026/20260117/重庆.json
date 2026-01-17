@@ -258,5 +258,25 @@
     "ai_briefing_zh": "重庆有霾，气温 16℃ 适中，但记得出门做好防护。",
     "ai_briefing_en": "Chongqing has haze, 16℃ is moderate. Remember to protect yourself when going out.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-17T15:16+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "98",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "3",
+    "dew": "9",
+    "cloud": "0",
+    "ai_briefing_zh": "有霾天气，出门请佩戴口罩，保护健康。",
+    "ai_briefing_en": "Hazy weather, please wear a mask when going out for health.",
+    "alert": null
   }
 ]

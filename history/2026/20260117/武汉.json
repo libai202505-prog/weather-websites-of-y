@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉有霾，外出记得戴口罩，注意呼吸健康。",
     "ai_briefing_en": "Wuhan: Haze. Wear a mask for respiratory health.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-17T11:18+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "5",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "3",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有霾，气温偏低，出门戴好口罩。",
+    "ai_briefing_en": "Wuhan has haze and is cool. Wear a mask when going out.",
+    "alert": null
   }
 ]

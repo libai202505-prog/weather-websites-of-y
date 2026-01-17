@@ -318,5 +318,25 @@
     "ai_briefing_zh": "天气寒冷，注意保暖，别着凉哦！",
     "ai_briefing_en": "It's cold, keep very warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-17T18:17+08:00",
+    "temp": "-5",
+    "feelsLike": "-11",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "103",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "18",
+    "dew": "-11",
+    "cloud": "97",
+    "ai_briefing_zh": "北京雾大体感-11℃，注意保暖，出行慢行。",
+    "ai_briefing_en": "Beijing: Foggy, -11℃. Stay warm, drive safe.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

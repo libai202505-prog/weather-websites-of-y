@@ -318,5 +318,25 @@
     "ai_briefing_zh": "有霾，出门请戴口罩，保护自己！",
     "ai_briefing_en": "Hazy, wear a mask!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-17T18:17+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "102",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "3",
+    "dew": "10",
+    "cloud": "0",
+    "ai_briefing_zh": "重庆有霾，体感 15℃。请注意防护和呼吸健康。",
+    "ai_briefing_en": "Chongqing: Hazy, feels 15℃. Protect health, wear mask.",
+    "alert": null
   }
 ]

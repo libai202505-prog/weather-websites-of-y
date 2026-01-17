@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉有霾，体感 6℃。注意防护，出门戴口罩。",
     "ai_briefing_en": "Wuhan: Hazy, feels 6℃. Protect yourself, wear mask.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-17T19:10+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "67",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "3",
+    "dew": "6",
+    "cloud": "2",
+    "ai_briefing_zh": "武汉有雾，体感 5℃。出行注意安全，记得保暖。",
+    "ai_briefing_en": "Foggy Wuhan, feels like 5℃. Stay safe and warm today.",
+    "alert": null
   }
 ]

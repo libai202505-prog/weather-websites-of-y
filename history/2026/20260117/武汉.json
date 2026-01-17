@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有霾，体感0℃，风有点大。多穿点哦！",
     "ai_briefing_en": "Wuhan has haze and feels like 0℃, windy. Dress warmly!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-17T09:34+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "5",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "3",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，外出记得戴口罩，注意呼吸健康。",
+    "ai_briefing_en": "Wuhan: Haze. Wear a mask for respiratory health.",
+    "alert": null
   }
 ]

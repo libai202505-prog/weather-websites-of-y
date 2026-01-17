@@ -158,5 +158,25 @@
     "ai_briefing_zh": "慈溪大雾，能见度低。出行慢点，注意安全。",
     "ai_briefing_en": "Cixi is very foggy, low visibility. Please drive safely.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-17T09:34+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "7",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "3",
+    "dew": "9",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪有雾，能见度低，驾车出行请减速慢行。",
+    "ai_briefing_en": "Cixi: Foggy. Low visibility. Drive slowly and carefully.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都晴朗，但很湿冷。注意保暖，别感冒了。",
     "ai_briefing_en": "Chengdu is clear but humid and cold. Stay warm to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-17T09:32+08:00",
+    "temp": "4",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "4",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "成都晴好，湿度 100%，记得保持室内通风哦。",
+    "ai_briefing_en": "Chengdu: Sunny, 100% humidity. Ventilate indoors!",
+    "alert": null
   }
 ]

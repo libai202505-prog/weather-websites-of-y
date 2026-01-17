@@ -278,5 +278,25 @@
     "ai_briefing_zh": "霾天凉爽，外出记得戴口罩，注意保暖。",
     "ai_briefing_en": "Hazy and cool, wear a mask and keep warm when outside.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-17T16:16+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "66",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "4",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有霾体感 8℃，外出戴口罩注意保暖。",
+    "ai_briefing_en": "Wuhan has haze and feels like 8℃. Wear a mask and keep warm outside.",
+    "alert": null
   }
 ]

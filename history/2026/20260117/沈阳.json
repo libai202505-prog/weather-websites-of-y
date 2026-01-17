@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴冷体感更低，多穿点，注意防寒保暖。",
     "ai_briefing_en": "Cloudy and very cold, dress warmly to stay safe from the chill.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -19℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-17T16:16+08:00",
+    "temp": "-13",
+    "feelsLike": "-18",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "78",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "30",
+    "dew": "-20",
+    "cloud": "96",
+    "ai_briefing_zh": "沈阳体感 -18℃，超级冷，多穿几层哦。",
+    "ai_briefing_en": "Shenyang feels like -18℃, it's super cold! Wear extra layers.",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -18℃"
   }
 ]

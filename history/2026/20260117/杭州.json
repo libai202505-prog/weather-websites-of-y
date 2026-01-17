@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州有雾体感 8℃，能见度低，注意交通安全哦。",
     "ai_briefing_en": "Hangzhou is foggy at 8°C. Drive carefully, visibility is low.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-17T14:26+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "93",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "4",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州有霾，气温 11℃ 略凉，出行注意防护，保暖哦。",
+    "ai_briefing_en": "Hangzhou has haze and it's 11℃. Protect yourself outdoors and stay warm.",
+    "alert": null
   }
 ]

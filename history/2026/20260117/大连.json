@@ -398,5 +398,25 @@
     "ai_briefing_zh": "大连多云，体感 -14℃，天气寒冷，记得多穿衣服。",
     "ai_briefing_en": "Feels like -14℃. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-17T22:16+08:00",
+    "temp": "-8",
+    "feelsLike": "-13",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "258",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "26",
+    "dew": "-18",
+    "cloud": "91",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

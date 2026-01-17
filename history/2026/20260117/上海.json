@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海有雾，能见度低，外出务必注意交通安全！",
     "ai_briefing_en": "Foggy. Low visibility, be safe!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-17T22:16+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "13",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "11",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

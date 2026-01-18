@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天微凉，体感 12℃。出门记得带件外套哦。",
     "ai_briefing_en": "Overcast and cool, feels like 12℃. Bring a jacket!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-18T20:32+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "23",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "10",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天体感 12℃。湿度大，外出带伞哦。",
+    "ai_briefing_en": "Shanghai: cloudy, 12℃. High humidity.",
+    "alert": null
   }
 ]

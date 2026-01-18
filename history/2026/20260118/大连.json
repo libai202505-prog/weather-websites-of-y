@@ -358,5 +358,25 @@
     "ai_briefing_zh": "严寒，体感 -16℃。风力不小，多穿防寒服。",
     "ai_briefing_en": "Severe cold, feels like -16℃. It's windy, wear warm clothing.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -16℃ | 🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-18T20:32+08:00",
+    "temp": "-10",
+    "feelsLike": "-20",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "262",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-15",
+    "cloud": "100",
+    "ai_briefing_zh": "大连体感-20℃，风大寒冷！出行多穿衣物。",
+    "ai_briefing_en": "Dalian -20℃. Windy, bundle up!",
+    "alert": "🥶 红色极寒警报：体感低至 -20℃ | 🟧 橙色降温提示：1小时降温4℃"
   }
 ]

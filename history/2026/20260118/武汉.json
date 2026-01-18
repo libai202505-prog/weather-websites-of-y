@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉有霾，体感 5℃。湿度大，注意防护和保暖。",
     "ai_briefing_en": "Wuhan has haze, feels like 5℃. High humidity, take precautions and stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-18T14:26+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "19",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "2",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有霾，体感2℃。出门戴口罩，注意防护。",
+    "ai_briefing_en": "Wuhan is hazy and feels 2℃. Wear a mask for protection.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

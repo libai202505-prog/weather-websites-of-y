@@ -338,5 +338,25 @@
     "ai_briefing_zh": "青岛体感-6℃，风力 3级，记得多加衣物保暖！",
     "ai_briefing_en": "Qingdao feels -6℃ with 3-level wind, remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-18T19:10+08:00",
+    "temp": "0",
+    "feelsLike": "-7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "349",
+    "humidity": "86",
+    "precip": "0.3",
+    "pressure": "1017",
+    "vis": "9",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "阴冷，体感 -7℃。风力较大，注意防风保暖。",
+    "ai_briefing_en": "Overcast and chilly at -7℃. It's windy, stay warm.",
+    "alert": null
   }
 ]

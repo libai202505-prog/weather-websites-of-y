@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海阴天，体感 10℃。湿度大，出门记得添衣。",
     "ai_briefing_en": "Shanghai is cloudy, feels like 10℃. It's humid, remember to layer up.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-18T12:32+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "286",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "13",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天，体感 10℃。早晚温差大，注意添衣！",
+    "ai_briefing_en": "Shanghai is overcast, feels like 10°C. Mind the temperature difference, dress warmly!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安阴冷，体感 0℃。注意保暖，谨防感冒哦。",
     "ai_briefing_en": "Xi'an is chilly at 0℃. Stay warm and watch out for colds.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-18T12:32+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "65",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "91",
+    "ai_briefing_zh": "西安阴天，体感-1℃。气温很低，多穿点哦。",
+    "ai_briefing_en": "Xi'an is overcast, feels like -1°C. Very cold, dress warmly.",
+    "alert": null
   }
 ]

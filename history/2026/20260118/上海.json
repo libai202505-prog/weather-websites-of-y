@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海多云，体感 7℃，湿度高，注意防潮。",
     "ai_briefing_en": "Shanghai is cloudy, 7℃. High humidity, mind the dampness!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-18T09:48+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "15",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "13",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "上海多云微凉，体感 9℃，记得添衣！",
+    "ai_briefing_en": "Shanghai: 9℃. Cool, dress warmly!",
+    "alert": null
   }
 ]

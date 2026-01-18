@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": "🥶 红色极寒警报：体感低至 -26℃ | 🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-19T07:16+08:00",
+    "temp": "-19",
+    "feelsLike": "-25",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "344",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "30",
+    "dew": "-26",
+    "cloud": "1",
+    "ai_briefing_zh": "沈阳体感-25℃，晴冷，务必多穿！",
+    "ai_briefing_en": "Shenyang feels -25℃, sunny but cold. Dress warmly!",
+    "alert": "🥶 红色极寒警报：体感低至 -25℃"
   }
 ]

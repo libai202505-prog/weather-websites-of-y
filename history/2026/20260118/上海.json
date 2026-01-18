@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海阴天体感 12℃。湿度大，外出带伞哦。",
     "ai_briefing_en": "Shanghai: cloudy, 12℃. High humidity.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-18T21:25+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "26",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "10",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "上海有雾，空气湿润。出行注意安全，别着凉了！",
+    "ai_briefing_en": "Shanghai is foggy and humid. Be safe when out, don't catch a cold!",
+    "alert": null
   }
 ]

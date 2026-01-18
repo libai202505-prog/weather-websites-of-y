@@ -378,5 +378,25 @@
     "ai_briefing_zh": "厦门晴好体感 13℃。趁着好天气，出去走走吧！",
     "ai_briefing_en": "Xiamen sunny, 13℃. Enjoy!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-18T21:25+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "28",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "9",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门有雾，湿度 80%。出行注意安全，路面湿滑哦。",
+    "ai_briefing_en": "Xiamen is foggy and humid. Be safe when out, roads might be slippery.",
+    "alert": null
   }
 ]

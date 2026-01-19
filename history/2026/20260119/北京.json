@@ -298,5 +298,25 @@
     "ai_briefing_zh": "北京体感-12℃，风大天阴，注意保暖防寒哦！",
     "ai_briefing_en": "Beijing feels like -12°C, cloudy with strong winds. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-19T17:33+08:00",
+    "temp": "-8",
+    "feelsLike": "-11",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "251",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1035",
+    "vis": "30",
+    "dew": "-30",
+    "cloud": "10",
+    "ai_briefing_zh": "北京朋友，天寒地冻，注意保暖，别冻着了哦！",
+    "ai_briefing_en": "Beijing friends, it's freezing, stay warm and don't catch a cold!",
+    "alert": null
   }
 ]

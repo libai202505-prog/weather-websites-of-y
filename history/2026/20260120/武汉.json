@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-20T07:18+08:00",
+    "temp": "-3",
+    "feelsLike": "-9",
+    "text": "中雪",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "31",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "2",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉雪花飞舞，路面湿滑，出门注意防滑保暖。",
+    "ai_briefing_en": "Wuhan is snowing, roads are slick, wear non-slip shoes and stay warm.",
+    "alert": null
   }
 ]

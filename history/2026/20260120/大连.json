@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": "🥶 红色极寒警报：体感低至 -25℃ | 📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-20T07:16+08:00",
+    "temp": "-15",
+    "feelsLike": "-25",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "19",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "30",
+    "dew": "-18",
+    "cloud": "10",
+    "ai_briefing_zh": "大连严寒大风，出门请务必做好御寒措施！",
+    "ai_briefing_en": "Dalian is extremely cold and windy, make sure to take all necessary precautions!",
+    "alert": "🥶 红色极寒警报：体感低至 -25℃ | 💨 北风警报：北风 4级"
   }
 ]

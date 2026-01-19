@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉体感 -6℃，阴冷潮湿。务必多穿衣。",
     "ai_briefing_en": "Damp, feels -6℃. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-19T13:24+08:00",
+    "temp": "1",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "56",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "17",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉体感 -6℃，湿度超高，请注意防湿寒！",
+    "ai_briefing_en": "Wuhan -6℃, humid. Layer up!",
+    "alert": null
   }
 ]

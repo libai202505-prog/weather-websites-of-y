@@ -218,5 +218,25 @@
     "ai_briefing_zh": "重庆有雾，湿度 92%。小心驾驶，注意安全。",
     "ai_briefing_en": "Foggy. Drive with caution!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-19T13:26+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "254",
+    "humidity": "94",
+    "precip": "0.1",
+    "pressure": "983",
+    "vis": "2",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆体感 8℃，湿度 94%，出门记得带伞！",
+    "ai_briefing_en": "Chongqing 8℃, humid. Umbrella!",
+    "alert": null
   }
 ]

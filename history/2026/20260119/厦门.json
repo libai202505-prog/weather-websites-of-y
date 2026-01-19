@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门晴朗宜人 20℃，享受海边好风光。",
     "ai_briefing_en": "Sunny and pleasant 20℃.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-19T13:26+08:00",
+    "temp": "20",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "109",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门 16℃ 体感，晴朗宜人，享受阳光吧。",
+    "ai_briefing_en": "Xiamen 16℃, sunny. Enjoy!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京体感-17℃，记得穿最厚的衣服哦！",
     "ai_briefing_en": "Beijing feels -17°C, remember to wear your warmest clothes!",
     "alert": "❄️ 橙色寒冷提示：体感低至 -17℃ | 🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-19T15:24+08:00",
+    "temp": "-8",
+    "feelsLike": "-16",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "277",
+    "humidity": "17",
+    "precip": "0.0",
+    "pressure": "1035",
+    "vis": "30",
+    "dew": "-31",
+    "cloud": "10",
+    "ai_briefing_zh": "北京寒冷，体感-16℃！多穿衣物，小心着凉哦。",
+    "ai_briefing_en": "Beijing is freezing at -16℃! Bundle up warmly.",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -16℃"
   }
 ]

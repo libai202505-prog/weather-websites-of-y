@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛阴冷，体感-11℃，风力 4级，注意防风。",
     "ai_briefing_en": "Qingdao is chilly, feels -11℃ with wind. Watch out for wind!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-19T09:48+08:00",
+    "temp": "-5",
+    "feelsLike": "-14",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "32",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "26",
+    "dew": "-9",
+    "cloud": "98",
+    "ai_briefing_zh": "青岛阴冷大风，体感极寒！多穿衣服，小心感冒。",
+    "ai_briefing_en": "Qingdao, cloudy, windy, and freezing! Bundle up, avoid catching a cold.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 4级"
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳雾蒙蒙，小心慢行，湿度 83%。",
     "ai_briefing_en": "Shenzhen is foggy, proceed with caution. Humid 83%.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-19T09:48+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "11",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "10",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳有雾，小心驾驶，气温舒适，注意湿滑。",
+    "ai_briefing_en": "Shenzhen, it's foggy! Drive carefully. Mild temps, watch for dampness.",
+    "alert": null
   }
 ]

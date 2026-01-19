@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州大雾，能见度差，多加小心！",
     "ai_briefing_en": "Hangzhou is very foggy, low visibility. Be careful!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-19T09:48+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "52",
+    "humidity": "92",
+    "precip": "0.1",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴雨湿冷，出门别忘带伞，穿暖和些哦！",
+    "ai_briefing_en": "Hangzhou, damp and chilly. Don't forget your umbrella, dress warmly!",
+    "alert": null
   }
 ]

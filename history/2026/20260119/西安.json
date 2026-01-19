@@ -378,5 +378,25 @@
     "ai_briefing_zh": "西安阴冷潮湿，注意保暖，小心路滑哦！",
     "ai_briefing_en": "Xi'an: Damp, cold. Stay warm & be careful!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-19T21:42+08:00",
+    "temp": "-2",
+    "feelsLike": "-5",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "199",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

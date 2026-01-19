@@ -378,5 +378,25 @@
     "ai_briefing_zh": "南京阴冷潮湿，多穿衣服，小心着凉哦！",
     "ai_briefing_en": "Nanjing is damp & chilly. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-19T21:42+08:00",
+    "temp": "-1",
+    "feelsLike": "-8",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "340",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "7",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "上海体感 0℃，湿度高。记得添衣保暖，注意健康。",
     "ai_briefing_en": "Shanghai feels 0℃. Dress warmly and stay healthy!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-19T20:48+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "13",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "13",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴冷，体感更低，记得穿暖和点呀！",
+    "ai_briefing_en": "Shanghai is chilly. Feel colder, dress warm!",
+    "alert": null
   }
 ]

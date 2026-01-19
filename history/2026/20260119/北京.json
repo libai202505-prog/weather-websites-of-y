@@ -358,5 +358,25 @@
     "ai_briefing_zh": "北京体感 -11℃，注意防寒保暖，多喝水哦。",
     "ai_briefing_en": "Beijing feels -11℃. Stay warm and hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-19T20:48+08:00",
+    "temp": "-8",
+    "feelsLike": "-12",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "281",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1035",
+    "vis": "30",
+    "dew": "-29",
+    "cloud": "91",
+    "ai_briefing_zh": "北京寒冷干燥，多添衣物，注意补水哦！",
+    "ai_briefing_en": "Beijing is cold & dry. Dress warm & hydrate!",
+    "alert": null
   }
 ]

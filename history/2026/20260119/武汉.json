@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有阵雨，体感 -7℃，务必注意防寒保暖！",
     "ai_briefing_en": "Wuhan has showers, feels like -7℃. Be sure to stay very warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-19T12:50+08:00",
+    "temp": "1",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "28",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "15",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉体感 -6℃，阴冷潮湿。务必多穿衣。",
+    "ai_briefing_en": "Damp, feels -6℃. Dress warmly!",
+    "alert": null
   }
 ]

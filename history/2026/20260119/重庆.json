@@ -198,5 +198,25 @@
     "ai_briefing_zh": "重庆小雨绵绵，体感 10℃，记得带伞出行哦！",
     "ai_briefing_en": "Chongqing has light rain, feels like 10℃. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-19T12:48+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "359",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "2",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾，湿度 92%。小心驾驶，注意安全。",
+    "ai_briefing_en": "Foggy. Drive with caution!",
+    "alert": null
   }
 ]

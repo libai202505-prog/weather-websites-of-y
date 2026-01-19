@@ -238,5 +238,25 @@
     "ai_briefing_zh": "重庆体感 8℃，湿度 94%，出门记得带伞！",
     "ai_briefing_en": "Chongqing 8℃, humid. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-19T14:32+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "261",
+    "humidity": "96",
+    "precip": "0.1",
+    "pressure": "982",
+    "vis": "2",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆下雨啦，出门记得带伞，小心路滑！",
+    "ai_briefing_en": "It's raining in Chongqing, remember your umbrella and watch out for slippery roads!",
+    "alert": null
   }
 ]

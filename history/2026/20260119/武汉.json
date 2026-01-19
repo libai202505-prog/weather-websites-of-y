@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉下雪啦！体感非常冷，风力也大，多穿点！",
     "ai_briefing_en": "Wuhan is snowing! It's very cold and windy, dress warmly.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-19T18:26+08:00",
+    "temp": "1",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "344",
+    "humidity": "92",
+    "precip": "0.5",
+    "pressure": "1024",
+    "vis": "11",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉体感-6℃，注意防风保暖，谨防感冒。",
+    "ai_briefing_en": "Wuhan feels like -6℃. Guard against wind and cold, prevent catching a cold.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州有雾且风大，体感很冷，出行注意安全！",
     "ai_briefing_en": "Hangzhou is foggy and windy, feels very cold. Be careful!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-19T18:26+08:00",
+    "temp": "4",
+    "feelsLike": "-4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "66",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "1022",
+    "vis": "6",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州风力 4级，体感-4℃，记得添衣保暖，别着凉。",
+    "ai_briefing_en": "Hangzhou, it feels like -4℃ with 4-level wind. Dress warm and avoid catching a cold.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海阴冷，注意防寒，别着凉了。",
     "ai_briefing_en": "Shanghai is overcast and chilly, keep warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-20T21:40+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "135",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "28",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴冷，体感-3℃，添件衣裳，别着凉啦！",
+    "ai_briefing_en": "Shanghai: -3℃, cloudy. Keep warm!",
+    "alert": null
   }
 ]

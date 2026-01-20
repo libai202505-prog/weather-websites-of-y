@@ -398,5 +398,25 @@
     "ai_briefing_zh": "深圳有雾，气温 16℃，注意交通安全，小心慢行。",
     "ai_briefing_en": "Shenzhen: Foggy 16℃. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-20T22:24+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "16",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
+    "ai_briefing_en": "深圳: Night watch, stay warm.",
+    "alert": null
   }
 ]

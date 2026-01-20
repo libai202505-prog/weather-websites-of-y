@@ -398,5 +398,25 @@
     "ai_briefing_zh": "南京阴冷，体感-7℃，北风呼啸，记得保暖！",
     "ai_briefing_en": "Nanjing: -7℃, windy. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-20T22:24+08:00",
+    "temp": "-2",
+    "feelsLike": "-7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "19",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "12",
+    "dew": "-5",
+    "cloud": "91",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

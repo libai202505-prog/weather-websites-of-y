@@ -238,5 +238,25 @@
     "ai_briefing_zh": "重庆有雾，湿度大，出行注意安全。",
     "ai_briefing_en": "Chongqing: Foggy, high humidity. Drive carefully!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-20T14:32+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "252",
+    "humidity": "96",
+    "precip": "0.1",
+    "pressure": "992",
+    "vis": "5",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
+    "ai_briefing_en": "重庆: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉有雾，体感 -9℃，出行安全保暖。",
     "ai_briefing_en": "Wuhan: Foggy, feels like -9℃. Drive safe, dress warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-20T14:32+08:00",
+    "temp": "-2",
+    "feelsLike": "-9",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "338",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "8",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

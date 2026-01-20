@@ -358,5 +358,25 @@
     "ai_briefing_zh": "成都阴天微凉，体感 0℃，注意保暖别着凉。",
     "ai_briefing_en": "Chengdu is overcast and cool, feels 0℃, stay warm to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-20T20:48+08:00",
+    "temp": "4",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "352",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "967",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天有凉意，记得多添一件衣服哦。",
+    "ai_briefing_en": "Chengdu is overcast and chilly, remember to add a layer.",
+    "alert": null
   }
 ]

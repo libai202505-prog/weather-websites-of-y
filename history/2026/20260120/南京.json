@@ -358,5 +358,25 @@
     "ai_briefing_zh": "南京阴冷，体感 -7℃，多穿衣裤，小心感冒。",
     "ai_briefing_en": "Nanjing is overcast and cold, feels -7℃, dress warmly to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-20T20:48+08:00",
+    "temp": "-2",
+    "feelsLike": "-7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "20",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "14",
+    "dew": "-5",
+    "cloud": "99",
+    "ai_briefing_zh": "南京阴冷，体感偏低，多穿点保暖。",
+    "ai_briefing_en": "Nanjing is overcast and cold, dress warmly.",
+    "alert": null
   }
 ]

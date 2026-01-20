@@ -358,5 +358,25 @@
     "ai_briefing_zh": "重庆下雨湿冷，体感 2℃，出门记得带好雨具哦。",
     "ai_briefing_en": "Chongqing is rainy and damp-cold, feels 2℃, remember your rain gear.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-20T20:48+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "345",
+    "humidity": "96",
+    "precip": "0.1",
+    "pressure": "994",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆阴天很潮湿，体感偏冷，记得多穿。",
+    "ai_briefing_en": "Chongqing is overcast and very humid, feels cold, dress warmly.",
+    "alert": null
   }
 ]

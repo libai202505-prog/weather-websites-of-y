@@ -358,5 +358,25 @@
     "ai_briefing_zh": "广州阴天，虽不冷但潮湿，记得带把伞出门哦。",
     "ai_briefing_en": "Guangzhou is overcast and humid, not cold, but remember an umbrella.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-20T20:50+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "55",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "22",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天微凉，记得添衣别受寒。",
+    "ai_briefing_en": "Guangzhou is overcast and cool, remember to add clothes.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

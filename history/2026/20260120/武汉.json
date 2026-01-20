@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉大雾又湿冷，体感 -9℃。务必保暖，出行慢行！",
     "ai_briefing_en": "Wuhan is foggy and damp, feels like -9℃. Stay very warm, drive carefully!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-20T18:26+08:00",
+    "temp": "-2",
+    "feelsLike": "-9",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "60",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "8",
+    "dew": "-4",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉雾气重，体感 -9℃，风力 3级，防寒防雾！",
+    "ai_briefing_en": "Wuhan is foggy and feels like -9℃ with a level 3 wind. Stay warm and be careful!",
+    "alert": null
   }
 ]

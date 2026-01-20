@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京阴冷，体感 -8℃。风力大，外出务必多穿衣哦。",
     "ai_briefing_en": "Nanjing is gloomy and very cold, feels like -8℃. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-20T18:24+08:00",
+    "temp": "-2",
+    "feelsLike": "-7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "2",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "16",
+    "dew": "-4",
+    "cloud": "91",
+    "ai_briefing_zh": "南京阴冷，体感 -7℃，风力 2级，务必多穿厚衣服。",
+    "ai_briefing_en": "Nanjing is cloudy and feels like -7℃ with a level 2 wind. Wear extra warm clothes.",
+    "alert": null
   }
 ]

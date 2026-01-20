@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海阴冷，体感 -1℃。注意添衣，别着凉啦。",
     "ai_briefing_en": "Shanghai is gloomy and chilly, feels like -1℃. Add layers, stay warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-20T18:24+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "334",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "23",
+    "dew": "-5",
+    "cloud": "99",
+    "ai_briefing_zh": "上海阴天微凉，体感 -1℃，注意添衣别着凉。",
+    "ai_briefing_en": "Shanghai is cloudy and feels like -1℃. Add layers to avoid catching a cold.",
+    "alert": null
   }
 ]

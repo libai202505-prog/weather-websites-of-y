@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州大雾风大，能见度低，外出务必注意。",
     "ai_briefing_en": "Hangzhou is foggy and windy, visibility is low, please be careful when going out.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-20T09:40+08:00",
+    "temp": "2",
+    "feelsLike": "-4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "39",
+    "humidity": "84",
+    "precip": "0.1",
+    "pressure": "1026",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴冷风大，体感 -4℃。注意防风，多加衣物。",
+    "ai_briefing_en": "Hangzhou is cloudy, cold and windy, feels like -4℃. Protect from wind, wear more layers.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

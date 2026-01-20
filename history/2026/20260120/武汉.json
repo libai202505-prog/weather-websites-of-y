@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉小雪纷飞，体感 -6℃。注意防滑保暖，享受雪景。",
     "ai_briefing_en": "Wuhan has light snow, feels -6℃. Watch out for slips, stay warm, enjoy the snow.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-20T11:41+08:00",
+    "temp": "-2",
+    "feelsLike": "-9",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "50",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "5",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉雾气重很冷，出行注意安全，做好保暖！",
+    "ai_briefing_en": "Wuhan is very foggy and cold, stay safe and warm when going out!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

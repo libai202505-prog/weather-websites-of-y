@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海小雨微凉，体感 -2℃。出门带伞，注意添衣哦！",
     "ai_briefing_en": "Shanghai has light rain, feels chilly at -2℃. Carry an umbrella and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-20T11:38+08:00",
+    "temp": "2",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "299",
+    "humidity": "80",
+    "precip": "0.2",
+    "pressure": "1031",
+    "vis": "19",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天体感凉，多穿衣别着凉，注意保暖。",
+    "ai_briefing_en": "Shanghai is cloudy and feels cool, dress warmly to avoid a chill.",
+    "alert": null
   }
 ]

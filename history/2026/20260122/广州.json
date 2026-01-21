@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州 夜间监测中，注意保暖",
     "ai_briefing_en": "广州: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-22T07:18+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "56",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "30",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阴冷，体感 2℃。湿度 70%，注意防潮保暖。",
+    "ai_briefing_en": "GZ: 2℃. Dress warm.",
+    "alert": null
   }
 ]

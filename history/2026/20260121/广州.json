@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州阴天，体感 9℃，微凉湿度大，注意哦！",
     "ai_briefing_en": "Guangzhou is cloudy, feels like 9°C. Slightly cool, mind the humidity!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-21T13:26+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "36",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阴天，体感 10℃。虽不冷，也别忘添衣！",
+    "ai_briefing_en": "Guangzhou is cloudy, feels like 10℃. Not too cold, but don't forget extra layers!",
+    "alert": null
   }
 ]

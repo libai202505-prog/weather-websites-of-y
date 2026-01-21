@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴冷，体感-6℃，注意防湿防寒，别感冒了！",
     "ai_briefing_en": "Wuhan is gloomy and damp, feels like -6°C. Stay warm and don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-21T13:26+08:00",
+    "temp": "-1",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "53",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "15",
+    "dew": "-6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴冷，体感 -6℃。低温易感，多穿厚衣服！",
+    "ai_briefing_en": "Wuhan is cloudy and cold, feels like -6℃. Low temps can make you sick, wear thick clothes!",
+    "alert": null
   }
 ]

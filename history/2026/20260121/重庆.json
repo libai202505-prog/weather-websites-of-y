@@ -198,5 +198,25 @@
     "ai_briefing_zh": "重庆阴雨，体感 3℃，湿度超高，注意防湿保暖！",
     "ai_briefing_en": "Chongqing is overcast, feels like 3°C, very high humidity. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-21T13:24+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "314",
+    "humidity": "96",
+    "precip": "0.7",
+    "pressure": "996",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆阴天，体感 3℃。湿度高，湿冷注意保暖。",
+    "ai_briefing_en": "Chongqing is cloudy, feels like 3℃. High humidity means damp cold, stay warm!",
+    "alert": null
   }
 ]

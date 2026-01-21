@@ -378,5 +378,25 @@
     "ai_briefing_zh": "南京阴冷，体感 -8℃。寒气逼人，多穿衣裤，注意防寒！",
     "ai_briefing_en": "Nanjing is cloudy and feels like -8℃. Stay warm and protect yourself from cold!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-21T22:24+08:00",
+    "temp": "-3",
+    "feelsLike": "-5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "10",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "28",
+    "dew": "-8",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

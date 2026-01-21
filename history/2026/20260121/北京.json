@@ -378,5 +378,25 @@
     "ai_briefing_zh": "北京晴冷，体感 -13℃。请注意保暖，多喝热水哦！",
     "ai_briefing_en": "Beijing is clear but feels like -13℃. Stay warm and hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-21T22:24+08:00",
+    "temp": "-9",
+    "feelsLike": "-12",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "351",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "12",
+    "dew": "-15",
+    "cloud": "0",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

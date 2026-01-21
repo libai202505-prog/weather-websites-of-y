@@ -298,5 +298,25 @@
     "ai_briefing_zh": "厦门气温 11℃，体感 6℃，微凉，记得添件薄外套。",
     "ai_briefing_en": "Xiamen is 11℃, feels like 6℃, a bit chilly. Remember a light jacket.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-21T18:26+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "26",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "18",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天微凉，出门带件外套，保持好心情哦。",
+    "ai_briefing_en": "Xiamen, overcast and a bit cool. Bring a jacket when out and stay cheerful!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "重庆大雾，体感 2℃，小心驾驶，注意湿滑。",
     "ai_briefing_en": "Chongqing foggy. Be careful!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-21T11:40+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "155",
+    "humidity": "94",
+    "precip": "0.1",
+    "pressure": "998",
+    "vis": "2",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆阴天体感 2℃，湿度高。潮湿寒冷，注意保暖！",
+    "ai_briefing_en": "Chongqing feels 2℃, very humid. It's damp and cold, keep warm!",
+    "alert": null
   }
 ]

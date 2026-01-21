@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳阴天，体感 9℃ 左右。小心着凉，注意防护。",
     "ai_briefing_en": "Shenzhen is overcast, feels around 9℃. Be careful not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-21T15:26+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "344",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "17",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳阴天，体感9℃ 稍冷。出门记得添衣哦。",
+    "ai_briefing_en": "Shenzhen is cloudy, feels like 9℃. Remember to dress warmly.",
+    "alert": null
   }
 ]

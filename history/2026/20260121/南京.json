@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京多云风大体感冷，北风 4级，多添衣物。",
     "ai_briefing_en": "Nanjing is cloudy, windy and cold, feels -6℃. Bundle up!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-21T15:24+08:00",
+    "temp": "1",
+    "feelsLike": "-5",
+    "text": "多云",
+    "windDir": "无持续风向",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "-1",
+    "humidity": "28",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "29",
+    "dew": "-15",
+    "cloud": "10",
+    "ai_briefing_zh": "南京多云，体感-5℃ 寒冷。小心别感冒啦。",
+    "ai_briefing_en": "Cloudy in Nanjing, feels like -5℃. Stay warm to avoid colds!",
+    "alert": null
   }
 ]

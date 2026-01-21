@@ -318,5 +318,25 @@
     "ai_briefing_zh": "深圳多云，体感舒适。昼夜温差大，早晚注意添衣。",
     "ai_briefing_en": "Shenzhen, cloudy and pleasant. Mind the temperature change between day and night.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-21T19:16+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "346",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "18",
+    "dew": "6",
+    "cloud": "1",
+    "ai_briefing_zh": "深圳阴天，体感 10℃。虽不冷，也要注意保暖哦。",
+    "ai_briefing_en": "Shenzhen is overcast, feels like 10℃. Not too cold, but still stay warm.",
+    "alert": null
   }
 ]

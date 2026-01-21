@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海多云，体感温度较低，记得添衣保暖，注意防寒哦！",
     "ai_briefing_en": "Shanghai, cloudy and chilly. Remember to add layers and stay warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-21T19:16+08:00",
+    "temp": "1",
+    "feelsLike": "-3",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "106",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "22",
+    "dew": "-7",
+    "cloud": "10",
+    "ai_briefing_zh": "上海多云，体感 -3℃，寒意浓浓，别忘添衣！",
+    "ai_briefing_en": "Shanghai is cloudy, feels like -3℃. It's quite cold, remember to add layers!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州阴冷，体感很低，请穿暖和些，多喝热水暖身哦！",
     "ai_briefing_en": "Hangzhou, overcast and feels very cold. Dress warmly and have some hot drinks!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-21T19:17+08:00",
+    "temp": "1",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "25",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "20",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴冷，体感 -6℃。风大体感低，注意防寒！",
+    "ai_briefing_en": "Hangzhou is overcast and cold, feels like -6℃. Windy and chilly, keep warm!",
+    "alert": null
   }
 ]

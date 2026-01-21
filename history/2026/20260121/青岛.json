@@ -318,5 +318,25 @@
     "ai_briefing_zh": "青岛多云，风力 5 级！体感极寒，务必严实保暖！",
     "ai_briefing_en": "Qingdao, cloudy with strong winds! Feels extremely cold, bundle up tight!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-21T19:16+08:00",
+    "temp": "-3",
+    "feelsLike": "-13",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "355",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "30",
+    "dew": "-12",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛多云，体感 -13℃。风力大，外出防风保暖。",
+    "ai_briefing_en": "Qingdao is cloudy, feels like -13℃. Strong wind, protect from wind and cold when out.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

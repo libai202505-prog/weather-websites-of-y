@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海阴天，体感有点冷。多穿一点，暖暖和和过一天。",
     "ai_briefing_en": "Shanghai is cloudy and feels chilly. Dress warmly to stay cozy all day.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-22T15:24+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "265",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "25",
+    "dew": "-7",
+    "cloud": "10",
+    "ai_briefing_zh": "上海体感 0℃，多云，早晚温差大，注意保暖防感冒！",
+    "ai_briefing_en": "Shanghai feels like 0℃, cloudy. Dress warmly, especially morning and evening!",
+    "alert": null
   }
 ]

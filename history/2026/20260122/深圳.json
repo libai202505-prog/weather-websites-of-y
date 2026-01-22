@@ -258,5 +258,25 @@
     "ai_briefing_zh": "深圳多云，体感舒适。别忘了带件外套，以防温差。",
     "ai_briefing_en": "Shenzhen is cloudy with comfortable weather. Bring a jacket for temperature changes.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-22T15:25+08:00",
+    "temp": "14",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "15",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "14",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳阴天 14℃，体感 9℃，注意适量添衣，保持舒适哦！",
+    "ai_briefing_en": "Shenzhen is 14℃, feels like 9℃, cloudy. Dress comfortably, stay cozy!",
+    "alert": null
   }
 ]

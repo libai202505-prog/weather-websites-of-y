@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州多云，体感 1℃ 左右，注意防寒，喝杯热饮暖暖身。",
     "ai_briefing_en": "Hangzhou is cloudy, feels like 1℃. Stay warm and have a hot drink.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-22T15:25+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "353",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "17",
+    "dew": "-9",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州体感 1℃，多云，出门别忘了多穿点，小心感冒！",
+    "ai_briefing_en": "Hangzhou feels like 1℃, cloudy. Don't forget to layer up to avoid catching a cold!",
+    "alert": null
   }
 ]

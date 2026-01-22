@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉体感 -1℃，多云天气，记得多穿衣服哦。",
     "ai_briefing_en": "Wuhan feels like -1℃, cloudy weather, remember to wear more clothes.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-22T17:24+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "231",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "7",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉多云，体感 0℃ 湿冷，注意防风保暖，多喝热水。",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 0℃ with damp cold. Stay warm, protect from wind, and drink more hot water.",
+    "alert": null
   }
 ]

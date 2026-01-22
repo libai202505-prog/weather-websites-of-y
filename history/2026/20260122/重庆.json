@@ -338,5 +338,25 @@
     "ai_briefing_zh": "重庆阴天湿润，气温 8℃，出门别忘了带伞哦。",
     "ai_briefing_en": "Chongqing is cloudy and humid at 8℃, remember your umbrella.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-22T19:16+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "63",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "11",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆阴天，体感 5℃ 微凉，记得添衣别感冒。",
+    "ai_briefing_en": "Chongqing is cloudy, feels 5℃. Add layers to avoid colds.",
+    "alert": null
   }
 ]

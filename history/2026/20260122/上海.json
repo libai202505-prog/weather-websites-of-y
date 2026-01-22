@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海多云，体感 -3℃。出门别忘加件外套哦。",
     "ai_briefing_en": "Shanghai is cloudy, feels -3℃. Remember a jacket!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-22T11:30+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "82",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1034",
+    "vis": "18",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing_zh": "上海晴好，体感-1℃，早晚温差大，加件外套吧。",
+    "ai_briefing_en": "Shanghai is sunny, but feels like -1℃. Bring a jacket!",
+    "alert": null
   }
 ]

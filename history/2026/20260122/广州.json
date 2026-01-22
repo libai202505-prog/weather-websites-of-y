@@ -318,5 +318,25 @@
     "ai_briefing_zh": "广州阴天，体感 6℃ 略凉，带伞以防小雨，注意保暖。",
     "ai_briefing_en": "Guangzhou is overcast, feels like 6℃, a bit cool. Bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-22T18:26+08:00",
+    "temp": "7",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "41",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "30",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云湿润，气温 7℃，出门别忘了带伞哦。",
+    "ai_briefing_en": "Guangzhou is cloudy and humid at 7℃, bring an umbrella.",
+    "alert": null
   }
 ]

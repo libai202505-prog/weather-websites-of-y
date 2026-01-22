@@ -318,5 +318,25 @@
     "ai_briefing_zh": "厦门多云，体感 5℃ 稍凉，风力 3级，出门添衣防风。",
     "ai_briefing_en": "Xiamen is cloudy, feels a bit cool at 5℃ with a 3-level wind. Layer up and protect from wind.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-22T18:26+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "75",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "15",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天 10℃，风力 3级，体感较冷，出门注意防风。",
+    "ai_briefing_en": "Xiamen is cloudy 10℃, 3级 wind, feels cold, dress for wind.",
+    "alert": null
   }
 ]

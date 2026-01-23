@@ -138,5 +138,25 @@
     "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
     "ai_briefing_en": "厦门: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-24T07:16+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "63",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "20",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门多云，体感 10℃。风力 2级，早晚添衣，注意防风。",
+    "ai_briefing_en": "Xiamen is cloudy, feels like 10°C. Light breeze. Add layers in morning/evening!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天微凉，体感舒适。注意早晚温差哦。",
     "ai_briefing_en": "Overcast and mild. Pay attention to the temperature difference.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-23T12:34+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "29",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "15",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳阴天，体感 10℃，微凉，外出记得带伞哦。",
+    "ai_briefing_en": "Shenzhen is cloudy, feels 10℃. A bit cool, bring an umbrella!",
+    "alert": null
   }
 ]

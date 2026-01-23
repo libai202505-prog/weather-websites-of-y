@@ -198,5 +198,25 @@
     "ai_briefing_zh": "天气晴朗但非常冷，注意保暖，多喝水！",
     "ai_briefing_en": "Sunny but very cold. Remember to keep warm and drink more water!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-23T12:32+08:00",
+    "temp": "-10",
+    "feelsLike": "-13",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "256",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "30",
+    "dew": "-20",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴朗，体感 -13℃，出门一定要全副武装哦。",
+    "ai_briefing_en": "Shenyang is sunny, feels -13℃. Make sure to bundle up completely!",
+    "alert": null
   }
 ]

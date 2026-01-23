@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天有寒意，体感偏冷，记得多穿点哦。",
     "ai_briefing_en": "Overcast and chilly, it feels cold. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-23T12:32+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "91",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，体感 5℃ 左右，记得添衣注意防潮哦。",
+    "ai_briefing_en": "Guangzhou is cloudy, feels 5℃. Dress warmly and stay dry!",
+    "alert": null
   }
 ]

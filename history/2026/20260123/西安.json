@@ -278,5 +278,25 @@
     "ai_briefing_zh": "西安多云微凉，体感偏低，注意添衣防寒。",
     "ai_briefing_en": "Xi'an: Cloudy and cool. Feels chilly, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-23T16:26+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "284",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "西安多云体感 3℃。天气微凉，多喝热水，注意保暖。",
+    "ai_briefing_en": "Xi'an is cloudy, feels 3℃. A bit cool, drink warm water, stay warm.",
+    "alert": null
   }
 ]

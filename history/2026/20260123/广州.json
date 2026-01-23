@@ -278,5 +278,25 @@
     "ai_briefing_zh": "广州阴天微凉，湿度较高，出门带伞添衣。",
     "ai_briefing_en": "Guangzhou: Cloudy and cool, high humidity. Bring umbrella, add layers.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-23T16:26+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "65",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "广州阴天体感 5℃，湿度高。记得添衣，注意防潮哦。",
+    "ai_briefing_en": "Guangzhou is cloudy, feels 5℃, high humidity. Dress warm, beware of damp.",
+    "alert": null
   }
 ]

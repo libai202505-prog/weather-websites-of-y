@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉晴朗，气温适宜，祝您有个愉快的一天！",
     "ai_briefing_en": "Wuhan: Sunny and pleasant. Have a wonderful day!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-23T16:26+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "102",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "8",
+    "dew": "0",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，体感 5℃。阳光正好，别忘添件薄外套。",
+    "ai_briefing_en": "Wuhan is sunny, feels 5℃. Great sun, remember a light jacket.",
+    "alert": null
   }
 ]

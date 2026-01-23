@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海晴朗，气温宜人，注意早晚温差哦。",
     "ai_briefing_en": "Shanghai: Sunny and pleasant. Mind morning/evening temp differences!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-23T16:24+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "268",
+    "humidity": "28",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "14",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "上海晴朗，体感 5℃。微凉，享受阳光也别忘保暖。",
+    "ai_briefing_en": "Shanghai is sunny, feels 5℃. Enjoy the sun, but stay warm.",
+    "alert": null
   }
 ]

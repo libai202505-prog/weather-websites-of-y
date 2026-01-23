@@ -1,13 +1,13 @@
 {
-  "updateTime": "2026-01-23T18:34:48.350Z",
+  "updateTime": "2026-01-23T19:24:35.807Z",
   "cities": [
     {
       "name": "北京",
-      "temp": "-8",
-      "feelsLike": "-11",
+      "temp": "-9",
+      "feelsLike": "-12",
       "text": "晴",
       "wind": "东北风1级",
-      "humidity": "66",
+      "humidity": "69",
       "alert": null
     },
     {
@@ -15,7 +15,7 @@
       "temp": "4",
       "feelsLike": "3",
       "text": "阴",
-      "wind": "南风1级",
+      "wind": "北风0级",
       "humidity": "100",
       "alert": null
     },
@@ -24,62 +24,62 @@
       "temp": "7",
       "feelsLike": "5",
       "text": "阴",
-      "wind": "西北风1级",
-      "humidity": "71",
+      "wind": "西北风2级",
+      "humidity": "72",
       "alert": null
     },
     {
       "name": "慈溪",
       "temp": "0",
-      "feelsLike": "-2",
+      "feelsLike": "-3",
       "text": "雾",
-      "wind": "北风0级",
+      "wind": "西北风1级",
       "humidity": "88",
       "alert": null
     },
     {
       "name": "大连",
-      "temp": "-8",
+      "temp": "-7",
       "feelsLike": "-11",
       "text": "多云",
-      "wind": "北风0级",
-      "humidity": "38",
+      "wind": "南风1级",
+      "humidity": "40",
       "alert": null
     },
     {
       "name": "广州",
-      "temp": "8",
-      "feelsLike": "5",
+      "temp": "9",
+      "feelsLike": "7",
       "text": "阴",
-      "wind": "东北风1级",
+      "wind": "南风1级",
       "humidity": "82",
       "alert": null
     },
     {
       "name": "哈尔滨",
       "temp": "-23",
-      "feelsLike": "-28",
-      "text": "雾",
-      "wind": "西南风2级",
-      "humidity": "74",
-      "alert": "🥶 红色极寒警报：体感低至 -28℃"
+      "feelsLike": "-29",
+      "text": "多云",
+      "wind": "西北风2级",
+      "humidity": "75",
+      "alert": "🥶 红色极寒警报：体感低至 -29℃"
     },
     {
       "name": "杭州",
-      "temp": "2",
-      "feelsLike": "0",
-      "text": "晴",
-      "wind": "北风1级",
+      "temp": "1",
+      "feelsLike": "-1",
+      "text": "雾",
+      "wind": "西南风1级",
       "humidity": "71",
       "alert": null
     },
     {
       "name": "昆明",
-      "temp": "7",
-      "feelsLike": "5",
+      "temp": "6",
+      "feelsLike": "4",
       "text": "晴",
-      "wind": "北风0级",
-      "humidity": "69",
+      "wind": "西北风1级",
+      "humidity": "72",
       "alert": null
     },
     {
@@ -88,25 +88,25 @@
       "feelsLike": "-2",
       "text": "雾",
       "wind": "北风0级",
-      "humidity": "74",
+      "humidity": "78",
       "alert": null
     },
     {
       "name": "青岛",
       "temp": "-1",
-      "feelsLike": "-6",
-      "text": "霾",
-      "wind": "东北风2级",
-      "humidity": "50",
+      "feelsLike": "-5",
+      "text": "多云",
+      "wind": "北风1级",
+      "humidity": "51",
       "alert": null
     },
     {
       "name": "厦门",
-      "temp": "11",
-      "feelsLike": "9",
-      "text": "晴",
-      "wind": "东风2级",
-      "humidity": "78",
+      "temp": "10",
+      "feelsLike": "8",
+      "text": "多云",
+      "wind": "北风2级",
+      "humidity": "82",
       "alert": null
     },
     {
@@ -115,7 +115,7 @@
       "feelsLike": "1",
       "text": "阴",
       "wind": "北风0级",
-      "humidity": "61",
+      "humidity": "62",
       "alert": null
     },
     {
@@ -123,25 +123,25 @@
       "temp": "12",
       "feelsLike": "10",
       "text": "阴",
-      "wind": "北风1级",
-      "humidity": "67",
+      "wind": "西风1级",
+      "humidity": "68",
       "alert": null
     },
     {
       "name": "沈阳",
-      "temp": "-22",
-      "feelsLike": "-27",
+      "temp": "-23",
+      "feelsLike": "-28",
       "text": "晴",
-      "wind": "南风1级",
-      "humidity": "71",
-      "alert": "🥶 红色极寒警报：体感低至 -27℃"
+      "wind": "东风1级",
+      "humidity": "70",
+      "alert": "🥶 红色极寒警报：体感低至 -28℃"
     },
     {
       "name": "武汉",
       "temp": "-2",
       "feelsLike": "-4",
       "text": "雾",
-      "wind": "北风0级",
+      "wind": "东风1级",
       "humidity": "97",
       "alert": null
     },
@@ -151,7 +151,7 @@
       "feelsLike": "-3",
       "text": "晴",
       "wind": "西风1级",
-      "humidity": "61",
+      "humidity": "69",
       "alert": null
     }
   ],

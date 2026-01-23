@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京体感-2℃，天晴干燥，多穿衣，别忘了补水哦！",
     "ai_briefing_en": "Beijing feels like -2℃, sunny and dry. Dress warmly and stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-23T15:16+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "41",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "30",
+    "dew": "-22",
+    "cloud": "0",
+    "ai_briefing_zh": "北京晴冷，体感偏低，记得多穿暖和哦！",
+    "ai_briefing_en": "Beijing: Sunny and cold. Feels chilly, dress warmly!",
+    "alert": null
   }
 ]

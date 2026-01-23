@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安多云，体感-3℃，天冷地冻，记得多添衣！",
     "ai_briefing_en": "Xi'an is cloudy and feels like -3℃. It's freezing, remember to add layers!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-23T11:28+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "6",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "981",
+    "vis": "16",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "阴冷有霜意，体感 -1℃，多穿保暖很重要！",
+    "ai_briefing_en": "Overcast and frosty, feels like -1℃. Staying warm is important!",
+    "alert": null
   }
 ]

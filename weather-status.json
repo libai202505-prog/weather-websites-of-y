@@ -1,28 +1,28 @@
 {
-  "updateTime": "2026-01-24T14:20:05.919Z",
+  "updateTime": "2026-01-24T15:20:56.867Z",
   "cities": [
     {
       "name": "北京",
-      "temp": "-4",
+      "temp": "-5",
       "feelsLike": "-8",
       "text": "晴",
-      "wind": "东北风2级",
-      "humidity": "37",
+      "wind": "东风1级",
+      "humidity": "39",
       "alert": null
     },
     {
       "name": "成都",
       "temp": "5",
-      "feelsLike": "3",
+      "feelsLike": "2",
       "text": "阴",
-      "wind": "东北风1级",
-      "humidity": "77",
+      "wind": "北风0级",
+      "humidity": "78",
       "alert": null
     },
     {
       "name": "重庆",
-      "temp": "9",
-      "feelsLike": "6",
+      "temp": "8",
+      "feelsLike": "5",
       "text": "阴",
       "wind": "西风2级",
       "humidity": "66",
@@ -30,11 +30,11 @@
     },
     {
       "name": "慈溪",
-      "temp": "5",
+      "temp": "4",
       "feelsLike": "3",
       "text": "雾",
-      "wind": "北风0级",
-      "humidity": "81",
+      "wind": "西风1级",
+      "humidity": "82",
       "alert": null
     },
     {
@@ -43,34 +43,34 @@
       "feelsLike": "-11",
       "text": "多云",
       "wind": "北风3级",
-      "humidity": "24",
+      "humidity": "23",
       "alert": null
     },
     {
       "name": "广州",
       "temp": "10",
-      "feelsLike": "9",
+      "feelsLike": "8",
       "text": "雾",
-      "wind": "北风0级",
-      "humidity": "89",
+      "wind": "东北风1级",
+      "humidity": "90",
       "alert": null
     },
     {
       "name": "哈尔滨",
-      "temp": "-21",
-      "feelsLike": "-26",
-      "text": "晴",
-      "wind": "西北风1级",
-      "humidity": "70",
-      "alert": "🥶 红色极寒警报：体感低至 -26℃"
+      "temp": "-22",
+      "feelsLike": "-27",
+      "text": "雾",
+      "wind": "西北风2级",
+      "humidity": "72",
+      "alert": "🥶 红色极寒警报：体感低至 -27℃"
     },
     {
       "name": "杭州",
       "temp": "6",
-      "feelsLike": "2",
+      "feelsLike": "3",
       "text": "霾",
-      "wind": "东风2级",
-      "humidity": "60",
+      "wind": "东南风2级",
+      "humidity": "65",
       "alert": null
     },
     {
@@ -78,26 +78,26 @@
       "temp": "10",
       "feelsLike": "8",
       "text": "晴",
-      "wind": "北风0级",
+      "wind": "南风1级",
       "humidity": "45",
       "alert": null
     },
     {
       "name": "南京",
-      "temp": "5",
+      "temp": "4",
       "feelsLike": "0",
       "text": "霾",
       "wind": "东风2级",
-      "humidity": "52",
+      "humidity": "53",
       "alert": null
     },
     {
       "name": "青岛",
       "temp": "2",
-      "feelsLike": "-1",
+      "feelsLike": "0",
       "text": "晴",
       "wind": "东南风1级",
-      "humidity": "63",
+      "humidity": "66",
       "alert": null
     },
     {
@@ -105,17 +105,17 @@
       "temp": "13",
       "feelsLike": "10",
       "text": "多云",
-      "wind": "东风2级",
-      "humidity": "79",
+      "wind": "东北风3级",
+      "humidity": "78",
       "alert": null
     },
     {
       "name": "上海",
       "temp": "5",
       "feelsLike": "3",
-      "text": "晴",
+      "text": "雾",
       "wind": "北风0级",
-      "humidity": "68",
+      "humidity": "71",
       "alert": null
     },
     {
@@ -124,34 +124,34 @@
       "feelsLike": "13",
       "text": "雾",
       "wind": "东风1级",
-      "humidity": "77",
+      "humidity": "79",
       "alert": null
     },
     {
       "name": "沈阳",
-      "temp": "-20",
-      "feelsLike": "-24",
+      "temp": "-21",
+      "feelsLike": "-25",
       "text": "晴",
-      "wind": "南风1级",
-      "humidity": "66",
-      "alert": "🥶 红色极寒警报：体感低至 -24℃"
+      "wind": "东南风1级",
+      "humidity": "71",
+      "alert": "🥶 红色极寒警报：体感低至 -25℃"
     },
     {
       "name": "武汉",
       "temp": "8",
-      "feelsLike": "5",
-      "text": "阴",
-      "wind": "东风2级",
-      "humidity": "68",
+      "feelsLike": "6",
+      "text": "雾",
+      "wind": "东风1级",
+      "humidity": "72",
       "alert": null
     },
     {
       "name": "西安",
       "temp": "3",
-      "feelsLike": "0",
+      "feelsLike": "-1",
       "text": "晴",
-      "wind": "北风1级",
-      "humidity": "55",
+      "wind": "北风2级",
+      "humidity": "50",
       "alert": null
     }
   ],

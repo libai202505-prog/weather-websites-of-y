@@ -378,5 +378,25 @@
     "ai_briefing_zh": "广州 12℃ 暖和舒适，但湿度高，出门心情好！",
     "ai_briefing_en": "Guangzhou is warm at 12℃, high humidity. Enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-24T21:26+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "9",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "10",
+    "dew": "9",
+    "cloud": "1",
+    "ai_briefing_zh": "广州有雾，体感 10℃。注意防潮，出行留意安全。",
+    "ai_briefing_en": "Guangzhou is foggy, feels like 10℃. Watch out for humidity and safe travel.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海雾气弥漫，出行注意安全哦！",
     "ai_briefing_en": "Shanghai is foggy. Be safe when traveling!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-25T09:49+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "339",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "9",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有雾，体感 6℃，出行注意交通安全哦。",
+    "ai_briefing_en": "Shanghai is foggy, feels like 6℃. Be safe on the road.",
+    "alert": null
   }
 ]

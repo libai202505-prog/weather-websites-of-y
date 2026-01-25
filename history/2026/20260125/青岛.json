@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛阴冷，体感0℃以下，注意保暖！",
     "ai_briefing_en": "Qingdao is cloudy and chilly, feels sub-zero. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-25T09:49+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "347",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "13",
+    "dew": "-4",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛体感-1℃。多云，有点冷，多穿点才暖和。",
+    "ai_briefing_en": "Qingdao feels like -1℃. Cloudy and a bit chilly, dress warmly.",
+    "alert": null
   }
 ]

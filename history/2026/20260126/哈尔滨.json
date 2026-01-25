@@ -138,5 +138,25 @@
     "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
     "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
     "alert": "🥶 红色极寒警报：体感低至 -28℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-01-26T07:16+08:00",
+    "temp": "-23",
+    "feelsLike": "-28",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "85",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "7",
+    "dew": "-23",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨体感-28℃，超级冷！多穿几层，注意防冻伤哦！",
+    "ai_briefing_en": "Harbin feels -28℃, extremely cold! Layer up, watch out for frostbite!",
+    "alert": "🥶 红色极寒警报：体感低至 -28℃"
   }
 ]

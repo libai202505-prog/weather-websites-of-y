@@ -258,5 +258,25 @@
     "ai_briefing_zh": "南京有霾 8℃，体感 7℃。出门记得戴口罩！",
     "ai_briefing_en": "Haze, 8℃. Mask up!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-25T15:16+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "82",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "南京有雾，能见度低，体感 3℃，出行注意安全添衣。",
+    "ai_briefing_en": "Nanjing is foggy with low visibility. Feels like 3℃, so stay safe and dress warmly.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "大连多云，体感 -14℃。风力大，注意防风保暖！",
     "ai_briefing_en": "Feels -14℃. So cold!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-25T15:16+08:00",
+    "temp": "-7",
+    "feelsLike": "-14",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "342",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "30",
+    "dew": "-17",
+    "cloud": "10",
+    "ai_briefing_zh": "大连-14℃ 寒风凛冽，注意防风保暖，谨防冻伤。",
+    "ai_briefing_en": "Dalian is bitterly cold at -14℃ with strong winds. Guard against wind and cold, prevent frostbite.",
+    "alert": null
   }
 ]

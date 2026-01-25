@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉小雨，体感-1℃。湿冷冻人，记得多穿保暖衣物。",
     "ai_briefing_en": "Wuhan has light rain, feels like -1℃. It's freezing, remember to wear warm clothes.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-25T21:26+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "19",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "1",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨 4℃，体感 1℃，出门带伞，别着凉。",
+    "ai_briefing_en": "Wuhan has light rain 4℃, feels like 1℃. Grab an umbrella!",
+    "alert": null
   }
 ]

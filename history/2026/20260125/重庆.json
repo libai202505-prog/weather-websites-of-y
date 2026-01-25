@@ -178,5 +178,25 @@
     "ai_briefing_zh": "重庆有雾，湿度 92%。视线不佳，注意出行安全。",
     "ai_briefing_en": "Chongqing is foggy, 92% humidity. Visibility low, drive safe.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-25T11:48+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "327",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "5",
+    "dew": "5",
+    "cloud": "98",
+    "ai_briefing_zh": "重庆有雾湿冷，驾车小心，注意保暖。",
+    "ai_briefing_en": "Chongqing is foggy and damp-cold, drive carefully, stay warm.",
+    "alert": null
   }
 ]

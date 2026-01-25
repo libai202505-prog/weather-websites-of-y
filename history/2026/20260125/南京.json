@@ -278,5 +278,25 @@
     "ai_briefing_zh": "南京有雾，能见度低，体感 3℃，出行注意安全添衣。",
     "ai_briefing_en": "Nanjing is foggy with low visibility. Feels like 3℃, so stay safe and dress warmly.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-25T16:25+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "61",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "5",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "南京大雾 8℃，体感 3℃，出行注意安全哦。",
+    "ai_briefing_en": "Nanjing is foggy, 8℃, feels 3℃. Drive safe.",
+    "alert": null
   }
 ]

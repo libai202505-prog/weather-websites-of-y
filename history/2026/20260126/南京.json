@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阵雨，气温 5℃。出门记得带伞，别淋湿了哦！",
     "ai_briefing_en": "Nanjing has showers, 5℃. Don't forget your umbrella, stay dry!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-26T09:48+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "349",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "3",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "南京大雾弥漫，气温很低。路滑，请务必小心慢行！",
+    "ai_briefing_en": "Nanjing is very foggy and cold. Roads are slippery, be careful!",
+    "alert": null
   }
 ]

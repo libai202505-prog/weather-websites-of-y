@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，湿度 100%。体感 0℃，注意添衣保暖！",
     "ai_briefing_en": "Xi'an is cloudy, 100% humidity. Feels like 0℃, bundle up!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-26T09:49+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "276",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "16",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "西安阴冷潮湿，体感低。多穿厚衣，小心地滑哦！",
+    "ai_briefing_en": "Xi'an is cloudy, cold, and damp. Dress warm, watch for slippery roads!",
+    "alert": null
   }
 ]

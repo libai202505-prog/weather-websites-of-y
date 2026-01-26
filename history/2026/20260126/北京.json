@@ -298,5 +298,25 @@
     "ai_briefing_zh": "北京晴好但体感 -1℃，早晚注意防寒保暖哦！",
     "ai_briefing_en": "Beijing is sunny but feels like -1℃. Stay warm, especially morning and evening!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-01-26T18:24+08:00",
+    "temp": "2",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "214",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "7",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "北京晴冷，体感 -2℃。记得添衣保暖哦！",
+    "ai_briefing_en": "Beijing: 2°C. Dress warm!",
+    "alert": null
   }
 ]

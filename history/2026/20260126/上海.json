@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海阴湿，气温 7℃。出门记得带伞！",
     "ai_briefing_en": "Shanghai: 7°C, damp. Umbrella?",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-26T19:16+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "61",
+    "humidity": "91",
+    "precip": "0.1",
+    "pressure": "1026",
+    "vis": "6",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴冷潮湿，体感低，记得多穿点。",
+    "ai_briefing_en": "Cold, damp. Bundle up!",
+    "alert": null
   }
 ]

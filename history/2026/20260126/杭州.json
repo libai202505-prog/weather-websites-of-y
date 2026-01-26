@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州阴冷，体感 2℃。注意保暖，多喝热水。",
     "ai_briefing_en": "Hangzhou: 7°C. Dress warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-26T19:17+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "338",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "23",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴冷，体感偏低，外出记得添衣保暖。",
+    "ai_briefing_en": "Cloudy, feels cold. Layer up!",
+    "alert": null
   }
 ]

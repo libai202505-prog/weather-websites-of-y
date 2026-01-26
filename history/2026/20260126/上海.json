@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海阴冷潮湿，体感低，记得多穿点。",
     "ai_briefing_en": "Cold, damp. Bundle up!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-26T20:41+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "279",
+    "humidity": "91",
+    "precip": "0.1",
+    "pressure": "1026",
+    "vis": "7",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天湿冷，体感 4℃，出门记得添衣防湿，别着凉。",
+    "ai_briefing_en": "Shanghai is damp and cool at 4℃. Dress warm and stay dry!",
+    "alert": null
   }
 ]

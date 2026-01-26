@@ -278,5 +278,25 @@
     "ai_briefing_zh": "杭州阵雨伴北风，体感 1℃。出门带伞多穿衣。",
     "ai_briefing_en": "Hangzhou 1℃, showers. Stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-26T17:32+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "3",
+    "humidity": "85",
+    "precip": "0.3",
+    "pressure": "1019",
+    "vis": "9",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天体感 5℃，湿冷感强，多穿些别着凉！",
+    "ai_briefing_en": "Hangzhou is overcast, feels like 5℃. It's damp and chilly, dress warmly!",
+    "alert": null
   }
 ]

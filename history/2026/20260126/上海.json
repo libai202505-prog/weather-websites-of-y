@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海阴天潮湿，体感 6℃。注意保暖防潮哦。",
     "ai_briefing_en": "Shanghai is cloudy and humid, feels like 6℃. Keep warm and dry!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-26T16:24+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "254",
+    "humidity": "91",
+    "precip": "0.1",
+    "pressure": "1023",
+    "vis": "14",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天潮湿，体感 5℃，注意保暖。",
+    "ai_briefing_en": "Shanghai 5℃, cloudy. Keep warm.",
+    "alert": null
   }
 ]

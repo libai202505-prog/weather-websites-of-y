@@ -378,5 +378,25 @@
     "ai_briefing_zh": "南京大雾体感 1℃，能见度低，出行务必小心。",
     "ai_briefing_en": "Nanjing is very foggy and feels like 1℃. Low visibility, please be careful when traveling.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-26T22:24+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "38",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

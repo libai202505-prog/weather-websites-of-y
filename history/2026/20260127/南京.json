@@ -358,5 +358,25 @@
     "ai_briefing_zh": "气温接近冰点，多穿点，注意保暖哦！",
     "ai_briefing_en": "Near freezing point, bundle up and keep warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-27T20:49+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "350",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "5",
+    "dew": "-3",
+    "cloud": "10",
+    "ai_briefing_zh": "南京有雾体感 -1℃，能见度低，出行请注意安全。",
+    "ai_briefing_en": "Nanjing is foggy, feels like -1℃. Low visibility, travel safely.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "气温适宜，多云天气，心情也要晴朗哦！",
     "ai_briefing_en": "Pleasant temperatures, cloudy but keep your spirits bright!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-27T20:50+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "337",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "成都多云，体感 5℃，湿度较大，注意保暖。",
+    "ai_briefing_en": "Chengdu is cloudy, feels like 5℃. High humidity, stay warm.",
+    "alert": null
   }
 ]

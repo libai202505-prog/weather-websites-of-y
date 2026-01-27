@@ -358,5 +358,25 @@
     "ai_briefing_zh": "气温很低，风寒感强，多穿衣防感冒！",
     "ai_briefing_en": "Very cold, strong wind chill. Dress warmly to prevent colds!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-27T20:48+08:00",
+    "temp": "-5",
+    "feelsLike": "-9",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "48",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "25",
+    "dew": "-15",
+    "cloud": "1",
+    "ai_briefing_zh": "大连晴冷，体感 -9℃，风力不小，注意防风保暖。",
+    "ai_briefing_en": "Dalian is clear and cold, feels like -9℃. It's windy, mind the wind chill!",
+    "alert": null
   }
 ]

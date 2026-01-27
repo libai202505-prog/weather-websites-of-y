@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉阴天，体感 湿冷，小心感冒，多穿点！",
     "ai_briefing_en": "Wuhan is cloudy and damp cold. Beware of colds, wear more!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-27T13:26+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "338",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "5",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天体感3℃，凉意渐浓。记得添衣保暖哦。",
+    "ai_briefing_en": "Wuhan is overcast, feels like 3℃. Remember to dress warmly!",
+    "alert": null
   }
 ]

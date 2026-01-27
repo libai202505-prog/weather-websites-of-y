@@ -318,5 +318,25 @@
     "ai_briefing_zh": "大连天晴寒冷，体感偏低。保暖防风，小心着凉。",
     "ai_briefing_en": "Dalian is clear and cold, feels quite low. Keep warm and avoid the wind.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-27T18:24+08:00",
+    "temp": "-5",
+    "feelsLike": "-10",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "273",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-15",
+    "cloud": "0",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

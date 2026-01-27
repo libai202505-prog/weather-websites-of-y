@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云天，有些湿冷，注意保暖，别着凉了。",
     "ai_briefing_en": "Damp and cold. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-27T11:42+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "221",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "969",
+    "vis": "16",
+    "dew": "3",
+    "cloud": "3",
+    "ai_briefing_zh": "成都多云，体感 9℃，早晚温差大，注意保暖喔。",
+    "ai_briefing_en": "Chengdu is cloudy, feels like 9℃, mind the temperature difference.",
+    "alert": null
   }
 ]

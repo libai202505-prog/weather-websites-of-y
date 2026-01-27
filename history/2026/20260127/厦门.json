@@ -258,5 +258,25 @@
     "ai_briefing_zh": "厦门阴天 15℃，湿度高，小心潮湿，注意防霉。",
     "ai_briefing_en": "Xiamen is cloudy 15℃, high humidity. Watch out for dampness.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-27T15:24+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "85",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "17",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天，体感 11℃，湿度大，记得防潮。",
+    "ai_briefing_en": "Xiamen: Cloudy, 11℃. Damp.",
+    "alert": null
   }
 ]

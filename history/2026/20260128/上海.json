@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天微凉，添件衣裳暖身心，别忘带伞防小雨。",
     "ai_briefing_en": "Shanghai is cloudy and cool, add a layer, bring an umbrella for possible rain.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-28T14:32+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "307",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "25",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天有风，体感 6℃。注意防风，别着凉了。",
+    "ai_briefing_en": "Cloudy and breezy in Shanghai, feels like 6℃. Stay warm and don't catch a cold.",
+    "alert": null
   }
 ]

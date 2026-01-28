@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海体感 3℃，多云天，穿暖和些，别冻着！",
     "ai_briefing_en": "Shanghai feels like 3℃, cloudy. Dress warmly and don't get cold!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-28T19:16+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "350",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "22",
+    "dew": "-1",
+    "cloud": "91",
+    "ai_briefing_zh": "体感略凉，出门记得添衣，小心着凉。",
+    "ai_briefing_en": "Feeling a bit cool, add layers when going out.",
+    "alert": null
   }
 ]

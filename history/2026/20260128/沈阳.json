@@ -338,5 +338,25 @@
     "ai_briefing_zh": "沈阳体感 -19℃，晴天，出门多穿，注意防寒。",
     "ai_briefing_en": "Shenyang feels like -19℃, sunny. Dress warmly, stay protected from the cold.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -19℃ | 🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-01-28T19:18+08:00",
+    "temp": "-16",
+    "feelsLike": "-20",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "43",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "19",
+    "dew": "-20",
+    "cloud": "0",
+    "ai_briefing_zh": "天寒地冻，体感很冷，多穿厚衣服哦。",
+    "ai_briefing_en": "Freezing cold, feels very chilly, wear thick clothes.",
+    "alert": "🥶 红色极寒警报：体感低至 -20℃"
   }
 ]

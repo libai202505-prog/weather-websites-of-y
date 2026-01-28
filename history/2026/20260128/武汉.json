@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉多云微凉，体感 6℃。外出记得穿外套，小心着凉。",
     "ai_briefing_en": "Partly cloudy and cool in Wuhan, feels like 6℃. Wear a jacket when out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-28T15:17+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "86",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "多云微凉，体感 6℃，小心感冒。",
+    "ai_briefing_en": "Cloudy and cool, feels like 6℃, watch out for colds.",
+    "alert": null
   }
 ]

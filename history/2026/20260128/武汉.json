@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉多云，体感 7℃，略显湿冷。记得多穿一层，暖暖和和过一天。",
     "ai_briefing_en": "Wuhan is cloudy, feels like 7°C, a bit damp and cold. Remember to add a layer to stay warm all day.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-28T18:26+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "84",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "5",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有雾，体感 4℃。出行注意安全，记得保暖！",
+    "ai_briefing_en": "Wuhan is foggy, feels like 4℃. Be safe when out, stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

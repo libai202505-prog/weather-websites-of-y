@@ -258,5 +258,25 @@
     "ai_briefing_zh": "南京阴天风大体感冷，外出记得多穿一点。",
     "ai_briefing_en": "Nanjing feels cold with wind, bundle up when you go out.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-29T16:33+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "92",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天，体感6℃，风力不大，外出仍需注意保暖。",
+    "ai_briefing_en": "Nanjing is cloudy, feels 6℃. Light wind, but still dress warmly outdoors.",
+    "alert": null
   }
 ]

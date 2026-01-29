@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-30T07:25+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "66",
+    "humidity": "89",
+    "precip": "1.7",
+    "pressure": "1029",
+    "vis": "8",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "上海小雨，体感 4℃ 有些凉，出门记得带伞，小心路滑！",
+    "ai_briefing_en": "Shanghai has light rain, feels cool at 4℃. Bring an umbrella and watch for slippery roads!",
+    "alert": null
   }
 ]

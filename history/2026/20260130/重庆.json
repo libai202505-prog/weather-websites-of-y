@@ -138,5 +138,25 @@
     "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
     "ai_briefing_en": "重庆: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-30T07:24+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "262",
+    "humidity": "93",
+    "precip": "0.1",
+    "pressure": "993",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有霾，外出记得戴口罩，注意呼吸道健康。",
+    "ai_briefing_en": "Chongqing has haze, wear a mask when going out and protect your respiratory health.",
+    "alert": null
   }
 ]

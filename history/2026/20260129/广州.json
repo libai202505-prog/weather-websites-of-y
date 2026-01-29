@@ -358,5 +358,25 @@
     "ai_briefing_zh": "广州晴朗舒适，气温16℃，享受好天气哦。",
     "ai_briefing_en": "Guangzhou is sunny and pleasant, 16℃. Enjoy the good weather!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-29T21:58+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "314",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "13",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

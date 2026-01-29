@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉小雨湿冷，体感-2℃，带伞加厚衣。",
     "ai_briefing_en": "Wuhan is rainy and damp, feels like -2℃. Bring an umbrella and warm clothes.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-29T21:58+08:00",
+    "temp": "4",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "41",
+    "humidity": "98",
+    "precip": "0.1",
+    "pressure": "1023",
+    "vis": "2",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

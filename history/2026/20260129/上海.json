@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海阴 9℃，体感 6℃。多穿点，别着凉。",
     "ai_briefing_en": "Shanghai is cloudy, 9℃ (feels like 6℃). Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-29T18:33+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "7",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴冷，体感 5℃，注意防湿防寒哦。",
+    "ai_briefing_en": "Shanghai is gloomy and feels like 5°C. Keep warm and dry!",
+    "alert": null
   }
 ]

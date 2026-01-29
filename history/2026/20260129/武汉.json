@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉阵雨 4℃，体感 3℃。湿冷有雨，出门带伞哦。",
     "ai_briefing_en": "Wuhan has showers, 4℃ (feels like 3℃). Damp and rainy, don't forget your umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-29T18:34+08:00",
+    "temp": "4",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "42",
+    "humidity": "97",
+    "precip": "1.0",
+    "pressure": "1021",
+    "vis": "2",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴雨湿冷，体感 -1℃，务必多穿。",
+    "ai_briefing_en": "Wuhan is cloudy, damp, and feels like -1°C. Dress very warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

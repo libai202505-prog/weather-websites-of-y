@@ -338,5 +338,25 @@
     "ai_briefing_zh": "西安下雪啦！体感 0℃，注意防滑保暖！",
     "ai_briefing_en": "Xi'an 0℃, snowing. Safe & warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-29T20:48+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "336",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "982",
+    "vis": "16",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴冷湿重，体感-3℃，务必注意防寒。",
+    "ai_briefing_en": "Xi'an is cloudy, cold and humid, feels like -3℃. Be sure to stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

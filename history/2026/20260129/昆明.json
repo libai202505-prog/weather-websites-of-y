@@ -238,5 +238,25 @@
     "ai_briefing_zh": "天气晴好，风力较大，注意防风保暖。",
     "ai_briefing_en": "Sunny and pleasant, but windy, stay warm and protected.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-01-29T15:34+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "313",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "809",
+    "vis": "30",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "昆明晴空万里，气温舒适，享受阳光好心情！",
+    "ai_briefing_en": "Kunming is sunny and pleasant, enjoy the beautiful day!",
+    "alert": null
   }
 ]

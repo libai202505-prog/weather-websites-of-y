@@ -238,5 +238,25 @@
     "ai_briefing_zh": "雨雪天气，地面湿滑，注意安全。",
     "ai_briefing_en": "Sleet and snow, roads are slick, please be careful.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-01-29T15:32+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "111",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "977",
+    "vis": "16",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴冷湿度大，体感接近冰点，小心受凉。",
+    "ai_briefing_en": "Xi'an is damp and cold, feels near freezing. Stay warm!",
+    "alert": null
   }
 ]

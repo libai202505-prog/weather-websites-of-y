@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海阴冷，体感 5℃，注意防湿防寒哦。",
     "ai_briefing_en": "Shanghai is gloomy and feels like 5°C. Keep warm and dry!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-29T19:24+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "96",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "15",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴，体感 7℃。出门记得穿暖和。",
+    "ai_briefing_en": "Shanghai feels 7℃. Keep warm!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州有雾，体感 1℃。出行请注意交通安全，保暖防寒！",
     "ai_briefing_en": "Hangzhou is foggy, feels like 1℃. Drive carefully and keep warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-29T10:01+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "87",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "9",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州体感4℃，天气阴冷，多穿点哟。",
+    "ai_briefing_en": "Hangzhou feels like 4℃, it's cool, bundle up.",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛大雾，体感 1℃。出行注意安全，视线不好。",
     "ai_briefing_en": "Heavy fog in Qingdao, feels like 1℃. Travel safely, visibility is low.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-29T14:40+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "176",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "10",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "雾气弥漫，能见度低，注意出行安全。",
+    "ai_briefing_en": "Foggy with low visibility, please be careful when traveling.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

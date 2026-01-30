@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州大雾体感 2℃，出行注意安全添衣。",
     "ai_briefing_en": "Hangzhou is foggy and feels 2°C. Travel safely and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-30T12:32+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "348",
+    "humidity": "94",
+    "precip": "0.8",
+    "pressure": "1022",
+    "vis": "2",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨湿冷，出门带伞，多加件衣服哦。",
+    "ai_briefing_en": "Light rain & damp in Hangzhou, take an umbrella & dress warm.",
+    "alert": null
   }
 ]

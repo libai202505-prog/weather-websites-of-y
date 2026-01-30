@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳体感 16℃，阴天记得保持好心情。",
     "ai_briefing_en": "Shenzhen feels 16°C, cloudy. Keep your spirits high!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-30T12:34+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "79",
+    "precip": "0.2",
+    "pressure": "1014",
+    "vis": "10",
+    "dew": "14",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天不冷，保持好心情，轻松出行吧！",
+    "ai_briefing_en": "Cloudy but mild in Shenzhen, stay cheerful and relax!",
+    "alert": null
   }
 ]

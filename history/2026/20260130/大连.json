@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连体感 -10℃，风冷多加衣服呀。",
     "ai_briefing_en": "Dalian feels -10°C, chilly wind. Wear more layers!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-30T12:32+08:00",
+    "temp": "-4",
+    "feelsLike": "-11",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "12",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "30",
+    "dew": "-18",
+    "cloud": "10",
+    "ai_briefing_zh": "大连多云很冷，体感-11℃，务必多穿防风！",
+    "ai_briefing_en": "Cloudy & freezing in Dalian, feels like -11℃, bundle up!",
+    "alert": null
   }
 ]

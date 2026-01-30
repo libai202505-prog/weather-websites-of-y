@@ -298,5 +298,25 @@
     "ai_briefing_zh": "深圳阴天不冷，空气湿度高，记得保持室内通风哦！",
     "ai_briefing_en": "Shenzhen is cloudy and not cold, with high humidity. Remember to ventilate indoors!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-30T18:24+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "25",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "19",
+    "dew": "16",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，体感舒适，早晚记得添衣。",
+    "ai_briefing_en": "Shenzhen cloudy, comfy. Layer!",
+    "alert": null
   }
 ]

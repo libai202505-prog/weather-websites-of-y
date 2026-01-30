@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州细雨不断，体感 4℃。湿冷天气，务必注意防寒保暖。",
     "ai_briefing_en": "Hangzhou is continuously rainy and feels damp and cold at 4℃. Be sure to stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-30T18:24+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "30",
+    "humidity": "89",
+    "precip": "2.5",
+    "pressure": "1024",
+    "vis": "8",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，体感 -2℃。带伞保暖，别感冒！",
+    "ai_briefing_en": "Hangzhou rain, cold. Stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

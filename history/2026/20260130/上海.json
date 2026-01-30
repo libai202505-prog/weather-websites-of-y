@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海细雨绵绵，体感 0℃。添衣防湿，小心着凉！",
     "ai_briefing_en": "Shanghai is rainy and feels like 0℃. Add clothes, stay dry, and avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-30T18:24+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "50",
+    "humidity": "87",
+    "precip": "0.3",
+    "pressure": "1030",
+    "vis": "10",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天体感凉，多穿件衣服，注意保暖。",
+    "ai_briefing_en": "Shanghai cloudy, cool. Warm up!",
+    "alert": null
   }
 ]

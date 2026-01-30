@@ -378,5 +378,25 @@
     "ai_briefing_zh": "杭州阵风 4级，体感 -2℃。大风降温，注意防风保暖！",
     "ai_briefing_en": "Hangzhou has strong winds, feels like -2℃. Stay warm and bundled up!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-30T22:32+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "51",
+    "humidity": "93",
+    "precip": "0.1",
+    "pressure": "1025",
+    "vis": "3",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

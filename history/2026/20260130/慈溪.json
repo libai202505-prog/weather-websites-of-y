@@ -378,5 +378,25 @@
     "ai_briefing_zh": "慈溪有雨，体感 2℃。记得带伞，别着凉啦！",
     "ai_briefing_en": "Cixi has rain, feels like 2℃. Grab an umbrella and stay warm!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-01-30T22:32+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "42",
+    "humidity": "94",
+    "precip": "1.2",
+    "pressure": "1027",
+    "vis": "11",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

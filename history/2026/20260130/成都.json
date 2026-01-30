@@ -258,5 +258,25 @@
     "ai_briefing_zh": "成都阴天，体感微凉，出门别忘了加件外套哦！",
     "ai_briefing_en": "Chengdu, cloudy and slightly cool, remember a jacket!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-01-30T16:34+08:00",
+    "temp": "12",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "15",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "966",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "成都多云，体感略凉，早晚温差大，注意添衣别着凉。",
+    "ai_briefing_en": "Cloudy in Chengdu and feeling a bit cool. Big temperature difference, so add layers to avoid catching a cold.",
+    "alert": null
   }
 ]

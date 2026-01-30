@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连晴，体感-9℃，风力3级。天冷风大，注意保暖！",
     "ai_briefing_en": "Dalian is sunny, feels like -9℃, windy. Stay warm in the cold wind!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-30T14:49+08:00",
+    "temp": "-4",
+    "feelsLike": "-12",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "351",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "12",
+    "dew": "-17",
+    "cloud": "10",
+    "ai_briefing_zh": "大连多云，体感 -12℃，风力大。防风保暖，多穿点！",
+    "ai_briefing_en": "Dalian is cloudy, feels like -12℃, with strong wind. Protect from wind and keep very warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

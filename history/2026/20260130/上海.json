@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海阴天体感凉，多穿件衣服，注意保暖。",
     "ai_briefing_en": "Shanghai cloudy, cool. Warm up!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-30T19:24+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "22",
+    "humidity": "90",
+    "precip": "0.1",
+    "pressure": "1030",
+    "vis": "12",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "上海小雨，体感1℃。出门带伞，注意保暖，别着凉！",
+    "ai_briefing_en": "Shanghai has light rain, feels 1℃. Bring an umbrella, stay warm!",
+    "alert": null
   }
 ]

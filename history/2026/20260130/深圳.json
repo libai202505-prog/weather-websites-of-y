@@ -318,5 +318,25 @@
     "ai_briefing_zh": "深圳多云，体感舒适，早晚记得添衣。",
     "ai_briefing_en": "Shenzhen cloudy, comfy. Layer!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-30T19:26+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "4",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "21",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳阴天，气温18℃。体感舒适，早晚温差大，注意添衣！",
+    "ai_briefing_en": "Shenzhen is cloudy, 18℃. Feels pleasant, mind the temperature difference!",
+    "alert": null
   }
 ]

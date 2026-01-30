@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京小雨 3℃，体感-3℃ 很湿冷，务必注意保暖！",
     "ai_briefing_en": "Nanjing has light rain at 3℃, feels very cold and damp at -3℃. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-01-30T10:02+08:00",
+    "temp": "3",
+    "feelsLike": "-4",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "77",
+    "humidity": "100",
+    "precip": "0.8",
+    "pressure": "1027",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴冷体感 -4℃，湿度 100%，多穿点！",
+    "ai_briefing_en": "Nanjing feels -4°C, 100% humidity. Dress extra warmly!",
+    "alert": null
   }
 ]

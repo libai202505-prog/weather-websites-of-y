@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳有雾，湿度高。出行注意交通安全，保持视线清晰！",
     "ai_briefing_en": "Shenzhen is foggy and humid. Drive safe and keep clear visibility!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-01-31T12:02+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "97",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "6",
+    "dew": "12",
+    "cloud": "93",
+    "ai_briefing_zh": "深圳有雾，气温舒适，但出行请注意交通安全哦！",
+    "ai_briefing_en": "Shenzhen is foggy and mild; please drive safely!",
+    "alert": null
   }
 ]

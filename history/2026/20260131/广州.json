@@ -178,5 +178,25 @@
     "ai_briefing_zh": "广州阴天潮湿，温度适宜，出门记得带把伞哦。",
     "ai_briefing_en": "Guangzhou is cloudy and humid. Temperature is mild, bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-31T12:02+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "53",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "23",
+    "dew": "8",
+    "cloud": "99",
+    "ai_briefing_zh": "广州阴天，气温适中，早晚温差大，注意添减衣物。",
+    "ai_briefing_en": "Guangzhou is cloudy and mild; mind the temperature change.",
+    "alert": null
   }
 ]

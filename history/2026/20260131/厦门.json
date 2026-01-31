@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门小雨，风力 3 级，体感 9℃。记得带伞，多穿防风衣物。",
     "ai_briefing_en": "Xiamen has light rain and wind, feels like 9℃. Bring an umbrella and wear windproof clothes.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-01-31T12:00+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "108",
+    "humidity": "95",
+    "precip": "0.5",
+    "pressure": "1007",
+    "vis": "3",
+    "dew": "13",
+    "cloud": "50",
+    "ai_briefing_zh": "厦门有小雨，体感 10℃，出门记得带伞，小心着凉。",
+    "ai_briefing_en": "Xiamen has light rain, feels like 10℃; bring an umbrella!",
+    "alert": null
   }
 ]

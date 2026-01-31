@@ -338,5 +338,25 @@
     "ai_briefing_zh": "广州多云宜人，早晚微凉。记得添衣哦！",
     "ai_briefing_en": "Guangzhou is pleasantly cloudy, cool mornings/evenings. Remember to add layers!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-01-31T20:42+08:00",
+    "temp": "13",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "37",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云舒适，气温 13℃，但湿度较高，注意防潮。",
+    "ai_briefing_en": "Guangzhou is cloudy and comfortable at 13℃, but with high humidity. Mind the dampness.",
+    "alert": null
   }
 ]

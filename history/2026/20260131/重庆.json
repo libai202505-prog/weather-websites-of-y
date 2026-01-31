@@ -298,5 +298,25 @@
     "ai_briefing_zh": "重庆阴天，体感舒适。注意早晚温差哦。",
     "ai_briefing_en": "Chongqing is cloudy, feels comfortable. Mind the morning-evening temp difference.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-01-31T18:16+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "78",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "18",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆阴天风大，体感较凉，记得添衣。",
+    "ai_briefing_en": "Chongqing is cloudy and windy. Dress warmly.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

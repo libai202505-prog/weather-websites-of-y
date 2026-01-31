@@ -358,5 +358,25 @@
     "ai_briefing_zh": "大连有霾，体感 -10℃，户外活动要做好全身防寒哦！",
     "ai_briefing_en": "Dalian has haze and feels like -10℃. Make sure to bundle up completely for outdoor activities!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-31T21:32+08:00",
+    "temp": "-5",
+    "feelsLike": "-8",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "262",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "9",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "大连多云，体感-8℃，注意保暖。多喝热水，别感冒。",
+    "ai_briefing_en": "Dalian is cloudy, feels like -8℃. Stay warm, drink hot water, avoid colds.",
+    "alert": null
   }
 ]

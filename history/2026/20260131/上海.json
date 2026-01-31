@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海阴天微凉，记得穿暖暖的哦。",
     "ai_briefing_en": "Shanghai is cool and cloudy. Remember to dress warmly.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-01-31T19:08+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "357",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "19",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "上海多云，气温适中。穿件外套暖暖出门吧！",
+    "ai_briefing_en": "Shanghai is cloudy, a moderate temperature. Grab a jacket and head out!",
+    "alert": null
   }
 ]

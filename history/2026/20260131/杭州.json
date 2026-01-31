@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州阴冷湿度高，体感冻人，添衣御寒莫大意。",
     "ai_briefing_en": "Hangzhou is overcast, cold, and humid, feeling freezing. Layer up to stay warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-01-31T09:28+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "9",
+    "humidity": "94",
+    "precip": "0.1",
+    "pressure": "1027",
+    "vis": "7",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴冷潮湿，体感 -1℃，多穿防寒衣物，小心感冒。",
+    "ai_briefing_en": "Hangzhou is cloudy, cold, and humid. Dress warmly to avoid colds.",
+    "alert": null
   }
 ]

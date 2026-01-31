@@ -378,5 +378,25 @@
     "ai_briefing_zh": "大连多云，体感-8℃，注意保暖。多喝热水，别感冒。",
     "ai_briefing_en": "Dalian is cloudy, feels like -8℃. Stay warm, drink hot water, avoid colds.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-01-31T22:08+08:00",
+    "temp": "-6",
+    "feelsLike": "-9",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "248",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "9",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

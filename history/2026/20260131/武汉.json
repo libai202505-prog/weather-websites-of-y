@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉雾气浓，体感 0℃。小心慢行，防湿保暖哦。",
     "ai_briefing_en": "Wuhan is very foggy, feels like 0℃. Drive slowly, keep warm and dry.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-01-31T22:10+08:00",
+    "temp": "1",
+    "feelsLike": "-1",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "24",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "2",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

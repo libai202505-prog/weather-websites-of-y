@@ -378,5 +378,25 @@
     "ai_briefing_zh": "青岛有霾，体感-3℃。戴好口罩，注意防寒，保护健康。",
     "ai_briefing_en": "Qingdao has haze, feels like -3℃. Wear a mask, keep warm, stay healthy.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-01-31T22:10+08:00",
+    "temp": "1",
+    "feelsLike": "-3",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "266",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "8",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

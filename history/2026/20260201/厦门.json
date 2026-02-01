@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门阴天，体感 10℃。湿度高，注意防潮和好心情！",
     "ai_briefing_en": "Xiamen: Feels 10℃. Keep warm.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-01T12:58+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "6",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "20",
+    "dew": "9",
+    "cloud": "99",
+    "ai_briefing_zh": "厦门阴天，体感 13℃，凉意渐浓。记得添衣保暖。",
+    "ai_briefing_en": "Xiamen is cloudy, feels like 13℃, getting cooler. Remember to add layers to stay warm.",
+    "alert": null
   }
 ]

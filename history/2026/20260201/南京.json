@@ -278,5 +278,25 @@
     "ai_briefing_zh": "南京多云，体感 3℃。注意添衣，别着凉！",
     "ai_briefing_en": "Nanjing, feels 3℃. Stay cozy!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-01T18:18+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "218",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "6",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "南京体感 3 ℃，多云天凉，记得多添衣保暖哦。",
+    "ai_briefing_en": "Nanjing feels like 3 ℃, cloudy and cool, remember to layer up to keep warm.",
+    "alert": null
   }
 ]

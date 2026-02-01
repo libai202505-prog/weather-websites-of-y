@@ -298,5 +298,25 @@
     "ai_briefing_zh": "深圳气温舒适，多云天也很适合户外活动哦。",
     "ai_briefing_en": "Shenzhen has comfortable temperatures, cloudy days are also great for outdoor activities.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-01T19:17+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "8",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "16",
+    "dew": "11",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云 15℃，体感 13℃。微风习习，注意添减衣物。",
+    "ai_briefing_en": "Shenzhen is cloudy, 15℃, feels like 13℃. A light breeze, adjust your clothes.",
+    "alert": null
   }
 ]

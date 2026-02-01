@@ -358,5 +358,25 @@
     "ai_briefing_zh": "上海雾气弥漫，体感2℃，注意保暖和交通哦。",
     "ai_briefing_en": "Shanghai is foggy, feels like 2℃. Keep warm and mind traffic!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-01T22:08+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "337",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "6",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

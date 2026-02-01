@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳阴天，气温适中，出门记得带把伞哦。",
     "ai_briefing_en": "Shenzhen is cloudy with mild temps. Remember to bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-01T22:12+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "353",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "21",
+    "dew": "10",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
+    "ai_briefing_en": "深圳: Night watch, stay warm.",
+    "alert": null
   }
 ]

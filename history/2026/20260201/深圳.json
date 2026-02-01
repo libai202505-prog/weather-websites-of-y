@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳阴天，体感 17℃。小心温差，穿衣要适度哦！",
     "ai_briefing_en": "Shenzhen is cloudy, feels like 17℃. Watch out for temperature changes!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-01T15:32+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "346",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "21",
+    "dew": "10",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，体感 16℃ 暖洋洋，早晚温差大，注意调整着装。",
+    "ai_briefing_en": "Shenzhen is cloudy and feels warm at 16℃. Mind the temperature difference between morning and evening.",
+    "alert": null
   }
 ]

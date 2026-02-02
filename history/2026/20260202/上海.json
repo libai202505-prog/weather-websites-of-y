@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海有霾，气温 7℃。出门记得戴口罩，注意防护！",
     "ai_briefing_en": "Shanghai has haze, 7℃. Wear a mask when out, protect yourself!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-02T19:32+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "39",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "3",
+    "dew": "-1",
+    "cloud": "4",
+    "ai_briefing_zh": "上海有霾，出门记得防护，天凉多穿衣，注意身体健康。",
+    "ai_briefing_en": "Shanghai has haze, protect yourself when out. It's cool, dress warmly!",
+    "alert": null
   }
 ]

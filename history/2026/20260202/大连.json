@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连晴朗，体感 -9℃，风力 3级，务必做好保暖防风！",
     "ai_briefing_en": "Sunny Dalian, feels -9℃ with wind. Bundle up well!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-02T15:42+08:00",
+    "temp": "0",
+    "feelsLike": "-6",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "295",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感 -6℃，寒风凛冽，注意防风保暖。",
+    "ai_briefing_en": "Dalian is sunny, feels like -6℃. Bitterly cold, stay bundled up!",
+    "alert": null
   }
 ]

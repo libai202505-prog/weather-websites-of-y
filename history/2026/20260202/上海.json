@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海有霾，体感 3℃，记得戴口罩。外出注意防护哦！",
     "ai_briefing_en": "Shanghai is hazy, feels like 3℃. Wear a mask and stay cozy!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-02T22:32+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "60",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1034",
+    "vis": "13",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

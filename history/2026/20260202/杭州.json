@@ -338,5 +338,25 @@
     "ai_briefing_zh": "杭州晴朗，体感 3℃。早晚凉意浓，记得添衣保暖！",
     "ai_briefing_en": "Hangzhou is sunny but cool, feels like 3℃. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-02T22:32+08:00",
+    "temp": "4",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "352",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "4",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

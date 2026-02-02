@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安多云 3℃，体感 0℃，早晚温差大，注意保暖。",
     "ai_briefing_en": "Xi'an is cloudy 3℃, feels like 0℃. Dress warmly for temperature changes.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-02T12:50+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "38",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "91",
+    "ai_briefing_zh": "多云微风，体感较凉且干燥。记得多喝水。",
+    "ai_briefing_en": "Partly cloudy and cool. Stay hydrated in the dry air.",
+    "alert": null
   }
 ]

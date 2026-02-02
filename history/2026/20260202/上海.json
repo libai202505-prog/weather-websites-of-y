@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海 6℃ 晴朗，体感 3℃，虽阳光好，也别忘了保暖。",
     "ai_briefing_en": "Shanghai is sunny 6℃, feels like 3℃. Enjoy the sun, but stay warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-02T12:48+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "277",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "4",
+    "dew": "1",
+    "cloud": "1",
+    "ai_briefing_zh": "阴天微凉，风小体感舒适。出门注意保暖。",
+    "ai_briefing_en": "Cloudy and mild. A light jacket will do.",
+    "alert": null
   }
 ]

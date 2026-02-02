@@ -178,5 +178,25 @@
     "ai_briefing_zh": "广州 12℃ 晴，体感 7℃，昼夜温差大，早晚多添衣。",
     "ai_briefing_en": "Guangzhou is sunny 12℃, feels like 7℃. Mind the temperature changes!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-02T12:50+08:00",
+    "temp": "17",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "109",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "30",
+    "dew": "5",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗舒适！早晚温差大，别忘了带件外套哦。",
+    "ai_briefing_en": "Sunny and pleasant! Mind the temperature difference.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天微冷，体感偏凉。多穿一点，小心感冒。",
     "ai_briefing_en": "Cloudy and cool. Dress warmly to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-02T14:00+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "30",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "6",
+    "dew": "2",
+    "cloud": "1",
+    "ai_briefing_zh": "杭州阴天，体感 5℃，微凉，出门别忘加件衣哦！",
+    "ai_briefing_en": "Overcast in Hangzhou, feels 5℃. A bit chilly, dress warmly!",
+    "alert": null
   }
 ]

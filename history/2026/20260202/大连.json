@@ -198,5 +198,25 @@
     "ai_briefing_zh": "晴冷，体感偏凉。注意保暖，多喝热水哦。",
     "ai_briefing_en": "Sunny and cold. Keep warm and drink hot beverages.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-02T14:00+08:00",
+    "temp": "-1",
+    "feelsLike": "-9",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "6",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感 -9℃，风力 3级，务必做好保暖防风！",
+    "ai_briefing_en": "Sunny Dalian, feels -9℃ with wind. Bundle up well!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

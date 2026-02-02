@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阳光不错，但早晚还是凉。注意适当添衣哦。",
     "ai_briefing_en": "Sunny and bright, but mornings/evenings are cool.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-02T14:01+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "301",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "7",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉多云，体感 8℃，风稍凉，注意防寒保暖哦！",
+    "ai_briefing_en": "Wuhan is cloudy, feels 8℃. Stay warm in the cool breeze!",
+    "alert": null
   }
 ]

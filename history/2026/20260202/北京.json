@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京晴冷，体感-9℃！多穿点，注意保暖防寒哦。",
     "ai_briefing_en": "Beijing is clear but feels like -9℃! Bundle up to stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-02T10:00+08:00",
+    "temp": "1",
+    "feelsLike": "-4",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "58",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "0",
+    "ai_briefing_zh": "北京 1℃，体感仅 -4℃，早晚温差大，注意添衣哦！",
+    "ai_briefing_en": "Beijing 1℃, feels like -4℃. Dress warmly as temperatures vary!",
+    "alert": null
   }
 ]

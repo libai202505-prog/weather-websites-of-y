@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海有霾，体感 6℃，记得戴好口罩再出门哦。",
     "ai_briefing_en": "Shanghai is hazy, feels like 6℃. Don't forget your mask!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-02T16:32+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "61",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "5",
+    "dew": "0",
+    "cloud": "2",
+    "ai_briefing_zh": "上海有霾体感 6℃，出行记得戴口罩哦。",
+    "ai_briefing_en": "Shanghai has haze, feels 6℃. Wear a mask if going out.",
+    "alert": null
   }
 ]

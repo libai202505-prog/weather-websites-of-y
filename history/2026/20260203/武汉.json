@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-03T07:24+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "77",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "5",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉起雾，体感 2℃。路滑小心，穿暖和点，别感冒了。",
+    "ai_briefing_en": "Wuhan is foggy, feels like 2℃. Drive carefully, dress warmly to avoid colds.",
+    "alert": null
   }
 ]

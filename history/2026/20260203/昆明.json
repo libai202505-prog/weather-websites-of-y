@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明晴朗，体感 13℃，风力 3级，注意防风。",
     "ai_briefing_en": "Kunming is sunny, feels like 13℃ with a level 3 wind. Mind the wind!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-02-03T16:32+08:00",
+    "temp": "20",
+    "feelsLike": "14",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "315",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "812",
+    "vis": "25",
+    "dew": "-2",
+    "cloud": "6",
+    "ai_briefing_zh": "昆明晴朗，体感 14℃ 舒适，但风有点大。",
+    "ai_briefing_en": "Kunming is sunny, feels comfortable at 14℃, but a bit windy.",
+    "alert": null
   }
 ]

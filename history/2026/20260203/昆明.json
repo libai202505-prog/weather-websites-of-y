@@ -258,5 +258,25 @@
     "ai_briefing_zh": "昆明多云，体感 12℃。早晚微凉，注意添衣。",
     "ai_briefing_en": "Kunming is cloudy, feels like 12℃. It's cool in the morning/evening, add layers.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-02-03T20:58+08:00",
+    "temp": "13",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "226",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "26",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明多云，体感偏凉。风力稍大，早晚注意添衣哦！",
+    "ai_briefing_en": "Kunming is cloudy and feels cool. It's a bit windy, so add layers in the morning and evening!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

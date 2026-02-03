@@ -78,5 +78,25 @@
     "ai_briefing_zh": "广州晴好，体感 6℃。早晚凉，别忘了添件外套，注意湿度！",
     "ai_briefing_en": "Guangzhou is sunny, feels like 6℃. Nights are cool, grab a jacket and note the humidity!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-03T10:00+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "74",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "广州晴天，体感 13℃。舒适宜人，享受好天气吧！",
+    "ai_briefing_en": "Guangzhou is sunny with a feel of 13℃. It's pleasant, enjoy the good weather!",
+    "alert": null
   }
 ]

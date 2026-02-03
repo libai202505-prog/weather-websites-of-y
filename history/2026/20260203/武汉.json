@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉起雾，体感 2℃。路滑小心，穿暖和点，别感冒了。",
     "ai_briefing_en": "Wuhan is foggy, feels like 2℃. Drive carefully, dress warmly to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-03T10:00+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "116",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "7",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有雾，体感 5℃。路面湿滑，请慢行。",
+    "ai_briefing_en": "Wuhan is foggy with a feel of 5℃. Roads are slippery, please drive slowly.",
+    "alert": null
   }
 ]

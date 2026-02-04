@@ -278,5 +278,25 @@
     "ai_briefing_zh": "厦门晴朗，体感 14℃ 凉爽，海边风大，注意防风哦。",
     "ai_briefing_en": "Sunny Xiamen, feels cool at 14℃. It's windy by the sea, so mind the breeze.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-04T17:40+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "125",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "17",
+    "dew": "12",
+    "cloud": "2",
+    "ai_briefing_zh": "多云天气，体感舒适。湿度大，保持愉快心情！",
+    "ai_briefing_en": "Cloudy and pleasant. High humidity, keep a happy mood!",
+    "alert": null
   }
 ]

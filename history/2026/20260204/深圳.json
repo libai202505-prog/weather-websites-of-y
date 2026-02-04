@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳阴天，体感舒适，出行带伞。",
     "ai_briefing_en": "Shenzhen is cloudy and comfortable, bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-04T12:26+08:00",
+    "temp": "22",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "99",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "14",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，天气温暖，湿度适中，出行很舒适。",
+    "ai_briefing_en": "Shenzhen is cloudy and warm with moderate humidity. A good day for going out.",
+    "alert": null
   }
 ]

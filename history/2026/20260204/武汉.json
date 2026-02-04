@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雾，体感-1℃。湿度 98%，穿厚点，小心湿冷。",
     "ai_briefing_en": "Wuhan is foggy, feels like -1℃. 98% humidity, dress warmly, beware of damp cold.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-04T10:00+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "78",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "5",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有雾，路滑视线差，注意安全。",
+    "ai_briefing_en": "Wuhan is foggy, roads are slippery, stay safe.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳有雾，体感 13℃。注意交通安全，别着急哦。",
     "ai_briefing_en": "Shenzhen is foggy, feels like 13℃. Be safe on the road, no rush.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-04T10:00+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "276",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "10",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天，体感舒适，出行带伞。",
+    "ai_briefing_en": "Shenzhen is cloudy and comfortable, bring an umbrella.",
+    "alert": null
   }
 ]

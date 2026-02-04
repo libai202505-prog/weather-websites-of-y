@@ -358,5 +358,25 @@
     "ai_briefing_zh": "北京今天晴朗但体感 2℃ 凉意，记得添衣保暖哦！",
     "ai_briefing_en": "Beijing is sunny but feels chilly at 2℃. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-04T22:32+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "215",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "6",
+    "dew": "-9",
+    "cloud": "0",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "成都多云，体感 6℃ 略凉。湿度高，注意保暖防潮哦。",
     "ai_briefing_en": "Chengdu is cloudy, feels cool at 6℃. High humidity, stay warm and dry!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-04T22:34+08:00",
+    "temp": "6",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "359",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

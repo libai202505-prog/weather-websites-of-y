@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气有点阴，体感微凉。记得添衣，注意保暖。",
     "ai_briefing_en": "Overcast with a slight chill. Remember to layer up and stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-04T18:32+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "17",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "5",
+    "ai_briefing_zh": "阴天 14℃，体感 13℃。微凉，添衣保持好心情。",
+    "ai_briefing_en": "Overcast 14℃. Slightly cool, dress warm.",
+    "alert": null
   }
 ]

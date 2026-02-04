@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云天气，体感舒适。早晚温差大，别着凉哦！",
     "ai_briefing_en": "Cloudy with pleasant feel. Big temperature difference, don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-04T18:32+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "28",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "958",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "多云，体感 10℃。出门带外套，以免着凉。",
+    "ai_briefing_en": "Cloudy 10℃. Bring a jacket to stay warm.",
+    "alert": null
   }
 ]

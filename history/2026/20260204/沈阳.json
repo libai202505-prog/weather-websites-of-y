@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气寒冷，体感更低。多穿衣物，别冻着了！",
     "ai_briefing_en": "Cold weather, feels even colder. Wear more clothes to keep warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-04T18:34+08:00",
+    "temp": "-1",
+    "feelsLike": "-5",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "59",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "11",
+    "dew": "-8",
+    "cloud": "10",
+    "ai_briefing_zh": "多云 -1℃，体感-5℃。注意防寒，别冻着。",
+    "ai_briefing_en": "Cloudy -5℃. Keep warm and stay cozy!",
+    "alert": null
   }
 ]

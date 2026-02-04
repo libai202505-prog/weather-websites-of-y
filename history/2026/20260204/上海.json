@@ -298,5 +298,25 @@
     "ai_briefing_zh": "晴空万里，体感宜人。享受阳光，保持好心情！",
     "ai_briefing_en": "Clear skies and pleasant. Enjoy the sunshine and keep a good mood!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-04T18:32+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "7",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "10",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗，体感 10℃。享受阳光，注意温差。",
+    "ai_briefing_en": "Sunny 10℃. Enjoy sun, mind temp changes.",
+    "alert": null
   }
 ]

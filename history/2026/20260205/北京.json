@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京体感 -6℃，北风寒冷，请多添衣物，注意保暖防寒哦！",
     "ai_briefing_en": "Beijing feels -6℃ with a cold north wind. Please dress warmly and stay cozy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-05T13:48+08:00",
+    "temp": "1",
+    "feelsLike": "-9",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "3",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "27",
+    "dew": "-24",
+    "cloud": "98",
+    "ai_briefing_zh": "北京风大天冷，体感仅 -9℃，记得多穿点哦！",
+    "ai_briefing_en": "Beijing is cold & windy, feels like -9℃. Dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

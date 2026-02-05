@@ -318,5 +318,25 @@
     "ai_briefing_zh": "重庆阴天，体感 13℃，舒适出行愉快！",
     "ai_briefing_en": "Chongqing is cloudy, feels like 13℃. Enjoy a comfortable outing!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-02-05T21:00+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆有霾，出门记得戴口罩，保护呼吸道。",
+    "ai_briefing_en": "Chongqing has haze, wear a mask to protect your respiratory tract.",
+    "alert": null
   }
 ]

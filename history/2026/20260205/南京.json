@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京阴天，体感 10℃，早晚温差大注意。",
     "ai_briefing_en": "Nanjing is cloudy, feels like 10℃. Mind the temperature changes!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-05T21:00+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "61",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "7",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "南京有霾，记得戴口罩，呼吸更健康！",
+    "ai_briefing_en": "Nanjing has haze, remember to wear a mask for healthier breathing!",
+    "alert": null
   }
 ]

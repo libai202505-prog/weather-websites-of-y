@@ -338,5 +338,25 @@
     "ai_briefing_zh": "沈阳严寒有霾，多穿衣服，戴好口罩。",
     "ai_briefing_en": "Shenyang is very cold with haze, wear more clothes and a mask.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -19℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-05T22:32+08:00",
+    "temp": "-15",
+    "feelsLike": "-24",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "282",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "30",
+    "dew": "-28",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "🥶 红色极寒警报：体感低至 -24℃ | 📉 红色降温预警：1小时骤降5℃"
   }
 ]

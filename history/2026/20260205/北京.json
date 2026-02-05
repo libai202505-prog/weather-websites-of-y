@@ -278,5 +278,25 @@
     "ai_briefing_zh": "北京风大天冷，注意保暖防风，小心干燥哦。",
     "ai_briefing_en": "Beijing is windy and cold, keep warm and moisturize.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-05T18:32+08:00",
+    "temp": "1",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "351",
+    "humidity": "16",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "30",
+    "dew": "-27",
+    "cloud": "10",
+    "ai_briefing_zh": "北京晴冷，体感 -5℃！注意保暖，别感冒哦。",
+    "ai_briefing_en": "Beijing is sunny but chilly, feels like -5℃! Stay warm to avoid colds.",
+    "alert": null
   }
 ]

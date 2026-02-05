@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-06T07:17+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "69",
+    "humidity": "84",
+    "precip": "0.2",
+    "pressure": "1025",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴冷潮湿，记得添衣保暖，别感冒了。",
+    "ai_briefing_en": "Shanghai is gloomy and chilly, add layers to keep warm.",
+    "alert": null
   }
 ]

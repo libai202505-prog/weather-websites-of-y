@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海朋友，体感13℃，微凉。记得带伞，小心着凉。",
     "ai_briefing_en": "Shanghai, it feels 13℃, a bit cool. Bring an umbrella and stay cozy.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-05T16:40+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "9",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "7",
+    "dew": "6",
+    "cloud": "97",
+    "ai_briefing_zh": "上海阴天，气温 13℃。出门添衣，小心着凉。",
+    "ai_briefing_en": "Shanghai is cloudy, 13℃. Layer up and stay cozy.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京很冷，风力大，体感 -10℃，记得穿最厚的衣服哦！",
     "ai_briefing_en": "Beijing is super cold with strong winds. Bundle up warmly!",
     "alert": "📉 红色降温预警：1小时骤降10℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-05T12:40+08:00",
+    "temp": "0",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "11",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "30",
+    "dew": "-22",
+    "cloud": "96",
+    "ai_briefing_zh": "北京体感 -6℃，北风寒冷，请多添衣物，注意保暖防寒哦！",
+    "ai_briefing_en": "Beijing feels -6℃ with a cold north wind. Please dress warmly and stay cozy!",
+    "alert": null
   }
 ]

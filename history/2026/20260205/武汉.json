@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉小雨 9℃，湿度 95%。出门带伞，注意防潮保暖。",
     "ai_briefing_en": "Wuhan has light rain 9℃, 95% humidity. Take an umbrella, stay dry and warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-05T19:34+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "298",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "1",
+    "dew": "8",
+    "cloud": "93",
+    "ai_briefing_zh": "武汉大雾，体感 8℃，出门多加小心哦。",
+    "ai_briefing_en": "Wuhan is very foggy, feels like 8℃. Please be extra careful outside.",
+    "alert": null
   }
 ]

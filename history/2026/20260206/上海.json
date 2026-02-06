@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海阴冷潮湿，记得添衣保暖，别感冒了。",
     "ai_briefing_en": "Shanghai is gloomy and chilly, add layers to keep warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-06T10:00+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "11",
+    "humidity": "75",
+    "precip": "0.3",
+    "pressure": "1026",
+    "vis": "11",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "上海雨，体感 3℃。带伞保暖防湿滑。",
+    "ai_briefing_en": "Shanghai: Rain, 3℃. Umbrella!",
+    "alert": null
   }
 ]

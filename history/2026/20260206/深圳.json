@@ -218,5 +218,25 @@
     "ai_briefing_zh": "阳光正好，26℃！记得多补充水分。",
     "ai_briefing_en": "Sunny and 26℃! Remember to stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-06T14:50+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "244",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳 26℃ 体感舒适，但温差大，小心着凉。",
+    "ai_briefing_en": "Shenzhen feels pleasant at 26℃. Watch out for temperature drops.",
+    "alert": null
   }
 ]

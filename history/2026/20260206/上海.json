@@ -218,5 +218,25 @@
     "ai_briefing_zh": "小雨微凉，带伞，添衣暖暖身。",
     "ai_briefing_en": "Light rain, grab an umbrella & dress warmly.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-06T14:48+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "62",
+    "humidity": "75",
+    "precip": "0.1",
+    "pressure": "1024",
+    "vis": "10",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "上海体感 1℃，凉意浓浓，注意保暖别感冒。",
+    "ai_briefing_en": "Shanghai feels like 1℃. It's chilly, so dress warmly!",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "雨夹雪，体感0℃，湿冷注意保暖！",
     "ai_briefing_en": "Sleet, feels like 0℃. Stay warm and safe!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-06T14:48+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "44",
+    "humidity": "90",
+    "precip": "0.5",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨体感 -1℃，风大湿冷，带伞多加衣。",
+    "ai_briefing_en": "Hangzhou is rainy and feels like -1℃. Bring an umbrella, wear warm clothes.",
+    "alert": null
   }
 ]

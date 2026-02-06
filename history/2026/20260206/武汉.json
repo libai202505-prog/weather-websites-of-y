@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉小雨体感 3℃，记得带伞，谨防感冒。",
     "ai_briefing_en": "Wuhan: Rain, 3℃. Umbrella.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-06T12:42+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "阵雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "61",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "2",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阵雨微凉，体感 2℃ 湿冷，记得带伞，注意添衣。",
+    "ai_briefing_en": "Wuhan has light showers, feels 2℃ damp and cold. Bring an umbrella and add clothes.",
+    "alert": null
   }
 ]

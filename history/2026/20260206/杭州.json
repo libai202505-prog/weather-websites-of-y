@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州中雨湿冷，体感 -2℃，出门带伞，注意保暖。",
     "ai_briefing_en": "Hangzhou has moderate rain and feels cold, bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-06T18:34+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "20",
+    "humidity": "92",
+    "precip": "0.8",
+    "pressure": "1020",
+    "vis": "6",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨绵绵，体感-2℃。湿冷注意保暖，带伞哦。",
+    "ai_briefing_en": "Hangzhou is drizzly and feels -2℃. Stay warm and take an umbrella.",
+    "alert": null
   }
 ]

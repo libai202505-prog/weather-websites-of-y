@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海 3℃ 小雨，体感凉，注意保暖。",
     "ai_briefing_en": "Shanghai: 3℃ rain. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-06T17:40+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "2",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "1025",
+    "vis": "9",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴冷，体感 -1℃ 湿冷，注意添衣，小心着凉。",
+    "ai_briefing_en": "Shanghai is overcast and damp cold, add layers and stay cozy.",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "杭州中雨 3℃，风大体感冷，注意保暖。",
     "ai_briefing_en": "Hangzhou: 3℃ rain, wind. Bundle up!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-06T17:40+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "38",
+    "humidity": "91",
+    "precip": "0.1",
+    "pressure": "1019",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州中雨湿冷，体感 -2℃，出门带伞，注意保暖。",
+    "ai_briefing_en": "Hangzhou has moderate rain and feels cold, bring an umbrella and stay warm.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安天气晴朗，体感 5℃ 左右，早晚温差大，注意保暖。",
     "ai_briefing_en": "Xi'an is sunny and feels around 5℃. Mind the large temperature difference and stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-06T13:48+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "33",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "976",
+    "vis": "16",
+    "dew": "-2",
+    "cloud": "91",
+    "ai_briefing_zh": "多云但有点干，记得多喝水哦！",
+    "ai_briefing_en": "Cloudy but dry. Remember to drink more water!",
+    "alert": null
   }
 ]

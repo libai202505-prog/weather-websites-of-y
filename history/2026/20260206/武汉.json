@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阵雨微凉，体感 2℃ 湿冷，记得带伞，注意添衣。",
     "ai_briefing_en": "Wuhan has light showers, feels 2℃ damp and cold. Bring an umbrella and add clothes.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-06T13:50+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "18",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "2",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "雾霾笼罩，注意防护，减少外出。",
+    "ai_briefing_en": "Hazy, protect yourself & limit outdoor time.",
+    "alert": null
   }
 ]

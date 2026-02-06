@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京体感 -11℃，天阴寒冷，外出务必多穿衣哦！",
     "ai_briefing_en": "Beijing feels -11℃ and cloudy. Please bundle up when going out!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-06T13:48+08:00",
+    "temp": "-6",
+    "feelsLike": "-11",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "42",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "30",
+    "dew": "-26",
+    "cloud": "96",
+    "ai_briefing_zh": "体感-11℃，多穿点别冻着哦。",
+    "ai_briefing_en": "Feels like -11℃. Bundle up to stay warm!",
+    "alert": null
   }
 ]

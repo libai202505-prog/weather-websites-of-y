@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海天阴微凉，气温 5℃ 左右，记得带伞以防小雨。",
     "ai_briefing_en": "Shanghai is cloudy and cool, around 5℃. Remember your umbrella for possible light rain.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-06T13:48+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "42",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "15",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨微凉，带伞，添衣暖暖身。",
+    "ai_briefing_en": "Light rain, grab an umbrella & dress warmly.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

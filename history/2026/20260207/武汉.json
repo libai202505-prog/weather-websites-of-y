@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉晴朗，体感 -2℃。风力大，多穿衣防寒。",
     "ai_briefing_en": "Wuhan feels -2°C, windy. Dress warmly for the breeze!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-07T22:10+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "58",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "9",
+    "dew": "-3",
+    "cloud": "2",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉阴天体感稍冷，记得添衣别感冒。",
     "ai_briefing_en": "Wuhan is cloudy and feels a bit cold. Remember to add layers and prevent colds.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-07T15:26+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "47",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "10",
+    "dew": "-1",
+    "cloud": "95",
+    "ai_briefing_zh": "武汉阴冷，体感 3℃，出门多穿点，暖心又暖身。",
+    "ai_briefing_en": "Wuhan is cloudy and cool, feels like 3℃. Wear more layers when going out to stay warm.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州大雾，体感 -3℃。出行能见度低，注意交通安全和保暖！",
     "ai_briefing_en": "Hangzhou is foggy and feels like -3℃. Visibility is low, drive safe and stay warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-07T09:56+08:00",
+    "temp": "3",
+    "feelsLike": "-4",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "16",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "9",
+    "dew": "-1",
+    "cloud": "92",
+    "ai_briefing_zh": "大雾弥漫体感-4℃，小心慢行，注意防寒。",
+    "ai_briefing_en": "Foggy & feels like -4℃. Drive carefully, stay warm!",
+    "alert": null
   }
 ]

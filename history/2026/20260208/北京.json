@@ -138,5 +138,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-08T07:24+08:00",
+    "temp": "-9",
+    "feelsLike": "-13",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "61",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "30",
+    "dew": "-23",
+    "cloud": "0",
+    "ai_briefing_zh": "北京天晴但体感 -13℃，记得添衣保暖，别冻着啦！",
+    "ai_briefing_en": "Beijing is sunny but feels like -13℃. Remember to dress warmly and stay cozy!",
+    "alert": null
   }
 ]

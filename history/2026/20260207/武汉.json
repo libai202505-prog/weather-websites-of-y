@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉阴天，体感 2℃。体感偏凉，别忘了保暖哦！",
     "ai_briefing_en": "Wuhan is cloudy, feels like 2℃. A bit cool, don't forget to keep warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-07T18:18+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "60",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "11",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴冷 6℃，体感 1℃，出门添衣防感冒。",
+    "ai_briefing_en": "Wuhan is chilly 6℃, feels like 1℃. Dress warm!",
+    "alert": null
   }
 ]

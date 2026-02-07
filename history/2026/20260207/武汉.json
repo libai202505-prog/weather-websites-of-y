@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大雾伴体感-2℃，能见度低。驾车请小心，注意保暖。",
     "ai_briefing_en": "Foggy & feels like -2℃. Drive safe, keep warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-07T12:25+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "35",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "8",
+    "dew": "0",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴冷体感 0℃，出门记得添衣保暖。",
+    "ai_briefing_en": "Wuhan feels 0℃ and cloudy. Remember to add layers when going out.",
+    "alert": null
   }
 ]

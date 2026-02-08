@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴冷干燥，体感 -5℃，多穿点哦！",
     "ai_briefing_en": "Sunny, feels -5℃. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-08T13:00+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "174",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "30",
+    "dew": "-21",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗但体感很冷，注意保暖，多喝水哦！",
+    "ai_briefing_en": "Sunny but feels very cold. Stay warm and hydrate!",
+    "alert": null
   }
 ]

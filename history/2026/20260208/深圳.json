@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天微凉体感 9℃，记得添衣。",
     "ai_briefing_en": "Cloudy, cool, 9℃. Layer up!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-08T13:00+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "9",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "26",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气 17℃，早晚温差大，注意添减衣物！",
+    "ai_briefing_en": "Cloudy, 17℃. Large temperature difference, adjust clothing accordingly!",
+    "alert": null
   }
 ]

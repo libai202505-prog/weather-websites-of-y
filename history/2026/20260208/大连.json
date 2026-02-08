@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴冷体感 -12℃，出门记得全副武装。",
     "ai_briefing_en": "Sunny, -12℃. Bundle up completely!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-08T13:00+08:00",
+    "temp": "-2",
+    "feelsLike": "-8",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "8",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗但体感冷，注意防寒保暖，别冻着了！",
+    "ai_briefing_en": "Sunny but feels cold. Stay warm and bundled up, don't get cold!",
+    "alert": null
   }
 ]

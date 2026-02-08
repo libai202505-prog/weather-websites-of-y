@@ -178,5 +178,25 @@
     "ai_briefing_zh": "风大体感冷，注意防风保暖。",
     "ai_briefing_en": "Windy, feels cold. Bundle up!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-02-08T13:00+08:00",
+    "temp": "4",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "346",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1035",
+    "vis": "15",
+    "dew": "-8",
+    "cloud": "0",
+    "ai_briefing_zh": "多云有风，体感较冷，注意防风保暖哦！",
+    "ai_briefing_en": "Cloudy and windy, feels quite chilly. Stay warm and protect from the wind!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天风大体感 7℃，注意防风。",
     "ai_briefing_en": "Cloudy, windy, 7℃. Watch for wind!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-08T13:00+08:00",
+    "temp": "13",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "78",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "17",
+    "dew": "4",
+    "cloud": "1",
+    "ai_briefing_zh": "多云有风，体感 6℃，风力较大，出门注意防风！",
+    "ai_briefing_en": "Cloudy and windy, feels like 6℃. Strong winds, protect yourself from the wind!",
+    "alert": null
   }
 ]

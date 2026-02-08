@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云体感微凉，记得添件外套。",
     "ai_briefing_en": "Cloudy, cool. Grab a jacket!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-08T13:00+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "3",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "14",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "阳光明媚，体感 2℃，出门记得多穿点哦！",
+    "ai_briefing_en": "Bright sunshine, but feels like 2℃. Remember to dress warmly!",
+    "alert": null
   }
 ]

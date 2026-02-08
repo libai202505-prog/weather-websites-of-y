@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴朗但体感 -4℃，小心冷风。",
     "ai_briefing_en": "Sunny, feels -4℃. Mind cold wind!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-08T13:00+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "54",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1035",
+    "vis": "22",
+    "dew": "-10",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗但体感冷，注意保暖，湿度低要多喝水。",
+    "ai_briefing_en": "Sunny but feels cold. Stay warm and hydrate due to low humidity.",
+    "alert": null
   }
 ]

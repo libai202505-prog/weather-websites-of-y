@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉大雾弥漫，体感 -5℃，湿冷入骨，注意防寒，出行注意安全。",
     "ai_briefing_en": "Wuhan is very foggy and feels like -5℃. It's damp and bone-chilling cold, stay warm and safe.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-08T10:32+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "149",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1036",
+    "vis": "8",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "多云有点凉，注意保暖别感冒。",
+    "ai_briefing_en": "Cloudy, chilly. Stay warm!",
+    "alert": null
   }
 ]

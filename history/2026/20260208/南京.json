@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京晴朗，体感 0℃。风力不大，仍需注意保暖。",
     "ai_briefing_en": "Nanjing is sunny, feels like 0℃. Light wind, but stay warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-08T19:17+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "95",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "27",
+    "dew": "-11",
+    "cloud": "0",
+    "ai_briefing_zh": "南京晴朗，体感-1℃。风力不大，好好享受阳光吧！",
+    "ai_briefing_en": "Nanjing is sunny, feels like -1℃. Light wind, enjoy the sun!",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "多云舒适，气温宜人，早晚温差注意调整衣物。",
     "ai_briefing_en": "Cloudy and pleasant. Mind the temperature change between day and night.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-08T15:30+08:00",
+    "temp": "16",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "52",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "广州阴天，体感 11℃。早晚温差大，别忘了带件外套。",
+    "ai_briefing_en": "Guangzhou is cloudy, feels like 11℃. Mind the temperature changes, bring a jacket.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

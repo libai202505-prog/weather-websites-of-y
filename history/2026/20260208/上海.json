@@ -358,5 +358,25 @@
     "ai_briefing_zh": "上海体感 -1℃，早晚温差大，别忘了添衣。",
     "ai_briefing_en": "Shanghai feels like -1℃, with a large temperature difference, don't forget to add clothes.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-08T22:24+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "6",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1035",
+    "vis": "24",
+    "dew": "-8",
+    "cloud": "0",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

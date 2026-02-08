@@ -358,5 +358,25 @@
     "ai_briefing_zh": "杭州体感 -3℃，出门多穿点，注意防寒。",
     "ai_briefing_en": "Hangzhou feels like -3℃, wear more clothes when going out, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-08T22:26+08:00",
+    "temp": "0",
+    "feelsLike": "-3",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "337",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "24",
+    "dew": "-10",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

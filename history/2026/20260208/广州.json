@@ -258,5 +258,25 @@
     "ai_briefing_zh": "广州 15℃ 不冷。早晚温差大注意！",
     "ai_briefing_en": "Guangzhou 15℃. Temps vary!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-08T17:26+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "31",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "广州阴天，气温适宜。出门记得带伞，以防万一。",
+    "ai_briefing_en": "Guangzhou is cloudy and mild. Carry an umbrella just in case!",
+    "alert": null
   }
 ]

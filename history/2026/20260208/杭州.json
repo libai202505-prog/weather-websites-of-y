@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州体感 -1℃，有风。记得防风保暖。",
     "ai_briefing_en": "Hangzhou: -1℃, windy. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-08T17:26+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "357",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "27",
+    "dew": "-10",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阳光好，体感却很冷。风大，出门注意防寒保暖！",
+    "ai_briefing_en": "Hangzhou is sunny but very cold and windy. Stay warm!",
+    "alert": null
   }
 ]

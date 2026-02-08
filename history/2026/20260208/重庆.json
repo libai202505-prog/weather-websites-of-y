@@ -258,5 +258,25 @@
     "ai_briefing_zh": "重庆体感 7℃ 湿冷。注意防寒保暖哦。",
     "ai_briefing_en": "Chongqing: 7℃, damp, cold. Warm up!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-02-08T17:24+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "34",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "20",
+    "dew": "4",
+    "cloud": "99",
+    "ai_briefing_zh": "重庆阴天，体感 8℃。注意适时添衣，以免着凉哦。",
+    "ai_briefing_en": "Chongqing is cloudy and cool. Add layers to avoid catching a cold.",
+    "alert": null
   }
 ]

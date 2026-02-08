@@ -238,5 +238,25 @@
     "ai_briefing_zh": "广州阴天，体感 11℃。早晚温差大，别忘了带件外套。",
     "ai_briefing_en": "Guangzhou is cloudy, feels like 11℃. Mind the temperature changes, bring a jacket.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-08T16:24+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "340",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "2",
+    "cloud": "5",
+    "ai_briefing_zh": "广州 15℃ 不冷。早晚温差大注意！",
+    "ai_briefing_en": "Guangzhou 15℃. Temps vary!",
+    "alert": null
   }
 ]

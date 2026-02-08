@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天微凉，气温 16℃，体感舒适，记得添衣哦。",
     "ai_briefing_en": "Overcast and mild, 16℃. Feels comfortable, remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-08T14:50+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "78",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "多云舒适，气温宜人，早晚温差注意调整衣物。",
+    "ai_briefing_en": "Cloudy and pleasant. Mind the temperature change between day and night.",
+    "alert": null
   }
 ]

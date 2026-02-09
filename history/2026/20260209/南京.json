@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京体感 0℃，今天挺冷的，多穿点哦！",
     "ai_briefing_en": "Nanjing feels 0℃, it's quite cold today, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-09T22:48+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "17",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "19",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

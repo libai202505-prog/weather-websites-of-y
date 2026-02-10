@@ -138,5 +138,25 @@
     "ai_briefing_zh": "重庆阴天，体感 11℃。风小凉爽，小心昼夜温差。",
     "ai_briefing_en": "Chongqing is cloudy, feels like 11℃. Gentle breeze, watch for day-night temp change.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-02-10T15:00+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "263",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "10",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆阴天体感 8℃，体感微凉。小心温差，注意保暖。",
+    "ai_briefing_en": "Chongqing is cloudy and cool, feels like 8℃. Mind the temperature changes.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

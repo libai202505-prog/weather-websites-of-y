@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉有雾，体感 2℃。能见度低，开车请慢行注意安全。",
     "ai_briefing_en": "Wuhan has fog, feels like 2℃. Low visibility, drive slowly and safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-10T15:00+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "217",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阴冷体感 4℃，记得穿保暖，注意防湿哦。",
+    "ai_briefing_en": "Wuhan is cloudy and cold, feels like 4℃. Dress warm and stay dry!",
+    "alert": null
   }
 ]

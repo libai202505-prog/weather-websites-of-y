@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都多云，体感 10℃。早晚温差大，别忘了添衣。",
     "ai_briefing_en": "Chengdu is cloudy, feels like 10℃. Big temp difference, add layers.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-10T15:00+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "272",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "8",
+    "dew": "1",
+    "cloud": "7",
+    "ai_briefing_zh": "成都多云体感 10℃，出门加件外套，很舒服。",
+    "ai_briefing_en": "Chengdu is partly cloudy, feels like 10℃. Grab a jacket and enjoy!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天湿冷，体感 5℃，湿度 72%，务必注意保暖。",
     "ai_briefing_en": "Overcast, damp and cold, feels like 5℃. Be sure to stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-10T17:56+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "161",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有雾，能见度低，体感湿冷。出行注意安全！",
+    "ai_briefing_en": "Wuhan is foggy and damp-cold. Drive safely and bundle up!",
+    "alert": null
   }
 ]

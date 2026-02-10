@@ -98,5 +98,25 @@
     "ai_briefing_zh": "雾凇寒冷，-17℃，体感 -22℃。请务必全副武装，注意防寒！",
     "ai_briefing_en": "Frosty and extremely cold, -17℃, feels like -22℃. Bundle up well!",
     "alert": "🥶 红色极寒警报：体感低至 -22℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-02-10T10:24+08:00",
+    "temp": "-12",
+    "feelsLike": "-17",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "280",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "7",
+    "dew": "-16",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨体感极寒且有霾，务必全副武装，注意防护。",
+    "ai_briefing_en": "Extremely cold and hazy in Harbin. Bundle up completely and protect yourself.",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -17℃"
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京风大天晴，体感 0℃ 记得多穿衣，注意补水哦！",
     "ai_briefing_en": "Beijing is windy and feels like 0℃. Stay warm and hydrated!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-10T16:48+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "269",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "24",
+    "dew": "-17",
+    "cloud": "0",
+    "ai_briefing_zh": "晴天但体感较凉，风力 3级，记得补水保暖哦！",
+    "ai_briefing_en": "Sunny but feels cool, wind 3. Stay hydrated and warm!",
+    "alert": null
   }
 ]

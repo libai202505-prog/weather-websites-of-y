@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴冷体感 4℃，记得穿保暖，注意防湿哦。",
     "ai_briefing_en": "Wuhan is cloudy and cold, feels like 4℃. Dress warm and stay dry!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-10T16:48+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "298",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "6",
+    "dew": "4",
+    "cloud": "5",
+    "ai_briefing_zh": "阴天湿冷，体感 5℃，湿度 72%，务必注意保暖。",
+    "ai_briefing_en": "Overcast, damp and cold, feels like 5℃. Be sure to stay warm.",
+    "alert": null
   }
 ]

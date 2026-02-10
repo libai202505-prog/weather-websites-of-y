@@ -238,5 +238,25 @@
     "ai_briefing_zh": "有雾体感 2℃，能见度低。出行安全，多穿衣！",
     "ai_briefing_en": "Foggy, 2℃. Safe driving!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-02-10T22:48+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "339",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "7",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

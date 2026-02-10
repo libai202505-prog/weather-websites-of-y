@@ -238,5 +238,25 @@
     "ai_briefing_zh": "晴天 14℃ 舒适，湿度高。享受阳光吧！",
     "ai_briefing_en": "Sunny, 14℃. Humid, enjoy!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-10T22:48+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "32",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "14",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

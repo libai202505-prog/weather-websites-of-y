@@ -218,5 +218,25 @@
     "ai_briefing_zh": "哈尔滨体感 -16℃ 并有霾，务必穿暖防寒，戴好口罩。",
     "ai_briefing_en": "Harbin feels like -16℃ with haze. Dress extremely warmly, protect yourself from cold, and wear a mask.",
     "alert": "❄️ 橙色寒冷提示：体感低至 -16℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-02-10T21:09+08:00",
+    "temp": "-10",
+    "feelsLike": "-15",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "328",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "10",
+    "dew": "-17",
+    "cloud": "2",
+    "ai_briefing_zh": "晴好体感 -15℃ 极寒，风力 2 级。务必防寒保暖！",
+    "ai_briefing_en": "Sunny, -15℃. Bundle up!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -15℃"
   }
 ]

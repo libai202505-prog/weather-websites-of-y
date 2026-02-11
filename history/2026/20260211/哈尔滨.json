@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨晴朗但极寒，保暖是第一要务！",
     "ai_briefing_en": "Harbin is clear but extremely cold. Staying warm is key!",
     "alert": "❄️ 橙色寒冷提示：体感低至 -15℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-02-11T13:00+08:00",
+    "temp": "-5",
+    "feelsLike": "-9",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "324",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "7",
+    "ai_briefing_zh": "哈尔滨晴朗但严寒，体感 -9℃。务必裹严实，别冻着！",
+    "ai_briefing_en": "Harbin is sunny but severely cold, feels like -9℃. Please bundle up to avoid freezing!",
+    "alert": null
   }
 ]

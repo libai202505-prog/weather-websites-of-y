@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京有雾，体感凉，出行注意安全哦。",
     "ai_briefing_en": "Nanjing is foggy and cool. Please travel safely.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-11T13:00+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "311",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "8",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "南京有霾，体感稍凉。外出戴好口罩，注意保暖。",
+    "ai_briefing_en": "Nanjing has haze, feels a bit cool. Wear a mask when out, and stay warm.",
+    "alert": null
   }
 ]

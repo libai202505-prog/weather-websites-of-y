@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉多云，体感 11℃。小心温差，健康最重要！",
     "ai_briefing_en": "Wuhan is cloudy, feels 11℃. Mind the temperature changes, stay healthy!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-11T18:50+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "92",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "9",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "阳光和煦，体感微凉，记得添衣保暖。",
+    "ai_briefing_en": "Gentle sunshine, a bit cool. Remember to layer up.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

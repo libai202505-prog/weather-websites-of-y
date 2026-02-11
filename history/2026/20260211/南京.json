@@ -278,5 +278,25 @@
     "ai_briefing_zh": "南京体感 6℃，天气凉。小心着凉，注意保暖。",
     "ai_briefing_en": "Nanjing feels 6℃, chilly weather. Be careful not to catch a cold, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-11T21:00+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "3",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "5",
+    "dew": "0",
+    "cloud": "0",
+    "ai_briefing_zh": "南京天气晴朗，体感偏冷，出门多穿点衣服吧。",
+    "ai_briefing_en": "Sunny in Nanjing, feels quite cold. Wear more clothes when you go out.",
+    "alert": null
   }
 ]

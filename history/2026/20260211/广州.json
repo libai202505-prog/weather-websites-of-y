@@ -278,5 +278,25 @@
     "ai_briefing_zh": "广州体感 20℃。昼夜温差大，小心别感冒哦。",
     "ai_briefing_en": "Guangzhou feels 20℃. Mind the temperature changes and avoid colds.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-11T21:02+08:00",
+    "temp": "17",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "97",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "广州多云暖和，注意温差，享受舒适好天气！",
+    "ai_briefing_en": "Cloudy and warm in Guangzhou, mind the temperature changes, enjoy the pleasant weather!",
+    "alert": null
   }
 ]

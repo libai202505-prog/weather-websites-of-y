@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州多云暖和，注意温差，享受舒适好天气！",
     "ai_briefing_en": "Cloudy and warm in Guangzhou, mind the temperature changes, enjoy the pleasant weather!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-11T22:50+08:00",
+    "temp": "16",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "65",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

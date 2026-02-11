@@ -258,5 +258,25 @@
     "ai_briefing_zh": "多云天气，体感舒适，记得带伞以防万一。",
     "ai_briefing_en": "Cloudy and comfortable, take an umbrella just in case.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-11T19:42+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "24",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "8",
+    "dew": "2",
+    "cloud": "91",
+    "ai_briefing_zh": "成都体感 8℃，阴天。注意添衣，多喝热水哦。",
+    "ai_briefing_en": "Chengdu feels 8℃ and is cloudy. Dress warmly and drink plenty of hot water!",
+    "alert": null
   }
 ]

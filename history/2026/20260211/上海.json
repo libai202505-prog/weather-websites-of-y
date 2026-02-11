@@ -258,5 +258,25 @@
     "ai_briefing_zh": "有霾，出门请戴口罩，保护呼吸道。",
     "ai_briefing_en": "Haze is present, wear a mask for respiratory protection.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-11T19:40+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "16",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "6",
+    "dew": "2",
+    "cloud": "3",
+    "ai_briefing_zh": "上海有霾，体感 5℃。出行防护，保暖别忘。",
+    "ai_briefing_en": "Shanghai has haze and feels like 5℃. Protect yourself and stay warm.",
+    "alert": null
   }
 ]

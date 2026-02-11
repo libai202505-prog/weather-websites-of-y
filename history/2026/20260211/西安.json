@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天干燥，记得多喝水，滋润身体。",
     "ai_briefing_en": "Overcast and dry. Remember to drink more water.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-11T19:42+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "10",
+    "humidity": "13",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "16",
+    "dew": "-4",
+    "cloud": "99",
+    "ai_briefing_zh": "西安体感 5℃，阴冷干燥。多喝水，注意保暖。",
+    "ai_briefing_en": "Xi'an feels 5℃, cloudy and dry. Hydrate and keep warm.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雾，出行减速，注意行车安全。",
     "ai_briefing_en": "Wuhan is foggy, slow down and drive safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-12T12:48+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "235",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "8",
+    "dew": "5",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有霾，外出请做好防护，戴好口罩。",
+    "ai_briefing_en": "Wuhan has haze, please take precautions and wear a mask when going out.",
+    "alert": null
   }
 ]

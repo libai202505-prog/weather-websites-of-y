@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门阴天，体感 11℃，注意预防感冒哦。",
     "ai_briefing_en": "Xiamen is overcast, feels like 11℃. Please take care to prevent colds.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-12T12:50+08:00",
+    "temp": "18",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "97",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "19",
+    "dew": "10",
+    "cloud": "1",
+    "ai_briefing_zh": "厦门阴天，气温适中，出门记得带件薄外套。",
+    "ai_briefing_en": "Xiamen is cloudy with moderate temperatures, remember a light jacket.",
+    "alert": null
   }
 ]

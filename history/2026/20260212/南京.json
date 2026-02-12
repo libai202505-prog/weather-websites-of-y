@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京晴朗，体感 6℃。虽然有阳光，还是要多穿点暖和哦。",
     "ai_briefing_en": "Sunny in Nanjing, feels like 6℃. Even with sun, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-12T22:40+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "156",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "7",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

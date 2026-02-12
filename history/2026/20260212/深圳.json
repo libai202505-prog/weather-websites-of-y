@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云天气，体感舒适，但早晚温差大哦。",
     "ai_briefing_en": "Cloudy and pleasant, but mind the morning/night chill.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-12T10:01+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "87",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "15",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳阴天，早晚微凉，备件外套哦。",
+    "ai_briefing_en": "Shenzhen is overcast, a bit cool in morning/evening, bring a jacket.",
+    "alert": null
   }
 ]

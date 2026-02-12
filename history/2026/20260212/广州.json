@@ -138,5 +138,25 @@
     "ai_briefing_zh": "天气阴沉，湿度高，注意保持好心情哦。",
     "ai_briefing_en": "Overcast with high humidity, stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-12T10:00+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "80",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云暖和，记得多喝水保持活力！",
+    "ai_briefing_en": "Guangzhou is cloudy and warm, stay hydrated and energized!",
+    "alert": null
   }
 ]

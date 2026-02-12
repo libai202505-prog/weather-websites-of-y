@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州多云，气温 19℃，体感温暖，湿度稍高哦。",
     "ai_briefing_en": "Cloudy in Guangzhou, a warm 19℃. It feels humid, take care!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-12T21:02+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "319",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "10",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "广州多云，气温 17℃。舒适宜人，但湿度有点大哦。",
+    "ai_briefing_en": "Cloudy in Guangzhou, 17℃. Pleasant, but with high humidity.",
+    "alert": null
   }
 ]

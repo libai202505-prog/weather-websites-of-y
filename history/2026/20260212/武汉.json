@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉有霾，外出请做好防护，戴好口罩。",
     "ai_briefing_en": "Wuhan has haze, please take precautions and wear a mask when going out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-12T14:00+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "129",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "1",
+    "ai_briefing_zh": "武汉多云，体感 13℃ 宜人，出门散步很不错哦。",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 13℃. A pleasant day for a walk!",
+    "alert": null
   }
 ]

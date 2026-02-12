@@ -178,5 +178,25 @@
     "ai_briefing_zh": "青岛有霾体感冷，风力较大，出门做好防护保暖。",
     "ai_briefing_en": "Qingdao has haze and feels cold with strong winds, take precautions and stay warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-02-12T14:02+08:00",
+    "temp": "8",
+    "feelsLike": "2",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "192",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "4",
+    "dew": "0",
+    "cloud": "6",
+    "ai_briefing_zh": "青岛有霾，体感 2℃，风大且冷，注意防寒戴口罩。",
+    "ai_briefing_en": "Qingdao is hazy, feels like 2℃. Cold and windy, stay warm and wear a mask!",
+    "alert": null
   }
 ]

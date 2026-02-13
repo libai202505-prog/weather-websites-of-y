@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
     "ai_briefing_en": "杭州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-14T07:24+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "231",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "3",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州有雾，体感9℃ 凉，湿度高，出行注意交通安全。",
+    "ai_briefing_en": "Foggy in Hangzhou, feels like 9℃ and humid. Drive safely!",
+    "alert": null
   }
 ]

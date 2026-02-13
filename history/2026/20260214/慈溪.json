@@ -138,5 +138,25 @@
     "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
     "ai_briefing_en": "慈溪: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-02-14T07:24+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "20",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "1",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪大雾，湿度96%，出行注意交通安全，视线不佳。",
+    "ai_briefing_en": "Heavy fog, 96% humidity in Cixi. Drive safely, low visibility.",
+    "alert": null
   }
 ]

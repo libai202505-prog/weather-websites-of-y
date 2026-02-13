@@ -318,5 +318,25 @@
     "ai_briefing_zh": "成都多云 11℃ 体感 10℃。早晚温差大，别忘了及时加衣哦！",
     "ai_briefing_en": "Cloudy 11℃ (feels like 10℃) in Chengdu. Remember to dress warmly for cooler mornings and evenings!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-13T22:32+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "64",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "8",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "沈阳有霾 1℃ 体感 -2℃。气温很低，出门一定要多穿点衣服哦！",
     "ai_briefing_en": "Haze and cold 1℃ (feels like -2℃) in Shenyang. Dress warmly when you go out!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-13T22:33+08:00",
+    "temp": "-1",
+    "feelsLike": "-4",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "237",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "8",
+    "dew": "-3",
+    "cloud": "1",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

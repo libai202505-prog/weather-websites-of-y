@@ -298,5 +298,25 @@
     "ai_briefing_zh": "沈阳晴朗，体感 1℃ 凉意浓，多穿点别感冒了。",
     "ai_briefing_en": "Shenyang is sunny but feels chilly at 1℃. Dress warmly to avoid catching a cold.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-13T20:57+08:00",
+    "temp": "1",
+    "feelsLike": "-2",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "164",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "10",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳有霾 1℃ 体感 -2℃。气温很低，出门一定要多穿点衣服哦！",
+    "ai_briefing_en": "Haze and cold 1℃ (feels like -2℃) in Shenyang. Dress warmly when you go out!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

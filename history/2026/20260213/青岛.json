@@ -298,5 +298,25 @@
     "ai_briefing_zh": "青岛有霾，体感 6℃ 偏凉，出行注意防护，保重身体。",
     "ai_briefing_en": "Qingdao has haze and feels cool at 6℃. Take precautions when going out, and take care.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-02-13T20:57+08:00",
+    "temp": "7",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "118",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "3",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有雾 7℃ 体感 1℃，风力 3级。体感偏冷，出行注意防风保暖！",
+    "ai_briefing_en": "Fog 7℃ (feels like 1℃) with 3-level wind in Qingdao. It feels cold, keep warm and mind the wind!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

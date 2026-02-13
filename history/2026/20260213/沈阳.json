@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳雾冷，体感低，出行注意保暖和安全。",
     "ai_briefing_en": "Shenyang is cold and foggy, stay warm and safe.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-13T10:16+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "201",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "10",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳有霾，气温低。减少户外活动，注意防寒保暖。",
+    "ai_briefing_en": "Hazy and cold in Shenyang. Limit outdoor time, dress warmly.",
+    "alert": null
   }
 ]

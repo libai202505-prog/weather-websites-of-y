@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉多云，体感 12℃ 稍凉，别忘了多喝热水。",
     "ai_briefing_en": "Wuhan is cloudy, feels 12℃. A bit cool, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-13T19:26+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "341",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "10",
+    "dew": "10",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有雾，能见度低，体感 9℃ 湿冷，注意出行安全。",
+    "ai_briefing_en": "Wuhan has fog, low visibility, and feels damp and cold at 9℃. Please travel safely.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

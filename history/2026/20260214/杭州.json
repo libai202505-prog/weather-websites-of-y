@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州多云，体感 19℃。别忘带伞防小雨。",
     "ai_briefing_en": "Hangzhou is cloudy and 19℃. Keep an umbrella for light rain.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-14T16:24+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "71",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "18",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 20℃ 多云，体感 19℃，空气润泽，适合户外活动。",
+    "ai_briefing_en": "Hangzhou is cloudy at 20℃, feeling 19℃. Moist air, good for outdoors!",
+    "alert": null
   }
 ]

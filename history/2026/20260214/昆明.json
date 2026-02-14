@@ -278,5 +278,25 @@
     "ai_briefing_zh": "昆明 21℃ 晴朗，体感 15℃ 且干燥。记得带外套，多饮水。",
     "ai_briefing_en": "Kunming is sunny 21℃, feels 15℃ and dry. Bring a jacket, drink water.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-02-14T17:26+08:00",
+    "temp": "21",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "218",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "30",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "昆明阳光好，体感凉，风大，记得添衣保湿。",
+    "ai_briefing_en": "Kunming: Cool, dry. Hydrate, warm!",
+    "alert": null
   }
 ]

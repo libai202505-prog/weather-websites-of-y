@@ -278,5 +278,25 @@
     "ai_briefing_zh": "北京体感 6℃，风力 3 级，风大干燥，注意保暖补水哦！",
     "ai_briefing_en": "Beijing feels 6℃ with 3-level wind, breezy and dry. Stay warm and hydrated!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-14T17:24+08:00",
+    "temp": "13",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "276",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "28",
+    "dew": "-10",
+    "cloud": "10",
+    "ai_briefing_zh": "北京风大体感凉，记得添衣保暖呀！",
+    "ai_briefing_en": "Beijing: Cool & windy. Stay warm!",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海有雾，早晚温差不大，出行注意能见度。",
     "ai_briefing_en": "Shanghai is foggy. Mind the visibility when you're out.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-14T22:24+08:00",
+    "temp": "13",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "339",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "10",
+    "cloud": "10",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

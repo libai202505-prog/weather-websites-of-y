@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京霾，体感-2℃，出门记得戴口罩、多添衣保暖！",
     "ai_briefing_en": "Hazy and -2℃ in Beijing, wear a mask and warm layers!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-14T10:00+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "24",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "6",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "北京有霾，出门记得戴口罩，注意保暖哦！",
+    "ai_briefing_en": "Beijing: Haze, mask, warm!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明阳光正好，气温适宜，宜户外活动。",
     "ai_briefing_en": "Kunming: Sunny, mild, enjoy!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-02-14T12:32+08:00",
+    "temp": "18",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "210",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "昆明晴朗，体感 11℃ 凉意浓，记得穿暖和点。",
+    "ai_briefing_en": "Kunming is sunny but feels quite cool at 11℃, dress warmly.",
+    "alert": null
   }
 ]

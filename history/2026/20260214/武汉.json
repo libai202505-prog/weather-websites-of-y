@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉有雾，路面湿滑，请小心驾驶。",
     "ai_briefing_en": "Wuhan: Fog, drive with care!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-14T12:34+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "117",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "12",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，但体感 16℃ 微凉，早晚记得加衣。",
+    "ai_briefing_en": "Wuhan is sunny but feels cool at 16℃, add layers in mornings and evenings.",
+    "alert": null
   }
 ]

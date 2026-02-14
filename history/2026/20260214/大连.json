@@ -338,5 +338,25 @@
     "ai_briefing_zh": "大连大雾体感冷，注意交通和保暖哦。",
     "ai_briefing_en": "Dalian: foggy, cold. Stay safe.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-14T20:40+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "24",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "3",
+    "dew": "-2",
+    "cloud": "91",
+    "ai_briefing_zh": "大连雾气浓，体感 -2℃。路滑慢行，注意防寒保暖。",
+    "ai_briefing_en": "Dense fog in Dalian, feels like -2℃. Drive carefully, stay warm.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "天气阴冷风力不小，体感偏凉，记得多穿点，多喝水！",
     "ai_briefing_en": "Cloudy, cool and breezy, feels chilly. Bundle up and stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-14T19:08+08:00",
+    "temp": "10",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "344",
+    "humidity": "15",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "91",
+    "ai_briefing_zh": "北京风大体感冷，注意保暖别感冒哦！",
+    "ai_briefing_en": "Beijing: windy, cold. Wrap up!",
+    "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：北风 4级"
   }
 ]

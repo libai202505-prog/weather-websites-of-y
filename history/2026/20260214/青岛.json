@@ -318,5 +318,25 @@
     "ai_briefing_zh": "大雾弥漫，能见度低。体感湿冷，出行请小心慢行！",
     "ai_briefing_en": "Dense fog, low visibility. Feels damp and cold, drive carefully!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-02-14T19:10+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "127",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "4",
+    "dew": "3",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有雾体感冷，出行注意交通安全哦！",
+    "ai_briefing_en": "Qingdao: foggy, cold. Be safe!",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉有雾，体感 2℃，北风 3级，出行注意保暖防滑。",
     "ai_briefing_en": "Wuhan is foggy, feels like 2℃ with 3级 north wind. Stay warm and careful on the road.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-15T22:26+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "343",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "30",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

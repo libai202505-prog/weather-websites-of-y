@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉15℃阴天，体感凉爽，记得添衣别着凉哦！",
     "ai_briefing_en": "Wuhan: 15℃, cool. Stay cozy.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-15T14:50+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "24",
+    "humidity": "69",
+    "precip": "0.3",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "10",
+    "cloud": "98",
+    "ai_briefing_zh": "武汉小雨，气温 12℃。出门带伞，注意添衣保暖。",
+    "ai_briefing_en": "Wuhan has light rain, 12℃. Take an umbrella, dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

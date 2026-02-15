@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海多云，气温 17℃。体感宜人，正是好天气！",
     "ai_briefing_en": "Shanghai is cloudy and lovely at 17℃. A perfect day for you!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-15T18:24+08:00",
+    "temp": "12",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "344",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "9",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "上海多云，体感微凉，出门别忘添件外套呀。",
+    "ai_briefing_en": "Shanghai is cloudy and cool. Don't forget your jacket when heading out.",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

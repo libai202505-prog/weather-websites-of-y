@@ -258,5 +258,25 @@
     "ai_briefing_zh": "成都阴天，体感 15℃。早晚温差大，注意适时添衣。",
     "ai_briefing_en": "Chengdu is cloudy, feels like 15℃. Big temperature difference, dress accordingly.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-15T17:26+08:00",
+    "temp": "18",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "32",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "956",
+    "vis": "8",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天 18℃，体感舒适。外出记得带件外套哦！",
+    "ai_briefing_en": "Chengdu is overcast and mild at 18℃. Bring a jacket if you head out!",
+    "alert": null
   }
 ]

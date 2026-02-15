@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都 夜间监测中，注意保暖",
     "ai_briefing_en": "成都: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-16T07:24+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "272",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "8",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "成都多云，体感 6℃ 左右，早晚温差大，注意加衣。",
+    "ai_briefing_en": "Chengdu is cloudy, feels around 6℃. Big temp difference, dress accordingly.",
+    "alert": null
   }
 ]

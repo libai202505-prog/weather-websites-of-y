@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安小雨，气温 10℃。天凉路滑，慢行注意安全。",
     "ai_briefing_en": "Xi'an has light rain, 10℃. Take care on wet roads, stay safe!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-15T15:32+08:00",
+    "temp": "9",
+    "feelsLike": "3",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "291",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "980",
+    "vis": "16",
+    "dew": "-4",
+    "cloud": "100",
+    "ai_briefing_zh": "西安有小雨，体感 3℃，记得带雨具，注意防寒保暖。",
+    "ai_briefing_en": "Xi'an has light rain, feels like 3℃. Take an umbrella and stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

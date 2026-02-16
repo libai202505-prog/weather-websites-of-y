@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州雨天体感 -1℃，湿冷刺骨。带伞多穿衣，注意保暖！",
     "ai_briefing_en": "Hangzhou is rainy & feels -1℃ with wind. It's really cold, so grab your umbrella & dress warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-16T15:48+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "358",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "10",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨体感-2℃，很湿冷，务必多穿几件保暖。",
+    "ai_briefing_en": "Hangzhou has light rain and feels very cold and damp at -2℃. Be sure to dress in layers to stay warm.",
+    "alert": null
   }
 ]

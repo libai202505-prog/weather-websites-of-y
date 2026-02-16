@@ -218,5 +218,25 @@
     "ai_briefing_zh": "慈溪阴冷体感 0℃，湿冷感强。多穿点，别着凉哦！",
     "ai_briefing_en": "Cixi feels 0℃, damp & chilly. With wind, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-02-16T15:48+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "342",
+    "humidity": "90",
+    "precip": "0.1",
+    "pressure": "1025",
+    "vis": "9",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪有雨体感 1℃，北风 3级 寒冷，出门带伞多穿衣。",
+    "ai_briefing_en": "Cixi has rain and feels cold at 1℃ with a 3-level north wind. Take an umbrella and dress warmly.",
+    "alert": null
   }
 ]

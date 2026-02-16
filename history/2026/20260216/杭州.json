@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州雨势较强且湿冷，风大，记得带伞多穿。",
     "ai_briefing_en": "Hangzhou is rainy, wet, and cold with strong winds. Carry an umbrella and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-16T21:02+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "23",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "1023",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，体感-2℃。风大湿冷，别忘带伞加衣。",
+    "ai_briefing_en": "Hangzhou has light rain, feels like -2℃. Windy and cold, take an umbrella and dress warmly!",
+    "alert": null
   }
 ]

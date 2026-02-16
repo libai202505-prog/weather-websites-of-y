@@ -258,5 +258,25 @@
     "ai_briefing_zh": "南京阴冷，体感偏低，多穿衣别感冒。",
     "ai_briefing_en": "Nanjing is gloomy and cold, dress warm to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-16T17:50+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "43",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "19",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天，体感 0℃。寒意渐浓，记得添衣保暖哦！",
+    "ai_briefing_en": "Nanjing is overcast, feels like 0℃. It's getting cold, remember to dress warmly!",
+    "alert": null
   }
 ]

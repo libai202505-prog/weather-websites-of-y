@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海小雨，体感 3℃ 较冷，记得带伞，小心着凉。",
     "ai_briefing_en": "Shanghai has light rain and feels quite cold at 3℃. Remember your umbrella and take care not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-16T16:40+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "26",
+    "humidity": "75",
+    "precip": "0.1",
+    "pressure": "1027",
+    "vis": "17",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "天气阴冷，注意添衣，别着凉了。",
+    "ai_briefing_en": "Gloomy and cold, add layers, don't catch a cold.",
+    "alert": null
   }
 ]

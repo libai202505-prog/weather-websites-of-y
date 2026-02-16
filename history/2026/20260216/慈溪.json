@@ -238,5 +238,25 @@
     "ai_briefing_zh": "慈溪有雨体感 1℃，北风 3级 寒冷，出门带伞多穿衣。",
     "ai_briefing_en": "Cixi has rain and feels cold at 1℃ with a 3-level north wind. Take an umbrella and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-02-16T16:40+08:00",
+    "temp": "5",
+    "feelsLike": "0",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "11",
+    "humidity": "90",
+    "precip": "0.2",
+    "pressure": "1025",
+    "vis": "11",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨微凉，记得带伞，多穿点。",
+    "ai_briefing_en": "Light rain and chilly, bring an umbrella.",
+    "alert": null
   }
 ]

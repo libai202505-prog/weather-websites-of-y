@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉阴冷，体感 -2℃！风大潮湿，务必多穿防寒！",
     "ai_briefing_en": "Wuhan is cold and damp, feels like -2℃! It's windy, dress very warmly!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-16T18:42+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "36",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴冷，体感-2℃。湿冷刺骨，注意保暖！",
+    "ai_briefing_en": "WH -2℃, cloudy. Warm up!",
+    "alert": null
   }
 ]

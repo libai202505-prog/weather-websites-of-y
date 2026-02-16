@@ -278,5 +278,25 @@
     "ai_briefing_zh": "杭州小雨，体感 -2℃！风雨寒冷，务必多穿防寒！",
     "ai_briefing_en": "Hangzhou has light rain, feels like -2℃! It's cold and windy, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-16T18:42+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "359",
+    "humidity": "88",
+    "precip": "0.2",
+    "pressure": "1023",
+    "vis": "9",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，体感-2℃。风大湿冷，多穿点！",
+    "ai_briefing_en": "HZ -2℃, rain. Stay warm!",
+    "alert": null
   }
 ]

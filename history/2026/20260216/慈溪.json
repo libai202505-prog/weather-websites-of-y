@@ -178,5 +178,25 @@
     "ai_briefing_zh": "慈溪中雨，气温 6℃ 体感 0℃，注意防雨保暖，别着凉！",
     "ai_briefing_en": "Cixi, moderate rain and 6℃ (feels like 0℃). Stay dry and warm!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-02-16T12:58+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "25",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪阴冷体感 0℃，风力 3级，湿气重，注意防寒防潮哦！",
+    "ai_briefing_en": "Cixi is cloudy and feels 0℃, with wind. Keep warm and dry!",
+    "alert": null
   }
 ]

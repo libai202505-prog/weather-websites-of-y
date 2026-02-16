@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京雨夹雪，气温 3℃ 体感 -2℃，天寒地滑，出行务必小心！",
     "ai_briefing_en": "Nanjing has sleet, 3℃ (feels like -2℃). Roads are slippery, please be careful!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-16T12:58+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "40",
+    "humidity": "95",
+    "precip": "0.1",
+    "pressure": "1026",
+    "vis": "16",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天体感 -1℃，湿度 95%，湿冷入骨，注意保暖防潮！",
+    "ai_briefing_en": "Nanjing is damp and feels -1℃. It's chilly, dress warmly!",
+    "alert": null
   }
 ]

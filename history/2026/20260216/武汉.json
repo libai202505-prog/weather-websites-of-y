@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴冷体感 -1℃，北风微凉，记得多穿点。",
     "ai_briefing_en": "Wuhan is overcast and cold, feels like -1℃. North wind is cool, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-16T10:00+08:00",
+    "temp": "3",
+    "feelsLike": "-5",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "29",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "12",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴冷，气温 3℃ 但体感 -5℃，风力大，务必多穿防寒服！",
+    "ai_briefing_en": "Wuhan is cloudy and 3℃ but feels like -5℃, windy. Dress very warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：东北风 4级"
   }
 ]

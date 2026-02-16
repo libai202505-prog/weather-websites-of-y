@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州阴冷，体感 -3℃，风力 3级。请您务必注意防寒保暖！",
     "ai_briefing_en": "Hangzhou feels -3℃ with wind. It's very cold, keep extra warm!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-16T14:00+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "8",
+    "humidity": "86",
+    "precip": "0.3",
+    "pressure": "1022",
+    "vis": "12",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州雨天体感 -1℃，湿冷刺骨。带伞多穿衣，注意保暖！",
+    "ai_briefing_en": "Hangzhou is rainy & feels -1℃ with wind. It's really cold, so grab your umbrella & dress warm!",
+    "alert": null
   }
 ]

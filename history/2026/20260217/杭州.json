@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州阴冷，体感 3℃。风力 3级，外出务必多穿衣，注意防风。",
     "ai_briefing_en": "Cloudy and chilly in Hangzhou, feels like 3℃. It's windy, layer up!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-17T13:48+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "29",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "19",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天，体感 3℃。微凉的东北风，别忘了加件衣服哦。",
+    "ai_briefing_en": "Hangzhou is overcast and feels like 3°C. With the cool northeast wind, remember to layer up.",
+    "alert": null
   }
 ]

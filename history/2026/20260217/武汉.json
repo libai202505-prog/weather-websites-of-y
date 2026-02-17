@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有霾，体感 4℃。外出请佩戴口罩，注意呼吸道防护。",
     "ai_briefing_en": "Hazy in Wuhan, feels like 4℃. Wear a mask for respiratory protection.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-17T13:48+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "霾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "247",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "7",
+    "dew": "2",
+    "cloud": "93",
+    "ai_briefing_zh": "武汉有霾，体感 3℃。外出记得戴口罩，注意保暖哦。",
+    "ai_briefing_en": "Wuhan is hazy and feels like 3°C. Wear a mask outdoors and stay warm!",
+    "alert": null
   }
 ]

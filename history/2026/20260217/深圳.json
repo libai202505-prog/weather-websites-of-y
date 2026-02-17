@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳阴天，体感 14℃。北风微凉，注意添衣别着凉哦。",
     "ai_briefing_en": "Shenzhen is overcast, feels like 14°C. The north wind is cool, layer up and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-17T15:00+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "34",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "18",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天不冷，体感 19℃ 挺暖和。不过湿度高，注意防潮！",
+    "ai_briefing_en": "Overcast and mild in Shenzhen, feeling a warm 19℃. High humidity though, so be mindful of dampness!",
+    "alert": null
   }
 ]

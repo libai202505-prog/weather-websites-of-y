@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州温度舒适，但天气阴沉，保持心情愉快哦。",
     "ai_briefing_en": "Guangzhou is mild but cloudy. Keep a good mood today!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-17T10:02+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "31",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "97",
+    "ai_briefing_zh": "广州阴天体感 14℃，早晚温差大，记得加减衣物哦！",
+    "ai_briefing_en": "Guangzhou is cloudy and feels like 14℃. Mind temperature changes!",
+    "alert": null
   }
 ]

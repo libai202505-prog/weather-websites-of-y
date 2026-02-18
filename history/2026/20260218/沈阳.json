@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳晴朗，体感 -11℃ 寒冷，北风 2级，外出要多穿，注意防寒！",
     "ai_briefing_en": "Shenyang is sunny but feels -11℃ cold with a Level 2 northerly wind. Dress warmly and stay protected!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-18T12:48+08:00",
+    "temp": "0",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "275",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "30",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "气温 0℃，体感偏冷。记得多穿几层，暖暖和和！",
+    "ai_briefing_en": "At 0℃, feels chilly. Remember to layer up and stay warm!",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "慈溪多云有点冷，湿度 81%，注意防潮保暖。",
     "ai_briefing_en": "Cixi is cloudy and chilly, 81% humidity. Stay warm and mind the damp.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-02-18T10:00+08:00",
+    "temp": "8",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "358",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "10",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "慈溪晴好，体感 2℃ 略冷，北风 3级，出门记得多穿衣，注意防风！",
+    "ai_briefing_en": "Cixi is sunny but feels 2℃ cool with a Level 3 northerly wind. Dress warmly and protect from wind!",
+    "alert": null
   }
 ]

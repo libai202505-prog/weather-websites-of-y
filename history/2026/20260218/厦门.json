@@ -138,5 +138,25 @@
     "ai_briefing_zh": "厦门多云，气温 12℃。风力 2级，出门记得加衣。",
     "ai_briefing_en": "Xiamen is cloudy, 12℃. 2-level wind, remember a jacket when out.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-18T10:00+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "109",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "19",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天，体感 9℃ 湿冷。湿度 71%，出门记得带雨具，防湿。",
+    "ai_briefing_en": "Xiamen is cloudy and feels 9℃ damp-cold. 71% humidity, bring an umbrella to stay dry.",
+    "alert": null
   }
 ]

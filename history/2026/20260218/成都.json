@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都阴天，湿度 84%。虽然不冷，也别着凉啦。",
     "ai_briefing_en": "Chengdu is overcast, 84% humidity. Though not cold, don't catch a chill.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-18T10:02+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "194",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，体感 9℃，湿度 77%，有点湿冷。多喝热水，注意保暖！",
+    "ai_briefing_en": "Chengdu is cloudy and feels 9℃ damp-cold with 77% humidity. Drink hot water and stay warm!",
+    "alert": null
   }
 ]

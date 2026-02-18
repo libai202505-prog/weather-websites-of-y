@@ -278,5 +278,25 @@
     "ai_briefing_zh": "南京阴天，体感 8℃。风力不大，仍需保暖。",
     "ai_briefing_en": "Nanjing is overcast, feels like 8℃. Light wind, still need to keep warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-18T19:34+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "342",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "19",
+    "dew": "-1",
+    "cloud": "91",
+    "ai_briefing_zh": "天气阴冷，记得多穿衣服，暖暖和和过一天。",
+    "ai_briefing_en": "Overcast and chilly, remember to dress warmly!",
+    "alert": null
   }
 ]

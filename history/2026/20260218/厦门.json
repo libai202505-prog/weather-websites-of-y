@@ -278,5 +278,25 @@
     "ai_briefing_zh": "厦门晴朗，体感 6℃。海风较大，多添衣物。",
     "ai_briefing_en": "Xiamen is sunny, feels like 6℃. Strong sea breeze, wear more clothes.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-18T19:32+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "76",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "18",
+    "dew": "9",
+    "cloud": "0",
+    "ai_briefing_zh": "阳光正好，湿润舒适，享受美好的一天吧！",
+    "ai_briefing_en": "Lovely sunshine, comfortably humid. Enjoy your day!",
+    "alert": null
   }
 ]

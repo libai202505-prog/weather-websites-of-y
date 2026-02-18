@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉阴天，体感 8℃。湿度大，注意衣物保暖。",
     "ai_briefing_en": "Wuhan is overcast, feels like 8℃. High humidity, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-18T19:34+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "344",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "9",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "天气阴沉，体感有点凉，注意别感冒啦。",
+    "ai_briefing_en": "Overcast and a bit chilly, take care not to catch a cold.",
+    "alert": null
   }
 ]

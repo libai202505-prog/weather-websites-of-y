@@ -258,5 +258,25 @@
     "ai_briefing_zh": "厦门阳光正好，微风送爽。气温微凉，记得添衣别着凉。",
     "ai_briefing_en": "Xiamen is sunny with a pleasant breeze. Temperatures are slightly cool, remember to add layers and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-18T18:41+08:00",
+    "temp": "12",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "88",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "17",
+    "dew": "9",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门晴朗，体感 6℃。海风较大，多添衣物。",
+    "ai_briefing_en": "Xiamen is sunny, feels like 6℃. Strong sea breeze, wear more clothes.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云微风，早晚温差大，别着凉了呀。",
     "ai_briefing_en": "Cloudy with a breeze, mind the temperature changes.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-18T21:00+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "107",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "15",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州多云，体感 7℃ 有些凉，别忘了加件外套。",
+    "ai_briefing_en": "Hangzhou is cloudy, feels 7℃. A jacket might be nice!",
+    "alert": null
   }
 ]

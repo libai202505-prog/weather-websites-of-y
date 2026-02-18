@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气阴沉，体感有点凉，注意别感冒啦。",
     "ai_briefing_en": "Overcast and a bit chilly, take care not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-18T21:02+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "13",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "5",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有雾，体感 6℃，湿度大，出行注意安全与保暖。",
+    "ai_briefing_en": "Wuhan is foggy, feels 6℃. High humidity. Drive safe and stay warm.",
+    "alert": null
   }
 ]

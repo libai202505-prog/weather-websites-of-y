@@ -118,5 +118,25 @@
     "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
     "ai_briefing_en": "重庆: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-02-19T07:24+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "204",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "7",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾，气温 12℃。虽然不冷，出行安全仍是第一位哦。",
+    "ai_briefing_en": "Foggy in Chongqing, 12℃. Not too cold, but stay safe on the roads!",
+    "alert": null
   }
 ]

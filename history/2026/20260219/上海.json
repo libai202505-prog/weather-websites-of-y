@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天体感 10℃，风小，注意保暖别着凉！",
     "ai_briefing_en": "Shanghai cloudy, feels 10℃. Little wind, stay warm to avoid a chill!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-19T17:41+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "292",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "13",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天，体感 9℃。微风有点凉，记得多穿点哦！",
+    "ai_briefing_en": "Shanghai is cloudy, feels like 9℃. It's a bit cool, dress warmly!",
+    "alert": null
   }
 ]

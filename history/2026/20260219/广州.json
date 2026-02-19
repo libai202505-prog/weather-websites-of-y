@@ -258,5 +258,25 @@
     "ai_briefing_zh": "广州多云，体感 18℃，暖暖的很舒服，享受好天气！",
     "ai_briefing_en": "Guangzhou is cloudy, feels like 18℃. Warm and comfy, enjoy it!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-19T18:41+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "112",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "3",
+    "ai_briefing_zh": "广州多云，体感 19℃。天气宜人，注意防晒。",
+    "ai_briefing_en": "Cloudy in Guangzhou, feels like 19℃. Pleasant weather, remember sunscreen.",
+    "alert": null
   }
 ]

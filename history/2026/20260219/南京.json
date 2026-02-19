@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京有雾，能见度低，气温 4℃。出行务必注意交通安全哦。",
     "ai_briefing_en": "Foggy in Nanjing, low visibility, 4℃. Drive safely, everyone!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-19T10:00+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "183",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "13",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天 8℃，体感 5℃。天色阴沉，添衣别着凉啦。",
+    "ai_briefing_en": "Nanjing is overcast at 8℃, feels like 5℃. The sky is gloomy, dress warm to avoid a chill.",
+    "alert": null
   }
 ]

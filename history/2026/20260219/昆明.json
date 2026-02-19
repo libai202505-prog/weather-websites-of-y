@@ -198,5 +198,25 @@
     "ai_briefing_zh": "昆明晴朗，体感 15℃。风力稍大，日晒充足，记得防晒和适时补水哦。",
     "ai_briefing_en": "Kunming is sunny, feels like 15℃. It's breezy and sunny, remember sunscreen and hydration.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-02-19T15:00+08:00",
+    "temp": "22",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "235",
+    "humidity": "24",
+    "precip": "0.0",
+    "pressure": "814",
+    "vis": "30",
+    "dew": "-4",
+    "cloud": "3",
+    "ai_briefing_zh": "昆明晴朗，体感 15℃。早晚温差大，记得添衣哦。",
+    "ai_briefing_en": "Kunming sunny, feels 15℃. Big temp swing, dress in layers!",
+    "alert": null
   }
 ]

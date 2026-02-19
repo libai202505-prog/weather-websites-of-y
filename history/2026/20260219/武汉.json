@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉霾天，体感 13℃。出行请做好防护，戴口罩，多喝水，保护呼吸健康。",
     "ai_briefing_en": "Wuhan has haze, feels like 13℃. Wear a mask and stay hydrated for respiratory health.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-19T15:02+08:00",
+    "temp": "16",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "228",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，体感 12℃。阳光好，但早晚还是有些凉。",
+    "ai_briefing_en": "Wuhan sunny, feels 12℃. Good sun, but cool in mornings/evenings!",
+    "alert": null
   }
 ]

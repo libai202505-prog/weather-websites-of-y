@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海 10℃，有霾。空气不好，出门记得戴口罩哦！",
     "ai_briefing_en": "Shanghai is 10℃ with haze. Poor air quality, wear a mask when going out!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-19T12:48+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "84",
+    "humidity": "28",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "14",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天，体感 9℃ 偏凉，别忘了多穿点！",
+    "ai_briefing_en": "Shanghai is overcast and cool. Don't forget layers!",
+    "alert": null
   }
 ]

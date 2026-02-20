@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阳光明媚，气温适宜，外出散步，心情会更好哦！",
     "ai_briefing_en": "Bright and pleasant! Enjoy a lovely walk outside today.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-20T22:00+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "255",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "10",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

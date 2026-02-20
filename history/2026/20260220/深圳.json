@@ -358,5 +358,25 @@
     "ai_briefing_zh": "大雾天气，能见度低，出行请注意交通安全哦！",
     "ai_briefing_en": "Foggy today, visibility low. Please drive safely!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-20T22:02+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "164",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "7",
+    "dew": "15",
+    "cloud": "5",
+    "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
+    "ai_briefing_en": "深圳: Night watch, stay warm.",
+    "alert": null
   }
 ]

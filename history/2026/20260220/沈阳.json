@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天，气温 9℃ 偏凉。记得穿件暖和的衣服哦。",
     "ai_briefing_en": "Cloudy, a cool 9℃. Remember to wear something warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-20T17:30+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "135",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "21",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳阴天，体感寒凉，多穿些衣服，别感冒。",
+    "ai_briefing_en": "Shenyang is cloudy and chilly, wear more clothes to avoid colds.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

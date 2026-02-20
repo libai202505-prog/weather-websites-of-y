@@ -258,5 +258,25 @@
     "ai_briefing_zh": "多云舒适，体感温暖。保持心情愉悦！",
     "ai_briefing_en": "Cloudy, comfortable, feels warm. Stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-20T16:33+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "245",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "23",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "阳光正好，气温 23℃。注意补水，保持好心情！",
+    "ai_briefing_en": "Perfect sunny day at 23℃. Hydrate and stay cheerful!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

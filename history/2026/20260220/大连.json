@@ -258,5 +258,25 @@
     "ai_briefing_zh": "多云天气，体感 5℃。风力 3级，注意保暖。",
     "ai_briefing_en": "Cloudy, feels 5℃, level 3 wind. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-20T16:32+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "164",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "9",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "多云，体感 5℃ 偏凉。风力 2级，注意保暖哦。",
+    "ai_briefing_en": "Cloudy, 5℃ feels cool with wind. Stay warm!",
+    "alert": null
   }
 ]

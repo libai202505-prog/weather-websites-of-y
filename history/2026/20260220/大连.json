@@ -238,5 +238,25 @@
     "ai_briefing_zh": "大连体感 4℃，多云有风。海边温差大，请注意防寒保暖。",
     "ai_briefing_en": "Dalian feels like 4℃, cloudy with wind. Big temp difference by the sea, stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-20T15:49+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "200",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "11",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，体感 5℃。风力 3级，注意保暖。",
+    "ai_briefing_en": "Cloudy, feels 5℃, level 3 wind. Stay warm!",
+    "alert": null
   }
 ]

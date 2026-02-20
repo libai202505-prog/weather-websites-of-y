@@ -238,5 +238,25 @@
     "ai_briefing_zh": "厦门多云，气温舒适。风力 3级，注意海风，小心着凉。",
     "ai_briefing_en": "Xiamen is cloudy and pleasant. Mind the 3-level sea breeze and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-20T15:49+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "107",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "8",
+    "ai_briefing_zh": "晴朗舒适，海风习习。带件外套更佳。",
+    "ai_briefing_en": "Sunny, pleasant, sea breeze. A jacket is good.",
+    "alert": null
   }
 ]

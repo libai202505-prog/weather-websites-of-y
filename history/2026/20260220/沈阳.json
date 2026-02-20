@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳晴朗体感 2℃，有点凉，多加一件衣服吧。",
     "ai_briefing_en": "Shenyang is sunny, feels like 2℃. A bit chilly, wear an extra layer!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-20T12:40+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "181",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "29",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳阴天体感偏冷，出门多穿，注意防风！",
+    "ai_briefing_en": "Shenyang is cloudy and feels cold, dress warmly, mind the wind!",
+    "alert": null
   }
 ]

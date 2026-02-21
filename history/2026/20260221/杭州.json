@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州晴朗，体感偏凉风大，记得加件外套。",
     "ai_briefing_en": "Hangzhou is sunny but feels cool and windy, grab a jacket!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-21T14:32+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "223",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "23",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州晴朗微风，舒适宜人。湿度较低，记得多喝水滋润身体。",
+    "ai_briefing_en": "Hangzhou is clear with a gentle breeze. Low humidity, so remember to hydrate.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉晴好，体感 20℃，湿度略高。外出穿搭要注意舒适哦！",
     "ai_briefing_en": "Wuhan is sunny and feels like 20℃, a bit humid. Dress comfortably when going out!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-21T19:17+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "142",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "15",
+    "dew": "12",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，体感 15℃。湿度较高，注意防潮哦。",
+    "ai_briefing_en": "Wuhan is sunny, feels 15℃. High humidity, please mind the moisture.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "哈尔滨多云，体感只有 1℃。请务必穿暖和，别冻着了！",
     "ai_briefing_en": "Harbin is cloudy and feels like only 1℃. Please dress warmly and don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-02-21T19:17+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "99",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "13",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴天微凉，体感 1℃。记得添衣保暖，别着凉。",
+    "ai_briefing_en": "Harbin is cloudy and chilly, feels 1℃. Remember to dress warm and avoid catching cold.",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京有霾，出门记得戴口罩，注意补水哦！",
     "ai_briefing_en": "Beijing is hazy, wear a mask and stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-21T16:23+08:00",
+    "temp": "19",
+    "feelsLike": "12",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "295",
+    "humidity": "3",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "3",
+    "dew": "-11",
+    "cloud": "1",
+    "ai_briefing_zh": "北京有霾风大，戴口罩，多喝水，注意保暖哦！",
+    "ai_briefing_en": "Hazy and windy in Beijing. Wear a mask, drink water, and stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 5级"
   }
 ]

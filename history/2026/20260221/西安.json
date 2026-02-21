@@ -278,5 +278,25 @@
     "ai_briefing_zh": "西安多云，体感凉爽，空气非常干燥。务必多喝水！",
     "ai_briefing_en": "Partly cloudy and cool in Xi'an, very dry air. Please drink plenty of water!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-21T17:23+08:00",
+    "temp": "22",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "7",
+    "humidity": "0",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "多云天气，体感 18℃。湿度 0%，请务必多补水哦！",
+    "ai_briefing_en": "Cloudy, feels 18℃. 0% humidity, please stay hydrated!",
+    "alert": null
   }
 ]

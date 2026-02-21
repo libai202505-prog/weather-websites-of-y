@@ -378,5 +378,25 @@
     "ai_briefing_zh": "西安晴天，体感 11℃，空气干燥，多补水哦！",
     "ai_briefing_en": "Xi'an is sunny and feels like 11℃. Air is dry, drink more water!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-21T22:08+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "1",
+    "humidity": "10",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

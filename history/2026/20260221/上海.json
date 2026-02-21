@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海晴好，体感 13℃ 温和，出门心情好！",
     "ai_briefing_en": "Shanghai is sunny and feels like 13℃. Have a great day out!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-21T22:08+08:00",
+    "temp": "13",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "7",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "14",
+    "dew": "10",
+    "cloud": "0",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

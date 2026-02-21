@@ -298,5 +298,25 @@
     "ai_briefing_zh": "晴好，体感 14℃。风力 3 级，注意防晒，湿度较高哦！",
     "ai_briefing_en": "Sunny, feels 14℃. Moderate wind, mind the humidity and sun protection!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-21T18:16+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "116",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "13",
+    "dew": "13",
+    "cloud": "1",
+    "ai_briefing_zh": "厦门多云，体感 13℃，湿度 72%。体感偏凉，注意添衣防潮！",
+    "ai_briefing_en": "Xiamen is cloudy, feels like 13℃, 72% humidity. Feels cool, add clothes and mind the damp!",
+    "alert": null
   }
 ]

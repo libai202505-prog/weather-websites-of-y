@@ -298,5 +298,25 @@
     "ai_briefing_zh": "哈尔滨阵雪 -6℃，体感 -13℃。冰冻寒冷，务必多穿防滑！",
     "ai_briefing_en": "Harbin has snow at -6℃, feels like -13℃. It's freezing, dress warmly and wear non-slip shoes!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-02-22T18:16+08:00",
+    "temp": "-6",
+    "feelsLike": "-13",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "245",
+    "humidity": "67",
+    "precip": "0.1",
+    "pressure": "987",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨体感 -13℃，非常冷！务必穿最厚的衣服，注意防寒。",
+    "ai_briefing_en": "Harbin feels like -13℃, extremely cold! Bundle up warmly and stay safe from the cold.",
+    "alert": null
   }
 ]

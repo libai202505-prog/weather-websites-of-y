@@ -338,5 +338,25 @@
     "ai_briefing_zh": "阳光明媚，温度宜人，但湿度较高，注意通风。",
     "ai_briefing_en": "Sunny and pleasant, but high humidity. Stay comfortable!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-22T20:48+08:00",
+    "temp": "19",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "15",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "13",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "广州雾气重，能见度低，请出行注意交通安全。",
+    "ai_briefing_en": "Guangzhou is foggy with low visibility. Please drive safely.",
+    "alert": null
   }
 ]

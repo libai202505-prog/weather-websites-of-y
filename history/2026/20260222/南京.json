@@ -338,5 +338,25 @@
     "ai_briefing_zh": "扬沙天气，出行请做好防护，保护好自己。",
     "ai_briefing_en": "Dust storm, take precautions when going out. Stay safe.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-22T20:49+08:00",
+    "temp": "13",
+    "feelsLike": "7",
+    "text": "扬沙",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "77",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "9",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "南京扬沙，请戴口罩和眼镜，注意防沙护眼。",
+    "ai_briefing_en": "Nanjing has blowing sand. Wear a mask and glasses to protect your eyes.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

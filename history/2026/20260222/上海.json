@@ -338,5 +338,25 @@
     "ai_briefing_zh": "扬沙天气，出门记得戴口罩和防护眼镜哦。",
     "ai_briefing_en": "Dust storm advisory. Wear a mask and eye protection.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-22T20:49+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "63",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "16",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "上海霾天，外出记得防护，早晚微凉请添衣。",
+    "ai_briefing_en": "Shanghai is hazy, take precautions outdoors. It's cool, add clothes.",
+    "alert": null
   }
 ]

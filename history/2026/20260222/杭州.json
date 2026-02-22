@@ -338,5 +338,25 @@
     "ai_briefing_zh": "晴好天气，体感略凉，注意添衣，保持水润。",
     "ai_briefing_en": "Sunny and cool, feels like 9℃. Layer up and stay hydrated.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-22T20:49+08:00",
+    "temp": "13",
+    "feelsLike": "7",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "139",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "9",
+    "dew": "0",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州有霾，气温 13℃ 体感 7℃，外出戴口罩，注意保暖。",
+    "ai_briefing_en": "Hangzhou is hazy, 13℃ feels like 7℃. Wear a mask & stay warm.",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海晴朗，体感 5℃。微凉有阳光，适量添衣，享受美好。",
     "ai_briefing_en": "Shanghai is sunny and feels 5℃. Enjoy the sunshine, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-22T22:25+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "81",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "19",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

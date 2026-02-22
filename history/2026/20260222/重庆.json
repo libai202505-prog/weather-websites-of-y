@@ -378,5 +378,25 @@
     "ai_briefing_zh": "重庆多云，体感 18℃，湿度适中。温度宜人，注意舒适。",
     "ai_briefing_en": "Chongqing is cloudy and feels 18℃ with moderate humidity. Enjoy the pleasant weather!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-02-22T22:25+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "220",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "7",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
+    "ai_briefing_en": "重庆: Night watch, stay warm.",
+    "alert": null
   }
 ]

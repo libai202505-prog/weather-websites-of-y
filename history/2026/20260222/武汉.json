@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉晴朗，体感 12℃，空气干燥。注意保湿，享受阳光。",
     "ai_briefing_en": "Wuhan is sunny and feels 12℃ with dry air. Moisturize and enjoy the day!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-22T22:25+08:00",
+    "temp": "16",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "110",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "11",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

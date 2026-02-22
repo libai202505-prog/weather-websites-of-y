@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海扬沙，体感 8℃。注意防沙防风，保护皮肤和眼睛。",
     "ai_briefing_en": "Shanghai has blowing dust, feels like 8℃. Protect your skin and eyes, stay safe!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-22T19:16+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "扬沙",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "32",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "12",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "扬沙天气，出门记得戴口罩和防护眼镜哦。",
+    "ai_briefing_en": "Dust storm advisory. Wear a mask and eye protection.",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "昆明风力较大，体感微凉，注意防风，享受“春城”之美。",
     "ai_briefing_en": "Kunming is breezy and a bit cool. Mind the wind, enjoy the city!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-02-22T17:25+08:00",
+    "temp": "20",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "326",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "805",
+    "vis": "30",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明多云 20℃，体感 16℃，风力不小。请注意防风哦！",
+    "ai_briefing_en": "Kunming is cloudy at 20℃, feels like 16℃, and quite windy. Please protect from wind!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

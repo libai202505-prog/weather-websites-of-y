@@ -278,5 +278,25 @@
     "ai_briefing_zh": "沈阳体感偏冷，风力较大，出门注意防风保暖，避免感冒。",
     "ai_briefing_en": "Shenyang feels cold and windy. Stay warm and avoid colds!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-22T17:24+08:00",
+    "temp": "0",
+    "feelsLike": "-6",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "333",
+    "humidity": "12",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "-27",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳晴朗 0℃，体感 -6℃，风大干燥。注意保暖防风补水。",
+    "ai_briefing_en": "Shenyang is sunny 0℃, feels like -6℃. Windy and dry, stay warm, protect from wind, hydrate.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

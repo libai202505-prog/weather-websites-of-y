@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京体感偏冷，多云天，别忘添衣哦！",
     "ai_briefing_en": "Beijing feels cold and cloudy. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-22T10:00+08:00",
+    "temp": "3",
+    "feelsLike": "-6",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "340",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "1",
+    "ai_briefing_zh": "北京体感 -6℃，风大天凉，注意保暖哦！",
+    "ai_briefing_en": "Beijing: -6℃, windy. Stay warm!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

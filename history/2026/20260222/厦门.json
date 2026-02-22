@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门有雾，潮湿，出行注意安全。",
     "ai_briefing_en": "Xiamen is foggy and humid. Mind your safety when out.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-22T10:00+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "274",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "6",
+    "dew": "13",
+    "cloud": "8",
+    "ai_briefing_zh": "厦门有雾 18℃，出门要注意行车安全哦。",
+    "ai_briefing_en": "Xiamen: Foggy. Be careful.",
+    "alert": null
   }
 ]

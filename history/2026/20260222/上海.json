@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海有霾，体感 13℃，出门戴口罩，注意身体！",
     "ai_briefing_en": "Shanghai has haze and feels 13°C. Wear a mask and stay safe!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-22T15:32+08:00",
+    "temp": "16",
+    "feelsLike": "11",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "26",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "7",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "上海有霾，气温偏凉，出门记得戴口罩，注意保暖。",
+    "ai_briefing_en": "Shanghai has haze, it's cool, wear a mask and stay warm.",
+    "alert": null
   }
 ]

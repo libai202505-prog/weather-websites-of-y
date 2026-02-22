@@ -358,5 +358,25 @@
     "ai_briefing_zh": "南京扬沙，请戴口罩和眼镜，注意防沙护眼。",
     "ai_briefing_en": "Nanjing has blowing sand. Wear a mask and glasses to protect your eyes.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-22T21:40+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "扬沙",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "120",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "12",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "南京扬沙，体感 8℃，风力 3级。外出请做好防护，注意安全。",
+    "ai_briefing_en": "Nanjing has blowing sand and feels 8℃ with wind. Take precautions outdoors!",
+    "alert": null
   }
 ]

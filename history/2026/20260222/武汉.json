@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉晴朗，气温适宜，早晚温差大，注意添减衣物。",
     "ai_briefing_en": "Wuhan is sunny with pleasant temps. Mind the temperature difference.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-22T21:42+08:00",
+    "temp": "16",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "102",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "11",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉晴朗，体感 12℃，空气干燥。注意保湿，享受阳光。",
+    "ai_briefing_en": "Wuhan is sunny and feels 12℃ with dry air. Moisturize and enjoy the day!",
+    "alert": null
   }
 ]

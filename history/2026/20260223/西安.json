@@ -198,5 +198,25 @@
     "ai_briefing_zh": "雨天湿冷，体感冻人，请务必多穿。",
     "ai_briefing_en": "It's rainy and damp, feeling very cold. Please dress warmly!",
     "alert": "📉 红色降温预警：1小时骤降7℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-23T13:58+08:00",
+    "temp": "2",
+    "feelsLike": "0",
+    "text": "雪",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "352",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "975",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "西安下雪啦！体感 0℃，路滑，注意防寒保暖。",
+    "ai_briefing_en": "Xi'an is snowing! Feels like 0℃, roads are slippery, stay warm.",
+    "alert": null
   }
 ]

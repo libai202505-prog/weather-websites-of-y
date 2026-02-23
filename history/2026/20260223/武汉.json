@@ -198,5 +198,25 @@
     "ai_briefing_zh": "湿度大，阴天，注意保持室内通风哦。",
     "ai_briefing_en": "High humidity and cloudy. Remember to keep your rooms ventilated!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-23T14:00+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "337",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "8",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉大雾弥漫，能见度低，出行请注意安全！",
+    "ai_briefing_en": "Wuhan has heavy fog, low visibility. Please travel safely!",
+    "alert": null
   }
 ]

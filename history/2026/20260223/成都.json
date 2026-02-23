@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天微凉，湿度较高，注意身体舒适。",
     "ai_briefing_en": "It's a slightly cool and humid cloudy day. Take care!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-23T14:00+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "13",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "99",
+    "ai_briefing_zh": "成都体感 16℃，阴天别忘带伞，保持好心情！",
+    "ai_briefing_en": "Chengdu feels 16℃. Even cloudy, bring an umbrella and stay cheerful!",
+    "alert": null
   }
 ]

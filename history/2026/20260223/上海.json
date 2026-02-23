@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海阴天，体感 8℃。微凉，记得添衣保暖，别着凉了。",
     "ai_briefing_en": "Shanghai is overcast, feels 8℃. A bit cool, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-23T22:40+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "177",
+    "humidity": "86",
+    "precip": "0.1",
+    "pressure": "1019",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "99",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

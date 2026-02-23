@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴冷 5℃，体感 -2℃。风大湿冷，注意防风保暖！",
     "ai_briefing_en": "Feels -2℃. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-02-23T18:48+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "119",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛阴冷，体感 -1℃。湿冷注意保暖，别着凉了。",
+    "ai_briefing_en": "Qingdao cold and damp, feels -1°C. Stay warm to avoid catching a cold.",
+    "alert": null
   }
 ]

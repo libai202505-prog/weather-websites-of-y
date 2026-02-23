@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天 22℃。湿度 65%，有点闷热，注意通风哦！",
     "ai_briefing_en": "Humid 22℃. Keep cool!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-23T18:50+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "129",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "14",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳体感 19℃，湿度 71%。带伞防阵雨，注意除湿。",
+    "ai_briefing_en": "Shenzhen feels 19°C, 71% humidity. Carry an umbrella, consider dehumidifying.",
+    "alert": null
   }
 ]

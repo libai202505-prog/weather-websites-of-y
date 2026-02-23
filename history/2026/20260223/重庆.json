@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天 20℃，体感 16℃。风大潮湿，注意保暖！",
     "ai_briefing_en": "Feels 16℃. Windy. Be warm!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-02-23T18:48+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "289",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "9",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆阴天，体感 16℃。风力 3级，记得带件薄外套。",
+    "ai_briefing_en": "Chongqing overcast, feels 16°C. Breezy, bring a light jacket.",
+    "alert": null
   }
 ]

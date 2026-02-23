@@ -298,5 +298,25 @@
     "ai_briefing_zh": "厦门晴朗 17℃。湿度 74%，体感舒适，记得防晒哦。",
     "ai_briefing_en": "Xiamen sunny 17°C, 74% humidity. Comfortable, don't forget sun protection.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-23T19:32+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "69",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "9",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门有雾，出行注意，早晚温差大哦。",
+    "ai_briefing_en": "Xiamen is foggy, be careful when out. Mind the temperature difference.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

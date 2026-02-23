@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴天，体感 12℃ 略凉。早晚温差大，别忘了添衣。",
     "ai_briefing_en": "Wuhan is overcast, feels slightly cool at 12℃. Dress for temperature changes.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-23T10:01+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "169",
+    "humidity": "88",
+    "precip": "1.9",
+    "pressure": "1012",
+    "vis": "8",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 11℃ 小雨，体感微凉。出门带伞，注意路滑！",
+    "ai_briefing_en": "Wuhan 11℃, light rain, feels cool. Bring an umbrella, watch for slippery roads!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门多云，体感 15℃ 凉爽。出门走走，感受海风吧。",
     "ai_briefing_en": "Xiamen is cloudy and feels cool at 15℃. Go out and enjoy the sea breeze.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-23T10:00+08:00",
+    "temp": "20",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "51",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "25",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门 20℃ 多云，体感舒适。记得多喝水哦。",
+    "ai_briefing_en": "Xiamen 20℃, cloudy, feels comfy. Remember to drink water!",
+    "alert": null
   }
 ]

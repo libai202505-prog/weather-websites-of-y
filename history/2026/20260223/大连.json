@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连体感 -6℃，出门记得防风保暖，多喝热水哦。",
     "ai_briefing_en": "Dalian feels like -6℃. Dress warmly against the wind, drink hot water.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-23T10:00+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "152",
+    "humidity": "24",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "-15",
+    "cloud": "91",
+    "ai_briefing_zh": "大连 2℃ 阴天，体感 -3℃。寒意浓浓，注意保暖哦。",
+    "ai_briefing_en": "Dalian 2℃, cloudy, feels -3℃. It's quite cold, stay warm!",
+    "alert": null
   }
 ]

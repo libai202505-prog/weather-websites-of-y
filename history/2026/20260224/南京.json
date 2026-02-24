@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京阴冷潮湿，体感寒凉，注意保暖。",
     "ai_briefing_en": "Nanjing cold, dress warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-24T17:50+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "78",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "22",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "南京湿度高体感 4℃，穿暖点，别让湿冷钻空子。",
+    "ai_briefing_en": "Nanjing is humid and feels like 4℃. Dress warm to fend off the damp chill.",
+    "alert": null
   }
 ]

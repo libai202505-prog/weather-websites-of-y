@@ -198,5 +198,25 @@
     "ai_briefing_zh": "多云，湿度高，体感温和，注意防潮哦。",
     "ai_briefing_en": "Partly cloudy and humid, feels mild. Watch out for dampness!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-24T15:00+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "302",
+    "humidity": "96",
+    "precip": "0.1",
+    "pressure": "998",
+    "vis": "1",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天湿度大，体感微凉，记得带伞防潮。",
+    "ai_briefing_en": "Cloudy and very humid. Feels cool, bring an umbrella.",
+    "alert": null
   }
 ]

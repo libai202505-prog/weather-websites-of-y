@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天微凉有风，体感较冷，多加件衣服哦！",
     "ai_briefing_en": "Cloudy and cool with some wind, feels chilly. Layer up!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-24T15:00+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "15",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "12",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天湿冷，体感偏凉，多穿点，别着凉。",
+    "ai_briefing_en": "Cloudy and damp-cold. Dress warmly to avoid catching cold.",
+    "alert": null
   }
 ]

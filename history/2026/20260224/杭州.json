@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天风力较大，体感冷，注意防风保暖！",
     "ai_briefing_en": "Cloudy with strong wind, feels cold. Keep warm and protected!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-24T15:00+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "359",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "17",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天风大湿冷，体感更凉，记得多添衣保暖。",
+    "ai_briefing_en": "Cloudy, windy, and damp-cold. Dress extra warm!",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州大雾，能见度低，驾车出行要慢行。",
     "ai_briefing_en": "Hangzhou is foggy, low visibility, drive carefully!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-24T10:00+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "20",
+    "humidity": "94",
+    "precip": "0.1",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州体感 7℃，风力 3级，阴冷湿滑，注意添衣防寒。",
+    "ai_briefing_en": "Hangzhou feels 7°C with wind. It's cold and damp, dress warmly and be careful.",
+    "alert": null
   }
 ]

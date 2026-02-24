@@ -138,5 +138,25 @@
     "ai_briefing_zh": "厦门阴天，体感舒适，出行记得带外套。",
     "ai_briefing_en": "Xiamen is cloudy and comfy, bring a jacket!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-24T10:00+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "雨",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "115",
+    "humidity": "94",
+    "precip": "2.4",
+    "pressure": "1000",
+    "vis": "4",
+    "dew": "15",
+    "cloud": "98",
+    "ai_briefing_zh": "厦门下雨，湿度大。体感 15℃，记得带伞。",
+    "ai_briefing_en": "Xiamen is rainy and humid, feels 15°C. Remember your umbrella.",
+    "alert": null
   }
 ]

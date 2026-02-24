@@ -138,5 +138,25 @@
     "ai_briefing_zh": "西安晴朗，但地面湿滑，出行请注意安全。",
     "ai_briefing_en": "Xi'an is sunny, but slippery, please be safe!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-24T10:02+08:00",
+    "temp": "5",
+    "feelsLike": "3",
+    "text": "雨",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "192",
+    "humidity": "100",
+    "precip": "0.4",
+    "pressure": "975",
+    "vis": "16",
+    "dew": "0",
+    "cloud": "10",
+    "ai_briefing_zh": "西安下雨，湿度 100%，体感 3℃。出门记得带伞！",
+    "ai_briefing_en": "Xi'an is rainy, 100% humid, and feels 3°C. Don't forget your umbrella!",
+    "alert": null
   }
 ]

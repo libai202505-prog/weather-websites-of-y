@@ -78,5 +78,25 @@
     "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
     "ai_briefing_en": "厦门: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-02-25T06:18+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "107",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "5",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

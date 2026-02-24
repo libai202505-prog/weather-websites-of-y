@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天微凉湿度大，注意保暖防潮，别感冒啦！",
     "ai_briefing_en": "Overcast, cool and humid, stay warm and prevent colds!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-24T19:32+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "20",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "18",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

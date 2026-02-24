@@ -278,5 +278,25 @@
     "ai_briefing_zh": "天气阴冷，体感偏低，记得多加衣物保暖哦！",
     "ai_briefing_en": "Overcast and cold, feels chilly, remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-24T19:32+08:00",
+    "temp": "-2",
+    "feelsLike": "-5",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "10",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "13",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

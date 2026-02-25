@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州有雾湿冷，风力不小，出行注意安全。",
     "ai_briefing_en": "Hangzhou is foggy and damp with some wind. Stay safe on your travels.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-25T12:50+08:00",
+    "temp": "9",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "77",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "8",
+    "dew": "6",
+    "cloud": "96",
+    "ai_briefing_zh": "杭州有雾，气温 9℃。出行注意安全，别着凉！",
+    "ai_briefing_en": "Hangzhou is foggy, 9℃. Be safe when out, don't catch a cold!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉有雨，记得带伞，注意防潮和出行安全！",
     "ai_briefing_en": "Wuhan is rainy, bring an umbrella, mind the damp and travel safely!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-25T19:33+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "49",
+    "humidity": "96",
+    "precip": "0.1",
+    "pressure": "1012",
+    "vis": "6",
+    "dew": "9",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉阴雨潮湿，湿度 96%。注意防潮，保持好心情！",
+    "ai_briefing_en": "Wuhan is overcast and extremely humid, 96%. Mind the dampness and stay cheerful!",
+    "alert": null
   }
 ]

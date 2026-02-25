@@ -258,5 +258,25 @@
     "ai_briefing_zh": "北京朋友，天气有霾体感冷，记得戴口罩，多穿点哦！",
     "ai_briefing_en": "Beijing friends, haze and cold, wear a mask and dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-25T19:32+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "42",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "5",
+    "dew": "1",
+    "cloud": "98",
+    "ai_briefing_zh": "北京雾气弥漫，体感 3℃，出行注意防雾保暖哦！",
+    "ai_briefing_en": "Beijing is foggy, feels like 3℃. Drive safe and stay warm!",
+    "alert": null
   }
 ]

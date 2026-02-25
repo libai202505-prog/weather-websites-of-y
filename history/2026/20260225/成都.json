@@ -238,5 +238,25 @@
     "ai_briefing_zh": "成都阴天，气温适中，湿度偏低，记得补水。",
     "ai_briefing_en": "Chengdu is overcast and mild. Low humidity, remember to hydrate.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-25T18:48+08:00",
+    "temp": "20",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "35",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "947",
+    "vis": "16",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，气温宜人，湿度低，记得多喝水哦！",
+    "ai_briefing_en": "Chengdu is overcast and mild, low humidity, remember to drink more water!",
+    "alert": null
   }
 ]

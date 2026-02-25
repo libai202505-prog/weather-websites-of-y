@@ -178,5 +178,25 @@
     "ai_briefing_zh": "雾气弥漫，体感 2℃，出行注意防雾保暖哦！",
     "ai_briefing_en": "Foggy weather, feels like 2℃. Stay warm and safe!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-25T15:48+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "7",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "5",
+    "dew": "1",
+    "cloud": "99",
+    "ai_briefing_zh": "霾天凉，体感 3℃，注意防护，多喝水。",
+    "ai_briefing_en": "Hazy & cool. Stay warm & safe!",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "北京雾气弥漫，体感 3℃，出行注意防雾保暖哦！",
     "ai_briefing_en": "Beijing is foggy, feels like 3℃. Drive safe and stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-25T21:00+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "49",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "5",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "雾天视线差，气温 5℃。出行注意交通安全，多穿衣哦！",
+    "ai_briefing_en": "Foggy, 5℃. Drive safe, dress warm!",
+    "alert": null
   }
 ]

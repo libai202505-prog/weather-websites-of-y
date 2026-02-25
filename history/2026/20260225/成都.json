@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天 19℃，体感 15℃。湿度较低，记得多喝水滋润！",
     "ai_briefing_en": "Cloudy, 19℃, feels like 15℃. Low humidity, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-25T22:42+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "340",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "952",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "97",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

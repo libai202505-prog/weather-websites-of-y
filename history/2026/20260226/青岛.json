@@ -198,5 +198,25 @@
     "ai_briefing_zh": "青岛阴天，体感 3℃，风大寒冷，注意防风保暖！",
     "ai_briefing_en": "Overcast Qingdao, feels like 3℃. Windy and cold, protect yourself!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-02-26T15:00+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "81",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "19",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛阴天，体感 2℃ 湿冷，注意保暖，小心感冒。",
+    "ai_briefing_en": "Cloudy in Qingdao, feels damp and cold at 2℃, stay warm and be careful not to catch a cold.",
+    "alert": null
   }
 ]

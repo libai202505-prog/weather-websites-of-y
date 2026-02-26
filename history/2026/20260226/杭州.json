@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州小雨，体感 10℃。出门带伞，注意防潮保暖！",
     "ai_briefing_en": "Light rain in Hangzhou, feels like 10℃. Take an umbrella and stay dry!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-26T15:02+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "中雨",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "128",
+    "humidity": "93",
+    "precip": "1.1",
+    "pressure": "1006",
+    "vis": "2",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州中雨，体感 10℃，湿冷，记得带好雨具，多穿点。",
+    "ai_briefing_en": "Moderate rain in Hangzhou, feels like 10℃. It's damp and cold, bring rain gear and dress warmly.",
+    "alert": null
   }
 ]

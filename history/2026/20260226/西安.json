@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安阴天，体感 8℃。温差大，别忘及时添衣！",
     "ai_briefing_en": "Overcast Xi'an, feels like 8℃. Temperature changes, add clothes when needed!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-26T15:02+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "356",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "967",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "西安阴天，体感 9℃，注意适时增减衣物，预防感冒。",
+    "ai_briefing_en": "Cloudy in Xi'an, feels like 9℃. Adjust your clothing as needed to prevent colds.",
+    "alert": null
   }
 ]

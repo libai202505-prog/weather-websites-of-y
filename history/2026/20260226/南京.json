@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京阴天，体感 5℃ 且湿度 100%，湿冷感强，注意保暖。",
     "ai_briefing_en": "Cloudy in Nanjing, feels like 5℃ with 100% humidity. It's very damp and cold, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-26T16:40+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "340",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "13",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天，湿度 100% 体感 6℃ 湿冷，添衣保暖很重要！",
+    "ai_briefing_en": "Nanjing is cloudy, 100% humidity, feels 6℃ and damp. Dress warmly!",
+    "alert": null
   }
 ]

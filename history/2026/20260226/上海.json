@@ -318,5 +318,25 @@
     "ai_briefing_zh": "上海小雨绵绵，地面湿滑。出门带伞，注意安全。",
     "ai_briefing_en": "Shanghai has light rain. Take an umbrella and be careful of slippery roads.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-26T22:40+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "60",
+    "humidity": "95",
+    "precip": "0.8",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "杭州阴天湿冷，体感 9℃，出门别忘添衣。",
     "ai_briefing_en": "Hangzhou is damp and cool at 9℃. Don't forget to add layers!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-02-26T19:34+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "4",
+    "humidity": "96",
+    "precip": "0.3",
+    "pressure": "1006",
+    "vis": "5",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴雨，体感 9℃，出门带伞，穿暖和点。",
+    "ai_briefing_en": "Hangzhou has rainy, chilly weather, feels like 9℃. Bring an umbrella and dress warmly.",
+    "alert": null
   }
 ]

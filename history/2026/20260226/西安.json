@@ -278,5 +278,25 @@
     "ai_briefing_zh": "西安阴天，气温 11℃，多呼吸新鲜空气。",
     "ai_briefing_en": "Xi'an is cloudy and 11℃. Enjoy the fresh air!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-26T19:34+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "93",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "西安阴天，体感 6℃，有些凉意。记得添衣保暖哦。",
+    "ai_briefing_en": "Xi'an is cloudy and feels like 6℃, a bit chilly. Remember to dress warmly.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

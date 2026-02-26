@@ -238,5 +238,25 @@
     "ai_briefing_zh": "西安阴天，体感 8℃ 略凉，出门多添一件衣服，别着凉。",
     "ai_briefing_en": "Xi'an is cloudy, feels 8℃ and cool. Wear an extra layer, don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-26T17:44+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "73",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "3",
+    "cloud": "1",
+    "ai_briefing_zh": "西安阴天，体感 8℃ 凉意，早晚温差大，注意添衣。",
+    "ai_briefing_en": "Xi'an is cloudy, feels like 8℃. Big temperature difference, add clothes.",
+    "alert": null
   }
 ]

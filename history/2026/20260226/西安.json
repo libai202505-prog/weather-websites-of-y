@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安阴天，体感 8℃ 略凉。记得保暖，别着凉哦！",
     "ai_briefing_en": "Xi'an is overcast, feels a bit cool at 8°C. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-26T13:48+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "西安阴天，体感 8℃。温差大，别忘及时添衣！",
+    "ai_briefing_en": "Overcast Xi'an, feels like 8℃. Temperature changes, add clothes when needed!",
+    "alert": null
   }
 ]

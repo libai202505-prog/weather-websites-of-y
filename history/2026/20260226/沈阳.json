@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳 -2℃，体感 -11℃。风力 3级，防风保暖是重点！",
     "ai_briefing_en": "Shenyang -2℃, feels like -11℃. Wind at level 3, focus on wind protection and warmth!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-26T12:40+08:00",
+    "temp": "-2",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "19",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "28",
+    "dew": "-15",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳阴天，体感-6℃。气温较低，记得防寒保暖哦。",
+    "ai_briefing_en": "Shenyang is overcast, feels like -6°C. Stay warm in the cold!",
+    "alert": null
   }
 ]

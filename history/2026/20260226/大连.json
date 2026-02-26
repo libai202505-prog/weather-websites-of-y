@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连体感 -2℃，风力 3级。海风阵阵，防风保暖很重要！",
     "ai_briefing_en": "Dalian feels like -2℃, wind at level 3. Sea breeze is strong, windproof and warmth are important!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-26T12:40+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "353",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "17",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "大连阴天，体感-1℃ 寒冷。风力大，务必多穿衣。",
+    "ai_briefing_en": "Dalian is overcast, feels like -1°C. It's windy and cold, dress warmly!",
+    "alert": null
   }
 ]

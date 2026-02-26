@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海大雾，视线不佳，路湿湿的。出行慢一点，注意安全！",
     "ai_briefing_en": "Shanghai is very foggy, low visibility. Roads are wet, drive slow and stay safe!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-26T12:40+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "254",
+    "humidity": "88",
+    "precip": "0.2",
+    "pressure": "1014",
+    "vis": "9",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "上海有雨，体感 11℃，出门别忘带伞，注意防湿滑！",
+    "ai_briefing_en": "Rainy in Shanghai, feels like 11°C. Don't forget your umbrella!",
+    "alert": null
   }
 ]

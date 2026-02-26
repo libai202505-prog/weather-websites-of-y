@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海有雨，地面湿滑，出行注意安全，带好雨具。",
     "ai_briefing_en": "Shanghai has rain, roads are slippery. Travel safely and bring your umbrella.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-26T21:00+08:00",
+    "temp": "12",
+    "feelsLike": "12",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "53",
+    "humidity": "95",
+    "precip": "0.8",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "上海小雨绵绵，地面湿滑。出门带伞，注意安全。",
+    "ai_briefing_en": "Shanghai has light rain. Take an umbrella and be careful of slippery roads.",
+    "alert": null
   }
 ]

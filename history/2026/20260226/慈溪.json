@@ -298,5 +298,25 @@
     "ai_briefing_zh": "慈溪有雨，湿度大，记得带伞，别着凉。",
     "ai_briefing_en": "Cixi has rain and high humidity. Don't forget your umbrella, stay dry!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-02-26T21:00+08:00",
+    "temp": "13",
+    "feelsLike": "13",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "345",
+    "humidity": "96",
+    "precip": "0.6",
+    "pressure": "1010",
+    "vis": "2",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪中雨，湿度大。出门记得带伞，小心路滑。",
+    "ai_briefing_en": "Cixi has moderate rain and high humidity. Take an umbrella and watch your step.",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京阴天，体感 4℃，湿度 100%。注意防潮保暖哦！",
     "ai_briefing_en": "Nanjing is cloudy with a real feel of 4℃ and 100% humidity. Stay warm and mind the dampness!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-26T10:00+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "中雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "111",
+    "humidity": "100",
+    "precip": "2.9",
+    "pressure": "1011",
+    "vis": "3",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "南京中雨，体感 6℃，湿度 100%。雨势不小，记得防湿防寒！",
+    "ai_briefing_en": "Nanjing has moderate rain, feels like 6℃, humidity 100%. Heavy rain, keep dry and warm!",
+    "alert": null
   }
 ]

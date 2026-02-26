@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉有雨，体感 8℃，湿度 100%。带好雨具，注意保暖！",
     "ai_briefing_en": "Wuhan has rain with a real feel of 8℃ and 100% humidity. Bring your umbrella and stay warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-26T10:02+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "39",
+    "humidity": "99",
+    "precip": "0.1",
+    "pressure": "1013",
+    "vis": "18",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感 7℃，湿度 99%。天冷湿重，小心着凉哦！",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 7℃, humidity 99%. Cold and very humid, beware of catching a cold!",
+    "alert": null
   }
 ]

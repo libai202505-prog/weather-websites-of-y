@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳体感严寒，出门防风保暖，别冻着了。",
     "ai_briefing_en": "Shenyang feels severe cold, protect against wind, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-02-27T10:00+08:00",
+    "temp": "-1",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "341",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳体感-6℃，寒冷，外出记得戴帽子手套！",
+    "ai_briefing_en": "Shenyang feels -6℃, it's cold. Wear a hat and gloves outside!",
+    "alert": null
   }
 ]

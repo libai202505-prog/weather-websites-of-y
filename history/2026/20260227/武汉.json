@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉微凉 12℃，体感 9℃。添衣防寒，照顾好自己。",
     "ai_briefing_en": "Wuhan is cool at 12℃, feels like 9℃. Add a layer to keep warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-27T15:41+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "134",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天微凉，体感 9℃，注意适时添衣。",
+    "ai_briefing_en": "Wuhan is cloudy and cool, feels like 9℃. Remember to layer up!",
+    "alert": null
   }
 ]

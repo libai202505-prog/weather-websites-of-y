@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，体感5℃。湿度大，注意保暖哦！",
     "ai_briefing_en": "Xi'an: Humid 5℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-28T09:48+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "83",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "98",
+    "ai_briefing_zh": "西安湿度 100%，天气阴冷，多喝热水。",
+    "ai_briefing_en": "Xi'an is 100% humid and cool, drink warm water.",
+    "alert": null
   }
 ]

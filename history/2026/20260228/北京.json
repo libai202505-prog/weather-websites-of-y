@@ -238,5 +238,25 @@
     "ai_briefing_zh": "北京体感较冷，注意保暖，别着凉哦！",
     "ai_briefing_en": "Beijing feels cold, dress warmly to stay cozy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-28T14:32+08:00",
+    "temp": "2",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "32",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "13",
+    "dew": "-9",
+    "cloud": "100",
+    "ai_briefing_zh": "冷，体感 零下。注意保暖，别着凉哦！",
+    "ai_briefing_en": "Feels like -2℃. Stay warm!",
+    "alert": null
   }
 ]

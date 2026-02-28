@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天，湿度 100%。注意防潮，保持温暖！",
     "ai_briefing_en": "Cloudy, humid. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-28T15:18+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "247",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "967",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "98",
+    "ai_briefing_zh": "西安湿度超高，注意保暖防潮湿。",
+    "ai_briefing_en": "Xi'an is very humid, keep warm and dry.",
+    "alert": null
   }
 ]

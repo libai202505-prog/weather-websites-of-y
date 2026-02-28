@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天，体感 1℃。出门注意保暖，别冻着！",
     "ai_briefing_en": "Cloudy, feels 1℃. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-02-28T15:17+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "9",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "13",
+    "dew": "-7",
+    "cloud": "96",
+    "ai_briefing_zh": "大连体感较冷，出门注意保暖哦。",
+    "ai_briefing_en": "Dalian feels chilly, remember to dress warmly.",
+    "alert": null
   }
 ]

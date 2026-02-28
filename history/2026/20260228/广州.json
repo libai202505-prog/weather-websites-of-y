@@ -258,5 +258,25 @@
     "ai_briefing_zh": "下雨，湿度高。带好雨具，保持心情好！",
     "ai_briefing_en": "Rainy, humid. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-28T15:18+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "277",
+    "humidity": "93",
+    "precip": "0.5",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "广州湿度大，记得防潮保持清爽。",
+    "ai_briefing_en": "Guangzhou is humid, stay fresh and comfy.",
+    "alert": null
   }
 ]

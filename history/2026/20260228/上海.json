@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海阴天 12℃，气温舒适，保持好心情！",
     "ai_briefing_en": "Shanghai is cloudy and mild. Enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-28T19:16+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "17",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "10",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "上海有雾，体感 11℃。能见度低，出行小心。",
+    "ai_briefing_en": "Shanghai is foggy, 11℃. Low visibility, take care!",
+    "alert": null
   }
 ]

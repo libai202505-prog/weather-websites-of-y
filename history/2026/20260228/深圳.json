@@ -338,5 +338,25 @@
     "ai_briefing_zh": "深圳下雨 18℃，带伞别忘，小心路滑。",
     "ai_briefing_en": "Shenzhen is rainy, grab an umbrella and watch your step.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-28T19:18+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "76",
+    "humidity": "91",
+    "precip": "0.5",
+    "pressure": "1003",
+    "vis": "4",
+    "dew": "18",
+    "cloud": "99",
+    "ai_briefing_zh": "深圳下雨，体感 17℃。记得带伞，别淋湿了。",
+    "ai_briefing_en": "Shenzhen is rainy, 17℃. Don't forget your umbrella!",
+    "alert": null
   }
 ]

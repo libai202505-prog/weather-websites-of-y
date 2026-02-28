@@ -338,5 +338,25 @@
     "ai_briefing_zh": "西安雨天 8℃，湿冷。带好雨具，注意保暖！",
     "ai_briefing_en": "Xi'an is rainy and damp. Take your umbrella and keep warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-02-28T19:18+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "968",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天，湿度 100%。注意添衣，小心湿冷。",
+    "ai_briefing_en": "Xi'an is cloudy, 100% humidity. Dress warm, beware dampness.",
+    "alert": null
   }
 ]

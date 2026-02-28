@@ -338,5 +338,25 @@
     "ai_briefing_zh": "北京阴冷，体感 -1℃，多穿衣保暖哦！",
     "ai_briefing_en": "Beijing is chilly, feels colder. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-02-28T19:16+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "50",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "9",
+    "dew": "-9",
+    "cloud": "10",
+    "ai_briefing_zh": "北京阴冷，体感 -1℃。多穿点，注意保暖哦！",
+    "ai_briefing_en": "Beijing feels cold, -1℃. Dress warmly, stay cozy!",
+    "alert": null
   }
 ]

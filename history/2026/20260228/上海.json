@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海多云，气温适宜，外出好心情。",
     "ai_briefing_en": "Shanghai is cloudy and mild, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-28T16:24+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "349",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "14",
+    "dew": "8",
+    "cloud": "92",
+    "ai_briefing_zh": "上海气温 13℃，微凉，记得添衣哦。",
+    "ai_briefing_en": "Shanghai is 13°C, a bit cool, remember to add clothes.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "广州 20℃，体感暖和，湿度大，记得防潮哦！",
     "ai_briefing_en": "Guangzhou 20℃, feels warm. Humid, mind dampness!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-02-28T18:16+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "86",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阴天潮湿 20℃，注意防潮哦。",
+    "ai_briefing_en": "Guangzhou is humid and mild. Stay comfy!",
+    "alert": null
   }
 ]

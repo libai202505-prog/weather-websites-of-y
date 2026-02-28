@@ -198,5 +198,25 @@
     "ai_briefing_zh": "深圳有雨，带伞防滑，注意安全！",
     "ai_briefing_en": "It's raining in Shenzhen, take an umbrella and be safe!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-02-28T12:48+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "110",
+    "humidity": "82",
+    "precip": "0.3",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天，湿度高。多通风，穿舒适。",
+    "ai_briefing_en": "Shenzhen: Cloudy. Enjoy!",
+    "alert": null
   }
 ]

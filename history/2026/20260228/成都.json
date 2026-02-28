@@ -198,5 +198,25 @@
     "ai_briefing_zh": "成都下雨，湿度 100%。记得带伞，保持好心情！",
     "ai_briefing_en": "It's raining in Chengdu, 100% humidity. Take umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-02-28T12:48+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "77",
+    "humidity": "88",
+    "precip": "0.3",
+    "pressure": "950",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "99",
+    "ai_briefing_zh": "成都阴天，湿度高。多通风，保持好心情。",
+    "ai_briefing_en": "Chengdu: Cloudy. Enjoy!",
+    "alert": null
   }
 ]

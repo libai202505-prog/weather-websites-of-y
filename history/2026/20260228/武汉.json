@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉有小雨，体感 10℃。湿度高，注意防潮哦。",
     "ai_briefing_en": "Wuhan has light rain, 10℃. High humidity, stay dry!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-02-28T20:40+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "354",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "3",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉大雾，能见度差，湿气重，注意防潮。",
+    "ai_briefing_en": "Wuhan is very foggy and humid, take care.",
+    "alert": null
   }
 ]

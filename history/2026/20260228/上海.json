@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海雾蒙蒙的，能见度低，外出路上小心，注意湿滑。",
     "ai_briefing_en": "Shanghai is foggy, visibility is low. Be careful on the roads!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-02-28T22:16+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "32",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "8",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

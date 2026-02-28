@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京体感 6℃，风力较大，注意防风保暖。",
     "ai_briefing_en": "Nanjing feels like 6°C with strong winds, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-02-28T17:16+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "102",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "南京体感 8℃，风大。注意防风保暖哦！",
+    "ai_briefing_en": "Nanjing feels 8℃, windy. Keep warm against wind!",
+    "alert": null
   }
 ]

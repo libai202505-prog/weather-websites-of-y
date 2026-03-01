@@ -358,5 +358,25 @@
     "ai_briefing_zh": "北京有霾且寒冷，出门戴口罩，注意保暖哦！",
     "ai_briefing_en": "Hazy and chilly in Beijing, wear a mask and stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-01T21:08+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "322",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "7",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "北京霾天，体感仅 1℃，出门记得戴口罩、穿暖和哦！",
+    "ai_briefing_en": "Hazy & 1℃ feels. Mask up & warm!",
+    "alert": null
   }
 ]

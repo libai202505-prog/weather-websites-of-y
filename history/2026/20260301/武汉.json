@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉大雾湿冷，体感低，风大，多穿衣，注意交通安全。",
     "ai_briefing_en": "Foggy and damp chill in Wuhan, feels very cold! Dress warm, drive safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-01T21:10+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "7",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "5",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，体感 1℃，又湿又冷。小心慢行，注意保暖！",
+    "ai_briefing_en": "Fog in Wuhan, 1℃ feels, humid & cold. Drive safe!",
+    "alert": null
   }
 ]

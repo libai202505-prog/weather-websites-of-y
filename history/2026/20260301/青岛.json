@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阵雨，体感 2℃。注意添衣保暖，出门带伞哦！",
     "ai_briefing_en": "Showers, feels like 2℃. Layer up to keep warm, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-01T19:18+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "86",
+    "humidity": "89",
+    "precip": "1.1",
+    "pressure": "1012",
+    "vis": "19",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛小雨风大，体感偏冷，带好雨具多添衣。",
+    "ai_briefing_en": "Qingdao has light rain and wind, feels cold, bring umbrella and dress warm.",
+    "alert": null
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "厦门阴天湿度高，注意防潮，保持好心情。",
     "ai_briefing_en": "Xiamen is cloudy and humid, mind the moisture and keep cheerful.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-01T20:42+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "249",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "2",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门有雾，湿度高，出行注意交通安全，注意除湿。",
+    "ai_briefing_en": "Foggy in Xiamen with high humidity, drive carefully and dehumidify!",
+    "alert": null
   }
 ]

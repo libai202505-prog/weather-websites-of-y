@@ -218,5 +218,25 @@
     "ai_briefing_zh": "上海有雨，体感 11℃ 略凉，出门带伞，注意保暖！",
     "ai_briefing_en": "Shanghai is rainy, feels like 11 ℃. Take an umbrella and keep warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-01T14:40+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "50",
+    "humidity": "93",
+    "precip": "0.8",
+    "pressure": "1014",
+    "vis": "4",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "上海小雨绵绵，体感 11℃。出门别忘带伞，注意保暖！",
+    "ai_briefing_en": "Shanghai has light rain, feels like 11℃. Don't forget your umbrella, stay warm!",
+    "alert": null
   }
 ]

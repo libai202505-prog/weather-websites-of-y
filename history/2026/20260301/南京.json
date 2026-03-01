@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京阴天，体感 7℃ 较凉，湿度 100%。注意保暖防湿！",
     "ai_briefing_en": "Nanjing is overcast, feels like 7℃ with 100% humidity. Keep warm and dry!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-01T15:10+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "108",
+    "humidity": "100",
+    "precip": "0.5",
+    "pressure": "1007",
+    "vis": "6",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天湿度高，体感 8℃，注意保暖，小心着凉！",
+    "ai_briefing_en": "Nanjing is humid and cool at 8℃, dress warmly!",
+    "alert": null
   }
 ]

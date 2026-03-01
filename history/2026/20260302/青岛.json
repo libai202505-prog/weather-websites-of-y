@@ -138,5 +138,25 @@
     "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
     "ai_briefing_en": "青岛: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-02T07:16+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "339",
+    "humidity": "93",
+    "precip": "0.6",
+    "pressure": "1012",
+    "vis": "3",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛阴天，风力 3级，体感 -1℃。多穿点，注意防风！",
+    "ai_briefing_en": "Cloudy in Qingdao, breezy and feels like -1℃. Dress warmly, mind the wind!",
+    "alert": null
   }
 ]

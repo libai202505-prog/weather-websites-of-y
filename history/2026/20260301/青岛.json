@@ -178,5 +178,25 @@
     "ai_briefing_zh": "青岛小雨 7℃，体感 5℃。微凉湿润，注意保暖。",
     "ai_briefing_en": "Qingdao: Light rain, 7℃, feels 5℃. Cool, wet, stay warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-01T12:48+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "16",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "2",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛小雨湿冷，体感微凉，记得带伞多穿衣。",
+    "ai_briefing_en": "Qingdao: Light rain, damp & cool. Carry an umbrella, dress warmly.",
+    "alert": null
   }
 ]

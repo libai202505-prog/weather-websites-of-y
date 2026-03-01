@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳阴天，气温 -1℃，体感 -6℃。注意防寒保暖。",
     "ai_briefing_en": "Shenyang: Overcast, -1℃, feels -6℃. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-01T12:48+08:00",
+    "temp": "0",
+    "feelsLike": "-4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "41",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "17",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳阴冷，气温降至冰点，请注意防寒保暖。",
+    "ai_briefing_en": "Shenyang: Cloudy & cold, near freezing. Remember to stay warm!",
+    "alert": null
   }
 ]

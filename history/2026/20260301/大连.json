@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连霾天气温 2℃，体感 -2℃。天冷，请注意防护。",
     "ai_briefing_en": "Dalian: Hazy, 2℃, feels -2℃. Cold, stay safe and warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-01T12:48+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "347",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "9",
+    "dew": "-8",
+    "cloud": "100",
+    "ai_briefing_zh": "大连霾冷，气温低，请注意防霾保暖和交通安全。",
+    "ai_briefing_en": "Dalian: Hazy & cold, near freezing. Mind haze, stay warm & safe!",
+    "alert": null
   }
 ]

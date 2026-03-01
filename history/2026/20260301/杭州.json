@@ -278,5 +278,25 @@
     "ai_briefing_zh": "杭州阴冷潮湿，体感 10℃，记得添衣，注意保暖。",
     "ai_briefing_en": "Hangzhou is gloomy, cold, and damp, feels like 10℃. Remember to add layers and keep warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-01T17:10+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "122",
+    "humidity": "94",
+    "precip": "0.2",
+    "pressure": "1005",
+    "vis": "6",
+    "dew": "12",
+    "cloud": "99",
+    "ai_briefing_zh": "杭州小雨 12℃，体感 9℃。带伞保暖，别着凉！",
+    "ai_briefing_en": "Hangzhou: Rain. Umbrella, stay warm!",
+    "alert": null
   }
 ]

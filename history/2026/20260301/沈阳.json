@@ -278,5 +278,25 @@
     "ai_briefing_zh": "沈阳有霾，体感 -5℃，请注意防护，小心着凉。",
     "ai_briefing_en": "Haze in Shenyang, feels like -5℃. Take precautions and avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-01T17:08+08:00",
+    "temp": "0",
+    "feelsLike": "-3",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "13",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "13",
+    "dew": "-7",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳有霾 0℃。注意防护，多穿衣保暖！",
+    "ai_briefing_en": "Shenyang: Haze, 0℃. Protect, dress warm!",
+    "alert": null
   }
 ]

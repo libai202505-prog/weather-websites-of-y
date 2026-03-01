@@ -258,5 +258,25 @@
     "ai_briefing_zh": "大连有霾，气温 4℃，体感 0℃，注意保暖和健康防护。",
     "ai_briefing_en": "Hazy and feels like 0℃ in Dalian, stay warm and protect your health!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-01T16:24+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "353",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "7",
+    "dew": "-5",
+    "cloud": "100",
+    "ai_briefing_zh": "大连有霾，体感 -2℃，天气寒冷，注意防寒保暖。",
+    "ai_briefing_en": "Haze in Dalian, feels like -2℃. It's cold, remember to keep warm.",
+    "alert": null
   }
 ]

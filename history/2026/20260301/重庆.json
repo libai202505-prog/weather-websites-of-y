@@ -258,5 +258,25 @@
     "ai_briefing_zh": "重庆有雾，出行注意交通安全，视线不好要小心。",
     "ai_briefing_en": "Foggy in Chongqing, drive safely and watch your visibility!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-01T16:24+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "270",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "979",
+    "vis": "11",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾，体感 13℃，能见度低，出行请注意安全。",
+    "ai_briefing_en": "Fog in Chongqing, feels like 13℃. Visibility is low, please travel safely.",
+    "alert": null
   }
 ]

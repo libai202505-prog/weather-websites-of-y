@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京小雨 11℃，湿度 100%。带伞防潮，注意保暖！",
     "ai_briefing_en": "Nanjing: Rain, humid. Umbrella, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-01T18:16+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "73",
+    "humidity": "100",
+    "precip": "1.3",
+    "pressure": "1008",
+    "vis": "4",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天湿度 100%，体感 8℃。湿冷，多穿衣，注意防潮。",
+    "ai_briefing_en": "Overcast and 100% humidity, feels like 8℃. Damp and cold, dress warmly, watch for dampness.",
+    "alert": null
   }
 ]

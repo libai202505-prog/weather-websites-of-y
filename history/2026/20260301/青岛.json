@@ -378,5 +378,25 @@
     "ai_briefing_zh": "青岛有雨，体感 3℃。雨天湿冷，带好雨具，注意保暖。",
     "ai_briefing_en": "Rain in Qingdao, 3℃ feels. Umbrella & stay warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-01T22:10+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "87",
+    "humidity": "88",
+    "precip": "0.1",
+    "pressure": "1012",
+    "vis": "11",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

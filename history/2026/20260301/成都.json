@@ -378,5 +378,25 @@
     "ai_briefing_zh": "成都阴天，体感 13℃。别忘了带件外套，以防降温。",
     "ai_briefing_en": "Overcast in Chengdu, 13℃ feels. Bring a jacket!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-01T22:11+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "46",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "16",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

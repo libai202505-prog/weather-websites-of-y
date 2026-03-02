@@ -138,5 +138,25 @@
     "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
     "ai_briefing_en": "重庆: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-03T07:08+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雨",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "72",
+    "humidity": "94",
+    "precip": "0.7",
+    "pressure": "989",
+    "vis": "4",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆下雨啦，体感 12℃。出门带伞，路面湿滑注意安全。",
+    "ai_briefing_en": "Chongqing is rainy, feels like 12℃. Take an umbrella, roads are slick.",
+    "alert": null
   }
 ]

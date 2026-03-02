@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，湿度 100%。气温较低，注意防寒保暖。",
     "ai_briefing_en": "Cloudy in Xi'an, 100% humidity. Low temperature, stay warm and prevent cold.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-02T10:02+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "306",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天，7℃。早晚温差大，记得加件衣服哦！",
+    "ai_briefing_en": "Xi'an is cloudy, 7℃. Big temp difference, remember to layer up!",
+    "alert": null
   }
 ]

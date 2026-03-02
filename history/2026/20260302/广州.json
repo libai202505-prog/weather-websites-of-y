@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州有雾，体感暖和。小心驾驶，出行注意安全！",
     "ai_briefing_en": "Foggy in Guangzhou, feels warm. Drive safely, and mind your travels!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-02T10:00+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "122",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "5",
+    "dew": "21",
+    "cloud": "95",
+    "ai_briefing_zh": "广州有雾 22℃，湿度大。出行注意安全，保持好心情！",
+    "ai_briefing_en": "Guangzhou is foggy & warm at 22℃. High humidity. Drive safe & stay cheerful!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雾，体感 0℃。寒意十足，请您多穿衣服！",
     "ai_briefing_en": "Foggy in Wuhan, feels like 0℃. It's quite cold, please dress warmly!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-02T10:00+08:00",
+    "temp": "5",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "10",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "11",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴冷，体感 0℃。注意添衣保暖，别冻着了。",
+    "ai_briefing_en": "Wuhan is cloudy and cold, feels like 0℃. Dress warmly, don't get frozen.",
+    "alert": null
   }
 ]

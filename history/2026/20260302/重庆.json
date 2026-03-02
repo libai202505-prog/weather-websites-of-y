@@ -158,5 +158,25 @@
     "ai_briefing_zh": "重庆阴天，气温舒适。记得带伞，保持好心情哦！",
     "ai_briefing_en": "Cloudy in Chongqing, comfortable temperature. Remember your umbrella, stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-02T10:00+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "359",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "986",
+    "vis": "5",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾 14℃，湿度大。出行注意视线，安全第一。",
+    "ai_briefing_en": "Chongqing is foggy at 14℃, humid. Be mindful of visibility, safety first.",
+    "alert": null
   }
 ]

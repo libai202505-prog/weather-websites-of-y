@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉有雾很湿冷，体感偏低，多穿点防止感冒。",
     "ai_briefing_en": "Wuhan is foggy and damp-cold. Dress warmly to avoid colds.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-02T22:02+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "25",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

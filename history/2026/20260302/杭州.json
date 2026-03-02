@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天伴 4级 东北风，体感 5℃ 寒意浓。多穿点，注意防风！",
     "ai_briefing_en": "Cloudy with strong 4-level northeast winds, feels like 5℃. Dress warmly!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-02T15:48+08:00",
+    "temp": "12",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "355",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "93",
+    "ai_briefing_zh": "杭州阴天，风力不小。出门添衣防风，别冻着啦！",
+    "ai_briefing_en": "Hangzhou is cloudy with strong winds. Dress warm and guard against wind!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

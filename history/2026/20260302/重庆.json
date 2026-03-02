@@ -238,5 +238,25 @@
     "ai_briefing_zh": "雾气朦胧，体感 15℃ 略显湿润。出行请注意安全，保持好心情！",
     "ai_briefing_en": "Foggy and mild, feels like 15℃. Take care on the roads and keep a good mood!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-02T15:48+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "100",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "985",
+    "vis": "9",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾，能见度低。出行注意交通安全，小心驾驶！",
+    "ai_briefing_en": "Chongqing is foggy with low visibility. Drive safely and take care!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "多云天气，体感 17℃ 舒适。湿度较低，多喝水，保持水润！",
     "ai_briefing_en": "Partly cloudy and pleasant, feels like 17℃. Low humidity, hydrate and stay refreshed!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-02T15:48+08:00",
+    "temp": "18",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "157",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "807",
+    "vis": "20",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明阴天，早晚温差大。注意添衣，别着凉了哦！",
+    "ai_briefing_en": "Kunming is cloudy with a big day-night temp difference. Dress in layers!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

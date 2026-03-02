@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安阴天，体感 8℃，湿度 28%。天气干燥，多喝水，润肤。",
     "ai_briefing_en": "Xi'an: Cloudy, feels like 8℃. Dry air. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-02T14:48+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "160",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "974",
+    "vis": "16",
+    "dew": "3",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天体感 8℃，湿度 26% 较低。多喝水，注意皮肤保湿！",
+    "ai_briefing_en": "Cloudy, feels like 8℃, 26% humidity. It's dry, hydrate and moisturize!",
+    "alert": null
   }
 ]

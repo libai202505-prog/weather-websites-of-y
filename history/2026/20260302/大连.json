@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连雨夹雪，体感 -6℃。路面湿滑，出行注意安全，多保暖。",
     "ai_briefing_en": "Dalian: Sleet, feels like -6℃. Roads icy, stay warm & safe!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-02T14:48+08:00",
+    "temp": "0",
+    "feelsLike": "-6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "1",
+    "humidity": "94",
+    "precip": "0.4",
+    "pressure": "1013",
+    "vis": "1",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天湿冷，体感 -6℃。湿度 94% 冻人，请务必多穿衣防寒！",
+    "ai_briefing_en": "Cloudy and damp, feels like -6℃. Very chilly at 94% humidity, dress in layers!",
+    "alert": null
   }
 ]

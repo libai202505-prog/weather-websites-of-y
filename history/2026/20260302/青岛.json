@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛有雾，体感 -2℃。风力 4级，风大湿冷，记得多穿点。",
     "ai_briefing_en": "Qingdao: Foggy, feels like -2℃. Windy & cold, dress warmly!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-02T14:48+08:00",
+    "temp": "6",
+    "feelsLike": "-2",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "12",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "6",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "雾气大， 5级 北风呼啸，体感 -2℃。务必防风保暖，注意安全！",
+    "ai_briefing_en": "Heavy fog and strong 5-level north wind, feels like -2℃. Bundle up, stay safe!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

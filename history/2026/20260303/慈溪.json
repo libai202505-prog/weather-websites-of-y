@@ -338,5 +338,25 @@
     "ai_briefing_zh": "慈溪有雾，体感 3℃。出行慢些，多穿衣哦。",
     "ai_briefing_en": "Cixi is foggy, feels like 3℃. Drive carefully and dress warm.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-03T20:50+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "11",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "10",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "有雾哦，出行请注意交通安全，减速慢行！",
+    "ai_briefing_en": "Foggy, drive carefully and slow down!",
+    "alert": null
   }
 ]

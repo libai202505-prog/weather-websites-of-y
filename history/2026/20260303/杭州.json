@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州阴冷，体感低至 1℃，北风呼啸，务必加衣防寒！",
     "ai_briefing_en": "Hangzhou is chilly, feels like 1℃. North wind blowing, so please dress warmly!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-03T15:32+08:00",
+    "temp": "8",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "17",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "7",
+    "dew": "5",
+    "cloud": "99",
+    "ai_briefing_zh": "杭州体感只有 2℃，风力 3级。请务必多穿，小心着凉！",
+    "ai_briefing_en": "Hangzhou feels like 2℃ with strong winds. Dress warmly to avoid catching a cold!",
+    "alert": null
   }
 ]

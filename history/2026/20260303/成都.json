@@ -238,5 +238,25 @@
     "ai_briefing_zh": "成都阴天，体感 16℃，早晚凉意浓，适时添减衣物。",
     "ai_briefing_en": "Chengdu is overcast, feels like 16℃. It's cool in morning/evening, dress accordingly.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-03T15:32+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "245",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "8",
+    "cloud": "92",
+    "ai_briefing_zh": "成都阴天，体感 17℃。天气宜人，Enjoy your day！",
+    "ai_briefing_en": "Chengdu is cloudy, feels like 17℃. Pleasant weather, enjoy your day!",
+    "alert": null
   }
 ]

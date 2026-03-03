@@ -238,5 +238,25 @@
     "ai_briefing_zh": "大连大雾，体感 0℃，路面湿滑，请您注意出行安全。",
     "ai_briefing_en": "Dalian is foggy, feels like 0℃. Roads are slippery, please travel safely!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-03T15:32+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "260",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "12",
+    "dew": "0",
+    "cloud": "91",
+    "ai_briefing_zh": "大连阴冷，体感 1℃。多穿点，注意防寒保暖哦。",
+    "ai_briefing_en": "Dalian is cloudy and cold, feels like 1℃. Bundle up and stay warm!",
+    "alert": null
   }
 ]

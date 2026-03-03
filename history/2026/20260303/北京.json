@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京有霾，气温 4℃。外出注意防护，多喝水！",
     "ai_briefing_en": "Beijing has haze, 4℃. Protect yourself outdoors and stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-03T13:41+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "34",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "9",
+    "dew": "-12",
+    "cloud": "0",
+    "ai_briefing_zh": "雾霾天体感 5℃。记得戴口罩，多添衣保暖哦！",
+    "ai_briefing_en": "Hazy, feels like 5℃. Mask up, stay warm!",
+    "alert": null
   }
 ]

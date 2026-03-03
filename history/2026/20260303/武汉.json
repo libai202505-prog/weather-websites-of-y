@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天，体感 7℃ 左右。风力不大，注意适时添衣。",
     "ai_briefing_en": "Wuhan is cloudy, feeling around 7℃. Light wind, add clothes as needed.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-03T13:41+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "24",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "11",
+    "dew": "6",
+    "cloud": "95",
+    "ai_briefing_zh": "阴天体感 8℃。风力不大，但早晚温差注意保暖！",
+    "ai_briefing_en": "Overcast, feels 8℃. Mind evening chill, stay warm!",
+    "alert": null
   }
 ]

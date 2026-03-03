@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉阴天微凉，体感 10℃。记得添衣，注意保暖。",
     "ai_briefing_en": "Wuhan is cloudy and cool at 10℃. Remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-03T18:32+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "80",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 10℃。昼夜温差大，穿衣别大意。",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 10℃. Mind the day-night temp difference, dress wisely.",
+    "alert": null
   }
 ]

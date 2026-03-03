@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳阴天，体感 16℃。风力 3级，感觉会比较舒适！",
     "ai_briefing_en": "Shenzhen is overcast, feels like 16℃ with a moderate breeze.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-03T12:40+08:00",
+    "temp": "18",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "356",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "29",
+    "dew": "15",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，体感 20℃，较为舒适。外出记得带伞哦。",
+    "ai_briefing_en": "Shenzhen is cloudy, feeling 20℃, quite pleasant. Don't forget your umbrella!",
+    "alert": null
   }
 ]

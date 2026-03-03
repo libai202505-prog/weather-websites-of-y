@@ -258,5 +258,25 @@
     "ai_briefing_zh": "深圳阴天，体感 16℃，湿度大。出门注意防潮哦。",
     "ai_briefing_en": "Shenzhen is cloudy, feels like 16℃. High humidity, mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-03T16:34+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "59",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "28",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天，体感 15℃，略显潮湿。注意适时添减衣物哦。",
+    "ai_briefing_en": "Shenzhen is cloudy, feels like 15℃ and a bit damp. Dress comfortably!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "广州雨势不小，体感 10℃。带好雨具，小心湿滑路面。",
     "ai_briefing_en": "Heavy rain in Guangzhou, feels like 10℃. Take an umbrella and watch for slippery roads.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-03T16:34+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "阵雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "52",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "9",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阵雨，湿度 92%，出门记得带伞，别淋湿了哦！",
+    "ai_briefing_en": "Showers in Guangzhou, 92% humidity. Don't forget your umbrella!",
+    "alert": null
   }
 ]

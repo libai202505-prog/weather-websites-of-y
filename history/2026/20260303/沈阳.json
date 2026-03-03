@@ -218,5 +218,25 @@
     "ai_briefing_zh": "阴天体感 -4℃，湿度大。天冷湿气重，多保暖！",
     "ai_briefing_en": "Overcast, feels -4℃. Damp and cold, stay warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-03T14:42+08:00",
+    "temp": "0",
+    "feelsLike": "-3",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "237",
+    "humidity": "92",
+    "precip": "0.3",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，体感 -3℃，寒意十足，高湿需防寒！",
+    "ai_briefing_en": "Shenyang is overcast, feels like -3℃. Very chilly, high humidity, stay warm!",
+    "alert": null
   }
 ]

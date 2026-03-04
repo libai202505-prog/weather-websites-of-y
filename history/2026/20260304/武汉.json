@@ -158,5 +158,25 @@
     "ai_briefing_zh": "雾气较重，体感 8℃。出行多注意，注意防潮。",
     "ai_briefing_en": "Foggy and cool. Be careful when traveling, watch for dampness.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-04T12:32+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "150",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，体感 10℃。出行戴口罩，注意健康。",
+    "ai_briefing_en": "Haze in Wuhan, feels like 10℃. Wear a mask when out, stay healthy.",
+    "alert": null
   }
 ]

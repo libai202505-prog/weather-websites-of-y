@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大雾弥漫，体感 1℃。出行慢行，注意保暖。",
     "ai_briefing_en": "Heavy fog and cold. Drive slow, stay warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-04T12:34+08:00",
+    "temp": "8",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "94",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "11",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天风大，体感 2℃。风寒效应强，多穿点！",
+    "ai_briefing_en": "Overcast and windy in Nanjing, feels like 2℃. Wind chill is strong, bundle up!",
+    "alert": null
   }
 ]

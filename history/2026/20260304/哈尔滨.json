@@ -158,5 +158,25 @@
     "ai_briefing_zh": "极寒天气，体感 -15℃。请务必穿暖和，注意防滑！",
     "ai_briefing_en": "Extremely cold! Wear your warmest clothes, mind your step!",
     "alert": "❄️ 橙色寒冷提示：体感低至 -15℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-04T12:34+08:00",
+    "temp": "-9",
+    "feelsLike": "-15",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "304",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "10",
+    "dew": "-15",
+    "cloud": "0",
+    "ai_briefing_zh": "哈尔滨多云，体感 -15℃！注意防寒保暖，别冻着！",
+    "ai_briefing_en": "Partly cloudy in Harbin, feels like -15℃! Bundle up, don't get frozen!",
+    "alert": "❄️ 橙色寒冷提示：体感低至 -15℃"
   }
 ]

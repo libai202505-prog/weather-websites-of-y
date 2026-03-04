@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳阴天，17℃ 舒适，但湿度大，出门带伞更好哦。",
     "ai_briefing_en": "Shenzhen is cloudy and 17℃. It's humid, an umbrella might be handy!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-04T15:33+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "18",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "14",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天，早晚微凉，小心别着凉了。",
+    "ai_briefing_en": "Shenzhen is cloudy. It's cool mornings/evenings, don't catch a cold.",
+    "alert": null
   }
 ]

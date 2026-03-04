@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉阴天，体感微凉，出门添衣，保持好心情哦。",
     "ai_briefing_en": "Wuhan is cloudy, feels cool. Dress warmer when out, keep a good mood.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-04T18:34+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "103",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "9",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云，体感舒适，早晚记得添件外套哦。",
+    "ai_briefing_en": "Wuhan is partly cloudy and comfortable. Don't forget a jacket for morning/evening.",
+    "alert": null
   }
 ]

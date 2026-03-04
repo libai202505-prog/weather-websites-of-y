@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州阴天 15 ℃，体感舒适，湿度较高，保持心情好。",
     "ai_briefing_en": "Guangzhou is cloudy, 15 ℃. Pleasant but humid, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-04T14:42+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "52",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阴天，15℃ 微凉，注意添衣，别着凉了。",
+    "ai_briefing_en": "Guangzhou is cloudy and mild at 15℃. Remember to add a layer!",
+    "alert": null
   }
 ]

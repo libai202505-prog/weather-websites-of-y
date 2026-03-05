@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉阴天，体感 13℃。微凉有风，记得多加一件衣裳。",
     "ai_briefing_en": "Overcast in Wuhan, feels 13℃. Cool and breezy, wear an extra layer.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-05T15:32+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "20",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "8",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉微凉，体感有点冷，出门记得加件外套哦。",
+    "ai_briefing_en": "Wuhan is cool, feels a bit cold. Bring a jacket!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天，体感 -8℃，很冷，注意防寒保暖！",
     "ai_briefing_en": "Cloudy, -8℃. Very cold, stay warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-05T19:24+08:00",
+    "temp": "-1",
+    "feelsLike": "-7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "356",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天体感 -7℃，寒意十足，请多穿衣防寒保暖哦！",
+    "ai_briefing_en": "Shenyang: -7℃. Keep warm!",
+    "alert": null
   }
 ]

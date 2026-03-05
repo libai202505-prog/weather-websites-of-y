@@ -318,5 +318,25 @@
     "ai_briefing_zh": "小雪，体感 -2℃，路滑，注意保暖和防滑！",
     "ai_briefing_en": "Light snow, -2℃. Slippery, stay warm and safe!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-05T19:24+08:00",
+    "temp": "0",
+    "feelsLike": "-6",
+    "text": "雪",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "12",
+    "humidity": "95",
+    "precip": "0.2",
+    "pressure": "1013",
+    "vis": "1",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "大连下雪体感 -6℃，风力大，请务必防寒保暖，注意交通！",
+    "ai_briefing_en": "Dalian: Snow, -6℃. Care.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

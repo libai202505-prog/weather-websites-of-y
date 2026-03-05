@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天有风，体感 6℃ 稍凉。记得多添衣物，注意保暖！",
     "ai_briefing_en": "Overcast with wind, feels 6℃. Please add more layers and stay warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-05T18:26+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "21",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "8",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天，体感 8℃，略凉，别忘了加件外套！",
+    "ai_briefing_en": "Cloudy, a bit cool. Grab a jacket!",
+    "alert": null
   }
 ]

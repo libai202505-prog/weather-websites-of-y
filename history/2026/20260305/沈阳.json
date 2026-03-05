@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天有风，体感 -5℃ 很冷。多穿厚衣，小心感冒！",
     "ai_briefing_en": "Overcast and windy, feels -5℃. Wear warm clothes to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-05T18:26+08:00",
+    "temp": "-1",
+    "feelsLike": "-8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "3",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天，体感 -8℃，很冷，注意防寒保暖！",
+    "ai_briefing_en": "Cloudy, -8℃. Very cold, stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

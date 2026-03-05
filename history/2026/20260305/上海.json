@@ -298,5 +298,25 @@
     "ai_briefing_zh": "雾气较大，能见度低。驾车请减速慢行，注意安全！",
     "ai_briefing_en": "Heavy fog, low visibility. Please drive slowly and safely!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-05T18:24+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "248",
+    "humidity": "84",
+    "precip": "0.1",
+    "pressure": "1022",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "97",
+    "ai_briefing_zh": "天阴，气温 11℃，添件衣服，保持好心情！",
+    "ai_briefing_en": "Cloudy, 11℃. Dress warmly, keep smiling!",
+    "alert": null
   }
 ]

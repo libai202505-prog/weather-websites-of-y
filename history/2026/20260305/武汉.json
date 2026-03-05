@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天，体感 10℃。早晚温差大，注意保暖。",
     "ai_briefing_en": "Cloudy in Wuhan, feels like 10°C. Big temperature difference, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-05T13:41+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "57",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "9",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 11℃。风力有点大，出门记得多穿点。",
+    "ai_briefing_en": "Wuhan is cloudy and cool, feels like 11℃. It's a bit windy, remember to dress warmly when going out.",
+    "alert": null
   }
 ]

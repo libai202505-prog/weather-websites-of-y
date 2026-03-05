@@ -198,5 +198,25 @@
     "ai_briefing_zh": "成都阴天，体感 17℃。空气有点干，记得多喝水哦！",
     "ai_briefing_en": "Cloudy in Chengdu, feels like 17°C. Air is dry, remember to drink more water!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-05T13:41+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "320",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "962",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，湿度 39% 稍低。注意补水，保持肌肤水润。",
+    "ai_briefing_en": "Chengdu is cloudy with 39% humidity. Remember to hydrate and keep your skin moisturized.",
+    "alert": null
   }
 ]

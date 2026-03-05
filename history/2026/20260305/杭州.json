@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州有雾，空气湿润，开车请小心慢行！",
     "ai_briefing_en": "Hangzhou is foggy, air is moist. Drive slowly and carefully!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-05T12:42+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "124",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "7",
+    "dew": "8",
+    "cloud": "93",
+    "ai_briefing_zh": "杭州阴天，体感 11℃。天气微凉，注意添衣防感冒。",
+    "ai_briefing_en": "Cloudy in Hangzhou, feels like 11°C. A bit cool, dress up to avoid colds.",
+    "alert": null
   }
 ]

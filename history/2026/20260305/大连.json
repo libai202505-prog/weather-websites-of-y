@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连阴冷，体感 -2℃ 冻人。风力不小，帽子围巾别落下！",
     "ai_briefing_en": "Dalian is cloudy and freezing cold, feels like -2℃. It's windy, don't forget your hat and scarf!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-05T14:48+08:00",
+    "temp": "3",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "107",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "15",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "大连阴天，体感 -2℃。户外寒冷，请注意防寒保暖。",
+    "ai_briefing_en": "Overcast in Dalian, feels -2℃. Cold outdoors, stay warm!",
+    "alert": null
   }
 ]

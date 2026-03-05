@@ -258,5 +258,25 @@
     "ai_briefing_zh": "广州天气温暖，体感舒适，户外活动很不错哦！",
     "ai_briefing_en": "Guangzhou is warm and comfy. Great for outdoor activities!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-05T16:34+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "4",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "广州阴天，气温 21℃，体感舒适。注意早晚温差哦。",
+    "ai_briefing_en": "Guangzhou is overcast, 21℃, feels pleasant. Mind the temperature changes.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

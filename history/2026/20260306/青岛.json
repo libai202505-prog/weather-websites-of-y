@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云风大，体感超冷，严防感冒。",
     "ai_briefing_en": "Cloudy and very windy, feels extremely cold. Be careful not to catch a cold.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-06T12:32+08:00",
+    "temp": "4",
+    "feelsLike": "-5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "15",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "16",
+    "dew": "-5",
+    "cloud": "8",
+    "ai_briefing_zh": "青岛阴天风力大，体感冰冷，防风保暖是关键！",
+    "ai_briefing_en": "Qingdao is cloudy and very windy, feels icy, stay warm!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大雾弥漫，能见度低，出行注意安全。",
     "ai_briefing_en": "Heavy fog, low visibility. Drive carefully.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-06T12:34+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "101",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "5",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天湿度大，体感凉爽，记得带伞出行！",
+    "ai_briefing_en": "Wuhan is cloudy and humid, feels cool, bring an umbrella!",
+    "alert": null
   }
 ]

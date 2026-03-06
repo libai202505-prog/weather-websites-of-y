@@ -138,5 +138,25 @@
     "ai_briefing_zh": "天晴风大，体感极冷，注意防风保暖。",
     "ai_briefing_en": "Sunny and windy, feels freezing. Protect yourself from wind and cold.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-06T12:32+08:00",
+    "temp": "-2",
+    "feelsLike": "-7",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "17",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "-17",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴朗寒冷，体感偏低，记得戴好围巾手套。",
+    "ai_briefing_en": "Shenyang is clear and cold, feels chilly, wear scarf and gloves!",
+    "alert": null
   }
 ]

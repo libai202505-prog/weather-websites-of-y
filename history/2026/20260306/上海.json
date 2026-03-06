@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天微凉，体感 6℃，注意添衣，别着凉啦。",
     "ai_briefing_en": "Overcast and cool in Shanghai, feels like 6℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-06T17:32+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "328",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "6",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 6℃，阴天微凉，记得添衣保暖！",
+    "ai_briefing_en": "Shanghai 6℃. Cloudy. Warm!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "成都阴天，气温 18℃，体感宜人，心情也要晴朗哦。",
     "ai_briefing_en": "Overcast and 18℃ in Chengdu, pleasant. Keep a sunny mood!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-06T17:34+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "54",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "956",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天 16℃，湿度高，体感舒适，出行愉快！",
+    "ai_briefing_en": "Chengdu 16℃. Cloudy. OK!",
+    "alert": null
   }
 ]

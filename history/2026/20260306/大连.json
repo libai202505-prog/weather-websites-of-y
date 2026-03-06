@@ -338,5 +338,25 @@
     "ai_briefing_zh": "晴朗但体感极寒，风力 4级，请务必多穿！",
     "ai_briefing_en": "Sunny but feels extremely cold, wind level 4. Please bundle up!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-06T22:41+08:00",
+    "temp": "-2",
+    "feelsLike": "-10",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "2",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "0",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

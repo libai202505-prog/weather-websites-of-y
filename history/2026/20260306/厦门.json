@@ -338,5 +338,25 @@
     "ai_briefing_zh": "晴朗，但风力 6级较大，注意防风保暖哦。",
     "ai_briefing_en": "Sunny but strong wind (level 6), be mindful of wind protection and keeping warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-06T22:41+08:00",
+    "temp": "13",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "26",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "12",
+    "dew": "11",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

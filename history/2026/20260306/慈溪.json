@@ -338,5 +338,25 @@
     "ai_briefing_zh": "有雾，出门小心慢行，路面湿滑，注意安全。",
     "ai_briefing_en": "Foggy, drive carefully and slowly, roads might be slippery.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-06T22:41+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "61",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "6",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

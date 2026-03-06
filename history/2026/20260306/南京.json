@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京体感 4℃，阴冷。记得多穿些，暖和最重要！",
     "ai_briefing_en": "Nanjing feels 4℃, chilly. Dress warmly, stay cozy!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-06T20:48+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "86",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "7",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "有雾视线模糊，出行注意安全与保暖。",
+    "ai_briefing_en": "Foggy, drive safely and stay warm.",
+    "alert": null
   }
 ]

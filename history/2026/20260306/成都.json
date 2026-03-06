@@ -318,5 +318,25 @@
     "ai_briefing_zh": "有小雨天气微凉，记得带伞防湿哦。",
     "ai_briefing_en": "Light rain and cool, remember your umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-06T21:50+08:00",
+    "temp": "13",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "354",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "11",
+    "cloud": "98",
+    "ai_briefing_zh": "小雨淅沥，湿度 100%，出门记得带好雨具。",
+    "ai_briefing_en": "Light rain and 100% humidity, remember to bring your umbrella.",
+    "alert": null
   }
 ]

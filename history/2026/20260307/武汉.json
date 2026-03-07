@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉阴天，体感 8℃，微凉。早晚温差大，别着凉！",
     "ai_briefing_en": "Wuhan is overcast, feels like 8℃, slightly cool. Mind the temperature difference!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-07T20:40+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "20",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "天气阴沉体感 5℃。记得多穿衣，温暖过冬哦！",
+    "ai_briefing_en": "Overcast and feels like 5℃. Remember to dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

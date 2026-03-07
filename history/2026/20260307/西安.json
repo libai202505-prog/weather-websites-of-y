@@ -318,5 +318,25 @@
     "ai_briefing_zh": "西安阴天，体感 2℃。有点冷，多穿几件衣服防寒。",
     "ai_briefing_en": "Xi'an is overcast, feels like 2°C. It's quite cold, layer up to keep warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-07T19:08+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "42",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "980",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "99",
+    "ai_briefing_zh": "西安阴天，体感 2℃。湿冷感重，注意防寒保暖哦！",
+    "ai_briefing_en": "Xi'an is overcast, feels like 2℃. It's damp and cold, keep warm!",
+    "alert": null
   }
 ]

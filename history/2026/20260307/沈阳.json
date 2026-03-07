@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳晴天，气温较低，记得多穿几层，防寒保暖。",
     "ai_briefing_en": "Shenyang is sunny but cold. Dress in layers to stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-07T12:00+08:00",
+    "temp": "0",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "290",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "30",
+    "dew": "-18",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴朗，体感寒冷，出门记得多穿点哦！",
+    "ai_briefing_en": "Sunny and cold (feels like -5℃) in Shenyang, remember to dress warmly when you go out!",
+    "alert": null
   }
 ]

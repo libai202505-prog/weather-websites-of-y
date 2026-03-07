@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京多云风力大，体感接近冰点，多穿点，暖暖和和的。",
     "ai_briefing_en": "Nanjing is cloudy and chilly. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-07T12:00+08:00",
+    "temp": "9",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "56",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "13",
+    "dew": "-1",
+    "cloud": "91",
+    "ai_briefing_zh": "南京晴朗但体感较冷，注意保暖，别着凉。",
+    "ai_briefing_en": "Sunny but quite cold (feels like 3℃) in Nanjing, remember to keep warm and avoid catching a cold.",
+    "alert": null
   }
 ]

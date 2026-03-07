@@ -198,5 +198,25 @@
     "ai_briefing_zh": "哈尔滨晴朗，体感极寒，请务必做好最强保暖！",
     "ai_briefing_en": "Sunny but extremely cold (feels like -12℃) in Harbin, please bundle up warmly!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-07T13:34+08:00",
+    "temp": "-5",
+    "feelsLike": "-11",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "318",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "0",
+    "ai_briefing_zh": "哈尔滨晴，体感-11℃，寒风刺骨，务必全副武装！",
+    "ai_briefing_en": "Sunny in Harbin, feels like -11℃. It's biting cold, bundle up!",
+    "alert": null
   }
 ]

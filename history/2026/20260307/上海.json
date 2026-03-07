@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海阴冷，体感 3℃，多穿点，别冻着了哦！",
     "ai_briefing_en": "Shanghai is overcast and chilly, feeling like 3℃. Bundle up to stay warm!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-07T22:08+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "346",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1031",
+    "vis": "24",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

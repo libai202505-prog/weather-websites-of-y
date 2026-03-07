@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉有小雨，路面湿滑，出门记得带伞，注意安全呀！",
     "ai_briefing_en": "Wuhan has light rain, roads may be slippery. Remember your umbrella and stay safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-07T22:10+08:00",
+    "temp": "8",
+    "feelsLike": "7",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "2",
+    "humidity": "88",
+    "precip": "1.8",
+    "pressure": "1025",
+    "vis": "5",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

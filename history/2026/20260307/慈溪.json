@@ -378,5 +378,25 @@
     "ai_briefing_zh": "慈溪阴天湿冷，体感仅 4℃，穿暖和点，小心着凉呀！",
     "ai_briefing_en": "Cixi is overcast and damp-cold, feeling like 4℃. Dress warmly to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-07T22:10+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "54",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "13",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

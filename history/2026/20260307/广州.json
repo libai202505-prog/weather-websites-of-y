@@ -378,5 +378,25 @@
     "ai_briefing_zh": "广州晴好，体感暖和，但湿度高，记得多喝水哟！",
     "ai_briefing_en": "Guangzhou is sunny and warm, but with high humidity. Remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-07T22:10+08:00",
+    "temp": "16",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "340",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "21",
+    "dew": "14",
+    "cloud": "6",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

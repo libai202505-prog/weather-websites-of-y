@@ -358,5 +358,25 @@
     "ai_briefing_zh": "天气阴沉体感 5℃。记得多穿衣，温暖过冬哦！",
     "ai_briefing_en": "Overcast and feels like 5℃. Remember to dress warmly!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-07T21:34+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "6",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有小雨，路面湿滑，出门记得带伞，注意安全呀！",
+    "ai_briefing_en": "Wuhan has light rain, roads may be slippery. Remember your umbrella and stay safe!",
+    "alert": null
   }
 ]

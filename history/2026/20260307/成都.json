@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天，湿度 100%。注意防潮，保持室内干爽！",
     "ai_briefing_en": "Overcast with 100% humidity. Mind the dampness and keep interiors dry!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-07T16:26+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "350",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "959",
+    "vis": "16",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天，湿度 100%，体感 12℃，小心地滑。",
+    "ai_briefing_en": "Chengdu is overcast with 100% humidity, feels 12℃. Watch your step!",
+    "alert": null
   }
 ]

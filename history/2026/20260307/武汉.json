@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天，体感 8℃。风力 3级，注意添衣，谨防感冒！",
     "ai_briefing_en": "Overcast with a feel of 8℃. Stronger wind, add layers to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-07T16:26+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "37",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感 10℃，记得添件薄外套。",
+    "ai_briefing_en": "Wuhan is overcast, feels 10℃. Remember a light jacket!",
+    "alert": null
   }
 ]

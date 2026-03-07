@@ -258,5 +258,25 @@
     "ai_briefing_zh": "晴天，体感 -3℃。风力 3级，海边风大，多加衣物！",
     "ai_briefing_en": "Sunny but feels like -3℃. Strong wind by the sea, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-07T16:25+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "165",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "30",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛晴冷，体感 -2℃，海风大，多穿厚衣服。",
+    "ai_briefing_en": "Qingdao is sunny and cold, feels -2℃. Bundle up!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "重庆阴天，湿度较高。出门带伞，注意防潮哦。",
     "ai_briefing_en": "Overcast in Chongqing, high humidity. Bring an umbrella and stay dry.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-07T15:24+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "39",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "8",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "雾天，体感 11℃。能见度低，开车请注意安全！",
+    "ai_briefing_en": "Foggy with a feel of 11℃. Low visibility, drive safely!",
+    "alert": null
   }
 ]

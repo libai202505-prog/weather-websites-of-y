@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉阴天，体感 10℃，记得添件薄外套。",
     "ai_briefing_en": "Wuhan is overcast, feels 10℃. Remember a light jacket!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-07T17:24+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "355",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "5",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天体感 10℃，湿度不低，出门添衣哦。",
+    "ai_briefing_en": "Wuhan is overcast, feels like 10℃. Fairly humid, dress warmly!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴冷体感冻人，注意防寒，多穿一点哦。",
     "ai_briefing_en": "Chilly and feels freezing. Bundle up and stay warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-08T10:00+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "101",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "南京阴天 7℃，体感 2℃。风力 2级，添衣保暖别感冒哦。",
+    "ai_briefing_en": "Nanjing is cloudy, 7℃ but feels like 2℃. Stay warm and don't catch a cold.",
+    "alert": null
   }
 ]

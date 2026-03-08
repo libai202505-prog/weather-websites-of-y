@@ -158,5 +158,25 @@
     "ai_briefing_zh": "雾气弥漫，湿度高。路滑注意安全，防潮保暖。",
     "ai_briefing_en": "Foggy and very humid. Be safe, dress warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-08T10:00+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "27",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "6",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，能见度低，出行注意交通安全，小心慢行。",
+    "ai_briefing_en": "Wuhan is foggy, low visibility. Drive carefully and stay safe on roads.",
+    "alert": null
   }
 ]

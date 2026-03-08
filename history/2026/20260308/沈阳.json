@@ -238,5 +238,25 @@
     "ai_briefing_zh": "多云，体感 0℃ 寒意浓，风力 3级，防寒保暖不能少。",
     "ai_briefing_en": "Cloudy, feels like 0℃ with a 3-level wind. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-08T15:24+08:00",
+    "temp": "6",
+    "feelsLike": "1",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "333",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "17",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳体感偏冷，早晚温差大。适时添衣，预防感冒。",
+    "ai_briefing_en": "Feels chilly in Shenyang, big temp changes. Layer up to avoid colds.",
+    "alert": null
   }
 ]

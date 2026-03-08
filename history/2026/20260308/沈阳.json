@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳 3℃，体感 -2℃。户外凉意浓，记得穿厚外套。",
     "ai_briefing_en": "Shenyang is 3℃, feels like -2℃. It's chilly, wear a thick coat.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-08T12:41+08:00",
+    "temp": "5",
+    "feelsLike": "-2",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "204",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "17",
+    "dew": "-7",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳体感寒冷，风力大，戴好帽子手套，别冻着啦。",
+    "ai_briefing_en": "Shenyang feels very cold with strong wind. Wear a hat and gloves, don't get frozen!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "大连有霾 5℃，体感 1℃ 凉，出行注意防护！",
     "ai_briefing_en": "Dalian: Haze, cool 1℃. Take care outdoors!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-08T18:16+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "318",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "7",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "大连多云，体感 1℃。有点凉，多穿衣别感冒。",
+    "ai_briefing_en": "Dalian is cloudy, feels like 1℃. It's a bit cold, dress warmly to avoid colds.",
+    "alert": null
   }
 ]

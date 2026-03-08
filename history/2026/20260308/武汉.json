@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉阴天 12℃，体感 9℃ 凉，注意保暖别感冒！",
     "ai_briefing_en": "Wuhan: Overcast, cool 9℃.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-08T18:18+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "234",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感 11℃。不冷不热，湿度有点高。",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 11℃. Mild, with high humidity.",
+    "alert": null
   }
 ]

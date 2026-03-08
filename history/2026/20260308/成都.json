@@ -338,5 +338,25 @@
     "ai_briefing_zh": "成都下雨 11℃，湿度 100%，记得带伞防潮！",
     "ai_briefing_en": "Chengdu: 11℃ rain. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-08T20:42+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "10",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "967",
+    "vis": "16",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "成都朋友，阴天湿度高，出门记得带伞，注意防潮。",
+    "ai_briefing_en": "Chengdu friends, overcast and very humid. Remember an umbrella and stay dry.",
+    "alert": null
   }
 ]

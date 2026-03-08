@@ -358,5 +358,25 @@
     "ai_briefing_zh": "成都朋友，阴天湿度高，出门记得带伞，注意防潮。",
     "ai_briefing_en": "Chengdu friends, overcast and very humid. Remember an umbrella and stay dry.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-08T21:34+08:00",
+    "temp": "11",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "11",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "968",
+    "vis": "16",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天，湿度爆表。小心湿冷，记得保暖！",
+    "ai_briefing_en": "Cloudy, 100% humid.",
+    "alert": null
   }
 ]

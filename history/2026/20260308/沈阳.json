@@ -358,5 +358,25 @@
     "ai_briefing_zh": "沈阳朋友，体感温度低，出门多添衣，别着凉了。",
     "ai_briefing_en": "Shenyang friends, the feels-like temperature is low. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-08T21:30+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "284",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "29",
+    "dew": "-9",
+    "cloud": "0",
+    "ai_briefing_zh": "多云，体感冰凉。出门记得多穿点哦！",
+    "ai_briefing_en": "Cloudy, chilly. Layer up!",
+    "alert": null
   }
 ]

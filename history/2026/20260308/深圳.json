@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳朋友，多云微风，体感舒适。别忘了带伞哦！",
     "ai_briefing_en": "Shenzhen friends, cloudy with a light breeze, feels comfortable. Don't forget an umbrella!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-08T21:34+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "88",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "25",
+    "dew": "14",
+    "cloud": "9",
+    "ai_briefing_zh": "阴天，气温适中，但湿度高，注意防潮。",
+    "ai_briefing_en": "Overcast, pleasant, humid.",
+    "alert": null
   }
 ]

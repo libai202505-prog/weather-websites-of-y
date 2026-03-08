@@ -358,5 +358,25 @@
     "ai_briefing_zh": "哈尔滨朋友，寒意十足，请务必多穿厚衣，注意防寒保暖！",
     "ai_briefing_en": "Harbin friends, it's very cold! Please dress in thick layers to stay warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-08T21:30+08:00",
+    "temp": "-5",
+    "feelsLike": "-10",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "10",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "多云，体感极寒。出门务必做好保暖哦！",
+    "ai_briefing_en": "Cloudy, freezing! Stay warm!",
+    "alert": null
   }
 ]

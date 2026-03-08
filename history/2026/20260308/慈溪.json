@@ -278,5 +278,25 @@
     "ai_briefing_zh": "慈溪多云，气温适中，出门愉快哦！",
     "ai_briefing_en": "Cixi is cloudy with pleasant temperatures, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-08T17:25+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "52",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "15",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪多云微凉，记得添衣别着凉哦！",
+    "ai_briefing_en": "Cixi: Cloudy & cool, layer up!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

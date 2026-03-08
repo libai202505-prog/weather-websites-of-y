@@ -378,5 +378,25 @@
     "ai_briefing_zh": "阴天，体感凉意，记得多穿点衣服哦。",
     "ai_briefing_en": "Cloudy, cool. Layer up!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-08T22:18+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "72",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "13",
+    "dew": "5",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

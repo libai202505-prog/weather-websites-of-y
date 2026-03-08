@@ -378,5 +378,25 @@
     "ai_briefing_zh": "阴天微凉，湿度不低，穿暖和点出门哦。",
     "ai_briefing_en": "Cloudy, chilly. Wear warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-08T22:16+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "26",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "26",
+    "dew": "2",
+    "cloud": "99",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

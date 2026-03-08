@@ -218,5 +218,25 @@
     "ai_briefing_zh": "大连阴天，体感 -1℃ 湿冷，一定多穿厚衣服哦！",
     "ai_briefing_en": "Overcast in Dalian, feels -1℃ and damp. Make sure to wear thick clothes!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-08T14:32+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "246",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "12",
+    "dew": "0",
+    "cloud": "97",
+    "ai_briefing_zh": "阴天，体感 0℃ 湿冷，湿度高，注意防寒，别感冒了。",
+    "ai_briefing_en": "Overcast and damp 0℃. High humidity, keep warm to avoid colds.",
+    "alert": null
   }
 ]

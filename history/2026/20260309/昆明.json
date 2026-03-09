@@ -198,5 +198,25 @@
     "ai_briefing_zh": "昆明阴天，体感 3℃ 较冷。湿度高，注意保暖！",
     "ai_briefing_en": "Kunming is cloudy, feels cold at 3℃. High humidity, keep warm!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-09T13:48+08:00",
+    "temp": "9",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "50",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "820",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴冷，体感偏低，湿度大，记得添衣。",
+    "ai_briefing_en": "Kunming is cloudy and cold, feels low, high humidity, add layers.",
+    "alert": null
   }
 ]

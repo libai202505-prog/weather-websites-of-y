@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海多云，体感 7℃ 凉意浓。出门记得多穿点哦！",
     "ai_briefing_en": "Shanghai is cloudy, feels chilly at 7℃. Wear more clothes when heading out!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-09T13:48+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "48",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "29",
+    "dew": "-1",
+    "cloud": "91",
+    "ai_briefing_zh": "天气多云有点凉，别忘了保暖。",
+    "ai_briefing_en": "Cloudy and a bit chilly, stay warm.",
+    "alert": null
   }
 ]

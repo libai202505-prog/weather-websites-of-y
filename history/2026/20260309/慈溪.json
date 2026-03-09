@@ -238,5 +238,25 @@
     "ai_briefing_zh": "慈溪多云，体感舒适。注意防晒，保持好心情！",
     "ai_briefing_en": "Cixi is cloudy and comfy. Enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-09T16:42+08:00",
+    "temp": "11",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "41",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "19",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪多云有风，体感较凉，外出记得添衣保暖！",
+    "ai_briefing_en": "Cloudy and windy in Cixi, feels cool. Remember to dress warmly!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

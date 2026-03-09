@@ -298,5 +298,25 @@
     "ai_briefing_zh": "气温偏低，出门记得多添一件衣服，注意保暖。",
     "ai_briefing_en": "Low temps, layer up and stay warm outside.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-09T19:25+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "47",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "8",
+    "dew": "1",
+    "cloud": "98",
+    "ai_briefing_zh": "上海多云，体感 5℃，微风吹拂，注意添衣防寒。",
+    "ai_briefing_en": "Shanghai is partly cloudy, feels like 5℃. With a light breeze, remember to dress warmly.",
+    "alert": null
   }
 ]

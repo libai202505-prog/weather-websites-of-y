@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气温暖舒适，但湿度较高，保持心情愉快哦。",
     "ai_briefing_en": "Warm and comfy but humid, keep a happy mood!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-09T19:26+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "61",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阴天 18℃，体感舒适，但湿度高，注意防潮哦。",
+    "ai_briefing_en": "Guangzhou is overcast at 18℃, feels comfortable. High humidity, remember to stay dry.",
+    "alert": null
   }
 ]

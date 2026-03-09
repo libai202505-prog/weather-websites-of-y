@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气稍凉，阴天多云，记得适当添衣，保持好心情。",
     "ai_briefing_en": "A bit cool, cloudy. Dress appropriately and keep a good mood.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-09T19:24+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "347",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "9",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云体感 10℃，湿气重，注意保暖别着凉。",
+    "ai_briefing_en": "Wuhan is partly cloudy, feels like 10℃. High humidity, stay warm and don't catch a cold.",
+    "alert": null
   }
 ]

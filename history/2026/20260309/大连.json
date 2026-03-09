@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连晴朗，但体感很冷且风大。多穿点，注意防风。",
     "ai_briefing_en": "Dalian is sunny but feels very cold and windy. Dress warmly, protect from wind.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-09T10:00+08:00",
+    "temp": "3",
+    "feelsLike": "-5",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "286",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感 -5℃。风寒效应明显，多穿衣！",
+    "ai_briefing_en": "Dalian is sunny, feels like -5℃. It's cold, dress warmly!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京晴好，体感 7℃，阳光正好，出去走走也很棒！",
     "ai_briefing_en": "Nanjing is sunny and clear, feels like 7℃. Perfect for a walk outside!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-09T21:00+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "69",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "9",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "南京有霾体感 5℃，出门记得戴口罩，注意添衣！",
+    "ai_briefing_en": "Nanjing is hazy and feels like 5℃. Wear a mask and dress warmly when going out!",
+    "alert": null
   }
 ]

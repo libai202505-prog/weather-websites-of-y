@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉多云，体感微凉，出门记得带件薄外套防风。",
     "ai_briefing_en": "Cloudy in Wuhan, feels a bit cool. Bring a light jacket for wind.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-09T17:48+08:00",
+    "temp": "16",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "52",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1027",
+    "vis": "12",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云体感 12℃，微风舒适，小心早晚温差。",
+    "ai_briefing_en": "Wuhan is partly cloudy and feels 12℃. Mind the morning/evening chill.",
+    "alert": null
   }
 ]

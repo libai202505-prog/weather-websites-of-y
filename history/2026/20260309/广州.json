@@ -218,5 +218,25 @@
     "ai_briefing_zh": "广州阴天有点闷，注意通风哦。",
     "ai_briefing_en": "Cloudy in Guangzhou, a bit stuffy, mind ventilation.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-09T15:00+08:00",
+    "temp": "23",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "37",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "94",
+    "ai_briefing_zh": "广州阴天，气温适宜。出门记得带伞，以防万一哦。",
+    "ai_briefing_en": "Guangzhou is cloudy and warm. Carry an umbrella!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "厦门晴天，体感 13℃。风力 3级，海边风大，注意防风哦！",
     "ai_briefing_en": "Sunny in Xiamen, feels like 13℃. Windy at the beach, stay protected!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-10T17:41+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "137",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "19",
+    "dew": "7",
+    "cloud": "2",
+    "ai_briefing_zh": "厦门晴朗体感 11℃，风力 3级。海边风大，注意防风。",
+    "ai_briefing_en": "Sunny in Xiamen, feels like 11℃, breezy. Windy by the sea, stay warm.",
+    "alert": null
   }
 ]

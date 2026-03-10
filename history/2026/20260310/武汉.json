@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有霾，体感 10℃。出门戴口罩，注意防护。",
     "ai_briefing_en": "Wuhan is hazy, feels like 10℃. Wear a mask outdoors, protect yourself.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-10T12:34+08:00",
+    "temp": "16",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "225",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "9",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉晴朗，体感 12℃。阳光明媚，很适合户外活动！",
+    "ai_briefing_en": "Wuhan is sunny, feels like 12℃. Bright sunshine, perfect for outdoor activities!",
+    "alert": null
   }
 ]

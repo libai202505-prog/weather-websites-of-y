@@ -338,5 +338,25 @@
     "ai_briefing_zh": "广州阴天，湿度高，体感舒适，记得带伞以防小雨。",
     "ai_briefing_en": "Cloudy and humid in Guangzhou, feel comfy, carry an umbrella for light rain.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-10T22:41+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "66",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

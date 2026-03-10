@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳阴天，出门带伞，注意防潮哦。",
     "ai_briefing_en": "Cloudy in Shenzhen, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-10T16:32+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "56",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "25",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天，体感 15℃。湿度高，体感湿冷，注意保暖！",
+    "ai_briefing_en": "Overcast in Shenzhen, feels like 15℃. High humidity, feels damp, stay warm!",
+    "alert": null
   }
 ]

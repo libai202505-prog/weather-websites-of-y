@@ -238,5 +238,25 @@
     "ai_briefing_zh": "北京有霾，出门记得戴口罩，注意防护哦！",
     "ai_briefing_en": "Hazy in Beijing, wear a mask for protection!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-10T16:32+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "214",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "7",
+    "dew": "-5",
+    "cloud": "10",
+    "ai_briefing_zh": "北京霾天，体感 8℃，注意防护，出门戴口罩哦！",
+    "ai_briefing_en": "Hazy in Beijing, feels like 8℃. Protect yourself, wear a mask!",
+    "alert": null
   }
 ]

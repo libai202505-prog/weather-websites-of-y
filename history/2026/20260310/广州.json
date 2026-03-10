@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州阴天，气温适中，注意保湿哦。",
     "ai_briefing_en": "Guangzhou: Cloudy, mild. Hydrate.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-10T19:26+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "58",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，气温 16℃，湿度大，记得带伞，小心着凉。",
+    "ai_briefing_en": "Guangzhou is cloudy, 16℃ with high humidity. Remember an umbrella and stay warm.",
+    "alert": null
   }
 ]

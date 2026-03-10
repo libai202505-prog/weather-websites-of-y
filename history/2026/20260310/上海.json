@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海晴好，气温 10℃。抓住好天气，愉快出行吧！",
     "ai_briefing_en": "Sunny in Shanghai, 10℃. Enjoy the lovely weather!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-10T18:32+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "77",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "20",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "上海晴好，体感偏凉，加件衣服吧。",
+    "ai_briefing_en": "Shanghai: Sunny, chilly. Warm up.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

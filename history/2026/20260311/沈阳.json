@@ -338,5 +338,25 @@
     "ai_briefing_zh": "沈阳多云偏冷，风力不小，记得防风保暖哦。",
     "ai_briefing_en": "Shenyang is cloudy and cold, with some wind. Stay warm and bundled up!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-11T22:39+08:00",
+    "temp": "3",
+    "feelsLike": "-3",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "349",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

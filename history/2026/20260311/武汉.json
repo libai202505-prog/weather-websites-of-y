@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉阳光虽好，但风力较大体感凉，记得防风！",
     "ai_briefing_en": "Wuhan is sunny but breezy and cool. Remember to protect yourself from the wind!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-11T22:42+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "31",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "5",
+    "dew": "11",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

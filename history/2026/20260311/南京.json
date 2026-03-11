@@ -338,5 +338,25 @@
     "ai_briefing_zh": "南京大雾天气，出行注意交通安全，别着凉！",
     "ai_briefing_en": "Nanjing is foggy. Drive safely and be careful not to catch a cold!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-11T22:42+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "75",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

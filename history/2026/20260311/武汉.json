@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉晴朗，体感 18℃ 宜人，可以出去走走。",
     "ai_briefing_en": "Wuhan is sunny, feels 18℃ pleasant. Great for a stroll.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-11T18:32+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "346",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "11",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云，体感 16℃。昼夜温差大，早晚注意添衣保暖。",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 16℃. Big temp difference, dress warmly in mornings/evenings.",
+    "alert": null
   }
 ]

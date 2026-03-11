@@ -298,5 +298,25 @@
     "ai_briefing_zh": "沈阳多云，体感 -2℃ 伴有风。气温较低，记得防寒保暖。",
     "ai_briefing_en": "Shenyang is cloudy, feels like -2℃ with wind. It's cold, stay warm!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-11T19:25+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳多云体感 -1℃，有点冷哦，记得多穿点。",
+    "ai_briefing_en": "Shenyang is cloudy and feels -1℃. Dress warmly to stay cozy!",
+    "alert": null
   }
 ]

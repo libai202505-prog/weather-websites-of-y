@@ -178,5 +178,25 @@
     "ai_briefing_zh": "青岛有雾又冷，体感 -1℃，注意添衣防风。",
     "ai_briefing_en": "Qingdao is foggy and cold, feels like -1℃, layer up.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-12T13:49+08:00",
+    "temp": "12",
+    "feelsLike": "7",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "314",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "8",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有霾有风，体感 7℃ 较凉。注意防护，多穿衣物哦！",
+    "ai_briefing_en": "Qingdao, hazy and windy, feels cool at 7℃. Protect yourself and dress warmly!",
+    "alert": null
   }
 ]

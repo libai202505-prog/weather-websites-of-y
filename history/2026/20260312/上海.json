@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海晴朗，风力小，但体感仍凉，记得添衣保暖。",
     "ai_briefing_en": "Shanghai is clear and calm, but feels cool. Remember to add layers!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-12T10:01+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "287",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "3",
+    "ai_briefing_zh": "上海今天阳光不错，体感 8℃，出门别着凉。",
+    "ai_briefing_en": "Shanghai, lovely sun, feels like 8℃, don't catch a cold.",
+    "alert": null
   }
 ]

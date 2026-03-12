@@ -158,5 +158,25 @@
     "ai_briefing_zh": "昆明有雾且湿冷，体感偏低，出行注意安全，多添衣。",
     "ai_briefing_en": "Kunming is foggy and cool. Be safe on the road and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-12T10:00+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "92",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "815",
+    "vis": "9",
+    "dew": "8",
+    "cloud": "97",
+    "ai_briefing_zh": "昆明有雾湿度大，体感 9℃，出行注意安全。",
+    "ai_briefing_en": "Kunming, foggy and humid, feels like 9℃, drive safe.",
+    "alert": null
   }
 ]

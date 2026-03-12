@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛雾大风大湿冷，体感很低，请注意防寒保暖，小心驾驶！",
     "ai_briefing_en": "Qingdao is foggy, windy, and damp. Stay warm and drive safely!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-12T10:01+08:00",
+    "temp": "6",
+    "feelsLike": "-1",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "2",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "6",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛有雾又冷，体感 -1℃，注意添衣防风。",
+    "ai_briefing_en": "Qingdao is foggy and cold, feels like -1℃, layer up.",
+    "alert": null
   }
 ]

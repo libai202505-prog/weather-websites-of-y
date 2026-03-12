@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京有雾且湿冷，出行请注意安全，多穿衣哦！",
     "ai_briefing_en": "Beijing is foggy and chilly, drive safe and dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-12T10:00+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "108",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "6",
+    "dew": "-3",
+    "cloud": "10",
+    "ai_briefing_zh": "北京朋友注意防霾保暖哦，体感 5℃。",
+    "ai_briefing_en": "Beijing friends, mind the haze and stay warm, feels like 5℃.",
+    "alert": null
   }
 ]

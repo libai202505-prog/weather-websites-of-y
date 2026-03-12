@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-13T07:24+08:00",
+    "temp": "-5",
+    "feelsLike": "-8",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "93",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "12",
+    "dew": "-11",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳 -8℃，注意防寒。暖暖地过冬，别冻坏了。",
+    "ai_briefing_en": "Shenyang is -8℃, mind the cold. Stay warm this winter, don't get frostbitten.",
+    "alert": null
   }
 ]

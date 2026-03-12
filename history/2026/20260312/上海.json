@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海阳光正好，但体感微凉，记得添衣。",
     "ai_briefing_en": "Sunny in Shanghai, but feels a bit cool. Remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-12T22:41+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "61",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1030",
+    "vis": "7",
+    "dew": "5",
+    "cloud": "5",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

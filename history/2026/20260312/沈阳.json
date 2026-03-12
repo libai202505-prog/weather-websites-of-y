@@ -238,5 +238,25 @@
     "ai_briefing_zh": "沈阳天晴，体感 6℃，风力 2级，早晚凉，别忘添衣。",
     "ai_briefing_en": "Shenyang is sunny, feels 6℃. Cool mornings, don't forget layers.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-12T16:32+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "5",
+    "humidity": "17",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

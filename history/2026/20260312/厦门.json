@@ -298,5 +298,25 @@
     "ai_briefing_zh": "厦门多云，体感 13℃ 舒适，微风轻拂，出门放松心情吧。",
     "ai_briefing_en": "Cloudy in Xiamen, feels like 13℃. Enjoy the breeze!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-12T19:10+08:00",
+    "temp": "14",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "68",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "18",
+    "dew": "9",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门晴朗，体感 9℃ 稍冷，风力 3级 记得防风保暖。",
+    "ai_briefing_en": "Xiamen is sunny, but feels a bit cold at 9℃ with a 3-level wind. Remember to stay warm and protect from wind.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉阳光明媚，体感 14℃，风力 3级，风儿有点大，小心着凉！",
     "ai_briefing_en": "Sunny 14℃ in Wuhan, breezy. A bit windy, take care not to catch a cold!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-13T14:50+08:00",
+    "temp": "20",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "126",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "13",
+    "dew": "5",
+    "cloud": "3",
+    "ai_briefing_zh": "多云天气，风力 3级，体感舒适，户外活动注意防晒。",
+    "ai_briefing_en": "Partly cloudy, feels nice. A bit windy, remember sun protection outdoors.",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气阴沉，体感 11℃，湿度较高。出门带伞，注意防潮。",
     "ai_briefing_en": "Cloudy and feels like 11℃, high humidity. Carry an umbrella and beware of dampness.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-13T18:34+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "18",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天，湿度 76%，体感 11℃，稍有湿凉感。",
+    "ai_briefing_en": "Cloudy in Chengdu, 76% humidity and feels like 11℃, a bit damp.",
+    "alert": null
   }
 ]

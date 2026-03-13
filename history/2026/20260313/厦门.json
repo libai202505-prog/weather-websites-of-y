@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阳光明媚，海风轻抚，心情都会很好哦！",
     "ai_briefing_en": "Bright sunshine, gentle sea breeze, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-13T16:32+08:00",
+    "temp": "16",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "133",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "14",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "厦门晴朗风大，海边游玩注意防风保暖。",
+    "ai_briefing_en": "Sunny and windy in Xiamen, mind the wind and keep warm by the sea.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

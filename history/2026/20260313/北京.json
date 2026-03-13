@@ -338,5 +338,25 @@
     "ai_briefing_zh": "霾天注意防护，体感 5℃ 较凉，记得添衣保暖哦！",
     "ai_briefing_en": "Hazy day, wear more clothes as it feels 5℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-13T20:58+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "51",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "5",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "北京霾天，气温 8℃，体感凉，注意防护。",
+    "ai_briefing_en": "Beijing hazy. 8℃. Dress warmly!",
+    "alert": null
   }
 ]

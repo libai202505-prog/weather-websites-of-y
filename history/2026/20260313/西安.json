@@ -318,5 +318,25 @@
     "ai_briefing_zh": "西安阴天，湿度高达 92%，体感 8℃，注意防潮保暖。",
     "ai_briefing_en": "Cloudy in Xi'an, high humidity at 92% and feels like 8℃. Stay warm and dry.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-13T19:25+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "340",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "977",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天湿冷，体感 8℃，注意防潮，多穿衣！",
+    "ai_briefing_en": "Xi'an is cloudy, feels 8℃ and damp, stay warm!",
+    "alert": null
   }
 ]

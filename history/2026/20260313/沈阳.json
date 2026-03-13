@@ -318,5 +318,25 @@
     "ai_briefing_zh": "沈阳阴天，体感 2℃，气温低，多穿衣，注意保暖。",
     "ai_briefing_en": "Cloudy in Shenyang, feels like 2℃. It's chilly, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-13T19:24+08:00",
+    "temp": "7",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "226",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "25",
+    "dew": "-8",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，体感只有 1℃，寒意浓，多穿厚衣服哦！",
+    "ai_briefing_en": "Shenyang is cloudy, feels only 1℃. It's chilly, wear warm clothes!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安小雨，体感 7℃。出门记得带伞，注意防潮。",
     "ai_briefing_en": "Xi'an, 7℃. Rain. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-13T12:42+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "39",
+    "humidity": "71",
+    "precip": "0.1",
+    "pressure": "978",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天，体感 8℃。湿度大，注意衣物防潮！",
+    "ai_briefing_en": "Cloudy in Xi'an, feels like 8℃. High humidity, mind moisture on clothes!",
+    "alert": null
   }
 ]

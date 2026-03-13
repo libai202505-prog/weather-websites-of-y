@@ -278,5 +278,25 @@
     "ai_briefing_zh": "青岛有雾气温低，体感湿冷，注意出行安全。",
     "ai_briefing_en": "Foggy and cold in Qingdao, feels damp and chilly, mind your safety when out.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-13T17:33+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "145",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "3",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "有雾，体感 3℃，风力 3级。出行注意安全，添衣保暖。",
+    "ai_briefing_en": "Foggy with a real feel of 3℃, force 3 winds. Drive safely, dress warmly.",
+    "alert": null
   }
 ]

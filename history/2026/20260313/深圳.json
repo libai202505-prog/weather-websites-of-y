@@ -278,5 +278,25 @@
     "ai_briefing_zh": "深圳晴朗温暖，体感舒适，尽情享受吧。",
     "ai_briefing_en": "Sunny and warm in Shenzhen, feeling comfortable, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-13T17:34+08:00",
+    "temp": "20",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "53",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "天气晴好，体感 16℃。出门享受阳光，别忘了喝水哦。",
+    "ai_briefing_en": "Sunny and feels like 16℃. Enjoy the sunshine, and drink water!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

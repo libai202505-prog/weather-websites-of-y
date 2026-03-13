@@ -358,5 +358,25 @@
     "ai_briefing_zh": "成都阴天，湿度 90%，有点闷湿，带伞哦。",
     "ai_briefing_en": "Chengdu: Humid. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-13T21:58+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "354",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

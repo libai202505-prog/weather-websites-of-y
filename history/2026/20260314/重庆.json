@@ -298,5 +298,25 @@
     "ai_briefing_zh": "重庆下雨，体感 6℃，风力大，带伞保暖。",
     "ai_briefing_en": "Chongqing is rainy and feels like 6°C. Bring an umbrella and keep warm!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-14T18:24+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "阵雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "260",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "阵雨 10℃，体感 7℃，注意保暖防湿。",
+    "ai_briefing_en": "Showers, 7℃ feels, stay warm!",
+    "alert": null
   }
 ]

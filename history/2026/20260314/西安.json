@@ -318,5 +318,25 @@
     "ai_briefing_zh": "西安下雨 3℃，体感 0℃，注意防寒！",
     "ai_briefing_en": "Rainy 3℃, 0℃ feels, stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-14T19:11+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "340",
+    "humidity": "100",
+    "precip": "0.4",
+    "pressure": "985",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "西安下雨体感 0℃，湿冷刺骨！一定穿厚点，带好雨具。",
+    "ai_briefing_en": "Xi'an is rainy and feels like 0℃. It's chilly, stay warm and take an umbrella!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "沈阳有霾，体感 -3℃。记得戴口罩，注意保暖！",
     "ai_briefing_en": "Shenyang has haze, feels like -3℃. Wear a mask, stay warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-14T15:24+08:00",
+    "temp": "3",
+    "feelsLike": "1",
+    "text": "霾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "350",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "16",
+    "dew": "-18",
+    "cloud": "95",
+    "ai_briefing_zh": "天气有霾，出门记得防护，保暖。",
+    "ai_briefing_en": "Hazy day, wear a mask and keep warm when going out.",
+    "alert": null
   }
 ]

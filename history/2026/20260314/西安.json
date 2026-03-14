@@ -278,5 +278,25 @@
     "ai_briefing_zh": "西安小雨湿冷，体感 1℃，请务必多穿，注意防寒！",
     "ai_briefing_en": "Xi'an: Rainy 1℃, cold. Bundle up!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-14T17:24+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "337",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "985",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴冷，体感 1℃ 且湿，务必多穿衣！",
+    "ai_briefing_en": "Xi'an is cloudy, damp, and feels like 1°C. Dress warmly!",
+    "alert": null
   }
 ]

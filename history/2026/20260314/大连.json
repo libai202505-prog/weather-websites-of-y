@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连阴冷，体感 -3℃。湿度大，务必多穿衣防寒。",
     "ai_briefing_en": "Cloudy and cold in Dalian, feels like -3℃. High humidity, dress very warmly.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-14T12:30+08:00",
+    "temp": "4",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "343",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-6",
+    "cloud": "100",
+    "ai_briefing_zh": "大连阴天，体感-2℃。有点冷，记得多穿些保暖！",
+    "ai_briefing_en": "Dalian is cloudy, feels like -2°C. It's chilly, bundle up!",
+    "alert": null
   }
 ]

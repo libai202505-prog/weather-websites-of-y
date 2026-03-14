@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明阴天，体感 7℃。湿度较高，注意防潮和保暖。",
     "ai_briefing_en": "Cloudy Kunming, feels like 7℃. High humidity, stay warm and mind dampness.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-14T12:34+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "210",
+    "humidity": "87",
+    "precip": "0.1",
+    "pressure": "815",
+    "vis": "12",
+    "dew": "8",
+    "cloud": "93",
+    "ai_briefing_zh": "昆明阴天，体感 7℃。湿度高，注意防潮和保暖。",
+    "ai_briefing_en": "Kunming is cloudy, feels like 7°C. High humidity, stay warm!",
+    "alert": null
   }
 ]

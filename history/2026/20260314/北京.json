@@ -338,5 +338,25 @@
     "ai_briefing_zh": "北京阴天有点凉，体感 3℃，记得添衣保暖哦！",
     "ai_briefing_en": "Beijing is cloudy and chilly with a feels-like 3℃. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-14T20:48+08:00",
+    "temp": "5",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "227",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1028",
+    "vis": "11",
+    "dew": "-4",
+    "cloud": "100",
+    "ai_briefing_zh": "北京今天阴天，体感 0℃。注意保暖，别着凉哦！",
+    "ai_briefing_en": "Beijing is cloudy with a 0°C feel. Stay warm and don't catch a cold!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

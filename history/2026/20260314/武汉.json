@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉阴天，体感 13℃，风力不小，出门别忘添衣哦！",
     "ai_briefing_en": "Wuhan is cloudy, feels like 13℃ with a breeze. Remember to layer up!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-14T20:50+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "62",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "8",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有霾，体感 13℃。风力较大，出门注意防护。",
+    "ai_briefing_en": "Wuhan is hazy, feels like 13°C. It's windy, take precautions.",
+    "alert": null
   }
 ]

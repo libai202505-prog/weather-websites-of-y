@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天湿冷，体感偏凉，注意保暖。",
     "ai_briefing_en": "Overcast, damp and cool, remember to keep warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-14T16:32+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "258",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "9",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆小雨，体感 8℃，风力 3级，出门记得带伞哦。",
+    "ai_briefing_en": "Chongqing: Rainy 8℃. Bring an umbrella!",
+    "alert": null
   }
 ]

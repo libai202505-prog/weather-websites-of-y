@@ -258,5 +258,25 @@
     "ai_briefing_zh": "晴朗宜人，微风不燥，享受美好时光。",
     "ai_briefing_en": "Bright and lovely, enjoy the gentle breeze.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-14T16:32+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "33",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "28",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "上海晴空万里，体感 11℃，适宜出游，心情美美哒！",
+    "ai_briefing_en": "Shanghai: Sunny 11℃. Lovely day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

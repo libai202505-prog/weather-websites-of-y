@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阳光正好，体感舒适，户外活动很棒！",
     "ai_briefing_en": "Sunny and pleasant, perfect for outdoor fun!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-14T16:32+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "136",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "25",
+    "dew": "5",
+    "cloud": "0",
+    "ai_briefing_zh": "慈溪阳光正好，体感 12℃，出门记得防晒哟！",
+    "ai_briefing_en": "Cixi: Sunny 12℃. Enjoy the day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

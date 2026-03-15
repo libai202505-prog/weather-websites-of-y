@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州阴天，气温舒服。微风习习，注意别着凉。",
     "ai_briefing_en": "Hangzhou is overcast with mild temps. A gentle breeze, stay cozy!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-15T14:48+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "30",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "10",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴天风力大，体感较冷，多穿点。",
+    "ai_briefing_en": "Hangzhou is overcast and windy, feels quite cold, dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

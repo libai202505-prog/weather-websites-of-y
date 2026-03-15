@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海阴天体感 11℃，湿度大，带把伞防潮哦。",
     "ai_briefing_en": "Shanghai is cloudy, feels like 11°C. High humidity, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-15T19:08+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "58",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "21",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天，体感 12℃，湿度较高，出门带伞哦。",
+    "ai_briefing_en": "Shanghai: 12℃. Umbrella up!",
+    "alert": null
   }
 ]

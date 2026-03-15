@@ -278,5 +278,25 @@
     "ai_briefing_zh": "慈溪体感 10℃，风力 3级 略凉。外出加衣，注意防风哦！",
     "ai_briefing_en": "Cixi feels 10℃, breezy & cool. Layer up, watch the wind!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-15T18:26+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "55",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "19",
+    "dew": "9",
+    "cloud": "99",
+    "ai_briefing_zh": "慈溪多云体感 9℃，记得添衣，注意保暖。",
+    "ai_briefing_en": "Cixi is cloudy, feels like 9°C. Remember to add layers and stay warm.",
+    "alert": null
   }
 ]

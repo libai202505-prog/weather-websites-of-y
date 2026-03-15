@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京小雨，湿度高。出门记得带伞，注意保暖！",
     "ai_briefing_en": "Nanjing has light rain and high humidity. Bring an umbrella, stay warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-15T10:24+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "338",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "99",
+    "ai_briefing_zh": "南京有雾，体感 7℃ 较冷，出行请注意安全。",
+    "ai_briefing_en": "Nanjing is foggy, feels like 7℃. Stay safe and watch out!",
+    "alert": null
   }
 ]

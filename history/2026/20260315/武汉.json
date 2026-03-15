@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雨，风力大。出行记得带伞，注意保暖！",
     "ai_briefing_en": "Wuhan is rainy and windy. Bring an umbrella, stay warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-15T10:24+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "48",
+    "humidity": "93",
+    "precip": "0.1",
+    "pressure": "1026",
+    "vis": "4",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴冷，体感 4℃，湿度高，务必注意保暖！",
+    "ai_briefing_en": "Wuhan is cloudy and cold, feels like 4℃. Keep very warm!",
+    "alert": null
   }
 ]

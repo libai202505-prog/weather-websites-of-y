@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京阴冷体感 8℃，风力 3级。出门多加衣物，注意防寒哦。",
     "ai_briefing_en": "Nanjing feels 8℃, overcast and windy. Add layers and stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-15T16:32+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "24",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "96",
+    "ai_briefing_zh": "阴天湿冷，体感 8℃，出门记得多穿点，注意防潮。",
+    "ai_briefing_en": "Overcast and damp-cold, feels like 8℃. Dress warmly and mind the humidity.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉下雨体感 5℃，又湿又冷。出门带伞穿暖，小心感冒！",
     "ai_briefing_en": "Wuhan feels 5℃, rainy and chilly. Take an umbrella, dress warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-15T16:33+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "52",
+    "humidity": "96",
+    "precip": "0.8",
+    "pressure": "1023",
+    "vis": "3",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "今日湿冷，气温 9℃，体感 6℃，务必注意保暖防寒。",
+    "ai_briefing_en": "Damp and cold, feels like 6℃. Be sure to dress very warmly.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海阴天，体感 14℃ 尚可，别忘了带伞哟。",
     "ai_briefing_en": "Shanghai is cloudy, 14℃. Grab your umbrella!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-15T13:00+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "145",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "20",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天，气温适中，别忘了带把伞备用哦。",
+    "ai_briefing_en": "Shanghai is overcast with mild temps. Don't forget an umbrella, just in case!",
+    "alert": null
   }
 ]

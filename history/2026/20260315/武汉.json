@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉小雨 8℃，体感 5℃。天气湿冷，注意防寒保暖。",
     "ai_briefing_en": "Wuhan: 5℃. Cold. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-15T20:50+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "39",
+    "humidity": "98",
+    "precip": "0.1",
+    "pressure": "1023",
+    "vis": "5",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨 8℃，体感只有 3℃，湿冷加剧，注意保暖防寒。",
+    "ai_briefing_en": "Light rain in Wuhan, 8℃ but feels like 3℃. Damp and cold, keep very warm!",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "青岛大雾 7℃，能见度低。驾车慢行，注意安全哦。",
     "ai_briefing_en": "Qingdao is foggy, 7℃, low visibility. Drive slowly and stay safe.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-15T22:24+08:00",
+    "temp": "6",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "147",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "7",
+    "dew": "1",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

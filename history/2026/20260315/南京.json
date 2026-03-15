@@ -358,5 +358,25 @@
     "ai_briefing_zh": "南京小雨 9℃，体感 8℃。湿度 100%，出门记得带伞！",
     "ai_briefing_en": "Nanjing has light rain, 9℃, feels like 8℃. 100% humidity, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-15T22:24+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "42",
+    "humidity": "100",
+    "precip": "0.3",
+    "pressure": "1023",
+    "vis": "3",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

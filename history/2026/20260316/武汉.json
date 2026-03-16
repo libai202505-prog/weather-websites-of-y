@@ -178,5 +178,25 @@
     "ai_briefing_zh": "降雨天气，路面湿滑，出门注意防雨保暖。",
     "ai_briefing_en": "Rainy today, roads are slippery, stay dry and warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-16T13:10+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "356",
+    "humidity": "99",
+    "precip": "0.3",
+    "pressure": "1019",
+    "vis": "4",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雨，气温 9℃，出门带伞，添衣保暖。",
+    "ai_briefing_en": "Wuhan is rainy, 9℃, bring an umbrella, and dress warmly.",
+    "alert": null
   }
 ]

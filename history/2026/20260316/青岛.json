@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴冷体感寒，风力不小，多穿防风衣物。",
     "ai_briefing_en": "Cloudy, damp and cold, breezy, wear windproof clothes.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-16T13:10+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "175",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "13",
+    "dew": "-1",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛多云微凉，风力适中，出门注意添衣。",
+    "ai_briefing_en": "Qingdao is cloudy and cool with moderate wind, dress warmly.",
+    "alert": null
   }
 ]

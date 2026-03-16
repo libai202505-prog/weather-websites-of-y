@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉小雨，体感 8℃ 湿冷，出门带伞，注意防寒保暖。",
     "ai_briefing_en": "Wuhan rain, 8℃. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-16T18:02+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "16",
+    "humidity": "99",
+    "precip": "0.4",
+    "pressure": "1017",
+    "vis": "6",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "阴冷潮湿，体感较凉，湿度很高，注意添衣防潮。",
+    "ai_briefing_en": "Overcast, cool, and very humid. Dress warmly and mind the dampness!",
+    "alert": null
   }
 ]

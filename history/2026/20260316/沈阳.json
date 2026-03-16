@@ -238,5 +238,25 @@
     "ai_briefing_zh": "沈阳多云，体感 5℃ 偏冷，早晚温差大，注意保暖。",
     "ai_briefing_en": "Shenyang cloudy, 5℃. Layer up!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-16T17:58+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "119",
+    "humidity": "19",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "11",
+    "dew": "-13",
+    "cloud": "10",
+    "ai_briefing_zh": "多云微冷，体感偏凉，记得多添衣，注意保暖。",
+    "ai_briefing_en": "Cloudy and cool, feels chilly. Remember to layer up and stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "晴朗暖和，体感舒适，户外活动别忘补充水分。",
     "ai_briefing_en": "Sunny and warm, feels great. Stay hydrated during outdoor activities!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-16T19:42+08:00",
+    "temp": "20",
+    "feelsLike": "22",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "89",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "6",
+    "ai_briefing_zh": "阳光灿烂，体感舒适。多喝水，防晒！",
+    "ai_briefing_en": "Sunny, comfy. Drink water!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

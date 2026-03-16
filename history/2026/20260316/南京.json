@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京小雨淅沥，气温 9℃，体感湿冷，记得带好雨具！",
     "ai_briefing_en": "Nanjing has light rain and feels damp and cold at 9℃. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-16T16:50+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "93",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1017",
+    "vis": "5",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天，体感 6℃ 湿冷，添衣保暖，注意防潮哦！",
+    "ai_briefing_en": "Nanjing cloudy, 6℃. Stay warm!",
+    "alert": null
   }
 ]

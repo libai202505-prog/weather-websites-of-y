@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海小雨，记得带伞，体感微凉，注意保暖。",
     "ai_briefing_en": "Light rain in Shanghai, bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-16T22:56+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "359",
+    "humidity": "90",
+    "precip": "0.1",
+    "pressure": "1023",
+    "vis": "3",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

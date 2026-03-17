@@ -138,5 +138,25 @@
     "ai_briefing_zh": "小雨绵绵，地面湿滑，出行带伞穿暖，注意安全！",
     "ai_briefing_en": "Drizzling, roads are wet. Bring an umbrella, dress warm, be safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-17T10:00+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "37",
+    "humidity": "100",
+    "precip": "2.3",
+    "pressure": "1014",
+    "vis": "3",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉中雨，体感 8℃。雨具随身，注意保暖防湿冷！",
+    "ai_briefing_en": "Wuhan moderate rain, feels 8℃. Take your umbrella and keep warm!",
+    "alert": null
   }
 ]

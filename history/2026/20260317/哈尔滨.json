@@ -138,5 +138,25 @@
     "ai_briefing_zh": "天气严寒，体感更冷，多穿厚衣，注意防寒保暖哦！",
     "ai_briefing_en": "Freezing cold, feel even colder. Bundle up and keep warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-17T10:00+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "95",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "15",
+    "dew": "-13",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨晴，体感 -1℃。冰冷刺骨，厚衣服穿起来！",
+    "ai_briefing_en": "Harbin clear, feels -1℃. It's freezing, dress very warmly!",
+    "alert": null
   }
 ]

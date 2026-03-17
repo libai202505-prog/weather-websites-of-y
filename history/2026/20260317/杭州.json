@@ -138,5 +138,25 @@
     "ai_briefing_zh": "有雾出行请注意安全，放慢车速，注意交通。",
     "ai_briefing_en": "Foggy out, drive safely and slowly. Mind the traffic!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-17T10:00+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "77",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "3",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州雾蒙蒙，体感 10℃。湿冷，出行小心哦！",
+    "ai_briefing_en": "Hangzhou foggy and damp cool. Be careful when traveling!",
+    "alert": null
   }
 ]

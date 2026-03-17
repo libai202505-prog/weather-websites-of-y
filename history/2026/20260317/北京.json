@@ -298,5 +298,25 @@
     "ai_briefing_zh": "北京有霾，出门记得戴口罩，注意防护哦！",
     "ai_briefing_en": "Beijing has haze, remember to wear a mask and protect yourself!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-17T21:08+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "38",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "3",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "霾天 11℃，出门戴口罩，注意保暖哦！",
+    "ai_briefing_en": "Hazy 11℃, wear a mask & stay warm!",
+    "alert": null
   }
 ]

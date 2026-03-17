@@ -318,5 +318,25 @@
     "ai_briefing_zh": "小雨 10℃，记得带伞，小心路滑，注意保暖。",
     "ai_briefing_en": "Rainy 10℃, umbrella, keep warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-17T22:48+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "266",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "1012",
+    "vis": "3",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

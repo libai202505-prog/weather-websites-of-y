@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉有雾，体感 8℃。湿冷能见差，开车请小心。",
     "ai_briefing_en": "Wuhan foggy, feels 8℃, humid. Drivers, please be careful!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-17T19:32+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "257",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1014",
+    "vis": "6",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉多云潮湿，体感 8℃，注意添衣，保持舒适。",
+    "ai_briefing_en": "Wuhan is cloudy and humid, feels like 8℃, dress warmly and stay cozy.",
+    "alert": null
   }
 ]

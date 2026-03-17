@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海有雾，体感 9℃。出行注意安全，别忘外套。",
     "ai_briefing_en": "Shanghai foggy, feels 9℃. Stay safe, grab a coat!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-17T19:32+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "42",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "5",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "上海有雾，早晚温差大，出门加件外套哦。",
+    "ai_briefing_en": "Shanghai is foggy, big temperature difference, bring a jacket.",
+    "alert": null
   }
 ]

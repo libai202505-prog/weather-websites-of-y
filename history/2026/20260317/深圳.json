@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳阴天不晒，体感宜人，保持好心情。",
     "ai_briefing_en": "Shenzhen cloudy, pleasant.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-17T17:48+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "15",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "23",
+    "dew": "16",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，体感舒适，户外活动棒。",
+    "ai_briefing_en": "Cloudy, comfy. Enjoy outside!",
+    "alert": null
   }
 ]

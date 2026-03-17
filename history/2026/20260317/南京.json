@@ -258,5 +258,25 @@
     "ai_briefing_zh": "中雨 9℃，出门带伞添衣别着凉。",
     "ai_briefing_en": "Rain 9℃. Umbrella, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-17T18:48+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "中雨",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "150",
+    "humidity": "100",
+    "precip": "1.6",
+    "pressure": "1011",
+    "vis": "2",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "南京中雨，体感 5℃。又湿又冷，记得带伞多穿衣！",
+    "ai_briefing_en": "Nanjing rainy, feels 5℃. Cold and wet, umbrella up!",
+    "alert": null
   }
 ]

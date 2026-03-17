@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阵雨 10℃，记得带伞保暖哦。",
     "ai_briefing_en": "Showers 10℃. Bring umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-17T18:50+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "248",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "6",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，体感 8℃。湿冷能见差，开车请小心。",
+    "ai_briefing_en": "Wuhan foggy, feels 8℃, humid. Drivers, please be careful!",
+    "alert": null
   }
 ]

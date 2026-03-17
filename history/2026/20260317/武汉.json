@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉中雨，体感 8℃ 湿冷。带好雨具，注意保暖别感冒！",
     "ai_briefing_en": "Moderate rain in Wuhan, 8℃ and damp. Bring rain gear, stay warm and avoid colds!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-17T15:10+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "大雨",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "78",
+    "humidity": "100",
+    "precip": "0.9",
+    "pressure": "1012",
+    "vis": "6",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉大雨，户外活动请减少，注意安全！",
+    "ai_briefing_en": "Wuhan: Rain. Be safe!",
+    "alert": null
   }
 ]

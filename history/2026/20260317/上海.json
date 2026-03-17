@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海大雾，气温 10℃，能见度低。出行注意安全，别着凉！",
     "ai_briefing_en": "Heavy fog in Shanghai, 10℃, low visibility. Stay safe and don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-17T15:09+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "7",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴冷湿润，记得添衣保暖，别感冒哦！",
+    "ai_briefing_en": "Shanghai: Cold. Stay warm!",
+    "alert": null
   }
 ]

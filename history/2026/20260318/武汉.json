@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉有雾，湿度高。能见度低，早晚出行请注意交通安全！",
     "ai_briefing_en": "Foggy Wuhan is humid. Be careful on your morning/evening commute!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-18T22:58+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "39",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "2",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

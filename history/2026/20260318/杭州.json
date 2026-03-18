@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州小雨，体感 5℃。天冷路滑，出门记得带伞，注意安全！",
     "ai_briefing_en": "Light rain in Hangzhou feels cool. Stay safe, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-18T22:58+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "44",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

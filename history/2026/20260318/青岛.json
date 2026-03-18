@@ -298,5 +298,25 @@
     "ai_briefing_zh": "青岛阴天，体感 -2℃，风大，记得防风保暖哦！",
     "ai_briefing_en": "Qingdao cloudy, feels like -2℃ with strong wind. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-18T21:02+08:00",
+    "temp": "6",
+    "feelsLike": "-3",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "20",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛阴天，体感 -3℃，风力 4级，风寒。注意防风保暖！",
+    "ai_briefing_en": "Cloudy Qingdao feels like -3℃, very windy. Stay warm and protect from wind!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

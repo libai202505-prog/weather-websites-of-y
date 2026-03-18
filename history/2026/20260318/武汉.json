@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉下雨，湿度100%。多穿衣防湿冷！",
     "ai_briefing_en": "Wuhan: Rain. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-18T10:00+08:00",
+    "temp": "9",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "258",
+    "humidity": "100",
+    "precip": "0.3",
+    "pressure": "1019",
+    "vis": "3",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴冷潮湿，湿度近饱和，请您注意防潮保暖，保持好心情！",
+    "ai_briefing_en": "Wuhan is cloudy, chilly, and extremely humid. Stay warm, dry, and keep a good mood!",
+    "alert": null
   }
 ]

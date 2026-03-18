@@ -138,5 +138,25 @@
     "ai_briefing_zh": "昆明晴朗，微凉。早晚温差大，别感冒。",
     "ai_briefing_en": "Kunming: Sunny. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-18T10:02+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "182",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "21",
+    "dew": "4",
+    "cloud": "5",
+    "ai_briefing_zh": "昆明阳光明媚，体感凉爽，紫外线强，出行记得防晒并备外套！",
+    "ai_briefing_en": "Kunming is sunny and feels cool. UV is strong, remember sunscreen and a light jacket!",
+    "alert": null
   }
 ]

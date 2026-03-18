@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京大雾，湿度高。驾车一定慢行！",
     "ai_briefing_en": "Nanjing: Fog. Drive slow!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-18T10:02+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "265",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "9",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴冷，体感偏低，湿度较大，请注意添衣保暖，防止感冒！",
+    "ai_briefing_en": "Nanjing is cloudy and feels chilly. Remember to dress warmly to avoid catching a cold!",
+    "alert": null
   }
 ]

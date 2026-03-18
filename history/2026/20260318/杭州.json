@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州中雨体感 5℃ 湿冷，风力不小，出门务必带伞添衣！",
     "ai_briefing_en": "Hangzhou: Rainy, feels 5℃. Cold and wet. Umbrella and layers!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-18T17:48+08:00",
+    "temp": "10",
+    "feelsLike": "5",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "43",
+    "humidity": "91",
+    "precip": "2.0",
+    "pressure": "1013",
+    "vis": "4",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州中雨，体感 5℃。雨大湿冷，务必带伞多穿衣！",
+    "ai_briefing_en": "Hangzhou has moderate rain, feels like 5℃. It's wet and cold, so bring an umbrella and dress warmly!",
+    "alert": null
   }
 ]

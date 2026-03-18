@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉小雨微凉，体感 8℃，带伞防潮注意保暖。",
     "ai_briefing_en": "Wuhan has light rain and feels cool at 8℃, bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-18T15:25+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "261",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "8",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有雾，能见度低。出行注意安全，保持车距哦！",
+    "ai_briefing_en": "Wuhan has fog, visibility is low. Drive safely and maintain distance!",
+    "alert": null
   }
 ]

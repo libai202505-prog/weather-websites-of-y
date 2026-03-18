@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京天晴气温低，北风不小，注意保暖防干燥！",
     "ai_briefing_en": "Beijing is sunny but feels cold with brisk winds. Dress warmly and stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-18T12:08+08:00",
+    "temp": "9",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "2",
+    "humidity": "7",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "-23",
+    "cloud": "0",
+    "ai_briefing_zh": "北京风干物燥，注意补水保湿，保暖哦！",
+    "ai_briefing_en": "Beijing is dry and chilly. Stay hydrated and keep warm!",
+    "alert": null
   }
 ]

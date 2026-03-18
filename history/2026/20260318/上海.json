@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海大雾，能见度低，体感微凉，请您小心驾驶，注意交通安全！",
     "ai_briefing_en": "Shanghai is foggy and feels cool. Drive safely and be mindful of traffic.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-18T12:08+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "269",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "1018",
+    "vis": "2",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴雨绵绵，出门记得带伞，小心着凉。",
+    "ai_briefing_en": "Shanghai is overcast and damp. Bring an umbrella and stay warm.",
+    "alert": null
   }
 ]

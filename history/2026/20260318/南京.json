@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阴冷，体感偏低，湿度较大，请注意添衣保暖，防止感冒！",
     "ai_briefing_en": "Nanjing is cloudy and feels chilly. Remember to dress warmly to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-18T12:10+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "280",
+    "humidity": "99",
+    "precip": "0.2",
+    "pressure": "1016",
+    "vis": "3",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "南京雨势不小，湿气重，注意添衣防潮保暖。",
+    "ai_briefing_en": "Nanjing is rainy and damp. Dress warmly and stay dry.",
+    "alert": null
   }
 ]

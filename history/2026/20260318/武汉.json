@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴冷潮湿，湿度近饱和，请您注意防潮保暖，保持好心情！",
     "ai_briefing_en": "Wuhan is cloudy, chilly, and extremely humid. Stay warm, dry, and keep a good mood!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-18T12:12+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "263",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "6",
+    "dew": "9",
+    "cloud": "95",
+    "ai_briefing_zh": "武汉小雨微凉，注意保暖，出门别忘带雨具。",
+    "ai_briefing_en": "Wuhan has light rain and is cool. Dress warmly and bring an umbrella.",
+    "alert": null
   }
 ]

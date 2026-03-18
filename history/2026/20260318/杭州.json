@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州大雾笼罩，体感凉意，路面湿滑，请您减速慢行，注意安全！",
     "ai_briefing_en": "Hangzhou is foggy and feels cool. Roads might be damp, so drive carefully!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-18T12:12+08:00",
+    "temp": "11",
+    "feelsLike": "6",
+    "text": "阵雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "20",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "5",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州有阵雨，体感较冷，出门带伞加衣哦！",
+    "ai_briefing_en": "Hangzhou has showers and feels chilly. Bring an umbrella and layer up!",
+    "alert": null
   }
 ]

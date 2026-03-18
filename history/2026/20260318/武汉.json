@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉有雾，气温 13℃。出行慢行，注意交通安全！",
     "ai_briefing_en": "Wuhan is foggy and 13℃. Drive slowly and be careful on the road!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-18T18:46+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "6",
+    "dew": "9",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有雾，气温 12℃。能见度低，注意安全哦！",
+    "ai_briefing_en": "Foggy 12℃. Drive safely, visibility low!",
+    "alert": null
   }
 ]

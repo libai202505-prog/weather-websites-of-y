@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海多云，气温适中，早晚温差大，注意保暖哦。",
     "ai_briefing_en": "Shanghai is cloudy with mild temps, but mind the temp difference between day and night.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-19T17:32+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "8",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "11",
+    "dew": "4",
+    "cloud": "2",
+    "ai_briefing_zh": "上海多云，体感 10℃，微凉舒适，注意保暖哦。",
+    "ai_briefing_en": "Shanghai is cloudy, a comfortable 10℃. Remember to stay warm.",
+    "alert": null
   }
 ]

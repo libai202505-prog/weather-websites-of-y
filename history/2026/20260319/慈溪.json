@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天体感 8℃ 挺凉，记得穿暖和，别着凉。",
     "ai_briefing_en": "Cloudy and feels 8℃, quite chilly. Dress warmly to stay cozy.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-19T21:02+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "58",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "6",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "大雾天气，能见度低，出行请注意交通安全！",
+    "ai_briefing_en": "Foggy weather, low visibility. Please be careful when traveling!",
+    "alert": null
   }
 ]

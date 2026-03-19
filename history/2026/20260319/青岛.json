@@ -298,5 +298,25 @@
     "ai_briefing_zh": "青岛阴天体感 2℃，风大湿冷，多穿衣物保暖。",
     "ai_briefing_en": "Cloudy in Qingdao, feels 2℃, windy and damp. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-19T21:02+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "161",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛阴冷，体感 2℃。风力较大，注意防风保暖哦！",
+    "ai_briefing_en": "Qingdao is gloomy and cold, feels like 2℃. Windy, remember to keep warm!",
+    "alert": null
   }
 ]

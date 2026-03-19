@@ -278,5 +278,25 @@
     "ai_briefing_zh": "南京有霾，体感 9℃ 较冷，出门记得戴口罩。",
     "ai_briefing_en": "Nanjing is hazy, feels 9℃ and cold. Wear a mask outdoors!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-19T19:24+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "74",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "3",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "南京有雾，能见度低，体感 9℃ 凉。小心慢行！",
+    "ai_briefing_en": "Foggy in Nanjing, low visibility. Feels 9℃, so take care and drive slowly!",
+    "alert": null
   }
 ]

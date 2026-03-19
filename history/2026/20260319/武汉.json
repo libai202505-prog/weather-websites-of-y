@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雾，体感 10℃，出行小心，注意保暖。",
     "ai_briefing_en": "Wuhan, foggy, feels 10℃. Be careful outside, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-19T12:49+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "113",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "9",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 12℃，风力 3级。外出注意防风，及时添衣！",
+    "ai_briefing_en": "Wuhan is overcast, feels like 12℃ with moderate wind. Guard against wind and dress warmly!",
+    "alert": null
   }
 ]

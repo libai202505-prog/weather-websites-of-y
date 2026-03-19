@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳晴朗，体感 -2℃，风大冻人，出门穿暖和点！",
     "ai_briefing_en": "Shenyang, sunny, feels -2℃. Windy and chilly, bundle up!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-19T12:48+08:00",
+    "temp": "10",
+    "feelsLike": "3",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "306",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "-11",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳晴天，体感 3℃，风力 3级，昼夜温差大，早晚注意添衣！",
+    "ai_briefing_en": "Shenyang is sunny, feels like 3℃ with wind. Big day-night temp difference, add layers!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉阴天，体感 12℃，风力 3级。外出注意防风，及时添衣！",
     "ai_briefing_en": "Wuhan is overcast, feels like 12℃ with moderate wind. Guard against wind and dress warmly!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-19T13:50+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "135",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "8",
+    "dew": "9",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 13℃。温和，但早晚温差大哦。",
+    "ai_briefing_en": "Overcast in Wuhan, feels like 13℃. It's mild, but mind the morning/evening chill!",
+    "alert": null
   }
 ]

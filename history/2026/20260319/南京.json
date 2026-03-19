@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京大雾，体感 4℃，出行务必小心，穿暖防潮！",
     "ai_briefing_en": "Nanjing is very foggy, feels like 4℃. Be careful, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-19T10:01+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "125",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "3",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "南京大雾，体感 7℃，出行慢行，注意保暖防潮。",
+    "ai_briefing_en": "Nanjing, heavy fog, feels 7℃. Drive carefully, stay warm and dry.",
+    "alert": null
   }
 ]

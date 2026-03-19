@@ -138,5 +138,25 @@
     "ai_briefing_zh": "北京多云，体感 1℃，记得添衣保暖，别着凉哦！",
     "ai_briefing_en": "Beijing is cloudy, feels like 1℃. Stay warm and don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-19T10:00+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "172",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "20",
+    "dew": "-16",
+    "cloud": "10",
+    "ai_briefing_zh": "北京多云，体感 5℃，注意添衣保暖哦！",
+    "ai_briefing_en": "Beijing, cloudy, feels 5℃. Dress warmly!",
+    "alert": null
   }
 ]

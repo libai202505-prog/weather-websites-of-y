@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京有霾，注意防护，减少户外活动哦！",
     "ai_briefing_en": "Nanjing has haze, take precautions and stay indoors!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-19T16:34+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "156",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "4",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "南京有霾且体感偏冷，请注意防护，保重身体。",
+    "ai_briefing_en": "Nanjing is hazy and feels cold. Take precautions and stay healthy.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

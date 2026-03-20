@@ -278,5 +278,25 @@
     "ai_briefing_zh": "杭州下雨，体感 7℃，湿度 83%，湿冷注意保暖。",
     "ai_briefing_en": "Hangzhou is rainy, feels like 7℃ with 83% humidity. Stay warm and dry!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-20T19:29+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "137",
+    "humidity": "81",
+    "precip": "0.1",
+    "pressure": "1017",
+    "vis": "7",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴冷潮湿，体感 6℃，注意保暖，别忘了带伞。",
+    "ai_briefing_en": "Hangzhou is cloudy, cold, and humid, feels like 6℃. Dress warmly!",
+    "alert": null
   }
 ]

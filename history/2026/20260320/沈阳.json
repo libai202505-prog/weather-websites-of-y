@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳晴天 1℃，天气有些凉，多穿点衣服别感冒。",
     "ai_briefing_en": "Shenyang is sunny at 1℃. It's a bit cold, dress warmly to avoid a cold.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-20T18:32+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "89",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳体感 0℃，天气较冷，注意保暖，别感冒了。",
+    "ai_briefing_en": "Shenyang feels like 0℃. It's chilly, keep warm and don't catch a cold.",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "深圳多云 25℃，空气湿润，体感舒适，祝您愉快！",
     "ai_briefing_en": "Shenzhen is cloudy at 25℃. Humid and pleasant. Have a great day!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-20T18:34+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "107",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "19",
+    "dew": "18",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云暖和，湿度较高，注意通风和饮水。",
+    "ai_briefing_en": "Shenzhen is cloudy and warm with high humidity. Stay hydrated!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

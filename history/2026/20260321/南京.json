@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京 夜间监测中，注意保暖",
     "ai_briefing_en": "南京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-21T07:24+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "109",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "3",
+    "dew": "5",
+    "cloud": "0",
+    "ai_briefing_zh": "南京雾蒙蒙，体感 6℃，能见度低，注意安全。",
+    "ai_briefing_en": "Nanjing is very foggy, feels like 6℃. Low visibility, stay safe.",
+    "alert": null
   }
 ]

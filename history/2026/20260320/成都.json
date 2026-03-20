@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天适中，体感 13℃。注意早晚温差哦。",
     "ai_briefing_en": "Overcast and mild at 13℃. Mind the temperature difference between day and night.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-20T22:34+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "7",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

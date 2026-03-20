@@ -318,5 +318,25 @@
     "ai_briefing_zh": "大雾弥漫，能见度低，体感 8℃，注意交通安全。",
     "ai_briefing_en": "Thick fog, low visibility, feels like 8℃. Drive safely!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-20T22:34+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "83",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "2",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

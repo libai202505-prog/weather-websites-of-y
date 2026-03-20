@@ -218,5 +218,25 @@
     "ai_briefing_zh": "沈阳晴天，体感 1℃ 凉意十足，注意保暖哦。",
     "ai_briefing_en": "Sunny in Shenyang, feels like 1℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-20T16:30+08:00",
+    "temp": "6",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "47",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴冷干燥，注意防寒保暖，多喝水。",
+    "ai_briefing_en": "Shenyang is clear and cold, stay warm and hydrated!",
+    "alert": null
   }
 ]

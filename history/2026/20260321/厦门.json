@@ -378,5 +378,25 @@
     "ai_briefing_zh": "厦门多云，风力 3级，湿度大，记得带把伞，有备无患。",
     "ai_briefing_en": "Cloudy and humid in Xiamen, with breeze. Carry an umbrella.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-21T22:12+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "103",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "13",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "体感只有 3℃，风力大，请务必多穿衣。",
     "ai_briefing_en": "Feels like only 3℃ with strong winds, please dress very warmly.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-21T18:11+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "172",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "9",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有雾，体感 4℃，湿度 83%，开车慢行，注意保暖。",
+    "ai_briefing_en": "Fog in Qingdao, feels like 4℃, 83% humidity. Drive carefully and stay warm!",
+    "alert": null
   }
 ]

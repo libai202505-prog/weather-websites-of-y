@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云天气，早晚温差大，注意别着凉。",
     "ai_briefing_en": "Cloudy day, large temperature swing, avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-21T18:09+08:00",
+    "temp": "12",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "359",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "11",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "上海多云，气温 12℃，体感微凉，出门添衣哦。",
+    "ai_briefing_en": "Shanghai is cloudy, 12℃. It feels a bit cool, so layer up!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云风力大，体感较冷，注意防风保暖。",
     "ai_briefing_en": "Cloudy with strong winds, feels colder, protect from wind and stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-21T18:10+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "192",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "21",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳阴天，气温 12℃，风力 3级，体感偏凉，多穿点。",
+    "ai_briefing_en": "Overcast in Shenyang, 12℃ with a Force 3 wind. Feels cool, dress warmly!",
+    "alert": null
   }
 ]

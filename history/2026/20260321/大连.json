@@ -278,5 +278,25 @@
     "ai_briefing_zh": "大连多云，体感偏冷，注意添衣保暖，别感冒了。",
     "ai_briefing_en": "Dalian is cool and cloudy. Dress warm to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-21T17:26+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "173",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "13",
+    "dew": "2",
+    "cloud": "10",
+    "ai_briefing_zh": "多云体感 7℃，有凉意，注意保暖防风。",
+    "ai_briefing_en": "Cloudy and feels like 7℃, a bit cool, stay warm and protected from wind.",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "哈尔滨有霾，体感寒冷。外出务必戴口罩，多穿！",
     "ai_briefing_en": "Harbin has haze and is very cold. Wear a mask and dress warmly!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-21T17:26+08:00",
+    "temp": "9",
+    "feelsLike": "4",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "174",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "9",
+    "dew": "-10",
+    "cloud": "10",
+    "ai_briefing_zh": "霾加体感 4℃，务必多穿衣，注意防霾。",
+    "ai_briefing_en": "Haze and feels like 4℃, dress very warmly and protect yourself from haze.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州阴天潮湿，体感 22℃ 舒适。出门记得带伞哦！",
     "ai_briefing_en": "Guangzhou is humid and overcast, feels comfy at 22℃. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-21T13:34+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "196",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "5",
+    "dew": "19",
+    "cloud": "99",
+    "ai_briefing_zh": "广州大雾潮湿，出门注意交通安全！",
+    "ai_briefing_en": "Guangzhou is foggy and humid, drive safe!",
+    "alert": null
   }
 ]

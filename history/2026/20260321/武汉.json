@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉多云，湿度 77% 稍高，注意室内通风干燥。",
     "ai_briefing_en": "Wuhan is cloudy with 77% humidity. Keep your home ventilated!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-21T20:42+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "336",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "9",
+    "dew": "11",
+    "cloud": "9",
+    "ai_briefing_zh": "武汉有雾，能见度不高。出门多留心，体感 14℃ 蛮舒适的。",
+    "ai_briefing_en": "Fog in Wuhan, visibility low. Be extra careful outdoors, it feels pleasant at 14℃.",
+    "alert": null
   }
 ]

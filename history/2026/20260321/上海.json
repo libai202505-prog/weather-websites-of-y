@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海多云，体感 11℃ 稍凉，记得适时添衣保暖哦！",
     "ai_briefing_en": "Shanghai is cloudy, feels 11℃. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-21T20:42+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "260",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "9",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有雾，能见度低，早出行注意交通安全，小心慢行。",
+    "ai_briefing_en": "Fog in Shanghai, low visibility. Drive carefully and stay safe if you're out early.",
+    "alert": null
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "西安阴天，体感 12℃ 较凉，湿度低，记得多补水！",
     "ai_briefing_en": "Xi'an is overcast, feels 12℃. Low humidity, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-21T20:43+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "345",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "969",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天，体感 12℃ 微凉，湿度 18% 偏低。多喝水润润喉哦。",
+    "ai_briefing_en": "Overcast Xi'an, feels cool at 12℃ with low 18% humidity. Remember to hydrate!",
+    "alert": null
   }
 ]

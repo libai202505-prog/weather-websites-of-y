@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳阴天，气温 21℃ 适中。湿度 77%，注意通风，保持舒适。",
     "ai_briefing_en": "Overcast in Shenzhen, mild 21℃. With 77% humidity, keep air circulating for comfort.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-21T21:30+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "29",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "25",
+    "dew": "18",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，天气暖和，但湿度不低，穿衣透气更舒服。",
+    "ai_briefing_en": "Shenzhen is warm and humid, wear breathable clothes!",
+    "alert": null
   }
 ]

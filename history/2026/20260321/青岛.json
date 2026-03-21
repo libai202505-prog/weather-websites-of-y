@@ -358,5 +358,25 @@
     "ai_briefing_zh": "青岛有雾，体感 5℃ 较冷，湿度 83%。出门加衣，注意安全哦。",
     "ai_briefing_en": "Foggy Qingdao, cold at 5℃ with high humidity. Dress warmly and stay safe outdoors.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-21T21:28+08:00",
+    "temp": "8",
+    "feelsLike": "4",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "143",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有雾，能见度低，气温 8℃，体感冷，出门添衣！",
+    "ai_briefing_en": "Foggy and cold in Qingdao, low visibility. Dress warmly!",
+    "alert": null
   }
 ]

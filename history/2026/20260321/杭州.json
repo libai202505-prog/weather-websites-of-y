@@ -358,5 +358,25 @@
     "ai_briefing_zh": "杭州雾气弥漫，体感 10℃ 较凉。出门注意交通，别着凉啦。",
     "ai_briefing_en": "Foggy Hangzhou, feels cool at 10℃. Drive safe and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-21T21:28+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "136",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "9",
+    "dew": "9",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州有雾，能见度不高，早晚凉，别忘了多穿一件哦。",
+    "ai_briefing_en": "Foggy in Hangzhou, low visibility. Dress warm in the cool air.",
+    "alert": null
   }
 ]

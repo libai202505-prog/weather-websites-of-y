@@ -338,5 +338,25 @@
     "ai_briefing_zh": "成都阴天，气温适宜。出门记得带把伞，有备无患哦。",
     "ai_briefing_en": "Chengdu is cloudy with comfortable temperatures. Carry an umbrella just in case.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-22T20:50+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "19",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "16",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天 16℃，体感舒适，记得添减衣物。",
+    "ai_briefing_en": "Chengdu is cloudy 16℃. Feels pleasant, dress smart!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "哈尔滨有霾 6℃，戴口罩，注意保暖！",
     "ai_briefing_en": "Harbin: 6℃, hazy. Wear a mask and stay warm outdoors!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-22T18:18+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "344",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "0",
+    "ai_briefing_zh": "哈尔滨体感0℃，非常寒冷！记得穿最厚的衣服，注意保暖。",
+    "ai_briefing_en": "Harbin feels like 0℃! Bundle up warmly to stay cozy.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

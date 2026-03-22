@@ -358,5 +358,25 @@
     "ai_briefing_zh": "南京天晴 15℃，阳光正好，适合出门散步。",
     "ai_briefing_en": "Sunny 15℃ in Nanjing. Perfect for a walk!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-22T21:41+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "342",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "7",
+    "dew": "10",
+    "cloud": "10",
+    "ai_briefing_zh": "南京多云，气温 14℃，微凉，记得添件外套哦。",
+    "ai_briefing_en": "Cloudy 14℃. It's a bit cool, grab a jacket!",
+    "alert": null
   }
 ]

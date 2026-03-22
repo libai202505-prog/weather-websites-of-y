@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天微凉 15℃，湿度较高，出门记得带伞哦。",
     "ai_briefing_en": "Cloudy, mild 15℃, high humidity. Grab an umbrella!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-22T21:42+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "3",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "9",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪有雾，气温 15℃，出行注意交通安全哦。",
+    "ai_briefing_en": "Foggy 15℃. Drive safely and stay warm!",
+    "alert": null
   }
 ]

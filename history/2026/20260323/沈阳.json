@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-23T07:24+08:00",
+    "temp": "2",
+    "feelsLike": "-1",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "130",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "1",
+    "dew": "-1",
+    "cloud": "5",
+    "ai_briefing_zh": "沈阳大雾，气温低，多穿点。湿度大，小心湿滑哦。",
+    "ai_briefing_en": "Shenyang is foggy and cold, dress warmly. High humidity, watch out for slipperiness.",
+    "alert": null
   }
 ]

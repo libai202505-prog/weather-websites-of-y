@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-23T07:26+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "345",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1014",
+    "vis": "1",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，湿度爆表。记得除湿，小心着凉。",
+    "ai_briefing_en": "Wuhan is cloudy, humidity is extremely high. Remember to dehumidify, watch out for colds.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "沈阳有霾，体感5℃，湿度大。请减少户外活动，注意防护。",
     "ai_briefing_en": "Shenyang is hazy and cold at 5℃. Reduce outdoor activities.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-22T19:10+08:00",
+    "temp": "4",
+    "feelsLike": "3",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "345",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "1",
+    "dew": "4",
+    "cloud": "2",
+    "ai_briefing_zh": "沈阳有大雾，能见度差，气温较低。注意交通安全，出行保暖。",
+    "ai_briefing_en": "Shenyang is very foggy with low visibility and cold. Drive safely and stay warm.",
+    "alert": null
   }
 ]

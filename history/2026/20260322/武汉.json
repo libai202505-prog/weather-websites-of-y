@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天 19℃，体感 17℃。湿度适中，注意适时增减衣物。",
     "ai_briefing_en": "Wuhan is cloudy 19℃, feels like 17℃. Moderate humidity, adjust your clothing.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-22T13:50+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "257",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "10",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感略凉。早出晚归，别忘了带件薄外套！",
+    "ai_briefing_en": "Wuhan is overcast and slightly cool. Take a light jacket if out early/late!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳多云，天气暖和。注意防晒，保持清爽。",
     "ai_briefing_en": "Shenzhen is cloudy and warm. Mind the sun and stay refreshed.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-22T15:34+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "188",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "27",
+    "dew": "18",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳多云，天气暖和，记得防晒哦。",
+    "ai_briefing_en": "Shenzhen is partly cloudy and warm. Don't forget sunscreen!",
+    "alert": null
   }
 ]

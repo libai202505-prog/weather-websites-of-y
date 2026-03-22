@@ -378,5 +378,25 @@
     "ai_briefing_zh": "昆明天阴，气温 12℃，体感较凉，风大注意防风。",
     "ai_briefing_en": "Overcast 12℃, feels cool. Windy, dress warmly.",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-22T22:26+08:00",
+    "temp": "12",
+    "feelsLike": "9",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "812",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

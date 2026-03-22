@@ -378,5 +378,25 @@
     "ai_briefing_zh": "青岛有雾，气温 10℃，风大凉意浓，注意保暖。",
     "ai_briefing_en": "Foggy 10℃, windy and cool. Stay bundled up!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-22T22:26+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "305",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "5",
+    "dew": "7",
+    "cloud": "99",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

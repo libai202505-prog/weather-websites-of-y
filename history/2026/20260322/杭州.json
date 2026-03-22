@@ -378,5 +378,25 @@
     "ai_briefing_zh": "杭州有雾，气温 15℃，出行安全第一，注意保暖。",
     "ai_briefing_en": "Foggy 15℃. Safety first on the road, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-22T22:24+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "302",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "7",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

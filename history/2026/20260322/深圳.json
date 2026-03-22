@@ -278,5 +278,25 @@
     "ai_briefing_zh": "深圳多云，气温舒适，适合户外活动。",
     "ai_briefing_en": "Shenzhen is cloudy and pleasant. Great for outdoor fun!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-22T17:30+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "173",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "27",
+    "dew": "18",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳多云 25℃ 舒适，防晒，好心情！",
+    "ai_briefing_en": "Shenzhen: 25℃, pleasant. Protect from sun, enjoy your day!",
+    "alert": null
   }
 ]

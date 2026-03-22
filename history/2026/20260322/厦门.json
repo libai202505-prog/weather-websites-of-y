@@ -278,5 +278,25 @@
     "ai_briefing_zh": "厦门晴朗，气温 20℃，体感舒适，心情美美哒。",
     "ai_briefing_en": "Xiamen is sunny and pleasant, feels like 18℃. Enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-22T17:30+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "140",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "21",
+    "dew": "15",
+    "cloud": "1",
+    "ai_briefing_zh": "厦门多云 15℃，湿冷，保暖防潮哦。",
+    "ai_briefing_en": "Xiamen: 15℃, damp and chilly. Keep warm and dry!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

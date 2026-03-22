@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉阴天，气温适中。保持愉悦心情哦！",
     "ai_briefing_en": "Wuhan is cloudy and mild. Stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-22T17:30+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "24",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "9",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云 18℃ 凉爽，带件薄外套。",
+    "ai_briefing_en": "Wuhan: 18℃, cool and pleasant. Bring a light jacket!",
+    "alert": null
   }
 ]

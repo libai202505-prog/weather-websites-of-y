@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门多云，微风拂面，略有湿意。享受这舒适天气吧！",
     "ai_briefing_en": "Xiamen is cloudy with a light breeze, a bit humid. Enjoy the comfortable weather!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-22T10:12+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "296",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "8",
+    "dew": "14",
+    "cloud": "1",
+    "ai_briefing_zh": "厦门有雾 18℃，能见度低，驾车请减速慢行。",
+    "ai_briefing_en": "Foggy in Xiamen, 18℃. Low visibility, drive slowly!",
+    "alert": null
   }
 ]

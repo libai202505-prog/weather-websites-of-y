@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海有雾，请您注意出行安全，气温适中，但别忘添衣。",
     "ai_briefing_en": "Shanghai is foggy, please travel safely. Mild but remember layers.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-22T10:08+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "287",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "11",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天 15℃，体感凉意，多穿点哦。",
+    "ai_briefing_en": "Overcast in Shanghai, 15℃. Feels cool, dress cozy.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "昆明阴天，温度宜人。出门记得带雨具，以防阵雨。",
     "ai_briefing_en": "Kunming is overcast with pleasant temps. Carry rain gear for possible showers.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-22T10:14+08:00",
+    "temp": "12",
+    "feelsLike": "12",
+    "text": "小雨",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "231",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "9",
+    "dew": "7",
+    "cloud": "93",
+    "ai_briefing_zh": "昆明小雨 12℃，路面湿滑，记得带伞防雨哦！",
+    "ai_briefing_en": "Light rain in Kunming, 12℃. Roads are wet, bring your umbrella!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阵雨 10℃，体感 9℃。雨天湿滑，出门记得带伞。",
     "ai_briefing_en": "Rainy 10℃, feels like 9℃. Bring an umbrella and watch for wet roads.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-23T22:50+08:00",
+    "temp": "10",
+    "feelsLike": "9",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "278",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "974",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

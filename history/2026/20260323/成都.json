@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天 15℃，体感舒适。注意防潮，保持好心情。",
     "ai_briefing_en": "Cloudy 15℃, feels comfortable. Stay cheerful and dry!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-23T22:48+08:00",
+    "temp": "14",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "10",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "958",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

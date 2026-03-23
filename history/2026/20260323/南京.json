@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京雾气重，能见度低，出行小心，注意保暖。",
     "ai_briefing_en": "Nanjing is foggy, low visibility, travel carefully, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-23T10:12+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "81",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "7",
+    "dew": "9",
+    "cloud": "98",
+    "ai_briefing_zh": "南京阴天风大，体感偏冷。请及时添衣，注意防风。",
+    "ai_briefing_en": "Nanjing is cloudy and windy, feels colder. Dress warmly and beware the wind.",
+    "alert": null
   }
 ]

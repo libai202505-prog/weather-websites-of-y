@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴天，湿度爆表。记得除湿，小心着凉。",
     "ai_briefing_en": "Wuhan is cloudy, humidity is extremely high. Remember to dehumidify, watch out for colds.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-23T10:12+08:00",
+    "temp": "16",
+    "feelsLike": "17",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "61",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "3",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨绵绵，湿度很高。出门带伞，注意防潮哦。",
+    "ai_briefing_en": "Wuhan has light rain and high humidity. Take an umbrella and stay dry.",
+    "alert": null
   }
 ]

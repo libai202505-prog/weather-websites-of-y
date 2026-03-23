@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州大雾，路滑注意安全。湿度高，感觉有些潮湿。",
     "ai_briefing_en": "Hangzhou is foggy, roads might be slippery, be safe. High humidity, feels a bit damp.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-23T10:12+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "33",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "5",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州雾气缭绕，能见度低，开车走路都多加小心。",
+    "ai_briefing_en": "Hangzhou is foggy, visibility low. Drive and walk extra carefully.",
+    "alert": null
   }
 ]

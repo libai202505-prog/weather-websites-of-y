@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天湿冷，体感 11℃。记得多穿点，注意防湿。",
     "ai_briefing_en": "Shanghai is damp and cool at 11℃. Dress warmly and stay dry!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-24T16:48+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "62",
+    "humidity": "89",
+    "precip": "1.1",
+    "pressure": "1013",
+    "vis": "8",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "中雨 11℃，体感凉，请注意保暖。",
+    "ai_briefing_en": "Rain 11℃. Keep warm and dry!",
+    "alert": null
   }
 ]

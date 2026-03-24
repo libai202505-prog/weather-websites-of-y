@@ -238,5 +238,25 @@
     "ai_briefing_zh": "北京今天有霾，体感 13℃，出门戴口罩，注意保暖哦！",
     "ai_briefing_en": "Beijing has haze today, feels like 13℃. Wear a mask and keep warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-24T16:48+08:00",
+    "temp": "18",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "187",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "4",
+    "dew": "1",
+    "cloud": "3",
+    "ai_briefing_zh": "霾天凉爽，注意防护，记得添衣。",
+    "ai_briefing_en": "Hazy & cool, 14℃. Dress warm!",
+    "alert": null
   }
 ]

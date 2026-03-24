@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉有雾，湿度 94%，能见度低。驾车出行请减速慢行。",
     "ai_briefing_en": "Wuhan is foggy with 94% humidity, low visibility. Drive slowly and carefully.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-24T10:02+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "280",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "4",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，能见度低，气温 15℃，出行注意安全，记得保暖哦！",
+    "ai_briefing_en": "Wuhan has fog, low visibility, 15℃. Travel safe and keep warm!",
+    "alert": null
   }
 ]

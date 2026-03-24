@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州中雨湿凉，记得带伞，小心湿滑路面！",
     "ai_briefing_en": "Moderate rain in Hangzhou. Take an umbrella and watch for slippery roads!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-24T15:00+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "67",
+    "humidity": "92",
+    "precip": "0.7",
+    "pressure": "1008",
+    "vis": "2",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨 12℃，体感 10℃。带好雨具，注意保暖防湿。",
+    "ai_briefing_en": "Hangzhou has light rain at 12℃. Grab an umbrella and keep warm!",
+    "alert": null
   }
 ]

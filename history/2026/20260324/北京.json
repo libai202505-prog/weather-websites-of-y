@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京霾，出门戴好口罩，保护呼吸道哦！",
     "ai_briefing_en": "Beijing haze. Wear a mask!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-24T13:46+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "114",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "3",
+    "dew": "0",
+    "cloud": "6",
+    "ai_briefing_zh": "北京有霾，出门记得戴口罩，注意保暖哦！",
+    "ai_briefing_en": "Haze in Beijing, remember your mask and stay warm!",
+    "alert": null
   }
 ]

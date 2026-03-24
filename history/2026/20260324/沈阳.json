@@ -258,5 +258,25 @@
     "ai_briefing_zh": "晴朗 13℃ 凉爽，出门别忘防晒。",
     "ai_briefing_en": "Sunny 13℃. Cool. SPF up!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-24T17:49+08:00",
+    "temp": "15",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "236",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "29",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴朗，风大体感 8℃，出门多穿点别着凉。",
+    "ai_briefing_en": "Sunny in Shenyang, feels like 8℃ with wind. Dress warm!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "多云，湿度较高，体感舒适，记得随身带把伞哦。",
     "ai_briefing_en": "Cloudy and humid, feels comfortable, keep an umbrella handy!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-25T17:49+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "98",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "12",
+    "dew": "17",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门晴朗但体感微凉，湿度高，风有点大！",
+    "ai_briefing_en": "Xiamen is sunny but feels cool, high humidity, breezy!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

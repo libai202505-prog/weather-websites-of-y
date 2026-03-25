@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天微凉且湿，外出别忘添衣，注意防潮。",
     "ai_briefing_en": "Overcast, cool, and humid, dress warm, watch for dampness.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-25T17:50+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "340",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "952",
+    "vis": "16",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴凉湿润，体感偏冷，记得多穿点衣服！",
+    "ai_briefing_en": "Chengdu is cool, damp, and feels chilly, remember to dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

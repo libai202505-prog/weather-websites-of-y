@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天舒适，无风，但早晚温差大，记得添衣。",
     "ai_briefing_en": "Overcast and comfy, no wind, but mind temp swings, dress accordingly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-25T17:50+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "190",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "7",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，气温适宜，外出注意添衣哦！",
+    "ai_briefing_en": "Wuhan is overcast, temperature is mild, layer up when heading out!",
+    "alert": null
   }
 ]

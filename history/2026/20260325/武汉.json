@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉多云舒适，体感 19℃，适宜户外活动。",
     "ai_briefing_en": "Wuhan is cloudy and comfortable at 19℃, perfect for outdoor activities.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-25T16:50+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "341",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "7",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天舒适，无风，但早晚温差大，记得添衣。",
+    "ai_briefing_en": "Overcast and comfy, no wind, but mind temp swings, dress accordingly.",
+    "alert": null
   }
 ]

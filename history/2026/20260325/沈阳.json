@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳晴天，体感微凉，享受阳光也别忘添衣。",
     "ai_briefing_en": "Shenyang is sunny and cool. Enjoy the sun, but dress warmly.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-25T12:48+08:00",
+    "temp": "16",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "323",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "13",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳风力 4级体感 10℃，风大天凉，注意防风保暖。",
+    "ai_briefing_en": "Shenyang has 4-level winds and feels 10℃, windy and cool, remember wind protection and warmth.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

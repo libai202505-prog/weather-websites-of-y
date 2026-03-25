@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海体感 15℃，早晚温差大，记得加件外套哦！",
     "ai_briefing_en": "Shanghai feels like 15℃, big temperature difference, remember to grab a jacket!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-25T13:57+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "70",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "8",
+    "dew": "6",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，早晚温差大，别忘了添减衣物哟。",
+    "ai_briefing_en": "Cloudy day, mind the temperature difference between morning and evening.",
+    "alert": null
   }
 ]

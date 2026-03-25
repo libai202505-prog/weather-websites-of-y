@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-25T21:00+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "37",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "7",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有雾，体感 12℃。能见度低，外出路上注意安全哦！",
+    "ai_briefing_en": "Shanghai is foggy, feels like 12℃. Low visibility, stay safe on the roads!",
+    "alert": null
   }
 ]

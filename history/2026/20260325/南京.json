@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京阴天，体感 12℃。略有凉意，出门别忘了加件外套哦！",
     "ai_briefing_en": "Nanjing is overcast, feels cool at 12℃. Don't forget to grab a jacket!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-25T22:48+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "72",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "4",
+    "dew": "8",
+    "cloud": "94",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京阴天风大体感凉，多穿点别着凉哦！",
     "ai_briefing_en": "Overcast and windy in Nanjing, feels cool, dress warmly to avoid colds!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-26T16:50+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "124",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "9",
+    "dew": "8",
+    "cloud": "96",
+    "ai_briefing_zh": "南京阴天风大，体感 12℃。注意防风保暖。",
+    "ai_briefing_en": "Nanjing is cloudy and windy, feels like 12℃. Stay warm and protect from wind!",
+    "alert": null
   }
 ]

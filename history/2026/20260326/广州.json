@@ -178,5 +178,25 @@
     "ai_briefing_zh": "广州阴天，体感 27℃ 较热，湿度大。多补充水分，清爽出行。",
     "ai_briefing_en": "Guangzhou is warm and humid at 27℃. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-26T15:00+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "130",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云暖和，记得多喝水，防晒也不能忘哦！",
+    "ai_briefing_en": "Cloudy and warm in Guangzhou, remember to hydrate and use sunscreen!",
+    "alert": null
   }
 ]

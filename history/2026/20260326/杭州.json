@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州有霾，体感 15℃ 略凉。外出请注意防护，多穿件衣裳。",
     "ai_briefing_en": "Haze and cool in Hangzhou, feels 15℃. Protect yourself and stay warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-26T15:01+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "123",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "6",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州有霾，气温有点凉，记得戴口罩，加件外套！",
+    "ai_briefing_en": "Haze in Hangzhou, a bit cool, remember your mask and an extra layer!",
+    "alert": null
   }
 ]

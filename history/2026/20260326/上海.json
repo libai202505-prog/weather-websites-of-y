@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海阴天微凉，记得添衣保暖，别着凉。",
     "ai_briefing_en": "Overcast and cool in Shanghai, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-26T10:08+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "352",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "22",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天，体感 13℃ 凉意，记得多穿衣。",
+    "ai_briefing_en": "Shanghai cloudy, 13℃. Dress warm.",
+    "alert": null
   }
 ]

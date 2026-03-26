@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉雾气浓重，湿度高，出行注意视线和防潮。",
     "ai_briefing_en": "Dense fog and high humidity in Wuhan, be cautious.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-26T10:14+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "16",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "13",
+    "cloud": "97",
+    "ai_briefing_zh": "武汉有雾，气温 16℃ 适宜，出行注意能见度。",
+    "ai_briefing_en": "Wuhan foggy, 16℃. Watch out!",
+    "alert": null
   }
 ]

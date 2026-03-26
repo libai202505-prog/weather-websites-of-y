@@ -278,5 +278,25 @@
     "ai_briefing_zh": "成都阴天温度适宜，微风拂面，出门享受好天气！",
     "ai_briefing_en": "Cloudy and pleasant in Chengdu. Enjoy the gentle weather!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-26T22:58+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "343",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "16",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

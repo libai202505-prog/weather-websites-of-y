@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛霾天微凉，体感 10℃。注意防护和保暖。",
     "ai_briefing_en": "Qingdao is hazy and cool, feels like 10℃. Protect yourself and keep warm!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-26T18:00+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "183",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微凉，海风有点大。多穿一点，注意防风。",
+    "ai_briefing_en": "Cloudy and cool, windy by the sea. Dress warmly and mind the wind.",
+    "alert": null
   }
 ]

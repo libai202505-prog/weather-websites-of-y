@@ -218,5 +218,25 @@
     "ai_briefing_zh": "霾天出行请注意防护，多喝水润润喉哦！",
     "ai_briefing_en": "Hazy sky in Beijing. Please protect yourself and hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-26T18:00+08:00",
+    "temp": "22",
+    "feelsLike": "20",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "159",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "4",
+    "dew": "-1",
+    "cloud": "8",
+    "ai_briefing_zh": "霾天气，请戴好口罩，注意防护，呼吸更顺畅。",
+    "ai_briefing_en": "Hazy weather, wear a mask for respiratory comfort.",
+    "alert": null
   }
 ]

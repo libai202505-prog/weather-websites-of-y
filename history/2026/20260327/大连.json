@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大连多云 13℃，体感 11℃，稍有凉意，记得添衣哦。",
     "ai_briefing_en": "Dalian is cloudy, 13℃, feels like 11℃, a bit cool. Remember to add a layer!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-27T17:48+08:00",
+    "temp": "12",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "263",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天寒冷，体感 7℃ 左右，务必注意保暖。",
+    "ai_briefing_en": "Cloudy, cold (7℃). Bundle up!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

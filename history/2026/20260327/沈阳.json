@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴天微凉有风，体感较冷，注意防风保暖。",
     "ai_briefing_en": "Sunny, cool and windy, feels cold, protect yourself from wind and keep warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-27T16:48+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "65",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴朗 15℃，体感 10℃，阳光好，也要注意保暖。",
+    "ai_briefing_en": "Shenyang is sunny, 15℃, feels like 10℃. Enjoy the sun, but stay warm!",
+    "alert": null
   }
 ]

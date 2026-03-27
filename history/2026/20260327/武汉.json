@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉有雾，路面湿滑。开车小心，注意安全。",
     "ai_briefing_en": "Wuhan is foggy, roads slick. Drive carefully, stay safe.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-27T22:42+08:00",
+    "temp": "13",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "327",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "3",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

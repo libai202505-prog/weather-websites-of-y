@@ -278,5 +278,25 @@
     "ai_briefing_zh": "厦门多云，风力 3级 左右。湿度大，注意防潮。",
     "ai_briefing_en": "Xiamen is cloudy, winds around Force 3. High humidity, mind dampness.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-27T22:40+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "140",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "11",
+    "dew": "16",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

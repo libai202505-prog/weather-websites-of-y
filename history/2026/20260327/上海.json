@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海阳光正好，体感 14℃。出门散步，享受这秋日暖阳吧！",
     "ai_briefing_en": "Shanghai is sunny and pleasant, feels like 14℃. Go for a walk and enjoy the autumn sun!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-27T21:00+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "44",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "8",
+    "dew": "7",
+    "cloud": "0",
+    "ai_briefing_zh": "上海有雾，气温凉爽。开车慢行，注意防范。",
+    "ai_briefing_en": "Shanghai is foggy and cool. Drive carefully, stay safe.",
+    "alert": null
   }
 ]

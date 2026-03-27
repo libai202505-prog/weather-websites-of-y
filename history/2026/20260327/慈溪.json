@@ -258,5 +258,25 @@
     "ai_briefing_zh": "慈溪阴天湿润，体感 14℃。别忘了带伞，注意保暖防潮呀。",
     "ai_briefing_en": "Cixi is cloudy and humid, feels like 14℃. Don't forget an umbrella, stay warm and dry.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-27T21:02+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "299",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "6",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪大雾，能见度低，出行请注意安全！",
+    "ai_briefing_en": "Cixi is foggy with low visibility. Travel safely!",
+    "alert": null
   }
 ]

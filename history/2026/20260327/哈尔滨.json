@@ -258,5 +258,25 @@
     "ai_briefing_zh": "哈尔滨有霾且冷，体感仅 2℃。务必多穿，外出记得戴口罩哦！",
     "ai_briefing_en": "Harbin is hazy and cold, feels like 2℃. Dress warmly and wear a mask if outside!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-27T20:58+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "324",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "8",
+    "dew": "-7",
+    "cloud": "0",
+    "ai_briefing_zh": "哈尔滨有霾，体感 1℃ 左右。注意保暖戴口罩。",
+    "ai_briefing_en": "Harbin has haze, feels about 1℃. Keep warm, wear a mask!",
+    "alert": null
   }
 ]

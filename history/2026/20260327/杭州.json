@@ -218,5 +218,25 @@
     "ai_briefing_zh": "多云微凉湿润，记得添衣保暖哦。",
     "ai_briefing_en": "Cool, humid. Keep warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-27T18:42+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "180",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "12",
+    "dew": "10",
+    "cloud": "94",
+    "ai_briefing_zh": "杭州阴天湿度大，体感凉，记得带伞保暖哦。",
+    "ai_briefing_en": "Hangzhou is cloudy and humid, feels cool. Take an umbrella!",
+    "alert": null
   }
 ]

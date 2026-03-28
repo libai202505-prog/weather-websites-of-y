@@ -238,5 +238,25 @@
     "ai_briefing_zh": "厦门阴天，体感舒适，但湿度偏高，注意保持室内通风！",
     "ai_briefing_en": "Xiamen is overcast and comfortable, but humid, keep rooms ventilated!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-28T16:34+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "191",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "8",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门有雾，湿度较高，出行请注意安全。",
+    "ai_briefing_en": "Xiamen is foggy and humid, please travel safely.",
+    "alert": null
   }
 ]

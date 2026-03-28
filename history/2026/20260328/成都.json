@@ -278,5 +278,25 @@
     "ai_briefing_zh": "成都阴天，体感 22℃ 舒适，但云层较厚，适合室内活动哦。",
     "ai_briefing_en": "Chengdu overcast, feels 22℃, comfy. Great for indoor activities!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-28T18:28+08:00",
+    "temp": "22",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "44",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "953",
+    "vis": "16",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微凉，温度适中，出门散步很舒服。",
+    "ai_briefing_en": "Cloudy, mild. Enjoy your day!",
+    "alert": null
   }
 ]

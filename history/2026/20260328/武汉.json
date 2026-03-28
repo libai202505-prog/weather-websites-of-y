@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云天气，气温舒适，适合户外活动哦。",
     "ai_briefing_en": "Cloudy, mild. Enjoy outdoors!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-28T19:26+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "343",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "9",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云 18℃，湿度 74%，风力 0级。小心潮湿哦！",
+    "ai_briefing_en": "Wuhan is cloudy at 18℃, 74% humidity, no wind. Mind the dampness!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "气温骤降，体感很冷，注意保暖，别着凉。",
     "ai_briefing_en": "It's very cold. Wrap up warm!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-28T19:25+08:00",
+    "temp": "3",
+    "feelsLike": "0",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "36",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "13",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨 3℃，体感 0℃。天冷，穿厚点，别冻着了！",
+    "ai_briefing_en": "Harbin is 3℃, feels like 0℃. It's cold, bundle up to stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

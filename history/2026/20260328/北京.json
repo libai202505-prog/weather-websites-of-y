@@ -298,5 +298,25 @@
     "ai_briefing_zh": "雾霾天，记得戴口罩，呼吸更健康哦！",
     "ai_briefing_en": "Haze, mask up for health!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-28T19:25+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "208",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "北京朋友们，有霾天气温 17℃，记得戴口罩，注意保暖哦！",
+    "ai_briefing_en": "Beijing friends, haze and 17℃. Wear a mask and stay warm!",
+    "alert": null
   }
 ]

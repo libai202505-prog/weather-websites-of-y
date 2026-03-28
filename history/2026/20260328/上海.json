@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云微凉，风力小，湿度低，记得补水。",
     "ai_briefing_en": "Cloudy, cool. Hydrate well!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-28T19:25+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "56",
+    "humidity": "28",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "22",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天 18℃，湿度 28%，记得多喝水，滋润一下！",
+    "ai_briefing_en": "Shanghai is 18℃ and overcast, with 28% humidity. Drink water!",
+    "alert": null
   }
 ]

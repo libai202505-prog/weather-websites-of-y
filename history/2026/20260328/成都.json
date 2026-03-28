@@ -338,5 +338,25 @@
     "ai_briefing_zh": "成都阴天，体感19℃。湿度适中，记得带伞哦！",
     "ai_briefing_en": "Chengdu is overcast, feels like 19℃. Moderate humidity, remember to bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-28T21:50+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "348",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "954",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "成都小雨，地面湿滑，出行要小心哦。",
+    "ai_briefing_en": "Light rain in Chengdu, slippery roads, travel carefully.",
+    "alert": null
   }
 ]

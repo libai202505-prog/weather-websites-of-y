@@ -338,5 +338,25 @@
     "ai_briefing_zh": "重庆雾气浓，湿度高。驾车慢行，注意安全哦。",
     "ai_briefing_en": "Chongqing is very foggy and humid. Drive slowly, stay safe.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-28T21:48+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "357",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "982",
+    "vis": "6",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆雾气浓，能见度低，出行请小心。",
+    "ai_briefing_en": "Dense fog in Chongqing, low visibility, be careful.",
+    "alert": null
   }
 ]

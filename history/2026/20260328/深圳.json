@@ -338,5 +338,25 @@
     "ai_briefing_zh": "深圳阴天湿润，体感22℃。记得多喝水保持活力！",
     "ai_briefing_en": "Shenzhen is overcast and moist, feels like 22℃. Stay hydrated and energetic!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-03-28T21:50+08:00",
+    "temp": "22",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "76",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "16",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳阴天，湿度大，体感偏热，多补水！",
+    "ai_briefing_en": "Shenzhen is cloudy, humid and warm, stay hydrated!",
+    "alert": null
   }
 ]

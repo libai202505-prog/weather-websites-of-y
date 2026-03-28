@@ -258,5 +258,25 @@
     "ai_briefing_zh": "哈尔滨气温偏低，体感更冷，务必多穿。",
     "ai_briefing_en": "Harbin is quite cold, feels even colder, be sure to bundle up.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-28T17:30+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "113",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "24",
+    "dew": "-11",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨多云，体感 7℃ 寒冷，记得穿厚外套，多喝热水哦！",
+    "ai_briefing_en": "Harbin cloudy, feels cold 7℃. Wear a thick coat, stay warm!",
+    "alert": null
   }
 ]

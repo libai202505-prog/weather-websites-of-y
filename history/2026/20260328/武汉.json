@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉阴天，气温舒适，保持好心情哦。",
     "ai_briefing_en": "Wuhan is cloudy, comfortable temperature, keep a good mood.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-28T17:34+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "56",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "14",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 23℃ 舒适。出门散步，享受惬意时光吧！",
+    "ai_briefing_en": "Wuhan overcast, feels 23℃, pleasant. Enjoy a relaxing walk!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳晴朗，体感 0℃，虽然冷，也要享受阳光哦！",
     "ai_briefing_en": "Shenyang is clear, feels 0℃. Enjoy the sun, stay warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-28T10:00+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "283",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "20",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴天，体感偏凉，注意添衣，别着凉了！",
+    "ai_briefing_en": "Shenyang is sunny but feels cool. Dress warmly to avoid catching a cold!",
+    "alert": null
   }
 ]

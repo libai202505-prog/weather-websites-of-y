@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连晴朗，气温 12℃，天气干燥，记得多喝水哦！",
     "ai_briefing_en": "Dalian is sunny, 12℃ and dry. Remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-28T10:00+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "188",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感微凉，风力 2级，享受阳光吧！",
+    "ai_briefing_en": "Dalian is sunny but feels cool with a 2-level wind. Enjoy the sunshine!",
+    "alert": null
   }
 ]

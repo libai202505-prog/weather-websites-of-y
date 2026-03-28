@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连晴朗，体感微凉，风力 2级，享受阳光吧！",
     "ai_briefing_en": "Dalian is sunny but feels cool with a 2-level wind. Enjoy the sunshine!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-28T12:48+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "201",
+    "humidity": "17",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感 14℃，天气微凉，注意保暖！",
+    "ai_briefing_en": "Dalian is sunny, feels 14℃. It's a bit cool, stay warm!",
+    "alert": null
   }
 ]

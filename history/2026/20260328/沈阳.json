@@ -358,5 +358,25 @@
     "ai_briefing_zh": "沈阳多云，气温 9℃，穿暖和再出门。",
     "ai_briefing_en": "Cloudy in Shenyang, 9℃, dress warmly before heading out.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-28T22:26+08:00",
+    "temp": "7",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "150",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "25",
+    "dew": "-6",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "哈尔滨有霾，气温 0℃，注意保暖防护。",
     "ai_briefing_en": "Haze in Harbin, 0℃, stay warm and protected.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-28T22:24+08:00",
+    "temp": "0",
+    "feelsLike": "-3",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "150",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "12",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": null
   }
 ]

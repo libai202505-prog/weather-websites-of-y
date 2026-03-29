@@ -318,5 +318,25 @@
     "ai_briefing_zh": "大连有霾，体感 8℃，外出记得做好防护，注意健康。",
     "ai_briefing_en": "Dalian: Hazy, feels like 8℃. Take precautions, stay healthy!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-29T21:48+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "100",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "5",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "霾天，体感 6℃，外出请戴口罩，注意保暖。",
+    "ai_briefing_en": "Haze, feels like 6℃. Wear a mask, keep warm.",
+    "alert": null
   }
 ]

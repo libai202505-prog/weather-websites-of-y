@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州阴天，有 3级东南风，外出带件外套哦。",
     "ai_briefing_en": "Hangzhou: Cloudy with 3-level wind. Bring a jacket!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-29T21:50+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "120",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "5",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "雾气弥漫，出行注意安全，祝您一天愉快！",
+    "ai_briefing_en": "Foggy, travel safely. Have a pleasant day!",
+    "alert": null
   }
 ]

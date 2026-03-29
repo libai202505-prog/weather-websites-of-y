@@ -258,5 +258,25 @@
     "ai_briefing_zh": "哈尔滨体感 -1℃，风力 4级并有霾，务必多穿！",
     "ai_briefing_en": "Harbin feels -1℃ with haze and strong wind. Bundle up!",
     "alert": "📉 红色降温预警：1小时骤降7℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-29T18:26+08:00",
+    "temp": "6",
+    "feelsLike": "0",
+    "text": "霾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "330",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "28",
+    "dew": "-3",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨有霾，体感只有 0℃，注意保暖和健康防护。",
+    "ai_briefing_en": "Harbin is hazy, feels only 0℃. Stay warm and protect your health.",
+    "alert": null
   }
 ]

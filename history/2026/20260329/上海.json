@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海多云，气温适宜。享受这美好的天气吧！",
     "ai_briefing_en": "Shanghai is cloudy with pleasant temperatures. Enjoy this lovely weather!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-29T13:00+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "13",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天气，体感舒适，记得多喝水。",
+    "ai_briefing_en": "Cloudy & comfy. Stay hydrated!",
+    "alert": null
   }
 ]

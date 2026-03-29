@@ -218,5 +218,25 @@
     "ai_briefing_zh": "阴天凉爽，湿度高，注意防潮保暖。",
     "ai_briefing_en": "Overcast and cool, high humidity. Stay warm and dry!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-29T16:34+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "54",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "944",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "96",
+    "ai_briefing_zh": "成都阴天，湿度大，请注意防潮保暖。",
+    "ai_briefing_en": "Chengdu is cloudy and humid, keep warm and dry.",
+    "alert": null
   }
 ]

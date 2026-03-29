@@ -218,5 +218,25 @@
     "ai_briefing_zh": "阴天舒适，温度适宜，记得添衣！",
     "ai_briefing_en": "Overcast and comfy, pleasant temperature. Remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-29T16:34+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "121",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "10",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨，气温适中，出门别忘带雨具。",
+    "ai_briefing_en": "Wuhan has light rain, mild temp, don't forget your umbrella.",
+    "alert": null
   }
 ]

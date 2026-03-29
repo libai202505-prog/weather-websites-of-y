@@ -338,5 +338,25 @@
     "ai_briefing_zh": "霾天，体感 6℃，外出请戴口罩，注意保暖。",
     "ai_briefing_en": "Haze, feels like 6℃. Wear a mask, keep warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-29T22:24+08:00",
+    "temp": "9",
+    "feelsLike": "5",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "46",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "5",
+    "dew": "5",
+    "cloud": "91",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

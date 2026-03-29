@@ -338,5 +338,25 @@
     "ai_briefing_zh": "阵雨来袭，记得带伞，路滑慢行。",
     "ai_briefing_en": "Light rain, take an umbrella. Roads are slick, drive slow.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-29T22:26+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "306",
+    "humidity": "87",
+    "precip": "0.6",
+    "pressure": "966",
+    "vis": "16",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

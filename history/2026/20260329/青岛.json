@@ -338,5 +338,25 @@
     "ai_briefing_zh": "雾气浓，体感 8℃，出行慢行，注意保暖。",
     "ai_briefing_en": "Heavy fog, feels like 8℃. Drive slowly, stay warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-29T22:24+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "6",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉大雾，体感 20℃，能见度低，出行注意安全。",
     "ai_briefing_en": "Wuhan is foggy, feels like 20℃. Low visibility, please travel safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-29T19:26+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "282",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "5",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨天气，湿度大，出门别忘了带伞哦。",
+    "ai_briefing_en": "Light rain and humid. Don't forget your umbrella when you go out!",
+    "alert": null
   }
 ]

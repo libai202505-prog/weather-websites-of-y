@@ -278,5 +278,25 @@
     "ai_briefing_zh": "上海多云，体感 16℃，风力小，湿度大，感觉有点闷。",
     "ai_briefing_en": "Shanghai: cloudy, feels like 16℃, light wind, high humidity. Might feel a bit muggy.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-29T19:26+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "91",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "6",
+    "dew": "14",
+    "cloud": "99",
+    "ai_briefing_zh": "雾气弥漫，能见度低，外出小心慢行哦！",
+    "ai_briefing_en": "Foggy out there, low visibility. Please take care when traveling!",
+    "alert": null
   }
 ]

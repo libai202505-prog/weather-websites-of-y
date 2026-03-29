@@ -198,5 +198,25 @@
     "ai_briefing_zh": "有雾，能见度低，出行请注意安全。",
     "ai_briefing_en": "Foggy. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-03-29T15:02+08:00",
+    "temp": "22",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "82",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "24",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，湿度较高，保持好心情！",
+    "ai_briefing_en": "Cloudy, high humidity. Keep a good mood!",
+    "alert": null
   }
 ]

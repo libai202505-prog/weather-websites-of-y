@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天微凉，湿度 100%，出门带伞。",
     "ai_briefing_en": "Cool, humid. Bring umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-29T15:02+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "339",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "947",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天凉爽，湿度高，注意防潮保暖。",
+    "ai_briefing_en": "Overcast and cool, high humidity. Stay warm and dry!",
+    "alert": null
   }
 ]

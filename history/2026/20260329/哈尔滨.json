@@ -198,5 +198,25 @@
     "ai_briefing_zh": "扬沙降温，风大体感冷，注意防风保暖。",
     "ai_briefing_en": "Sandy wind. Cold. Bundle up!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-03-29T14:58+08:00",
+    "temp": "11",
+    "feelsLike": "5",
+    "text": "扬沙",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "325",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "10",
+    "dew": "-2",
+    "cloud": "100",
+    "ai_briefing_zh": "扬沙大风，体感很冷，注意防风保暖！",
+    "ai_briefing_en": "Sandstorm and strong winds, feels very cold. Stay warm and protect yourself!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

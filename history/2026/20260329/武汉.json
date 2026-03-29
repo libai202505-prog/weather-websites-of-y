@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天舒适，气温 22℃，保持好心情。",
     "ai_briefing_en": "Cloudy & comfy. Smile!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-29T15:02+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "139",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "10",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天舒适，温度适宜，记得添衣！",
+    "ai_briefing_en": "Overcast and comfy, pleasant temperature. Remember to layer up!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天微热，湿度大，请保持清爽。",
     "ai_briefing_en": "Warm, humid. Stay fresh!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-29T15:02+08:00",
+    "temp": "25",
+    "feelsLike": "29",
+    "text": "雨",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "148",
+    "humidity": "75",
+    "precip": "0.3",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "40",
+    "ai_briefing_zh": "有雨湿热，体感闷热，别忘带伞！",
+    "ai_briefing_en": "Rainy and humid, feels muggy. Don't forget your umbrella!",
+    "alert": null
   }
 ]

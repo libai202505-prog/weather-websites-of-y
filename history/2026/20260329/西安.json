@@ -238,5 +238,25 @@
     "ai_briefing_zh": "西安阴天，体感微凉，记得添件外套哦。",
     "ai_briefing_en": "Xi'an is cloudy and cool, grab a jacket.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-29T17:35+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "259",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天，体感 16℃，微凉，记得带件外套。",
+    "ai_briefing_en": "Xi'an is cloudy, feels 16℃ and cool. Bring a jacket!",
+    "alert": null
   }
 ]

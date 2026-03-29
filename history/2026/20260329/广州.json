@@ -238,5 +238,25 @@
     "ai_briefing_zh": "广州小雨，湿度大，体感热，记得带伞！",
     "ai_briefing_en": "Guangzhou has light rain, humid and warm, bring an umbrella!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-29T17:34+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "350",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "广州湿度高达 92%，体感温暖潮湿，注意除湿。",
+    "ai_briefing_en": "Guangzhou is very humid and warm. Mind the moisture!",
+    "alert": null
   }
 ]

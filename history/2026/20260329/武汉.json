@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉小雨，气温适中，出门别忘带雨具。",
     "ai_briefing_en": "Wuhan has light rain, mild temp, don't forget your umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-29T17:34+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "14",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "9",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，气温 20℃，体感舒适，保持好心情。",
+    "ai_briefing_en": "Wuhan is cloudy, 20℃. Feels comfortable, keep smiling!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天微凉，体感 15℃。适合室内活动。",
     "ai_briefing_en": "Overcast and cool, feels like 15℃. Good for indoor activities.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-03-30T21:02+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "346",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "970",
+    "vis": "16",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天 15℃，体感 14℃。湿度适中，记得适当添减衣物。",
+    "ai_briefing_en": "Overcast at 15℃, feels like 14℃. Moderate humidity, dress appropriately.",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天湿度大，体感 22℃，穿衣记得防潮。",
     "ai_briefing_en": "Overcast and humid, feels like 22℃, dress for moisture.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-30T21:02+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "17",
+    "humidity": "79",
+    "precip": "1.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天 17℃，风力 5级。风力较大，出门注意防风保暖。",
+    "ai_briefing_en": "Overcast at 17℃ with 5-level wind. It's windy, mind the wind and stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降10℃ | 💨 北风警报：北风 5级"
   }
 ]

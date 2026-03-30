@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天 18℃，体感 17℃。体感舒适，注意适宜穿着。",
     "ai_briefing_en": "Overcast at 18℃, feels like 17℃. Comfortable day, dress as you feel.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-03-30T22:57+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "251",
+    "humidity": "92",
+    "precip": "2.1",
+    "pressure": "982",
+    "vis": "6",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
+    "ai_briefing_en": "重庆: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

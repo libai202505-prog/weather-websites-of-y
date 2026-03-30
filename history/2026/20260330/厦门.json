@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云 22℃，体感 22℃。温度适宜，记得多喝水哦！",
     "ai_briefing_en": "Cloudy at 22℃, feels like 22℃. Pleasant temperature, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-03-30T22:58+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "296",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "23",
+    "dew": "20",
+    "cloud": "99",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

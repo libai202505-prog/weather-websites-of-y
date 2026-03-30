@@ -278,5 +278,25 @@
     "ai_briefing_zh": "小雨 21℃，湿度 90%。雨天路滑，记得带伞慢行。",
     "ai_briefing_en": "Light rain at 21℃, 90% humidity. Roads are slippery, take an umbrella and walk carefully.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-30T22:58+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "59",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "6",
+    "dew": "21",
+    "cloud": "98",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

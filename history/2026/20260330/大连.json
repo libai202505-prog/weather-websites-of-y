@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连阴天，体感偏凉。早晚温差大，记得及时添衣哦。",
     "ai_briefing_en": "Dalian is overcast, feels cool. Big temperature difference, add clothes in time!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-03-30T13:10+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "35",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "大连阴天，体感凉。风力适中，记得添件薄外套。",
+    "ai_briefing_en": "Dalian is cloudy and cool. Moderate wind, remember a light jacket.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉雾气重，风力稍大。体感凉，出行注意安全与保暖。",
     "ai_briefing_en": "Wuhan is very foggy, windy. Feels cool, travel safely and keep warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-30T13:14+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "342",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "15",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，风力较大。湿冷感重，记得多穿。",
+    "ai_briefing_en": "Wuhan is cloudy and windy. Feels damp and cold, dress warmly!",
+    "alert": null
   }
 ]

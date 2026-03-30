@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京大雾弥漫，湿度饱和。气温偏凉，注意添衣防潮湿。",
     "ai_briefing_en": "Nanjing is very foggy, high humidity. Feels cool, dress warm and mind dampness.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-30T13:12+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "61",
+    "humidity": "100",
+    "precip": "0.8",
+    "pressure": "1002",
+    "vis": "3",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "南京有雨，湿度百分百！带好雨具，注意保暖。",
+    "ai_briefing_en": "Nanjing is rainy, 100% humidity! Grab your umbrella, stay warm.",
+    "alert": null
   }
 ]

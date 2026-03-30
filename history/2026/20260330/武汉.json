@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉风大体感凉，出门加衣，注意防风保暖！",
     "ai_briefing_en": "Wuhan is windy and feels cool. Wear more layers when going out and stay warm!",
     "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-30T18:58+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "59",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "18",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "多云有风，体感 13℃。记得加件薄外套哦。",
+    "ai_briefing_en": "Cloudy and windy, feels like 13℃. Remember a light jacket!",
+    "alert": null
   }
 ]

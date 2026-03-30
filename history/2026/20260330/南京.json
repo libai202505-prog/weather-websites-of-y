@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京阴冷湿度高，穿暖别受凉，保持室内干燥。",
     "ai_briefing_en": "Nanjing is cold and humid. Dress warmly, avoid colds, and keep indoors dry.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-30T18:58+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "21",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "10",
+    "dew": "13",
+    "cloud": "92",
+    "ai_briefing_zh": "湿度 100%，阴冷有风。注意保暖，小心感冒。",
+    "ai_briefing_en": "100% humidity, chilly and windy. Stay warm to avoid colds.",
+    "alert": null
   }
 ]

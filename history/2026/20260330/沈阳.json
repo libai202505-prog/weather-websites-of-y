@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳大雾湿冷，能见度低，出门务必多穿。",
     "ai_briefing_en": "Shenyang is foggy and cold. Low visibility, dress extra warmly.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-30T10:26+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "25",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "29",
+    "dew": "-4",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳晴天，阳光正好！体感偏凉，记得适时添衣。",
+    "ai_briefing_en": "Shenyang is sunny and bright! Feels cool, remember to add clothes.",
+    "alert": null
   }
 ]

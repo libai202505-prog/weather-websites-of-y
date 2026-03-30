@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉小雨，湿度 100%，记得带伞防潮哦。",
     "ai_briefing_en": "Wuhan has light rain and 100% humidity. Don't forget your umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-30T10:26+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "339",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "6",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉雾气重，风力稍大。体感凉，出行注意安全与保暖。",
+    "ai_briefing_en": "Wuhan is very foggy, windy. Feels cool, travel safely and keep warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

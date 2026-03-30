@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京阴天，体感凉。多穿件衣服，注意保暖。",
     "ai_briefing_en": "Beijing is cloudy and cool. Dress warmly and stay cozy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-03-30T15:32+08:00",
+    "temp": "17",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "216",
+    "humidity": "17",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "-9",
+    "cloud": "91",
+    "ai_briefing_zh": "北京阴天，体感 13℃，微凉且干燥，记得多喝水哦！",
+    "ai_briefing_en": "Beijing is cloudy, feels 13℃, a bit cool and dry. Remember to stay hydrated!",
+    "alert": null
   }
 ]

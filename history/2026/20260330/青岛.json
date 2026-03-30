@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛阴天，体感 12℃，湿度较高，出门记得添衣哦！",
     "ai_briefing_en": "Qingdao is cloudy, feels 12℃ with high humidity. Remember to add a layer when going out!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-03-30T17:02+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "160",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "15",
+    "dew": "6",
+    "cloud": "99",
+    "ai_briefing_zh": "青岛阴冷湿度高，穿暖别受凉，出行注意安全。",
+    "ai_briefing_en": "Qingdao is cold and humid. Dress warmly, avoid colds, and travel safely.",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京阵雨，体感 11℃，北风微凉，出门别忘带伞添衣！",
     "ai_briefing_en": "Nanjing has showers, feels 11℃ with a cool north wind. Don't forget your umbrella and extra layers!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-30T17:00+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "8",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1004",
+    "vis": "2",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴冷湿度高，穿暖别受凉，保持室内干燥。",
+    "ai_briefing_en": "Nanjing is cold and humid. Dress warmly, avoid colds, and keep indoors dry.",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉阴天，气温适中，出门注意添减衣物哦。",
     "ai_briefing_en": "Wuhan is overcast with mild temperatures. Dress appropriately for the day.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-03-31T18:50+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "227",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "9",
+    "dew": "12",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉有雾 17℃，能见度低。驾车出行请减速慢行，注意安全。",
+    "ai_briefing_en": "Wuhan has fog 17℃. Low visibility, please drive slowly and safely.",
+    "alert": null
   }
 ]

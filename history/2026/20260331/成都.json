@@ -218,5 +218,25 @@
     "ai_briefing_zh": "成都晴空万里，气温舒适，适合外出享受阳光。",
     "ai_briefing_en": "Chengdu is sunny and pleasant. Enjoy the sunshine outdoors!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-03-31T18:50+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "187",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "16",
+    "dew": "8",
+    "cloud": "1",
+    "ai_briefing_zh": "成都 21℃ 晴朗，体感 19℃。阳光正好，出门散步很舒服！",
+    "ai_briefing_en": "Chengdu is sunny 21℃, feels like 19℃. Perfect for a stroll outside!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

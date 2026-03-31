@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大雨来袭，记得带伞，小心路滑，注意保暖。",
     "ai_briefing_en": "Heavy rain, remember your umbrella. Be careful of slippery roads and stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-31T16:58+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "355",
+    "humidity": "93",
+    "precip": "2.5",
+    "pressure": "1008",
+    "vis": "2",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨湿冷，体感较低，别忘带伞，多穿点哦。",
+    "ai_briefing_en": "Hangzhou is rainy and damp. It feels colder, so bring an umbrella and layer up.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

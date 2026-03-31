@@ -238,5 +238,25 @@
     "ai_briefing_zh": "昆明 21℃ 多云，体感 17℃。风力稍大，出门注意防风保暖。",
     "ai_briefing_en": "Kunming is 21℃ cloudy, feels like 17℃. It's breezy, stay warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-03-31T19:42+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "213",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "28",
+    "dew": "7",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明多云，气温 20℃。体感舒适，适宜出行。",
+    "ai_briefing_en": "Kunming cloudy, 20°C. Enjoy!",
+    "alert": null
   }
 ]

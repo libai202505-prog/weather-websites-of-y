@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州雾气浓，体感 14℃。驾车请减速慢行！",
     "ai_briefing_en": "Hangzhou fog. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-03-31T13:02+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "19",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "5",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，体感湿冷，记得带伞，注意保暖哦！",
+    "ai_briefing_en": "Hangzhou has light rain and feels damp and cold. Remember your umbrella and keep warm!",
+    "alert": null
   }
 ]

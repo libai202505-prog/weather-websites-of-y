@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海阴天，体感 16℃。穿衣舒适，心情也要靓！",
     "ai_briefing_en": "Shanghai 16C. Stay comfy!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-03-31T13:00+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "11",
+    "dew": "11",
+    "cloud": "98",
+    "ai_briefing_zh": "上海阴天，气温适宜，小心昼夜温差，早晚添衣哦。",
+    "ai_briefing_en": "Shanghai is overcast, temperatures are pleasant. Watch for day-night differences, add clothes in mornings/evenings.",
+    "alert": null
   }
 ]

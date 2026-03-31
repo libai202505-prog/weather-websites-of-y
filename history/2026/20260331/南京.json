@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京有雾，体感 14℃。出行请注意交通安全！",
     "ai_briefing_en": "Nanjing fog. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-03-31T13:02+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "53",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "2",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "南京有雾，能见度低，驾车出行请注意安全！",
+    "ai_briefing_en": "Nanjing is foggy with low visibility. Please drive safely when traveling!",
+    "alert": null
   }
 ]

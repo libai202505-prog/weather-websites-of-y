@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳体感 8℃，昼夜温差大。早晚多加衣！",
     "ai_briefing_en": "Shenyang 8C. Layer up!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-31T13:00+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "294",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "-6",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳多云，体感偏冷，注意保暖，出门别忘防风哦。",
+    "ai_briefing_en": "Shenyang is cloudy and feels cold. Stay warm, and remember to protect yourself from the wind when going out.",
+    "alert": null
   }
 ]

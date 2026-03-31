@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳多云，体感 6℃。注意保暖，小心感冒！",
     "ai_briefing_en": "Shenyang cloudy, 6°C. Stay warm.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-03-31T21:02+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "242",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "22",
+    "dew": "-10",
+    "cloud": "91",
+    "ai_briefing_zh": "天气阴沉，气温 9℃ 偏低，多穿点衣服别感冒。",
+    "ai_briefing_en": "Overcast and cool at 9℃, dress warmly to avoid a cold.",
+    "alert": null
   }
 ]

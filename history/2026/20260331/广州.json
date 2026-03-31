@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州雾气浓重，温暖潮湿，注意除湿，保持好心情！",
     "ai_briefing_en": "Guangzhou is foggy and humid. It's warm, so stay comfortable!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-03-31T10:26+08:00",
+    "temp": "23",
+    "feelsLike": "26",
+    "text": "阵雨",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "166",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "14",
+    "dew": "21",
+    "cloud": "96",
+    "ai_briefing_zh": "广州阵雨，体感 26℃。出门别忘带伞哦！",
+    "ai_briefing_en": "Guangzhou rain. Umbrella!",
+    "alert": null
   }
 ]

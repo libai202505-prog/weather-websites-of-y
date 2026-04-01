@@ -238,5 +238,25 @@
     "ai_briefing_zh": "晴朗 16℃，体感舒适。别辜负好时光哦！",
     "ai_briefing_en": "Sunny 16℃, feels comfortable. Make the most of this day!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-01T19:50+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "17",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "22",
+    "dew": "13",
+    "cloud": "7",
+    "ai_briefing_zh": "杭州晴朗，气温 16℃ 舒适，非常适合户外活动。",
+    "ai_briefing_en": "Hangzhou is sunny and a comfortable 16℃. Great for outdoor activities.",
+    "alert": null
   }
 ]

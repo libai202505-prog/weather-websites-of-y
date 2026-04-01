@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京大雾，体感 12℃，能见度低，开车请慢行！",
     "ai_briefing_en": "Nanjing has dense fog, feels like 12℃. Low visibility, drive slowly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-01T10:34+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "216",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "6",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "南京有霾，体感微凉。外出请佩戴口罩，保护呼吸道健康。",
+    "ai_briefing_en": "Nanjing has haze and feels cool. Wear a mask when going out for respiratory health.",
+    "alert": null
   }
 ]

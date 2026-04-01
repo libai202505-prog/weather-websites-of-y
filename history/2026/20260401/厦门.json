@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门多云湿润，风力大，注意防风别感冒。",
     "ai_briefing_en": "Xiamen humid, windy. Layer up!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-01T18:50+08:00",
+    "temp": "18",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "83",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗 18℃，风力 4级体感凉。风大注意保暖！",
+    "ai_briefing_en": "Sunny 18℃, strong wind makes it feel cool. Dress warm!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

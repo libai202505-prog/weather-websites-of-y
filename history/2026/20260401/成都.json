@@ -218,5 +218,25 @@
     "ai_briefing_zh": "成都阴天，体感温和，备好雨具，有备无患。",
     "ai_briefing_en": "Chengdu overcast. Be ready!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-01T18:50+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "78",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "952",
+    "vis": "16",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天 20℃，体感舒适。雨具记得备好哦。",
+    "ai_briefing_en": "Overcast 20℃, feels pleasant. Keep an umbrella handy!",
+    "alert": null
   }
 ]

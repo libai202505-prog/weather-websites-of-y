@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳体感 3℃，风力 2 级，多云天也要注意保暖。",
     "ai_briefing_en": "Shenyang feels like 3℃ with a breeze. Keep warm even on cloudy days.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-01T21:08+08:00",
+    "temp": "7",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "342",
+    "humidity": "20",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "-15",
+    "cloud": "0",
+    "ai_briefing_zh": "体感较凉，风力较大，出门注意防风保暖。",
+    "ai_briefing_en": "Feels cool and windy, dress warmly and protect from wind.",
+    "alert": null
   }
 ]

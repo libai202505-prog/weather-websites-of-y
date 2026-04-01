@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门多云，体感微凉。风力较大，小心着凉！",
     "ai_briefing_en": "Xiamen is cloudy and slightly cool. With stronger wind, watch out for colds!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-01T17:00+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "81",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "26",
+    "dew": "16",
+    "cloud": "1",
+    "ai_briefing_zh": "厦门多云湿润，风力大，注意防风别感冒。",
+    "ai_briefing_en": "Xiamen humid, windy. Layer up!",
+    "alert": null
   }
 ]

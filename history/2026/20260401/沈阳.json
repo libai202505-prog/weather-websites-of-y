@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云有风，体感 4℃。风力较大，出门注意防风保暖。",
     "ai_briefing_en": "Cloudy and windy, feels like 4℃. Strong winds, stay warm!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-01T15:08+08:00",
+    "temp": "11",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "345",
+    "humidity": "19",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "-12",
+    "cloud": "2",
+    "ai_briefing_zh": "沈阳多云，体感 5℃。出门一定要多穿衣！",
+    "ai_briefing_en": "Shenyang is cloudy and feels like 5℃. Be sure to dress warmly when you go out!",
+    "alert": null
   }
 ]

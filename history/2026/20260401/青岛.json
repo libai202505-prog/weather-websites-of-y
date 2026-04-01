@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛多云微凉，海风阵阵。早晚温差大，别忘了添衣。",
     "ai_briefing_en": "Qingdao is partly cloudy and cool with sea breezes. Layer up for temperature changes.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-04-01T13:12+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "117",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "8",
+    "dew": "5",
+    "cloud": "0",
+    "ai_briefing_zh": "多云舒适，体感 14℃。海边风大，注意防风。",
+    "ai_briefing_en": "Cloudy and pleasant, feels like 14℃. Windy by the sea, bundle up.",
+    "alert": null
   }
 ]

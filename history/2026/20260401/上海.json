@@ -278,5 +278,25 @@
     "ai_briefing_zh": "天气晴好，宜出行。注意补水，保持好心情！",
     "ai_briefing_en": "Sunny and pleasant. Stay hydrated and enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-01T23:00+08:00",
+    "temp": "15",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "16",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "3",
+    "dew": "11",
+    "cloud": "3",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

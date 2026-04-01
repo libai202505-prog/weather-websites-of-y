@@ -278,5 +278,25 @@
     "ai_briefing_zh": "小雨绵绵，带上雨具，出门别忘了。",
     "ai_briefing_en": "Light rain, remember your umbrella before heading out.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-01T23:02+08:00",
+    "temp": "16",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "340",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

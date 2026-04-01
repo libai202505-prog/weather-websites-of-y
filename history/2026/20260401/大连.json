@@ -278,5 +278,25 @@
     "ai_briefing_zh": "晴朗但风大体感凉，出门记得防风保暖。",
     "ai_briefing_en": "Sunny but windy and cool, remember wind protection.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-01T23:00+08:00",
+    "temp": "7",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "342",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "27",
+    "dew": "-5",
+    "cloud": "7",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

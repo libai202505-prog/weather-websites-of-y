@@ -278,5 +278,25 @@
     "ai_briefing_zh": "湿度很大有薄雾，出行注意能见度。",
     "ai_briefing_en": "Very humid and misty, mind the visibility when out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-01T23:02+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "153",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "9",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

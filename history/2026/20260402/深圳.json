@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳多云，体感舒适 21℃，风力适中，宜出行。",
     "ai_briefing_en": "Shenzhen is cloudy and comfortable at 21℃. A great day to go out!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-04-02T10:13+08:00",
+    "temp": "22",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "27",
+    "dew": "20",
+    "cloud": "99",
+    "ai_briefing_zh": "深圳阴天，体感 25℃ 有些热，注意补水，穿清凉衣物。",
+    "ai_briefing_en": "Shenzhen feels 25℃ and warm. Stay hydrated and dress cool!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州阴天，体感 18℃ 略凉，出门穿件薄外套，保持温暖。",
     "ai_briefing_en": "Cloudy in Hangzhou, feels slightly cool at 18℃. Wear a light jacket to stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-02T19:40+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "77",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "7",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天，体感舒适。外出散步记得添件衣裳。",
+    "ai_briefing_en": "Overcast in Hangzhou, comfortable. Enjoy a walk!",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "沈阳晴天，风力 4 级偏大，体感 10℃ 较冷，注意防风。",
     "ai_briefing_en": "Shenyang is sunny but windy with a 10°C wind chill. Stay warm and protect yourself from the wind.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-02T18:00+08:00",
+    "temp": "14",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "229",
+    "humidity": "27",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "-10",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴朗，体感只有 6℃，风力 3级。阳光虽好，也要多穿衣物保暖哦！",
+    "ai_briefing_en": "Sunny in Shenyang, but it feels like only 6℃ with moderate winds. Enjoy the sun, but dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

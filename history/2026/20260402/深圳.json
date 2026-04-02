@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳阴天，湿度较高，体感有点闷热呢。",
     "ai_briefing_en": "Overcast in Shenzhen, high humidity makes it feel a bit muggy.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-04-02T15:02+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "91",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "28",
+    "dew": "20",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳湿度较高，体感略热，清淡饮食更佳。",
+    "ai_briefing_en": "Shenzhen is quite humid and feels a bit warm. Light meals are better.",
+    "alert": null
   }
 ]

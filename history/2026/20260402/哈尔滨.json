@@ -178,5 +178,25 @@
     "ai_briefing_zh": "哈尔滨晴朗但风大体感冷。穿暖防风防干燥！",
     "ai_briefing_en": "Sunny but windy and cold in Harbin. Dress warmly, protect from wind and dryness!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-02T15:00+08:00",
+    "temp": "13",
+    "feelsLike": "5",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "303",
+    "humidity": "8",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "8",
+    "dew": "-17",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨体感寒冷，风力 3级，一定要穿暖和哦！",
+    "ai_briefing_en": "Harbin feels very cold with a level 3 wind. Be sure to dress warmly!",
+    "alert": null
   }
 ]

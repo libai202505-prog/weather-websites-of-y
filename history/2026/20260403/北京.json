@@ -178,5 +178,25 @@
     "ai_briefing_zh": "雾霾天，外出记得戴好口罩，保护呼吸道哦！",
     "ai_briefing_en": "Hazy day, wear a mask for outdoor safety.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-03T13:00+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "霾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "226",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "4",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "霾天气温适中，但请戴口罩，保护呼吸道哦！",
+    "ai_briefing_en": "Hazy weather, please wear a mask to protect your respiratory system!",
+    "alert": null
   }
 ]

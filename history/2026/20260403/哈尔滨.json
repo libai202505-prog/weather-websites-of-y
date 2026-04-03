@@ -178,5 +178,25 @@
     "ai_briefing_zh": "小雨夹雪，体感寒冷。多穿厚衣服保暖，小心路滑！",
     "ai_briefing_en": "Rain/sleet, freezing. Bundle up, beware of slick roads!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-03T13:00+08:00",
+    "temp": "1",
+    "feelsLike": "-5",
+    "text": "雪",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "29",
+    "humidity": "96",
+    "precip": "0.7",
+    "pressure": "994",
+    "vis": "2",
+    "dew": "-6",
+    "cloud": "100",
+    "ai_briefing_zh": "下雪啦！气温骤降，一定要多穿衣服防寒防滑！",
+    "ai_briefing_en": "It's snowing! Temperatures dropped sharply, dress warmly and watch for ice!",
+    "alert": null
   }
 ]

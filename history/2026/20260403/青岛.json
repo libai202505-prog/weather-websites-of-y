@@ -318,5 +318,25 @@
     "ai_briefing_zh": "青岛大雾弥漫，体感 6℃，出行注意保暖和交通安全。",
     "ai_briefing_en": "Qingdao is very foggy and feels 6℃. Stay warm and drive safely.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-04-03T22:34+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "雨",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "115",
+    "humidity": "96",
+    "precip": "0.3",
+    "pressure": "997",
+    "vis": "6",
+    "dew": "8",
+    "cloud": "94",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

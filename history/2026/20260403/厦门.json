@@ -318,5 +318,25 @@
     "ai_briefing_zh": "厦门有雨，湿度 96%，注意防潮，出行带好雨具。",
     "ai_briefing_en": "Xiamen is rainy with 96% humidity. Watch for dampness and carry an umbrella.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-03T22:34+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "雨",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "312",
+    "humidity": "97",
+    "precip": "1.7",
+    "pressure": "992",
+    "vis": "1",
+    "dew": "21",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "大连有雨体感 8℃，出门记得带伞，注意防潮保暖。",
     "ai_briefing_en": "Dalian is rainy and feels 8℃. Take an umbrella and stay warm and dry.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-03T22:32+08:00",
+    "temp": "7",
+    "feelsLike": "-1",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "1",
+    "humidity": "85",
+    "precip": "4.0",
+    "pressure": "995",
+    "vis": "11",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降9℃ | 💨 北风警报：北风 5级"
   }
 ]

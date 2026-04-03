@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阵雨天气，出门记得带伞，小心路滑！",
     "ai_briefing_en": "Showers today, bring an umbrella and watch for slippery roads!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-03T15:00+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "321",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "2",
+    "dew": "17",
+    "cloud": "99",
+    "ai_briefing_zh": "厦门有雾 17℃，能见度低，出行小心，注意交通安全。",
+    "ai_briefing_en": "Xiamen is foggy at 17℃ with low visibility. Travel carefully and stay safe!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "霾天气温适中，但请戴口罩，保护呼吸道哦！",
     "ai_briefing_en": "Hazy weather, please wear a mask to protect your respiratory system!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-03T15:00+08:00",
+    "temp": "21",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "269",
+    "humidity": "12",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "15",
+    "dew": "-6",
+    "cloud": "91",
+    "ai_briefing_zh": "北京体感 15℃，风力 4级偏大，出门多穿衣，注意保暖防风哦！",
+    "ai_briefing_en": "Beijing feels like 15℃ with strong winds. Dress warmly and stay cozy!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

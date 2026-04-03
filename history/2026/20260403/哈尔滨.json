@@ -198,5 +198,25 @@
     "ai_briefing_zh": "下雪啦！气温骤降，一定要多穿衣服防寒防滑！",
     "ai_briefing_en": "It's snowing! Temperatures dropped sharply, dress warmly and watch for ice!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-03T15:00+08:00",
+    "temp": "1",
+    "feelsLike": "-5",
+    "text": "雪",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "22",
+    "humidity": "98",
+    "precip": "1.8",
+    "pressure": "993",
+    "vis": "1",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨下雪 1℃，体感 -5℃！穿最厚的衣服，注意防滑保暖！",
+    "ai_briefing_en": "Harbin is snowing at 1℃, feels like -5℃! Bundle up warmly and watch for ice!",
+    "alert": null
   }
 ]

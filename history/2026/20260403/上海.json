@@ -198,5 +198,25 @@
     "ai_briefing_zh": "下雨啦，气温骤降。多添衣物，小心着凉。",
     "ai_briefing_en": "It's raining and temperatures dropped. Wear more clothes, avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-03T15:00+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "340",
+    "humidity": "95",
+    "precip": "1.8",
+    "pressure": "1005",
+    "vis": "9",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "上海细雨绵绵 15℃，体感微凉，记得带伞，添衣别着凉。",
+    "ai_briefing_en": "Shanghai's 15℃ with light rain feels cool. Don't forget your umbrella and extra layers!",
+    "alert": null
   }
 ]

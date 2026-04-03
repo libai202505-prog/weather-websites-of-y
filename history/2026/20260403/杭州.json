@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州小雨绵绵，地面湿滑，出行要慢些哦。",
     "ai_briefing_en": "Hangzhou has light rain. Roads are wet, take care!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-03T18:34+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "252",
+    "humidity": "95",
+    "precip": "0.4",
+    "pressure": "998",
+    "vis": "8",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，出门别忘带伞，湿度大，感觉会有点凉。",
+    "ai_briefing_en": "Hangzhou has light rain, take an umbrella. High humidity feels cool.",
+    "alert": null
   }
 ]

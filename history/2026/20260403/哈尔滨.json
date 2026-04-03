@@ -258,5 +258,25 @@
     "ai_briefing_zh": "哈尔滨下雪了，气温很低，出门一定要穿暖和哦！",
     "ai_briefing_en": "Harbin is snowing and very cold. Bundle up warm when going out!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-03T18:30+08:00",
+    "temp": "1",
+    "feelsLike": "-4",
+    "text": "雪",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "35",
+    "humidity": "98",
+    "precip": "0.6",
+    "pressure": "992",
+    "vis": "7",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨下雪啦！体感很冷，注意防滑，多穿衣保暖。",
+    "ai_briefing_en": "Harbin is snowing! It feels very cold, dress warmly and watch for ice.",
+    "alert": null
   }
 ]

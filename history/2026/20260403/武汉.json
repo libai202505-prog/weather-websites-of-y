@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉 18℃，体感 16℃，风力 2级，阴天微凉，记得添衣。",
     "ai_briefing_en": "Wuhan is 18℃, feeling 16℃ with light breeze. It's cool, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-03T16:49+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "292",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "26",
+    "dew": "15",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉阴天，体感 19℃。注意添衣，别着凉了哦！",
+    "ai_briefing_en": "Wuhan is cloudy, feels 19℃. Remember to add a layer of clothing!",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "哈尔滨下雪啦！体感很冷，注意防滑，多穿衣保暖。",
     "ai_briefing_en": "Harbin is snowing! It feels very cold, dress warmly and watch for ice.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-03T19:30+08:00",
+    "temp": "1",
+    "feelsLike": "-5",
+    "text": "雪",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "58",
+    "humidity": "94",
+    "precip": "0.1",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨下雪啦！体感 -5℃，防寒保暖要做好！",
+    "ai_briefing_en": "Harbin is snowing! Feels like -5℃. Make sure to keep warm!",
+    "alert": null
   }
 ]

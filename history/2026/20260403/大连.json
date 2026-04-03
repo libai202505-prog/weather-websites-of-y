@@ -278,5 +278,25 @@
     "ai_briefing_zh": "大连有雾，体感湿凉，出行注意交通安全，添衣哦。",
     "ai_briefing_en": "Dalian is foggy, feels damp and cool. Drive safe and dress warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-03T19:33+08:00",
+    "temp": "11",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "182",
+    "humidity": "87",
+    "precip": "0.3",
+    "pressure": "992",
+    "vis": "5",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "大连晴朗，气温 11℃，虽有阳光，也要注意保暖。",
+    "ai_briefing_en": "Dalian is sunny at 11℃. Though sunny, remember to keep warm.",
+    "alert": null
   }
 ]

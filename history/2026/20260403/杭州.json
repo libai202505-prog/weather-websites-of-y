@@ -278,5 +278,25 @@
     "ai_briefing_zh": "杭州小雨，出门别忘带伞，湿度大，感觉会有点凉。",
     "ai_briefing_en": "Hangzhou has light rain, take an umbrella. High humidity feels cool.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-03T19:34+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "155",
+    "humidity": "96",
+    "precip": "1.3",
+    "pressure": "998",
+    "vis": "7",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，微凉湿润，记得带伞，路面湿滑。",
+    "ai_briefing_en": "Hangzhou has light rain, cool and humid. Bring an umbrella, roads may be slick.",
+    "alert": null
   }
 ]

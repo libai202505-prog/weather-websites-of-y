@@ -278,5 +278,25 @@
     "ai_briefing_zh": "沈阳有雨，风力较大，体感偏冷，出门注意添衣防雨。",
     "ai_briefing_en": "Shenyang is rainy and windy, feels cold. Bring umbrella and dress warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-03T19:34+08:00",
+    "temp": "4",
+    "feelsLike": "-1",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "282",
+    "humidity": "94",
+    "precip": "0.4",
+    "pressure": "998",
+    "vis": "19",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳有雨，体感 -1℃，风力大，注意添衣防寒。",
+    "ai_briefing_en": "Shenyang has rain, feels like -1℃ with strong wind. Dress warmly to protect from cold.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

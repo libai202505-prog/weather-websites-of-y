@@ -298,5 +298,25 @@
     "ai_briefing_zh": "慈溪阴天，体感略凉，注意保暖别着凉。",
     "ai_briefing_en": "Overcast in Cixi, feels cool. Keep warm and don't catch a cold.",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-04-04T19:26+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "117",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "8",
+    "dew": "15",
+    "cloud": "91",
+    "ai_briefing_zh": "大雾天气，能见度低，出行请注意安全。",
+    "ai_briefing_en": "Foggy. Drive safe!",
+    "alert": null
   }
 ]

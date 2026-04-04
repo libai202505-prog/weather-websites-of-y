@@ -238,5 +238,25 @@
     "ai_briefing_zh": "晴天但风力较大，体感很凉，出门多穿点！",
     "ai_briefing_en": "Sunny but windy, feels very cold. Dress warmly when going out!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-04T16:34+08:00",
+    "temp": "8",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "12",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "-4",
+    "cloud": "0",
+    "ai_briefing_zh": "大连气温偏低，体感较冷。记得多穿防寒保暖！",
+    "ai_briefing_en": "Dalian: Cold. Bundle up!",
+    "alert": null
   }
 ]

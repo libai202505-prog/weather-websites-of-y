@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天无风，湿度较高，感觉会有点闷热呢。",
     "ai_briefing_en": "Overcast, no wind, high humidity. Might feel a bit muggy.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-04-04T16:34+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "345",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "16",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天，湿度很高。注意除湿，保持清爽。",
+    "ai_briefing_en": "Shenzhen: Cloudy, humid. Fresh!",
+    "alert": null
   }
 ]

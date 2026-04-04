@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海有雾，体感 13℃ 偏凉，出行注意安全哦！",
     "ai_briefing_en": "Shanghai is foggy, feels 13℃ cool. Stay safe on the road!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-04T21:42+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "280",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "6",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "雾气较浓，驾车出行，请务必减速慢行。",
+    "ai_briefing_en": "Dense fog, drive slowly and carefully.",
+    "alert": null
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "南京多云，体感 16℃ 宜人，记得带件外套哦。",
     "ai_briefing_en": "Nanjing is cloudy, feels 16℃ pleasant. Bring a light jacket!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-04T21:42+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "73",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "9",
+    "dew": "9",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，体感微凉，记得添件薄外套。",
+    "ai_briefing_en": "Cloudy and a bit cool. A light jacket might be nice.",
+    "alert": null
   }
 ]

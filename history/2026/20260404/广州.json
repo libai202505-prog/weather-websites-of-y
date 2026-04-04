@@ -358,5 +358,25 @@
     "ai_briefing_zh": "天气潮湿，体感闷热，多补水保持清爽。",
     "ai_briefing_en": "Humid and muggy. Stay hydrated and cool.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-04T22:28+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "40",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "13",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阳光正好，气温偏低，穿暖和再出门哦。",
     "ai_briefing_en": "Sunny but cold. Dress warmly before heading out.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-04T22:26+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "191",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "27",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

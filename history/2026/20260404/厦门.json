@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门有雾，能见度低，出门慢行哦！",
     "ai_briefing_en": "Foggy, humid. Go slow!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-04T10:02+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "318",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "8",
+    "dew": "19",
+    "cloud": "97",
+    "ai_briefing_zh": "厦门有雾，湿度很大，出行注意安全。",
+    "ai_briefing_en": "Xiamen: Foggy and humid.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "昆明多云，体感微凉，湿度高。",
     "ai_briefing_en": "Cloudy & cool. Humid!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-04-04T10:01+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "304",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "810",
+    "vis": "17",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明多云，体感凉爽，湿度较高。",
+    "ai_briefing_en": "Kunming: Cloudy and cool.",
+    "alert": null
   }
 ]

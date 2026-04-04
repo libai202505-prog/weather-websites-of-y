@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海有雾，能见度低，出行请慢行！",
     "ai_briefing_en": "Shanghai foggy. Go slow!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-04T10:00+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "6",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "上海体感宜人，多云天气不错。",
+    "ai_briefing_en": "Shanghai: Pleasant, cloudy.",
+    "alert": null
   }
 ]

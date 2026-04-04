@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天微凉 19℃，出门薄外套备着。",
     "ai_briefing_en": "Overcast, 19℃. Jacket handy.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-04T20:50+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "106",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "11",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，体感 19℃ 很舒适，适合户外活动！",
+    "ai_briefing_en": "Hangzhou is cloudy, feels 19℃ comfortable. Enjoy the outdoors!",
+    "alert": null
   }
 ]

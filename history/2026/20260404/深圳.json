@@ -318,5 +318,25 @@
     "ai_briefing_zh": "多云 24℃，湿度大，感觉有点闷热。",
     "ai_briefing_en": "Cloudy, 24℃. Very humid.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-04-04T20:50+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "3",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "4",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳雾气重，体感 24℃ 暖和，出行注意交通安全。",
+    "ai_briefing_en": "Shenzhen is very foggy, feels 24℃ warm. Drive safely!",
+    "alert": null
   }
 ]

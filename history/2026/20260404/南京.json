@@ -318,5 +318,25 @@
     "ai_briefing_zh": "晴好天气，体感 17℃，享受阳光。",
     "ai_briefing_en": "Sunny, 17℃. Enjoy the sun!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-04T20:50+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "124",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "10",
+    "dew": "9",
+    "cloud": "10",
+    "ai_briefing_zh": "南京多云，体感 16℃ 宜人，记得带件外套哦。",
+    "ai_briefing_en": "Nanjing is cloudy, feels 16℃ pleasant. Bring a light jacket!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天微凉，体感 19℃，出门带外套。",
     "ai_briefing_en": "Overcast, 19℃. Jacket needed.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-04T20:48+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "41",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "6",
+    "dew": "10",
+    "cloud": "10",
+    "ai_briefing_zh": "上海有雾，体感 13℃ 偏凉，出行注意安全哦！",
+    "ai_briefing_en": "Shanghai is foggy, feels 13℃ cool. Stay safe on the road!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

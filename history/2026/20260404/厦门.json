@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门多云，气温高。注意防晒，多补充水分哦！",
     "ai_briefing_en": "Xiamen: Cloudy, warm. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-04T13:50+08:00",
+    "temp": "25",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "101",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "91",
+    "ai_briefing_zh": "多云温暖，湿度稍高。记得补充水分，保持好心情。",
+    "ai_briefing_en": "Partly cloudy and warm, a bit humid. Stay hydrated and keep smiling!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

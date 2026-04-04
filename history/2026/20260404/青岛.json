@@ -258,5 +258,25 @@
     "ai_briefing_zh": "青岛风力不小，体感偏凉。记得多添衣保暖哦。",
     "ai_briefing_en": "Qingdao: Cool. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-04-04T17:32+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "2",
+    "cloud": "0",
+    "ai_briefing_zh": "晴天微凉，风力舒适，享受阳光好心情！",
+    "ai_briefing_en": "Sunny, cool, breezy.",
+    "alert": null
   }
 ]

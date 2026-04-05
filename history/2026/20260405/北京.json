@@ -298,5 +298,25 @@
     "ai_briefing_zh": "北京风力不小，体感偏凉，多穿点哦！",
     "ai_briefing_en": "Beijing is windy and feels cool, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-05T20:48+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "349",
+    "humidity": "11",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "-18",
+    "cloud": "7",
+    "ai_briefing_zh": "北京晴朗，体感 11℃。注意保暖，别着凉哦！",
+    "ai_briefing_en": "Beijing: Sunny, 11℃. Stay warm!",
+    "alert": null
   }
 ]

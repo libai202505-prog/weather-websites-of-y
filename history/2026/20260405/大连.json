@@ -298,5 +298,25 @@
     "ai_briefing_zh": "大连晴朗，体感微凉，出门注意保暖哦。",
     "ai_briefing_en": "Dalian is sunny and a bit cool, keep warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-05T20:48+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "346",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "20",
+    "dew": "-2",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感 6℃。风力适中，多穿衣物别着凉。",
+    "ai_briefing_en": "Dalian: Sunny, 6℃. Stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

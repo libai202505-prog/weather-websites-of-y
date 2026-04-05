@@ -238,5 +238,25 @@
     "ai_briefing_zh": "哈尔滨阴天，体感 -5℃。非常寒冷，请务必多穿衣保暖！",
     "ai_briefing_en": "Harbin is overcast, feels like -5℃. It's freezing, please dress very warmly!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-05T17:32+08:00",
+    "temp": "2",
+    "feelsLike": "-5",
+    "text": "雪",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "78",
+    "humidity": "96",
+    "precip": "0.2",
+    "pressure": "985",
+    "vis": "12",
+    "dew": "1",
+    "cloud": "98",
+    "ai_briefing_zh": "哈尔滨下雪体感 -5℃，风力 3级，一定要穿暖和！",
+    "ai_briefing_en": "Harbin is snowy, feels -5℃ with wind. Bundle up and stay warm!",
+    "alert": null
   }
 ]

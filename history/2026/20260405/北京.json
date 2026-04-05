@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京今天风力不小，体感偏凉，记得多穿衣物哦！",
     "ai_briefing_en": "Beijing is windy and feels cool. Remember to dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-05T13:00+08:00",
+    "temp": "18",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "266",
+    "humidity": "13",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "-13",
+    "cloud": "9",
+    "ai_briefing_zh": "北京风力大体感凉，出门记得添衣哦。",
+    "ai_briefing_en": "Beijing cool, add clothes.",
+    "alert": null
   }
 ]

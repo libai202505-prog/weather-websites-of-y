@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州天气适宜，出门踏青不错。",
     "ai_briefing_en": "Hangzhou pleasant, go out!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-05T15:00+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "232",
+    "humidity": "19",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "16",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "气温偏高，空气干燥。注意补水，保持健康哦。",
+    "ai_briefing_en": "It's warm and dry. Remember to drink plenty of water!",
+    "alert": null
   }
 ]

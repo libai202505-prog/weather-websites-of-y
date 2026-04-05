@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉小雨，出门别忘带伞哦。",
     "ai_briefing_en": "Wuhan rainy, umbrella!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-05T15:02+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "149",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "13",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天舒适，微风拂面。适合外出，心情愉悦。",
+    "ai_briefing_en": "Overcast and pleasant with a gentle breeze. Enjoy outdoors!",
+    "alert": null
   }
 ]

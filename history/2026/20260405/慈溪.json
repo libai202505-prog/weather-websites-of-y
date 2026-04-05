@@ -218,5 +218,25 @@
     "ai_briefing_zh": "气温舒适，多云宜人。出门记得带水，保持活力！",
     "ai_briefing_en": "Pleasant and cloudy. Stay hydrated if you head out!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-04-05T16:34+08:00",
+    "temp": "25",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "161",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "14",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪阴天，气温 25℃。出门带伞，祝您一天好心情！",
+    "ai_briefing_en": "Cixi is overcast with 25℃. Bring an umbrella, have a lovely day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

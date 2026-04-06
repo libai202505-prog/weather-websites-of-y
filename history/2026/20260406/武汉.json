@@ -238,5 +238,25 @@
     "ai_briefing_zh": "有小雨天气，湿度大，出门记得带伞，注意防潮。",
     "ai_briefing_en": "Light rain and humid, bring an umbrella, mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-06T18:50+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "4",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "4",
+    "dew": "17",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉下小雨，出门记得带雨具，路面湿滑慢行。",
+    "ai_briefing_en": "Light rain in Wuhan. Take an umbrella, and drive carefully on wet roads.",
+    "alert": null
   }
 ]

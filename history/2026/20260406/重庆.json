@@ -238,5 +238,25 @@
     "ai_briefing_zh": "湿度非常高，体感舒适，注意保持室内干燥。",
     "ai_briefing_en": "Extremely humid, feels comfortable, keep indoors dry.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-06T18:48+08:00",
+    "temp": "19",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "2",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "14",
+    "dew": "17",
+    "cloud": "98",
+    "ai_briefing_zh": "重庆阴天湿度大，注意保持心情舒畅，多通风哦。",
+    "ai_briefing_en": "Chongqing is cloudy and humid. Keep good spirits and ventilate well.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "天气阴冷风力大，体感偏低，记得多穿点。",
     "ai_briefing_en": "Cloudy, chilly, and windy, feels colder, dress warmly.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-06T18:48+08:00",
+    "temp": "18",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "340",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "15",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "南京体感偏凉，记得添衣保暖，别着凉了。",
+    "ai_briefing_en": "Nanjing feels cool. Remember to dress warmly to avoid catching a cold.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

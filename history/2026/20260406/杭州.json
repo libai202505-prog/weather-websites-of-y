@@ -238,5 +238,25 @@
     "ai_briefing_zh": "天气阴凉，体感偏低，记得适当添衣保暖哦。",
     "ai_briefing_en": "Cloudy and cool, feels a bit colder, remember to layer up.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-06T18:48+08:00",
+    "temp": "25",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "38",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "14",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天，体感略凉，出门记得带件外套哦。",
+    "ai_briefing_en": "Hangzhou is cloudy with a slightly cool feel. Bring a light jacket when you go out.",
+    "alert": null
   }
 ]

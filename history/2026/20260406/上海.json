@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海有霾，请尽量减少户外活动，注意防护。",
     "ai_briefing_en": "Haze in Shanghai. Please limit outdoor activities and protect yourself.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-06T19:41+08:00",
+    "temp": "17",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "347",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "6",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "上海有雾，能见度低，出行请注意交通安全，祝您平安。",
+    "ai_briefing_en": "Shanghai is foggy. Drive safely, visibility is low. Stay safe!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

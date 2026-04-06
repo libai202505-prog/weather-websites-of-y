@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉下小雨，出门记得带雨具，路面湿滑慢行。",
     "ai_briefing_en": "Light rain in Wuhan. Take an umbrella, and drive carefully on wet roads.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-06T19:42+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "43",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "7",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，能见度不佳，出行请您放慢车速，注意安全。",
+    "ai_briefing_en": "Wuhan is foggy. Drive carefully, visibility is low. Stay safe!",
+    "alert": null
   }
 ]

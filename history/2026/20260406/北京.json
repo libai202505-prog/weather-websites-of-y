@@ -218,5 +218,25 @@
     "ai_briefing_zh": "北京阴凉，体感 16℃，注意保湿哦！",
     "ai_briefing_en": "Beijing is cool and cloudy, feels like 16℃. Remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-06T17:00+08:00",
+    "temp": "17",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "288",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "-14",
+    "cloud": "10",
+    "ai_briefing_zh": "天气微凉有风，体感稍低，注意添衣和补水。",
+    "ai_briefing_en": "A bit chilly and breezy, feel colder, layer up and stay hydrated.",
+    "alert": null
   }
 ]

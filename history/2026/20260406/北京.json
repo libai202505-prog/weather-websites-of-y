@@ -198,5 +198,25 @@
     "ai_briefing_zh": "多云温柔，体感稍凉，记得添衣哦！",
     "ai_briefing_en": "Cloudy skies, but a bit chilly. Remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-06T15:30+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "311",
+    "humidity": "13",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "-16",
+    "cloud": "10",
+    "ai_briefing_zh": "北京阴凉，体感 16℃，注意保湿哦！",
+    "ai_briefing_en": "Beijing is cool and cloudy, feels like 16℃. Remember to hydrate!",
+    "alert": null
   }
 ]

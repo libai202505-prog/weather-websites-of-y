@@ -198,5 +198,25 @@
     "ai_briefing_zh": "雾气朦胧，能见度低，开车小心慢行。",
     "ai_briefing_en": "Foggy morning, low visibility. Drive carefully.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-06T15:30+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "5",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "6",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有小雨，体感 22℃，记得带伞出行。",
+    "ai_briefing_en": "Wuhan has light rain, feels like 22℃. Remember your umbrella!",
+    "alert": null
   }
 ]

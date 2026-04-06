@@ -198,5 +198,25 @@
     "ai_briefing_zh": "风力较大，体感寒凉，注意防风保暖。",
     "ai_briefing_en": "Windy and cold. Dress warmly to brave the wind.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-06T15:30+08:00",
+    "temp": "8",
+    "feelsLike": "3",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "313",
+    "humidity": "14",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳体感 3℃，风力 3级，注意保暖防风。",
+    "ai_briefing_en": "Shenyang feels like 3℃ with 3rd-level winds. Stay warm and keep out of the wind!",
+    "alert": null
   }
 ]

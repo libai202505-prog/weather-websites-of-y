@@ -278,5 +278,25 @@
     "ai_briefing_zh": "重庆阴天湿度大，感觉有点闷，保持通风舒适更重要。",
     "ai_briefing_en": "Chongqing is cloudy and very humid. Keep good ventilation!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-06T21:02+08:00",
+    "temp": "19",
+    "feelsLike": "20",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "316",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "979",
+    "vis": "8",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆有雾，湿度 93%，体感 20℃。出行注意安全，衣物易潮湿。",
+    "ai_briefing_en": "Chongqing is foggy, 93% humidity, feels like 20℃. Drive safe, clothes may get damp!",
+    "alert": null
   }
 ]

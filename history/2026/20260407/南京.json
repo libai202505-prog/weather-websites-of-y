@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京风力较大，体感较冷，注意防风保暖哦。",
     "ai_briefing_en": "Windy and feels cold in Nanjing, keep warm and protect from wind.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-07T16:58+08:00",
+    "temp": "18",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "154",
+    "humidity": "35",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "19",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都阴天，气温 18℃，湿度 82%。潮湿，注意舒适！",
     "ai_briefing_en": "Chengdu is cloudy, 18℃ and 82% humidity. Stay comfortable!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-07T13:02+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "356",
+    "humidity": "67",
+    "precip": "0.1",
+    "pressure": "954",
+    "vis": "16",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "成都多云，体感 19℃ 宜人，湿度稍高注意防潮。",
+    "ai_briefing_en": "Chengdu is cloudy and feels 19℃. Enjoy the pleasant weather!",
+    "alert": null
   }
 ]

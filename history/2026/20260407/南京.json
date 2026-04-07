@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天微凉，风力适中，穿衣要注意，小心感冒哦！",
     "ai_briefing_en": "Cloudy and cool with moderate wind. Dress carefully to avoid colds!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-07T21:02+08:00",
+    "temp": "15",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "110",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "21",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天，体感 9℃ 较冷，风力 3级，出门多穿点，注意防风！",
+    "ai_briefing_en": "Cloudy in Nanjing, feels 9℃ with 3-level wind. Dress warmly and stay protected!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

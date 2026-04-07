@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳阴天，体感 28℃ 闷热，注意补水小心中暑。",
     "ai_briefing_en": "Shenzhen is cloudy, feels 28℃. Drink water and prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-04-07T15:00+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "190",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "29",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳阴天闷热，湿度大，记得多补充水分。",
+    "ai_briefing_en": "Shenzhen is muggy and humid, remember to hydrate.",
+    "alert": null
   }
 ]

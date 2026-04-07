@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳晴天，体感 5℃ 偏冷，出门多穿点注意防寒。",
     "ai_briefing_en": "Shenyang is sunny but feels 5℃. Layer up and keep warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-07T15:00+08:00",
+    "temp": "11",
+    "feelsLike": "5",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "305",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳天晴，体感寒凉，外出请注意防寒保暖哦。",
+    "ai_briefing_en": "Sunny but feels chilly in Shenyang, please keep warm when going out.",
+    "alert": null
   }
 ]

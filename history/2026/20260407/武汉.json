@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉有霾，气温 23℃。注意防护，减少户外活动哦！",
     "ai_briefing_en": "Wuhan has haze and is 23℃. Protect yourself and limit outdoor activities!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-07T19:50+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "104",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "6",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "大雾天气，能见度低，出行注意安全，慢一点哦！",
+    "ai_briefing_en": "Foggy, low visibility. Travel safely and take it slow!",
+    "alert": null
   }
 ]

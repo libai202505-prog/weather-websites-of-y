@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉阴天，体感微凉，出门注意保暖别着凉。",
     "ai_briefing_en": "Wuhan is overcast, feels a bit cool. Stay warm to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-08T10:26+08:00",
+    "temp": "22",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "135",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "19",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天宜人，气温舒适，享受日常的美好。",
+    "ai_briefing_en": "Wuhan is cloudy and pleasant with comfortable temperatures. Enjoy the beauty of everyday life.",
+    "alert": null
   }
 ]

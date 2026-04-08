@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州阴天闷热，湿度较高，注意补水，保持清爽。",
     "ai_briefing_en": "Guangzhou is cloudy and stuffy with high humidity. Remember to hydrate and stay refreshed.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-08T13:01+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "128",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "99",
+    "ai_briefing_zh": "广州阴天，体感闷热，湿度较大，注意防暑降温，保持清爽。",
+    "ai_briefing_en": "Guangzhou is overcast, feels muggy with high humidity. Stay cool and hydrated!",
+    "alert": null
   }
 ]

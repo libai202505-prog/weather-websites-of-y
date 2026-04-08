@@ -238,5 +238,25 @@
     "ai_briefing_zh": "大连风力 4级，体感偏凉，注意防风保暖哦。",
     "ai_briefing_en": "Dalian has a level 4 wind and feels cool. Watch out for wind and keep warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-08T19:48+08:00",
+    "temp": "10",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "169",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安阴天，体感偏凉，湿度较高。注意保暖，小心着凉感冒。",
     "ai_briefing_en": "Xi'an is overcast, feels quite cool with high humidity. Stay warm and watch out for colds.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-08T15:02+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "342",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "956",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天湿冷，体感 14℃，注意保暖。",
+    "ai_briefing_en": "Xi'an cool. Stay warm!",
+    "alert": null
   }
 ]

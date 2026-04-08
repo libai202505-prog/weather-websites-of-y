@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉阴天，体感微凉，湿度适中。出行记得带伞，以防不时之需。",
     "ai_briefing_en": "Wuhan is overcast, feels slightly cool with moderate humidity. Remember your umbrella, just in case!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-08T15:02+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "91",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "18",
+    "dew": "19",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天舒适，体感 23℃，度过美好一天。",
+    "ai_briefing_en": "Wuhan cloudy, pleasant.",
+    "alert": null
   }
 ]

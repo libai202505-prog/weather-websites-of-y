@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
     "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-09T07:32+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "304",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "-6",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴天，体感仅 1℃！注意防寒保暖哦。",
+    "ai_briefing_en": "Harbin is overcast, feels like only 1℃! Stay warm and bundle up.",
+    "alert": null
   }
 ]

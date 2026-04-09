@@ -138,5 +138,25 @@
     "ai_briefing_zh": "有阵雨，体感较凉，记得带伞多穿衣哦！",
     "ai_briefing_en": "Showers expected, feels chilly. Remember your umbrella and extra layers!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-09T13:01+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "105",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "3",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

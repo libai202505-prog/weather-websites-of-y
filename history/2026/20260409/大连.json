@@ -138,5 +138,25 @@
     "ai_briefing_zh": "下雨伴有凉风，体感 1℃ 寒冷，请务必多穿防寒。",
     "ai_briefing_en": "Rainy with cool wind, feels like 1℃. Please dress warmly to protect from cold!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-09T13:00+08:00",
+    "temp": "7",
+    "feelsLike": "1",
+    "text": "雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "87",
+    "humidity": "96",
+    "precip": "0.8",
+    "pressure": "992",
+    "vis": "16",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

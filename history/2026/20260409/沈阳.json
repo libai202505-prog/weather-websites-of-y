@@ -238,5 +238,25 @@
     "ai_briefing_zh": "沈阳阴天体感 8℃，出门记得加件外套，别着凉！",
     "ai_briefing_en": "Shenyang is cloudy, feels like 8℃. Bring a jacket!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-09T22:00+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "351",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "23",
+    "dew": "3",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

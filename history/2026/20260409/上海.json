@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海有雨，体感 25℃ 略闷，记得带伞，保持心情愉快！",
     "ai_briefing_en": "Shanghai has rain, feels like 25℃, a bit muggy. Bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-09T22:00+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "340",
+    "humidity": "90",
+    "precip": "1.4",
+    "pressure": "1003",
+    "vis": "7",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

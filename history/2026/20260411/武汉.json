@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-11T07:27+08:00",
+    "temp": "19",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "343",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "7",
+    "dew": "19",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉有小雨，记得带伞。路面湿滑，注意慢行。",
+    "ai_briefing_en": "Wuhan has light rain. Take umbrella, roads are slick!",
+    "alert": null
   }
 ]

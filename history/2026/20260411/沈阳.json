@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-11T07:26+08:00",
+    "temp": "8",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "306",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "-5",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴朗，阳光不错。早晚温差大，注意保暖。",
+    "ai_briefing_en": "Shenyang is sunny & bright. Mind temp changes, stay warm.",
+    "alert": null
   }
 ]

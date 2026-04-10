@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
     "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-10T13:08+08:00",
+    "temp": "3",
+    "feelsLike": "-4",
+    "text": "雨",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "88",
+    "humidity": "89",
+    "precip": "0.3",
+    "pressure": "983",
+    "vis": "16",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

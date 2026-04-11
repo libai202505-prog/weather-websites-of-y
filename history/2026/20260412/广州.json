@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州 夜间监测中，注意保暖",
     "ai_briefing_en": "广州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-12T07:26+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "172",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云好天气，但湿度大，记得补水哦。",
+    "ai_briefing_en": "Guangzhou is cloudy, good weather but humid. Remember to hydrate!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -338,5 +338,25 @@
     "ai_briefing_zh": "成都阴天，气温 20℃，体感舒适。注意早晚温差哦。",
     "ai_briefing_en": "Chengdu is cloudy, 20℃, feels pleasant. Mind the temperature difference!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-11T21:50+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "46",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，气温适中，出门散步是个好选择哦。",
+    "ai_briefing_en": "Chengdu is cloudy with mild temperatures, a good day for a walk.",
+    "alert": null
   }
 ]

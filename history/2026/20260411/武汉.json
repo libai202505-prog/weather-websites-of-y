@@ -318,5 +318,25 @@
     "ai_briefing_zh": "小雨湿度 100%，体感 19℃。注意防潮，保持好心情。",
     "ai_briefing_en": "Light rain and 100% humidity at 19℃. Stay dry and cheerful!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-11T20:50+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "349",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "2",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨，气温 19℃，湿度 100%。出门带伞，注意防潮。",
+    "ai_briefing_en": "Wuhan has light rain, 19℃, 100% humidity. Take an umbrella!",
+    "alert": null
   }
 ]

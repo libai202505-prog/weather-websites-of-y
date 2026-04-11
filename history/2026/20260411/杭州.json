@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州有雨，出门带伞，风大路滑多注意。",
     "ai_briefing_en": "Rainy, windy. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-11T12:50+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "74",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "3",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨湿冷，出门带伞，暖和些再出门。",
+    "ai_briefing_en": "Hangzhou has light rain and feels damp and cold, take an umbrella and dress warmly.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

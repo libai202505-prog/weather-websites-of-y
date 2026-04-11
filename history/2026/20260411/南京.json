@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京有雾，能见度低，注意出行安全。",
     "ai_briefing_en": "Nanjing: Foggy. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-11T12:50+08:00",
+    "temp": "19",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "107",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "6",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "南京小雨微凉，记得带伞，小心路滑哦！",
+    "ai_briefing_en": "Nanjing has light rain and feels cool, remember your umbrella and watch for slippery roads!",
+    "alert": null
   }
 ]

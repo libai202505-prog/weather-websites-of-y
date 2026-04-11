@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京晴好，体感凉爽，出门开心喔！",
     "ai_briefing_en": "Beijing: Sunny, cool. Enjoy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-11T12:48+08:00",
+    "temp": "20",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "88",
+    "humidity": "28",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "23",
+    "dew": "-1",
+    "cloud": "5",
+    "ai_briefing_zh": "北京晴朗，体感微凉，记得添衣哦！",
+    "ai_briefing_en": "Beijing is sunny but feels a bit cool, remember to add clothes!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海中雨，气温微凉，出门别忘带伞哦。",
     "ai_briefing_en": "Shanghai has moderate rain, it's cool, don't forget your umbrella.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-11T16:32+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "309",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨 15℃，体感微凉。记得带伞，小心路滑哦。",
+    "ai_briefing_en": "Light rain, 15℃, feels a bit cool. Remember your umbrella and watch your step.",
+    "alert": null
   }
 ]

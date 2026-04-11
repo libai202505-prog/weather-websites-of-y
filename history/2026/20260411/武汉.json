@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉小雨，湿度高，体感舒适，记得带伞。",
     "ai_briefing_en": "Wuhan has light rain, high humidity, feels comfortable, remember your umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-11T16:34+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "68",
+    "humidity": "100",
+    "precip": "0.8",
+    "pressure": "1003",
+    "vis": "6",
+    "dew": "19",
+    "cloud": "92",
+    "ai_briefing_zh": "阴天 19℃，湿度 100%。体感潮湿，小心衣物返潮哦。",
+    "ai_briefing_en": "Overcast, 19℃, 100% humidity. It feels damp, mind your clothes getting humid.",
+    "alert": null
   }
 ]

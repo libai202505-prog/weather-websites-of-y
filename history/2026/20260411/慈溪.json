@@ -238,5 +238,25 @@
     "ai_briefing_zh": "慈溪下雨，天气湿冷，记得带伞保暖。",
     "ai_briefing_en": "Cixi is rainy, wet and cold, remember your umbrella and stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-04-11T16:34+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "88",
+    "precip": "0.6",
+    "pressure": "1010",
+    "vis": "4",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天体感 12℃，湿度高。出门别忘带伞，注意保暖！",
+    "ai_briefing_en": "Overcast, feels like 12℃ with high humidity. Don't forget an umbrella and stay warm!",
+    "alert": null
   }
 ]

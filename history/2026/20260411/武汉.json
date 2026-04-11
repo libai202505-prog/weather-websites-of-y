@@ -358,5 +358,25 @@
     "ai_briefing_zh": "武汉阴天，湿度 100% 感觉略凉，记得注意防潮。",
     "ai_briefing_en": "Wuhan is cloudy and 100% humid, feels a bit cool. Mind the moisture.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-11T22:42+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "4",
+    "humidity": "100",
+    "precip": "0.3",
+    "pressure": "1006",
+    "vis": "2",
+    "dew": "18",
+    "cloud": "93",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

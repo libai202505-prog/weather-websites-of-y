@@ -358,5 +358,25 @@
     "ai_briefing_zh": "南京雨天风力 3 级体感凉，出门别忘带伞添衣。",
     "ai_briefing_en": "Nanjing is rainy and feels cool with wind. Don't forget your umbrella and extra layers!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-11T22:42+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "68",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "4",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

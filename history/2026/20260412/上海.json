@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天微凉，湿度不低。出门添件外套，注意保暖。",
     "ai_briefing_en": "Overcast and slightly cool. Wear a jacket, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-12T13:08+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "347",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "9",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "大雾弥漫，体感 14℃。出行请注意交通安全。",
+    "ai_briefing_en": "Heavy fog, feels like 14℃. Drive safely, please.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大雾弥漫，体感偏冷。出行注意安全，记得添衣。",
     "ai_briefing_en": "Heavy fog, feels cold. Drive safe, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-12T13:10+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "48",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "8",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "大雾且湿度 100%！体感 12℃，出行千万小心。",
+    "ai_briefing_en": "Very foggy and 100% humidity! Feels like 12℃, please be extra careful.",
+    "alert": null
   }
 ]

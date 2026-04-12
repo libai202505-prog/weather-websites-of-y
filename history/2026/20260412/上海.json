@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海阴天，湿度较高。心情也要保持晴朗呀！",
     "ai_briefing_en": "Shanghai is cloudy with high humidity. Keep your spirits sunny!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-12T10:32+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "4",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微凉，湿度不低。出门添件外套，注意保暖。",
+    "ai_briefing_en": "Overcast and slightly cool. Wear a jacket, stay warm.",
+    "alert": null
   }
 ]

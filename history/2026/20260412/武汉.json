@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉大雾，湿度100%！出行注意安全，保持好心情。",
     "ai_briefing_en": "Heavy fog in Wuhan, 100% humidity! Be safe when traveling, stay cheerful.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-12T10:34+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "40",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "9",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "雾天出行，注意能见度。气温适中，但要小心湿滑。",
+    "ai_briefing_en": "Foggy, watch for visibility. Moderate temp, but be careful of dampness.",
+    "alert": null
   }
 ]

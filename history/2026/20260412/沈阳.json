@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳晴天，体感凉爽，紫外线强，注意防晒。",
     "ai_briefing_en": "Shenyang is sunny and cool. UV is strong, remember sunscreen.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-12T18:32+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "344",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "-6",
+    "cloud": "5",
+    "ai_briefing_zh": "多云微凉，体感偏冷，注意保暖防干燥。",
+    "ai_briefing_en": "Cloudy, cool & dry. Keep warm!",
+    "alert": null
   }
 ]

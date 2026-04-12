@@ -258,5 +258,25 @@
     "ai_briefing_zh": "大连多云，体感凉爽，空气清新，适合户外活动。",
     "ai_briefing_en": "Dalian is cloudy and feels cool with fresh air, suitable for outdoor activities.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-12T18:32+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "163",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "13",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "多云体感微凉，记得添衣保暖，注意风力。",
+    "ai_briefing_en": "Cloudy, a bit cool. Stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "成都阴天，气温适宜，外出散步很不错哦。",
     "ai_briefing_en": "Chengdu is overcast with suitable temperatures, perfect for a walk.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-12T18:34+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "353",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "950",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "92",
+    "ai_briefing_zh": "天气阴沉，微风舒适，带伞有备无患哦。",
+    "ai_briefing_en": "Overcast, comfy. Umbrella!",
+    "alert": null
   }
 ]

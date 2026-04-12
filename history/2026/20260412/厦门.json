@@ -258,5 +258,25 @@
     "ai_briefing_zh": "厦门多云，海风轻拂，湿度较高，注意保湿。",
     "ai_briefing_en": "Xiamen is cloudy with gentle sea breeze and high humidity. Moisturize!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-12T18:34+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "165",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "1",
+    "ai_briefing_zh": "多云舒适，湿度偏高，注意通风。",
+    "ai_briefing_en": "Cloudy & comfy, humid. Air out!",
+    "alert": null
   }
 ]

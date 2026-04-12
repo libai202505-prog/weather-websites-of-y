@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州阴天 26℃，体感稍热，注意防暑。",
     "ai_briefing_en": "Guangzhou is cloudy, 26°C. Feels a bit hot, stay cool.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-12T20:58+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "171",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "8",
+    "ai_briefing_zh": "广州体感有点热，湿度高，注意清爽补水哦。",
+    "ai_briefing_en": "Guangzhou feels a bit warm and humid. Stay refreshed and hydrated.",
+    "alert": null
   }
 ]

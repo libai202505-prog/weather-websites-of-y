@@ -278,5 +278,25 @@
     "ai_briefing_zh": "雾气笼罩，能见度低，出行安全第一。",
     "ai_briefing_en": "Foggy, low vis. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-12T19:28+08:00",
+    "temp": "20",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "187",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "6",
+    "dew": "17",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉有雾 20℃，体感偏暖，小心路滑。",
+    "ai_briefing_en": "Wuhan is foggy, 20°C. Feels warm, be careful on slippery roads.",
+    "alert": null
   }
 ]

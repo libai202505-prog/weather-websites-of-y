@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天舒适，无风好天气，记得多喝水。",
     "ai_briefing_en": "Overcast & comfy, hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-12T19:28+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "95",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "962",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "99",
+    "ai_briefing_zh": "西安阴天 19℃，体感舒适，记得添衣哦。",
+    "ai_briefing_en": "Xi'an is cloudy, 19°C. Comfortable, but bring an extra layer.",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云舒适，微风宜人，记得补水哦！",
     "ai_briefing_en": "Comfy cloudy, hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-12T19:26+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "231",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "16",
+    "dew": "1",
+    "cloud": "94",
+    "ai_briefing_zh": "北京今天多云，气温 20℃，体感舒适。",
+    "ai_briefing_en": "Beijing is partly cloudy at 20°C, a pleasant day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

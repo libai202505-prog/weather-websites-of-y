@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安阴天，气温宜人，适合室内活动。",
     "ai_briefing_en": "Xi'an is cloudy with pleasant temperatures, good for indoor activities.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-13T13:33+08:00",
+    "temp": "22",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "22",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "967",
+    "vis": "8",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京雾气浓重，路面湿滑，出行请务必注意安全。",
     "ai_briefing_en": "Nanjing is very foggy, roads are slippery, please be extra careful when traveling.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-13T13:32+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "71",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "9",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

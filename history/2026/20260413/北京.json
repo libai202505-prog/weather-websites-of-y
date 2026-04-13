@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京阴天，体感 10℃，记得添衣保暖哦！",
     "ai_briefing_en": "Beijing cloudy, 10℃. Keep warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-13T10:32+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "116",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "19",
+    "dew": "-3",
+    "cloud": "99",
+    "ai_briefing_zh": "北京体感凉意，多穿衣别着凉哦！",
+    "ai_briefing_en": "Beijing feels cool, dress warmly to avoid catching a cold!",
+    "alert": null
   }
 ]

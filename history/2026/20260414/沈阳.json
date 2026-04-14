@@ -198,5 +198,25 @@
     "ai_briefing_zh": "沈阳阴天，体感 11℃，出门记得添件外套。",
     "ai_briefing_en": "Shenyang is cloudy, feels like 11℃, grab a jacket when you go out.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-14T18:56+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "313",
+    "humidity": "85",
+    "precip": "0.1",
+    "pressure": "1006",
+    "vis": "7",
+    "dew": "-1",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

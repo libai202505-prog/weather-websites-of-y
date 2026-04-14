@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州 夜间监测中，注意保暖",
     "ai_briefing_en": "广州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-14T13:14+08:00",
+    "temp": "26",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "108",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "体感炎热，多补充水分，谨防中暑。",
+    "ai_briefing_en": "Feels hot and humid. Stay hydrated to avoid heatstroke.",
+    "alert": null
   }
 ]

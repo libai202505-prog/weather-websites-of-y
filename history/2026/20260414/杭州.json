@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
     "ai_briefing_en": "杭州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-14T23:02+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "332",
+    "humidity": "94",
+    "precip": "0.4",
+    "pressure": "1008",
+    "vis": "3",
+    "dew": "15",
+    "cloud": "92",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

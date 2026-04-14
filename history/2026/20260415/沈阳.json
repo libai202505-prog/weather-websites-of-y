@@ -98,5 +98,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-15T07:32+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "100",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "2",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "浓雾严寒，能见度差，注意保暖防滑，非常潮湿。",
+    "ai_briefing_en": "Dense fog and very cold. Drive safe, bundle up. Highly humid.",
+    "alert": null
   }
 ]

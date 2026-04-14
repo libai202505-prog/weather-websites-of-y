@@ -158,5 +158,25 @@
     "ai_briefing_zh": "湿度高，出门带伞，谨防感冒。",
     "ai_briefing_en": "Very high humidity. Bring an umbrella and avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-14T15:42+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "81",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "981",
+    "vis": "18",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆阴天潮湿，带好雨具，保持好心情哦！",
+    "ai_briefing_en": "Cloudy and humid in Chongqing, bring an umbrella and stay cheerful!",
+    "alert": null
   }
 ]

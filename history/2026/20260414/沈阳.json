@@ -158,5 +158,25 @@
     "ai_briefing_zh": "霾天气，体感凉，注意防护和呼吸。",
     "ai_briefing_en": "Haze and cool. Protect yourself and care for your respiratory health.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-14T15:40+08:00",
+    "temp": "17",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "17",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "24",
+    "dew": "3",
+    "cloud": "98",
+    "ai_briefing_zh": "沈阳阴凉，体感较低，记得适时添衣哦！",
+    "ai_briefing_en": "Cloudy and cool in Shenyang, feels a bit chilly. Remember to layer up!",
+    "alert": null
   }
 ]

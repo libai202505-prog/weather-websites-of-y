@@ -198,5 +198,25 @@
     "ai_briefing_zh": "重庆阴天 20℃，带伞防雨。",
     "ai_briefing_en": "Chongqing 20℃, umbrella.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-15T18:49+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "88",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "19",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆多云有风，体感微凉，记得穿衣，注意防风！",
+    "ai_briefing_en": "Cloudy and breezy in Chongqing, stay warm and comfortable!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天湿度高，出门带伞。",
     "ai_briefing_en": "Wuhan: Humid, umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-15T18:50+08:00",
+    "temp": "19",
+    "feelsLike": "20",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "342",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "9",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉有雾，能见度低，多关注路况，保持好心情！",
+    "ai_briefing_en": "Foggy in Wuhan, low visibility, stay aware and cheerful!",
+    "alert": null
   }
 ]

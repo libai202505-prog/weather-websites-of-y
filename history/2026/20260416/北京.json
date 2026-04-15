@@ -98,5 +98,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-16T07:32+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "52",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "3",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "北京有霾，出门记得戴口罩，注意防护哦！",
+    "ai_briefing_en": "Haze in Beijing, remember to wear a mask and protect yourself!",
+    "alert": null
   }
 ]

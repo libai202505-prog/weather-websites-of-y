@@ -218,5 +218,25 @@
     "ai_briefing_zh": "昆明多云有风，气温舒适，记得补充水分哦！",
     "ai_briefing_en": "Cloudy and breezy in Kunming, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-04-15T19:58+08:00",
+    "temp": "21",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "206",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "807",
+    "vis": "19",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

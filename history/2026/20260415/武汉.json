@@ -118,5 +118,25 @@
     "ai_briefing_zh": "雾气弥漫，路面湿滑，请小心驾驶，湿度超高。",
     "ai_briefing_en": "Foggy and damp. Roads might be slippery. Drive safe.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-15T10:28+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "101",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "16",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天，注意添衣保暖，别忘了带伞哦。",
+    "ai_briefing_en": "Wuhan is overcast, dress warm, and don't forget your umbrella.",
+    "alert": null
   }
 ]

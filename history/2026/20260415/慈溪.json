@@ -118,5 +118,25 @@
     "ai_briefing_zh": "雾气较浓，出行慢行，湿度大，感觉潮潮的哦。",
     "ai_briefing_en": "Dense fog, drive slow. High humidity, feeling damp.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-04-15T10:28+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "345",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "5",
+    "dew": "15",
+    "cloud": "99",
+    "ai_briefing_zh": "慈溪有雾，出行请减速慢行，注意交通安全。",
+    "ai_briefing_en": "Cixi is foggy, drive slowly and safely, mind traffic.",
+    "alert": null
   }
 ]

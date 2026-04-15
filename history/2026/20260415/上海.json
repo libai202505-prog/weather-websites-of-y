@@ -118,5 +118,25 @@
     "ai_briefing_zh": "雾天出行请注意安全，能见度不高，气温适中。",
     "ai_briefing_en": "Foggy morning, drive safely. Mild temperature.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-15T10:26+08:00",
+    "temp": "16",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "339",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "9",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "上海多云，气温适中，出门添衣，保持好心情。",
+    "ai_briefing_en": "Shanghai is cloudy, mild temp, dress warmly, stay cheerful.",
+    "alert": null
   }
 ]

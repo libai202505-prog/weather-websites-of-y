@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉有雾，能见度低。驾车注意慢行，出行多加小心。",
     "ai_briefing_en": "Fog in Wuhan, low visibility. Drive slowly and be extra careful when out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-15T17:02+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "106",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "12",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天湿度高，出门带伞。",
+    "ai_briefing_en": "Wuhan: Humid, umbrella.",
+    "alert": null
   }
 ]

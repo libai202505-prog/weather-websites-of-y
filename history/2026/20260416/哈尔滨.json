@@ -138,5 +138,25 @@
     "ai_briefing_zh": "哈尔滨体感偏凉，风力 3级。注意保暖，别着凉哦！",
     "ai_briefing_en": "Harbin feels cool with a moderate breeze. Dress warmly to avoid catching a cold!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-16T13:24+08:00",
+    "temp": "16",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "250",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "2",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴天 16℃，体感 12℃ 稍凉。记得添衣，别着凉了哦！",
+    "ai_briefing_en": "Harbin is cloudy, 16℃, feels cool at 12℃. Remember to add clothes and don't catch a cold!",
+    "alert": null
   }
 ]

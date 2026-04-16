@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海阴天 20℃，体感 18℃ 适宜。微风拂面，外出很舒服呢！",
     "ai_briefing_en": "Shanghai is cloudy, 20℃, feels nice at 18℃. A gentle breeze, perfect for outdoors!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-16T15:41+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "354",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "21",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天，体感微凉，记得添衣保暖哦。",
+    "ai_briefing_en": "Cloudy in Shanghai, feels a bit cool, remember to add layers.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨阴天 16℃，体感 12℃ 稍凉。记得添衣，别着凉了哦！",
     "ai_briefing_en": "Harbin is cloudy, 16℃, feels cool at 12℃. Remember to add clothes and don't catch a cold!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-16T15:41+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "320",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨体感较冷，多穿衣物注意保暖。",
+    "ai_briefing_en": "Harbin feels quite cold, wear more clothes to stay warm.",
+    "alert": null
   }
 ]

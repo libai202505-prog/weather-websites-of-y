@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州有雾 19℃，体感 19℃。驾车或出行，请注意交通安全！",
     "ai_briefing_en": "Hangzhou is foggy, 19℃. Be careful if driving or out and about!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-16T15:41+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "7",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "5",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州小雨，出门带伞，路面湿滑小心。",
+    "ai_briefing_en": "Light rain in Hangzhou, take an umbrella, roads might be slippery.",
+    "alert": null
   }
 ]

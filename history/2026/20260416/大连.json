@@ -238,5 +238,25 @@
     "ai_briefing_zh": "大连阴天，体感较冷，多穿衣，注意防风保暖。",
     "ai_briefing_en": "Dalian is cloudy and feels cold. Dress warmly to protect against wind and cold.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-16T23:10+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "2",
+    "humidity": "80",
+    "precip": "0.2",
+    "pressure": "1005",
+    "vis": "8",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

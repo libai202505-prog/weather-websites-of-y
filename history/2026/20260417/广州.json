@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州 夜间监测中，注意保暖",
     "ai_briefing_en": "广州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-17T13:14+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "352",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，体感 27℃ 较热。湿度高，注意防暑补水！",
+    "ai_briefing_en": "Guangzhou: Overcast, feels 27℃, humid. Stay cool and hydrated!",
+    "alert": null
   }
 ]

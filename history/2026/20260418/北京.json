@@ -158,5 +158,25 @@
     "ai_briefing_zh": "今日有雾，能见度低，出行注意安全与保暖。",
     "ai_briefing_en": "Foggy. Be safe, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-18T13:00+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "89",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "3",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "霾天，外出记得戴口罩，注意防护哦！",
+    "ai_briefing_en": "Hazy. Mask up, stay safe!",
+    "alert": null
   }
 ]

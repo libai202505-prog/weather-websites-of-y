@@ -278,5 +278,25 @@
     "ai_briefing_zh": "昆明多云，风力 3级，气温适宜，但湿度偏低哦。",
     "ai_briefing_en": "Kunming is cloudy with a 3-level wind, temperature is fine but humidity is low.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-04-18T20:58+08:00",
+    "temp": "21",
+    "feelsLike": "17",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "218",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "21",
+    "dew": "4",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明多云，体感舒适，早晚注意添衣！",
+    "ai_briefing_en": "Kunming is cloudy and comfy, add clothes morning/night!",
+    "alert": null
   }
 ]

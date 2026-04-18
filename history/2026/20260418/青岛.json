@@ -138,5 +138,25 @@
     "ai_briefing_zh": "雾气弥漫，能见度低。体感湿凉，出门注意保暖防潮。",
     "ai_briefing_en": "Foggy with low visibility. Feels damp and cool, dress warmly and mind the humidity.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-04-18T10:10+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "179",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "4",
+    "dew": "10",
+    "cloud": "10",
+    "ai_briefing_zh": "今日有雾，体感寒凉，注意防风保暖哦。",
+    "ai_briefing_en": "Foggy, chilly. Bundle up.",
+    "alert": null
   }
 ]

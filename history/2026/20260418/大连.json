@@ -138,5 +138,25 @@
     "ai_briefing_zh": "雾气浓郁，能见度低。体感湿凉，小心驾驶，注意保暖。",
     "ai_briefing_en": "Dense fog and low visibility. Feels damp and cool, drive carefully and stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-18T10:08+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "118",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "11",
+    "dew": "9",
+    "cloud": "6",
+    "ai_briefing_zh": "多云微凉，体感偏冷，记得添衣保暖。",
+    "ai_briefing_en": "Cloudy, cool. Keep warm.",
+    "alert": null
   }
 ]

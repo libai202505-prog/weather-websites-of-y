@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安阴天 28℃，体感暖和，出门记得带把伞防雨。",
     "ai_briefing_en": "Xi'an is cloudy and 28℃, feels warm. Bring an umbrella for potential rain.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-18T17:42+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "18",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "8",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "西安阴天，体感 24℃ 舒适，早晚微凉，记得添衣。",
+    "ai_briefing_en": "Overcast and comfortable at 24℃ in Xi'an. It might be cool in the morning/evening, so dress in layers.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "成都多云，体感舒适。紫外线强，别忘防晒哦！",
     "ai_briefing_en": "Chengdu: Cloudy, comfy. Sunscreen!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-18T16:42+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "47",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "10",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 29℃，有点热，湿度偏低，记得多补充水分。",
+    "ai_briefing_en": "Chengdu is 29℃ and a bit warm. Low humidity, remember to hydrate well.",
+    "alert": null
   }
 ]

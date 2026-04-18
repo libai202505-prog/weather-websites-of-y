@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安晴朗，气温舒适。紫外线强，记得防晒补水哦！",
     "ai_briefing_en": "Xi'an: Sunny, comfy. High UV.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-18T16:42+08:00",
+    "temp": "28",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "341",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "8",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "西安阴天 28℃，体感暖和，出门记得带把伞防雨。",
+    "ai_briefing_en": "Xi'an is cloudy and 28℃, feels warm. Bring an umbrella for potential rain.",
+    "alert": null
   }
 ]

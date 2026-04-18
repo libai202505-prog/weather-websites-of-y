@@ -1,19 +1,19 @@
 {
-  "updateTime": "2026-04-18T21:35:56.626Z",
+  "updateTime": "2026-04-18T22:35:45.376Z",
   "cities": [
     {
       "name": "北京",
       "temp": "17",
-      "feelsLike": "14",
-      "text": "阴",
+      "feelsLike": "15",
+      "text": "雾",
       "wind": "南风2级",
-      "humidity": "61",
+      "humidity": "63",
       "alert": null
     },
     {
       "name": "成都",
-      "temp": "18",
-      "feelsLike": "20",
+      "temp": "17",
+      "feelsLike": "19",
       "text": "阴",
       "wind": "北风0级",
       "humidity": "100",
@@ -24,7 +24,7 @@
       "temp": "21",
       "feelsLike": "22",
       "text": "阴",
-      "wind": "西风1级",
+      "wind": "西北风1级",
       "humidity": "76",
       "alert": null
     },
@@ -33,17 +33,17 @@
       "temp": "12",
       "feelsLike": "12",
       "text": "雾",
-      "wind": "西南风1级",
-      "humidity": "96",
+      "wind": "西风1级",
+      "humidity": "97",
       "alert": null
     },
     {
       "name": "大连",
       "temp": "12",
-      "feelsLike": "9",
-      "text": "晴",
+      "feelsLike": "10",
+      "text": "多云",
       "wind": "南风2级",
-      "humidity": "81",
+      "humidity": "80",
       "alert": null
     },
     {
@@ -58,45 +58,45 @@
     {
       "name": "哈尔滨",
       "temp": "8",
-      "feelsLike": "5",
+      "feelsLike": "1",
       "text": "阴",
-      "wind": "东风3级",
+      "wind": "东风4级",
       "humidity": "66",
-      "alert": null
+      "alert": "🟧 橙色降温提示：1小时降温4℃"
     },
     {
       "name": "杭州",
       "temp": "15",
-      "feelsLike": "14",
+      "feelsLike": "15",
       "text": "雾",
-      "wind": "西风2级",
-      "humidity": "89",
+      "wind": "北风1级",
+      "humidity": "88",
       "alert": null
     },
     {
       "name": "昆明",
       "temp": "15",
-      "feelsLike": "15",
-      "text": "多云",
-      "wind": "东南风1级",
-      "humidity": "73",
+      "feelsLike": "14",
+      "text": "晴",
+      "wind": "西南风1级",
+      "humidity": "72",
       "alert": null
     },
     {
       "name": "南京",
       "temp": "11",
-      "feelsLike": "10",
+      "feelsLike": "11",
       "text": "雾",
-      "wind": "北风1级",
-      "humidity": "93",
+      "wind": "东北风1级",
+      "humidity": "97",
       "alert": null
     },
     {
       "name": "青岛",
       "temp": "10",
-      "feelsLike": "7",
+      "feelsLike": "9",
       "text": "雾",
-      "wind": "南风1级",
+      "wind": "东南风2级",
       "humidity": "99",
       "alert": null
     },
@@ -106,16 +106,16 @@
       "feelsLike": "20",
       "text": "雾",
       "wind": "东风2级",
-      "humidity": "86",
+      "humidity": "85",
       "alert": null
     },
     {
       "name": "上海",
       "temp": "15",
       "feelsLike": "15",
-      "text": "多云",
-      "wind": "西南风1级",
-      "humidity": "84",
+      "text": "晴",
+      "wind": "北风0级",
+      "humidity": "82",
       "alert": null
     },
     {
@@ -123,18 +123,18 @@
       "temp": "22",
       "feelsLike": "24",
       "text": "雾",
-      "wind": "北风1级",
-      "humidity": "90",
+      "wind": "东南风1级",
+      "humidity": "91",
       "alert": null
     },
     {
       "name": "沈阳",
-      "temp": "11",
-      "feelsLike": "9",
+      "temp": "15",
+      "feelsLike": "12",
       "text": "晴",
-      "wind": "西南风1级",
-      "humidity": "85",
-      "alert": "🟧 橙色降温提示：1小时降温3℃"
+      "wind": "西南风2级",
+      "humidity": "62",
+      "alert": null
     },
     {
       "name": "武汉",
@@ -142,16 +142,16 @@
       "feelsLike": "18",
       "text": "雾",
       "wind": "东南风2级",
-      "humidity": "100",
+      "humidity": "95",
       "alert": null
     },
     {
       "name": "西安",
       "temp": "15",
       "feelsLike": "15",
-      "text": "晴",
-      "wind": "西南风1级",
-      "humidity": "74",
+      "text": "多云",
+      "wind": "西风1级",
+      "humidity": "79",
       "alert": null
     }
   ],
@@ -202,11 +202,11 @@
     },
     "哈尔滨": {
       "isAlerted": false,
-      "lastSeverity": 0
+      "lastSeverity": 1
     },
     "沈阳": {
       "isAlerted": true,
-      "lastSeverity": 1
+      "lastSeverity": 0
     },
     "昆明": {
       "isAlerted": false,

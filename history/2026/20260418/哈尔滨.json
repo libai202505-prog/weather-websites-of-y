@@ -178,5 +178,25 @@
     "ai_briefing_zh": "气温 7℃，多云天冷，记得多穿衣哦！",
     "ai_briefing_en": "Cloudy, cold. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-18T15:00+08:00",
+    "temp": "12",
+    "feelsLike": "7",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "283",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨多云，体感寒凉。多穿衣服，小心着凉感冒！",
+    "ai_briefing_en": "Harbin: Cloudy, cold. Bundle up!",
+    "alert": null
   }
 ]

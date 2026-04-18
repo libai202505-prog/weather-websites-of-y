@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云凉爽，微风轻拂，出门放松心情！",
     "ai_briefing_en": "Cloudy, cool. Take a walk!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-18T15:02+08:00",
+    "temp": "22",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "76",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "9",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，体感微凉。出门建议添件薄衫，小心着凉。",
+    "ai_briefing_en": "Hangzhou: Cloudy, cool. Layer up!",
+    "alert": null
   }
 ]

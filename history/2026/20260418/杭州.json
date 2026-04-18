@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州有雾，能见度低，早晚注意添衣！",
     "ai_briefing_en": "Foggy in Hangzhou, low visibility, add clothes morning/night!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-18T22:34+08:00",
+    "temp": "17",
+    "feelsLike": "18",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "326",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "7",
+    "dew": "14",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

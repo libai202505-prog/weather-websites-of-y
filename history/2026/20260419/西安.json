@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安阴天略凉，记得添件薄外套。",
     "ai_briefing_en": "Xi'an: Cloudy & cool, light jacket.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-19T16:48+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "小雨",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "237",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "971",
+    "vis": "8",
+    "dew": "4",
+    "cloud": "99",
+    "ai_briefing_zh": "西安小雨，体感 16℃，出门记得带伞添衣哦！",
+    "ai_briefing_en": "Light rain, feels 16℃. Umbrella!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

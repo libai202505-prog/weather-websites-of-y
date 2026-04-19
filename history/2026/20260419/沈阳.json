@@ -218,5 +218,25 @@
     "ai_briefing_zh": "沈阳风力稍大，出行注意防风润燥。",
     "ai_briefing_en": "Shenyang: Windy, mind the dryness.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-04-19T16:48+08:00",
+    "temp": "24",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "242",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，风力 5级，体感 20℃，注意防风保暖。",
+    "ai_briefing_en": "Windy, cloudy, 20℃. Dress warm!",
+    "alert": null
   }
 ]

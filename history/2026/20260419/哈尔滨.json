@@ -218,5 +218,25 @@
     "ai_briefing_zh": "哈尔滨体感寒凉，多穿些保暖哦！",
     "ai_briefing_en": "Harbin: Feels cold, bundle up!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-19T16:48+08:00",
+    "temp": "11",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "110",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴天微凉，体感 7℃，多穿点，别感冒啦！",
+    "ai_briefing_en": "Cloudy, feels 7℃. Stay warm!",
+    "alert": null
   }
 ]

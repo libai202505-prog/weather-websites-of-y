@@ -278,5 +278,25 @@
     "ai_briefing_zh": "成都阴天，气温适中，Enjoy 悠闲的时光。",
     "ai_briefing_en": "Cloudy and mild, enjoy your relaxed time.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-19T19:26+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "352",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "10",
+    "dew": "9",
+    "cloud": "92",
+    "ai_briefing_zh": "小雨天气，气温 25℃。出门记得带好雨具，小心路滑，注意安全。",
+    "ai_briefing_en": "Light rain, 25℃. Carry an umbrella, watch for slippery roads, and stay safe.",
+    "alert": null
   }
 ]

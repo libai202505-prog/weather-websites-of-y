@@ -278,5 +278,25 @@
     "ai_briefing_zh": "大连阴天微凉，早晚温差大，记得添衣。",
     "ai_briefing_en": "Cloudy and cool, mind the temp changes, dress warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-19T19:25+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "124",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "93",
+    "ai_briefing_zh": "阴天，体感 14℃ 左右。外出记得添衣，小心昼夜温差，保重身体。",
+    "ai_briefing_en": "Cloudy, feels around 14℃. Dress in layers, watch out for temperature changes, and stay well.",
+    "alert": null
   }
 ]

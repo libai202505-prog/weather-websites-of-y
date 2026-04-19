@@ -278,5 +278,25 @@
     "ai_briefing_zh": "青岛阴冷潮湿，体感低，务必注意防寒保暖。",
     "ai_briefing_en": "Cloudy, cold and humid, please keep warm!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-04-19T19:26+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "119",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天有风，体感 10℃，湿度 85% 较高。注意添衣保暖，防湿防凉。",
+    "ai_briefing_en": "Cloudy and windy, feels like 10℃ with high humidity. Dress warmly and protect from dampness and cold.",
+    "alert": null
   }
 ]

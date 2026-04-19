@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云宜人，湿度稍高，保持清爽好心情。",
     "ai_briefing_en": "Pleasant but humid, stay fresh and cheerful!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-19T19:24+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "29",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "27",
+    "dew": "15",
+    "cloud": "3",
+    "ai_briefing_zh": "多云天气，气温 19℃，体感宜人。湿度略高，保持好心情！",
+    "ai_briefing_en": "Cloudy, 19℃. A pleasant day, but a bit humid. Stay cheerful!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天闷热，体感 30℃，小心防暑多喝水。",
     "ai_briefing_en": "Cloudy and muggy, feels 30℃. Stay cool and drink plenty of water!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-19T15:00+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "249",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "28",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆天气炎热，防暑降温是关键！",
+    "ai_briefing_en": "Chongqing: Hot, stay cool!",
+    "alert": null
   }
 ]

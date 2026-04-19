@@ -238,5 +238,25 @@
     "ai_briefing_zh": "北京小雨微凉，体感 8℃，别忘带伞添衣哦！",
     "ai_briefing_en": "Light rain, feels 8℃. Umbrella, coat!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-19T17:40+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "3",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "9",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "北京阴凉，体感 10℃，记得添衣保暖哦！",
+    "ai_briefing_en": "Beijing feels 10℃, cloudy. Remember to dress warmly!",
+    "alert": null
   }
 ]

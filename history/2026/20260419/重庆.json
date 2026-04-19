@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天体感 24℃，湿度 82%，出行注意防潮。",
     "ai_briefing_en": "Cloudy, feels 24℃ with 82% humidity. Stay dry!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-19T22:32+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "5",
+    "humidity": "93",
+    "precip": "6.3",
+    "pressure": "978",
+    "vis": "8",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
+    "ai_briefing_en": "重庆: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

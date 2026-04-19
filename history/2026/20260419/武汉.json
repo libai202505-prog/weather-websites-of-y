@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天体感 24℃，湿度 94%，出门记得带伞。",
     "ai_briefing_en": "Cloudy, feels 24℃ with 94% humidity. Take an umbrella!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-19T22:34+08:00",
+    "temp": "20",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "116",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "9",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "晴朗体感 17℃，风力 3级，别让微风吹感冒了。",
     "ai_briefing_en": "Sunny and 17℃ with brisk winds. Don't catch a cold!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-19T22:34+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "79",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "7",
+    "dew": "12",
+    "cloud": "0",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

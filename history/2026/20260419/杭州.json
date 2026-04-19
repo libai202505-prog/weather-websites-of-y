@@ -318,5 +318,25 @@
     "ai_briefing_zh": "晴朗好天气，体感 19℃ 舒适，适合户外活动。",
     "ai_briefing_en": "Sunny and comfortable 19℃. Perfect for outdoors!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-19T22:34+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "94",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "15",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

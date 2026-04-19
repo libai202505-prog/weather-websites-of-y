@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳有雾，气温宜人，但湿度大，多饮水。",
     "ai_briefing_en": "Shenzhen is foggy with pleasant temperatures, but high humidity, drink more water.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-04-19T10:34+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "214",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "9",
+    "dew": "20",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，体感稍热。注意防暑，及时补水哦！",
+    "ai_briefing_en": "Shenzhen is cloudy and warm. Stay cool, remember to hydrate!",
+    "alert": null
   }
 ]

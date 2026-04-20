@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京体感偏冷，湿度高。记得添衣，小心着凉感冒。",
     "ai_briefing_en": "Nanjing feels cold and humid. Dress warmly and watch out for colds.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-20T16:00+08:00",
+    "temp": "15",
+    "feelsLike": "10",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "20",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "18",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

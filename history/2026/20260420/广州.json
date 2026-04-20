@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州中雨，体感湿热，出门记得带伞，注意防潮！",
     "ai_briefing_en": "Guangzhou has moderate rain and feels hot and humid. Bring an umbrella and mind the dampness!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-20T16:00+08:00",
+    "temp": "25",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "167",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "18",
+    "dew": "22",
+    "cloud": "99",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

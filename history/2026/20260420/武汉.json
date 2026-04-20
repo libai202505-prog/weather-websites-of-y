@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉风力较大，体感较凉。多穿一件，注意保暖。",
     "ai_briefing_en": "Wuhan has strong winds and feels quite cool. Wear an extra layer and stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-20T16:00+08:00",
+    "temp": "19",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "35",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "26",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

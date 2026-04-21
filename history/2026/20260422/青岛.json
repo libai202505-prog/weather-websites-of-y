@@ -98,5 +98,25 @@
     "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
     "ai_briefing_en": "青岛: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-04-22T07:26+08:00",
+    "temp": "10",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "48",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天湿冷，体感偏凉，出门记得添衣。",
+    "ai_briefing_en": "Cloudy and cold, feels chilly, dress warmly.",
+    "alert": null
   }
 ]

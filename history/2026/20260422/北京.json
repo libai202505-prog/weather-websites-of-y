@@ -98,5 +98,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-22T07:26+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "62",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "天气微凉，多云相伴，出门记得添衣哦。",
+    "ai_briefing_en": "A bit cool and cloudy, remember to dress warmly!",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "西安小雨微凉，体感 9℃。注意保暖！",
     "ai_briefing_en": "Xi'an has light rain, feels cool at 9℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-21T10:33+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "272",
+    "humidity": "93",
+    "precip": "1.8",
+    "pressure": "971",
+    "vis": "8",
+    "dew": "9",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

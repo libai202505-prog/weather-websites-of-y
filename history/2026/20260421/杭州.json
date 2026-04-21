@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州小雨，体感 13℃。带伞别着凉！",
     "ai_briefing_en": "Hangzhou has light rain, feels like 13℃. Take an umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-21T10:34+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "124",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "5",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

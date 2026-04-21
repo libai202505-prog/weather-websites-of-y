@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴冷潮湿，湿度 100%，穿暖别着凉。",
     "ai_briefing_en": "Cloudy, chilly, and very humid. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-21T23:02+08:00",
+    "temp": "13",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "149",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1007",
+    "vis": "1",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

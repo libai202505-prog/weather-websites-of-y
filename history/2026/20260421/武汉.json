@@ -258,5 +258,25 @@
     "ai_briefing_zh": "下雨湿冷，体感偏低，务必带伞添衣。",
     "ai_briefing_en": "Rainy, cold, and humid. Don't forget your umbrella!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-21T23:02+08:00",
+    "temp": "11",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "3",
+    "humidity": "100",
+    "precip": "0.3",
+    "pressure": "1009",
+    "vis": "5",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "天气阴凉，体感 14℃。出门记得添件衣服。",
     "ai_briefing_en": "Overcast, 14℃. Add a layer!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-21T15:41+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "10",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "12",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天微凉，风力小。早晚温差大，注意添衣哦。",
+    "ai_briefing_en": "Shanghai: Overcast and mild. Dress well for changing temperatures.",
+    "alert": null
   }
 ]

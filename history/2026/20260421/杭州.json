@@ -178,5 +178,25 @@
     "ai_briefing_zh": "小心雨天路滑，体感 14℃。别忘带伞！",
     "ai_briefing_en": "Rainy, 14℃. Umbrella needed!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-21T15:42+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "79",
+    "humidity": "90",
+    "precip": "0.4",
+    "pressure": "1008",
+    "vis": "4",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州有雨，体感湿冷。出门记得带伞，注意保暖防潮。",
+    "ai_briefing_en": "Hangzhou: Rainy and damp-cold. Grab your umbrella, keep warm & dry!",
+    "alert": null
   }
 ]

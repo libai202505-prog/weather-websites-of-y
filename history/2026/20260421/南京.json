@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京有雨，体感湿冷，出门别忘带伞加衣。",
     "ai_briefing_en": "Nanjing is rainy and damp-cold, take an umbrella and extra layers.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-21T21:11+08:00",
+    "temp": "13",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "113",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1007",
+    "vis": "3",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "阴冷潮湿，湿度 100%，穿暖别着凉。",
+    "ai_briefing_en": "Cloudy, chilly, and very humid. Stay warm!",
+    "alert": null
   }
 ]

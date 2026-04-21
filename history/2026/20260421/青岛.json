@@ -238,5 +238,25 @@
     "ai_briefing_zh": "青岛体感偏冷，风力不小，多穿衣保暖。",
     "ai_briefing_en": "Qingdao feels cold and windy, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-04-21T21:10+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "148",
+    "humidity": "56",
+    "precip": "0.3",
+    "pressure": "1007",
+    "vis": "21",
+    "dew": "7",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微凉，体感偏低，注意添衣保暖。",
+    "ai_briefing_en": "Cloudy and cool. Remember to dress warmly!",
+    "alert": null
   }
 ]

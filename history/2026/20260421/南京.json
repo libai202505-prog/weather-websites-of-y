@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京大雾体感冷，注意路况，多穿衣物保暖。",
     "ai_briefing_en": "Nanjing is very foggy and cold. Dress warmly, drive safe.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-21T19:00+08:00",
+    "temp": "12",
+    "feelsLike": "12",
+    "text": "雨",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "130",
+    "humidity": "100",
+    "precip": "0.3",
+    "pressure": "1007",
+    "vis": "2",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "南京有雨，体感湿冷，出门别忘带伞加衣。",
+    "ai_briefing_en": "Nanjing is rainy and damp-cold, take an umbrella and extra layers.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉有雨，湿度 100%，体感湿冷。注意防潮保暖哦。",
     "ai_briefing_en": "Wuhan: Rainy, 100% humidity, feels damp-cold. Stay warm and dry!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-21T17:13+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "267",
+    "humidity": "100",
+    "precip": "1.0",
+    "pressure": "1006",
+    "vis": "4",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨湿度大，出门带伞，注意防潮。",
+    "ai_briefing_en": "Wuhan has light rain and high humidity. Take an umbrella.",
+    "alert": null
   }
 ]

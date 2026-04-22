@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安阴天，体感 16℃ 适中，早晚温差大，注意添衣！",
     "ai_briefing_en": "Xi'an: 16℃, overcast.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-22T21:18+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "195",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "8",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

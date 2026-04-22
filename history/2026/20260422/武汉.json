@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉阴天，体感 11℃ 稍凉，风力大，记得加衣防风！",
     "ai_briefing_en": "Wuhan: 11℃, windy.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-22T21:12+08:00",
+    "temp": "13",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "46",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "20",
+    "dew": "11",
+    "cloud": "92",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

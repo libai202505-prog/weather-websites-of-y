@@ -218,5 +218,25 @@
     "ai_briefing_zh": "上海有雨，体感 15℃。地面湿滑，出行请注意安全！",
     "ai_briefing_en": "Shanghai: Rain, 15℃. Safe!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-22T21:08+08:00",
+    "temp": "14",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "339",
+    "humidity": "93",
+    "precip": "0.1",
+    "pressure": "1009",
+    "vis": "4",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

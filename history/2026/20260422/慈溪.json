@@ -138,5 +138,25 @@
     "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
     "ai_briefing_en": "慈溪: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-04-22T13:12+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "345",
+    "humidity": "95",
+    "precip": "0.2",
+    "pressure": "1005",
+    "vis": "7",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing_zh": "雨天路滑，带伞出行，小心慢走，注意保暖。",
+    "ai_briefing_en": "Rainy and slippery roads. Take an umbrella, walk carefully, and stay warm.",
+    "alert": null
   }
 ]

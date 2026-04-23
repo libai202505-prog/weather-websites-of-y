@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州阴天湿冷，体感 12℃，注意保暖，别着凉了。",
     "ai_briefing_en": "Hanzhou is gloomy and damp, feels like 12℃. Stay warm, avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-23T15:50+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "15",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "1008",
+    "vis": "18",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴冷湿润，体感较凉。多穿衣服，注意防潮。",
+    "ai_briefing_en": "Hangzhou is damp and chilly, feels quite cool. Dress warmly and mind the humidity.",
+    "alert": null
   }
 ]

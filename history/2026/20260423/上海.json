@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天 15℃。早晚温差大，记得添衣保暖哦。",
     "ai_briefing_en": "Shanghai is cloudy, 15℃. Big temp difference, remember to add layers.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-23T23:48+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "10",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "23",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

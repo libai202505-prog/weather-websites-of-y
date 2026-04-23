@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉阴天 15℃，湿度大。外出带伞，保持心情好。",
     "ai_briefing_en": "Wuhan is cloudy, 15℃, high humidity. Bring an umbrella, stay cheerful.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-23T23:50+08:00",
+    "temp": "12",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "358",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "8",
+    "dew": "13",
+    "cloud": "4",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

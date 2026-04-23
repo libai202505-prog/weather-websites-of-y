@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安 夜间监测中，注意保暖",
     "ai_briefing_en": "西安: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-23T21:34+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "250",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "964",
+    "vis": "8",
+    "dew": "10",
+    "cloud": "9",
+    "ai_briefing_zh": "西安晴朗 16℃，风和日丽。是个适合户外活动的好日子。",
+    "ai_briefing_en": "Xi'an is sunny and 16℃, pleasant. A good day for outdoor activities.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

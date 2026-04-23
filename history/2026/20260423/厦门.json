@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门阴天闷热，湿度很大。多喝水，注意防晒！",
     "ai_briefing_en": "Xiamen is cloudy and muggy with high humidity. Drink water, mind the sun!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-23T17:41+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "雨",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "229",
+    "humidity": "91",
+    "precip": "0.2",
+    "pressure": "991",
+    "vis": "10",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

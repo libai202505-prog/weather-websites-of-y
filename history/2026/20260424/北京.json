@@ -138,5 +138,25 @@
     "ai_briefing_zh": "北京多云，体感 17℃。记得添件外套哦。",
     "ai_briefing_en": "Cloudy, 17C. Grab a jacket!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-24T13:24+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "140",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "9",
+    "dew": "11",
+    "cloud": "91",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

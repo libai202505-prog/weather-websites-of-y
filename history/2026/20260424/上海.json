@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海天晴 20℃，微风舒适，享受阳光吧！",
     "ai_briefing_en": "Sunny, 20C. Enjoy the sun!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-04-24T13:26+08:00",
+    "temp": "22",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "126",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "20",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

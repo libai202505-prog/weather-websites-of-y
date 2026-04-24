@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉阴天，体感 18℃，湿度不低，出门带伞。",
     "ai_briefing_en": "Cloudy, 18C. Feels damp.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-24T13:26+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "300",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "21",
+    "dew": "13",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉晴朗，湿度 77%，小心湿热，保持清爽！",
     "ai_briefing_en": "Wuhan is sunny, 77% humidity. Watch for mugginess, stay fresh!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-25T21:01+08:00",
+    "temp": "16",
+    "feelsLike": "17",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "167",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "7",
+    "dew": "16",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉天晴，体感 17℃ 但湿度高，注意防潮保持舒适。",
+    "ai_briefing_en": "Wuhan is sunny, feels 17℃ but very humid. Stay comfortable and dry!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

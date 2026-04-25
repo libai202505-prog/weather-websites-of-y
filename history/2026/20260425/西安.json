@@ -318,5 +318,25 @@
     "ai_briefing_zh": "西安阴天，体感 20℃ 宜人，出门注意添衣哦。",
     "ai_briefing_en": "Xi'an is cloudy and feels like 20℃. Dress appropriately when heading out!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-25T22:32+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "99",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "962",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "94",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -118,5 +118,25 @@
     "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
     "ai_briefing_en": "昆明: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-04-26T06:34+08:00",
+    "temp": "13",
+    "feelsLike": "5",
+    "text": "雨",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "217",
+    "humidity": "86",
+    "precip": "0.3",
+    "pressure": "812",
+    "vis": "12",
+    "dew": "11",
+    "cloud": "96",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降11℃"
   }
 ]

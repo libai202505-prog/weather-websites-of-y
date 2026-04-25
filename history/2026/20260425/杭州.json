@@ -238,5 +238,25 @@
     "ai_briefing_zh": "多云天气，气温舒适，记得带伞！",
     "ai_briefing_en": "Cloudy and comfy, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-25T17:50+08:00",
+    "temp": "22",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "110",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "21",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州多云，体感18℃，凉意渐浓，注意保暖呀。",
+    "ai_briefing_en": "Hangzhou cloudy, feels 18℃, getting cool, stay warm.",
+    "alert": null
   }
 ]

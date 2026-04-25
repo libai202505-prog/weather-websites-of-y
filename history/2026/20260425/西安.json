@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安晴朗，体感 23℃。温差大，早晚注意添衣。",
     "ai_briefing_en": "Xi'an is sunny, feels like 23℃. Big temp change, dress for mornings/evenings.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-25T15:02+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "57",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "0",
+    "ai_briefing_zh": "西安晴好，气温适中，适合户外散步，心情棒！",
+    "ai_briefing_en": "Sunny and nice in Xi'an, perfect for a walk.",
+    "alert": null
   }
 ]

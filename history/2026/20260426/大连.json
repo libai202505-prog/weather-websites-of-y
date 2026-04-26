@@ -258,5 +258,25 @@
     "ai_briefing_zh": "大连小雨，体感湿凉，出门记得带伞保暖。",
     "ai_briefing_en": "Dalian has light rain and feels damp. Bring an umbrella and keep warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-04-26T19:34+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "267",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "14",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "大连阴天，体感微凉，湿度高，记得带伞以防万一。",
+    "ai_briefing_en": "Dalian is cloudy and slightly cool with high humidity, take an umbrella just in case.",
+    "alert": null
   }
 ]

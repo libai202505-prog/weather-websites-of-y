@@ -258,5 +258,25 @@
     "ai_briefing_zh": "哈尔滨多云寒凉，请务必多穿保暖衣物。",
     "ai_briefing_en": "Harbin is cloudy and cold. Please dress very warmly!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-04-26T19:32+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "252",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨气温偏低，体感更凉，记得多穿暖和。",
+    "ai_briefing_en": "Harbin is quite chilly, remember to dress warmly.",
+    "alert": null
   }
 ]

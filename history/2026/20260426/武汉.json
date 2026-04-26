@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉体感闷热，湿度大，注意室内通风哦。",
     "ai_briefing_en": "Wuhan feels muggy with high humidity, ensure good ventilation indoors.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-26T21:02+08:00",
+    "temp": "20",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "337",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "12",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感暖湿，多注意通风换气哦。",
+    "ai_briefing_en": "Wuhan is cloudy, warm, and humid, ensure good ventilation!",
+    "alert": null
   }
 ]

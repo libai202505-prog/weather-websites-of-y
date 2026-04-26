@@ -78,5 +78,25 @@
     "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
     "ai_briefing_en": "重庆: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-27T04:32+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "雨",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "303",
+    "humidity": "93",
+    "precip": "0.7",
+    "pressure": "976",
+    "vis": "4",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
+    "ai_briefing_en": "重庆: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

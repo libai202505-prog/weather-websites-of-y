@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京阴天风力大，体感偏凉，记得多穿件外套哦！",
     "ai_briefing_en": "Beijing is cloudy with strong winds, feeling cool. Remember to wear an extra jacket!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-26T13:32+08:00",
+    "temp": "23",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "131",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "14",
+    "dew": "3",
+    "cloud": "91",
+    "ai_briefing_zh": "北京阴天微凉，体感 19℃，出门记得添衣哦。",
+    "ai_briefing_en": "Beijing is overcast and cool, feels like 19°C. Remember to dress warmly!",
+    "alert": null
   }
 ]

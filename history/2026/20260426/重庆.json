@@ -198,5 +198,25 @@
     "ai_briefing_zh": "重庆阴天 27℃，湿度较高。体感略闷，注意通风。",
     "ai_briefing_en": "Chongqing is overcast, 27°C with high humidity. It might feel muggy, keep ventilated.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-04-26T15:32+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "84",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "23",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天，体感 26℃。湿度高，穿舒适衣物吧！",
+    "ai_briefing_en": "Overcast, 26℃. Humid, comfy!",
+    "alert": null
   }
 ]

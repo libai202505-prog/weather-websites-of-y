@@ -238,5 +238,25 @@
     "ai_briefing_zh": "昆明阴天，微风习习，体感舒适，享受好天气。",
     "ai_briefing_en": "Kunming is cloudy with a gentle breeze, feels comfortable, enjoy the day.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-04-26T18:42+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "小雨",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "230",
+    "humidity": "69",
+    "precip": "1.0",
+    "pressure": "806",
+    "vis": "25",
+    "dew": "11",
+    "cloud": "62",
+    "ai_briefing_zh": "昆明有小雨，出门记得带雨具，注意安全。",
+    "ai_briefing_en": "Kunming has light rain. Bring an umbrella and stay safe!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

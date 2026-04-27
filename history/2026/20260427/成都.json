@@ -178,5 +178,25 @@
     "ai_briefing_zh": "成都阴天 21℃，湿度较高。注意除湿，保持好心情哦！",
     "ai_briefing_en": "Chengdu: Humid. Keep dry!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-27T13:50+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "161",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "954",
+    "vis": "16",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 23℃ 阴天，湿度高。出门备伞哦！",
+    "ai_briefing_en": "Cloudy, 23℃. Umbrella!",
+    "alert": null
   }
 ]

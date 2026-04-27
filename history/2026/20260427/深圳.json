@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳多云，湿度较大，穿衣要舒适。",
     "ai_briefing_en": "Shenzhen is cloudy and humid, dress comfortably.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-04-27T10:42+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "187",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天 27℃，湿度高。保持通风，会更舒适哦！",
+    "ai_briefing_en": "Shenzhen: Humid. Keep cool!",
+    "alert": null
   }
 ]

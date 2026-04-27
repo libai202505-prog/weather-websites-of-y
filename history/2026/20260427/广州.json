@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州 28℃ 阴天，湿度高。注意防潮哦！",
     "ai_briefing_en": "Cloudy, 28℃. High humidity.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-04-27T16:14+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "167",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

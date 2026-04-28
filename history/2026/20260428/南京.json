@@ -98,5 +98,25 @@
     "ai_briefing_zh": "有雨，体感很凉，雨具和保暖衣物别忘带。",
     "ai_briefing_en": "Rainy, chilly. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-04-28T10:50+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "121",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "7",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "南京小雨 13℃，体感 11℃。雨天湿冷，记得带伞多穿衣。",
+    "ai_briefing_en": "Nanjing has light rain 13℃, feels 11℃. It's damp and chilly, bring an umbrella and layer up.",
+    "alert": null
   }
 ]

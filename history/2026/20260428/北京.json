@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云微凉，注意添衣，别着凉哦！",
     "ai_briefing_en": "Cloudy and cool, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-28T10:48+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "357",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "30",
+    "dew": "0",
+    "cloud": "9",
+    "ai_briefing_zh": "北京多云，体感稍凉 15℃，早晚添衣哦！",
+    "ai_briefing_en": "Beijing is cloudy, feels a bit cool at 15℃. Remember to dress warmly.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "有雨且湿冷，多穿衣物，小心湿滑路面。",
     "ai_briefing_en": "Rainy, damp-cold. Be warm!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-28T10:50+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "338",
+    "humidity": "99",
+    "precip": "0.1",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "成都阴天，湿度 99% 很高。注意防潮，保持好心情。",
+    "ai_briefing_en": "Chengdu is cloudy with 99% humidity. Mind the dampness and keep a good mood.",
+    "alert": null
   }
 ]

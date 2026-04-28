@@ -118,5 +118,25 @@
     "ai_briefing_zh": "武汉下雨 17℃，体感 13℃。雨天路滑，出行注意安全。",
     "ai_briefing_en": "Wuhan has rain 17℃, feels 13℃. Roads are slippery, travel safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-04-28T14:00+08:00",
+    "temp": "17",
+    "feelsLike": "13",
+    "text": "雨",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "30",
+    "humidity": "87",
+    "precip": "0.2",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雨体感 13℃，风大。带伞加衣！",
+    "ai_briefing_en": "Wuhan 13℃, rain, wind. Warm!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天舒适，体感温度宜人，享受美好时光。",
     "ai_briefing_en": "Cloudy and pleasant, enjoy the comfortable weather.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-04-29T16:00+08:00",
+    "temp": "23",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "38",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

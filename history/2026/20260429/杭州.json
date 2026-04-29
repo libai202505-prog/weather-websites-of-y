@@ -118,5 +118,25 @@
     "ai_briefing_zh": "杭州有雨体感 6℃，天凉路滑，注意添衣慢行。",
     "ai_briefing_en": "Hangzhou is rainy and feels like 6°C, it's cold and slippery, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-04-29T13:48+08:00",
+    "temp": "11",
+    "feelsLike": "6",
+    "text": "雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "25",
+    "humidity": "92",
+    "precip": "1.7",
+    "pressure": "1015",
+    "vis": "6",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "阵雨风大，体感很冷，注意防寒，别着凉啦。",
+    "ai_briefing_en": "Rainy and windy, feels quite cold, keep warm!",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "北京晴好，出门注意保暖，别着凉哦！",
     "ai_briefing_en": "Sunny in Beijing! Stay warm and enjoy your day.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-04-29T10:48+08:00",
+    "temp": "21",
+    "feelsLike": "17",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "348",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "0",
+    "ai_briefing_zh": "北京阳光正好，体感 17℃，记得补水哦！",
+    "ai_briefing_en": "Beijing is sunny and feels like 17°C, remember to hydrate!",
+    "alert": null
   }
 ]

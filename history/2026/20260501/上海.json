@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-01T07:48+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "283",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "12",
+    "dew": "7",
+    "cloud": "10",
+    "ai_briefing_zh": "上海晴天，体感 16℃。阳光正好，出门散步很舒服！",
+    "ai_briefing_en": "Shanghai is sunny, feels like 16℃. Enjoy a pleasant stroll!",
+    "alert": null
   }
 ]

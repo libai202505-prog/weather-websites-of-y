@@ -98,5 +98,25 @@
     "ai_briefing_zh": "厦门有雾，体感 12℃，能见度差，出行请注意安全。",
     "ai_briefing_en": "Xiamen foggy, 12℃. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-04-30T11:22+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "61",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "16",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门阴天，体感 16℃，湿度大，注意衣物干燥。",
+    "ai_briefing_en": "Xiamen is cloudy, feels like 16℃. Very humid, keep clothes dry.",
+    "alert": null
   }
 ]

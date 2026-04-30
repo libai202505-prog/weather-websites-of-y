@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云天气，体感温度适宜，出行好时节。",
     "ai_briefing_en": "Cloudy and pleasant, a good time to go out.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-04-30T17:00+08:00",
+    "temp": "25",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "23",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "964",
+    "vis": "16",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

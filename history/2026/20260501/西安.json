@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安阴天，湿度 94%微凉。出门注意路滑，注意防潮。",
     "ai_briefing_en": "Xi'an cloudy, 94% humid, a bit cool. Be careful on slippery roads.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-01T22:48+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "220",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "5",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

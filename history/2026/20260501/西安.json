@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安下雨 15℃，地面湿滑，记得带伞出行。",
     "ai_briefing_en": "Xi'an is rainy at 15℃, slippery roads. Remember your umbrella.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-01T21:00+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "266",
+    "humidity": "94",
+    "precip": "0.1",
+    "pressure": "964",
+    "vis": "5",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天，湿度 94%微凉。出门注意路滑，注意防潮。",
+    "ai_briefing_en": "Xi'an cloudy, 94% humid, a bit cool. Be careful on slippery roads.",
+    "alert": null
   }
 ]

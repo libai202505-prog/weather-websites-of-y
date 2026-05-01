@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳阴天 23℃，湿度 76% 较高，注意防潮哦。",
     "ai_briefing_en": "Shenzhen is cloudy at 23℃, high humidity 76%. Mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-01T21:00+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "105",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天，湿度 81%体感 23℃。注意除湿，保持好心情。",
+    "ai_briefing_en": "Shenzhen cloudy, 81% humid, feels 23℃. Mind the humidity!",
+    "alert": null
   }
 ]

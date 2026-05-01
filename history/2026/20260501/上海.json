@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海多云 21℃，微风和煦，体感舒适。",
     "ai_briefing_en": "Shanghai is cloudy at 21℃, gentle breeze, feels comfortable.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-01T21:00+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "280",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "27",
+    "dew": "8",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天，体感 17℃。风小，注意保暖，别着凉。",
+    "ai_briefing_en": "Shanghai cloudy, feels 17℃. Stay warm, avoid catching a cold.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

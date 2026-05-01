@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云暖和，体感舒适，记得多喝水。",
     "ai_briefing_en": "Cloudy, warm. Keep hydrated!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-01T16:13+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "无持续风向",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "-1",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "16",
+    "dew": "19",
+    "cloud": "10",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

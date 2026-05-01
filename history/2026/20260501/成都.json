@@ -138,5 +138,25 @@
     "ai_briefing_zh": "今日阴冷，湿度较高，注意保暖防潮。",
     "ai_briefing_en": "Cloudy, cool. High humidity.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-05-01T16:13+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "无持续风向",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "-1",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

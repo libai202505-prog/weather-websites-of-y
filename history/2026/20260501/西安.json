@@ -138,5 +138,25 @@
     "ai_briefing_zh": "今日有雨，气温偏低，出门带伞保暖。",
     "ai_briefing_en": "Rainy and cool. Umbrella up!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-01T16:13+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "无持续风向",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "-1",
+    "humidity": "84",
+    "precip": "0.4",
+    "pressure": "963",
+    "vis": "6",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

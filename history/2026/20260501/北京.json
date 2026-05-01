@@ -98,5 +98,25 @@
     "ai_briefing_zh": "北京阴天，体感 15℃。风微凉，记得添衣哦！",
     "ai_briefing_en": "Beijing is cloudy, feels like 15℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-05-01T11:08+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "103",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "15",
+    "dew": "4",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天，体感 20℃ 左右，早晚添衣哦！",
+    "ai_briefing_en": "Cloudy, feels like 20℃. Dress warmly in the morning/evening!",
+    "alert": null
   }
 ]

@@ -118,5 +118,25 @@
     "ai_briefing_zh": "晴好天气，气温 24℃，记得补充水分哦！",
     "ai_briefing_en": "Sunny with 24℃. Remember to stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-01T14:34+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "161",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "18",
+    "cloud": "93",
+    "ai_briefing_zh": "多云暖和，体感舒适，记得多喝水。",
+    "ai_briefing_en": "Cloudy, warm. Keep hydrated!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安 夜间监测中，注意保暖",
     "ai_briefing_en": "西安: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-01T19:01+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "雨",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "172",
+    "humidity": "92",
+    "precip": "0.6",
+    "pressure": "963",
+    "vis": "5",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "西安下雨 15℃，地面湿滑，记得带伞出行。",
+    "ai_briefing_en": "Xi'an is rainy at 15℃, slippery roads. Remember your umbrella.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-01T19:00+08:00",
+    "temp": "22",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "5",
+    "humidity": "18",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "-8",
+    "cloud": "7",
+    "ai_briefing_zh": "沈阳晴天 22℃，体感 19℃ 舒适，湿度 18% 偏低。",
+    "ai_briefing_en": "Shenyang is sunny at 22℃, feels comfortable 19℃, low humidity 18%.",
+    "alert": null
   }
 ]

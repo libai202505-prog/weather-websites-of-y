@@ -138,5 +138,25 @@
     "ai_briefing_zh": "今天阴天体感稍凉，记得添衣哦！",
     "ai_briefing_en": "It's overcast and feels a bit cool today, remember to add layers!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-05-02T13:32+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "252",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "16",
+    "dew": "6",
+    "cloud": "100",
+    "ai_briefing_zh": "天气阴凉舒适，风力 3级 稍大，出行注意防风。",
+    "ai_briefing_en": "Overcast and pleasant, with a moderate 3-level wind. Mind the wind when out.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天不冷不热，体感正舒适呢。",
     "ai_briefing_en": "Cloudy and just right. Enjoy the comfortable weather!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-02T18:48+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "252",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "17",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天，气温适中，体感凉爽。",
+    "ai_briefing_en": "Hangzhou is cloudy, moderate temperature, feels cool.",
+    "alert": null
   }
 ]

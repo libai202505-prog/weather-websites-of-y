@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳多云 25℃，湿度较高，记得带伞以防阵雨。",
     "ai_briefing_en": "Shenzhen is cloudy 25℃, humid. Don't forget your umbrella.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-02T21:02+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "138",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "24",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳多云，气温舒适，但湿度高，注意防潮。",
+    "ai_briefing_en": "Shenzhen is partly cloudy with comfortable temps, but high humidity.",
+    "alert": null
   }
 ]

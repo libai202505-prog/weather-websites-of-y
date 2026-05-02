@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京下雨 16℃，体感湿冷，出门带伞，注意保暖。",
     "ai_briefing_en": "Nanjing is rainy 16℃, feels damp. Bring umbrella, keep warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-02T21:02+08:00",
+    "temp": "16",
+    "feelsLike": "16",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1003",
+    "vis": "1",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "南京下雨，湿度 100%，带伞保暖，注意防滑。",
+    "ai_briefing_en": "Nanjing is rainy with 100% humidity. Take an umbrella and watch your step.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "哈尔滨体感 8℃，风力 2级，添衣保暖，别着凉了。",
     "ai_briefing_en": "Harbin feels 8℃, 2-grade wind. Dress warm, don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-02T20:58+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "252",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "-5",
+    "cloud": "99",
+    "ai_briefing_zh": "哈尔滨阴天，体感偏冷，多穿点，注意保暖。",
+    "ai_briefing_en": "Harbin is cloudy and feels cold. Dress warmly and stay bundled up!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "下雨了，气温 16℃ 偏凉，出门记得带伞添衣哦。",
     "ai_briefing_en": "It's raining and cool at 16℃. Remember your umbrella and extra clothes!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-02T15:42+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "343",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "10",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉有雾，能见度低，出行请注意安全。",
+    "ai_briefing_en": "Wuhan is foggy, low visibility. Drive safely, please.",
+    "alert": null
   }
 ]

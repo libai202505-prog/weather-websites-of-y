@@ -258,5 +258,25 @@
     "ai_briefing_zh": "西安晴朗，阳光正好，快去感受春日暖阳吧！",
     "ai_briefing_en": "Xi'an is sunny and bright. Enjoy the beautiful weather!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-02T22:42+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "236",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "5",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

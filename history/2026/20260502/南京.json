@@ -258,5 +258,25 @@
     "ai_briefing_zh": "南京下雨，湿度 100%，带伞保暖，注意防滑。",
     "ai_briefing_en": "Nanjing is rainy with 100% humidity. Take an umbrella and watch your step.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-02T22:42+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "272",
+    "humidity": "100",
+    "precip": "0.2",
+    "pressure": "1004",
+    "vis": "4",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

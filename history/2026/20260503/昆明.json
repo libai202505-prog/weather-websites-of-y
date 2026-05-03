@@ -238,5 +238,25 @@
     "ai_briefing_zh": "昆明下雨体感 4℃，湿冷大风，请务必多添衣物。",
     "ai_briefing_en": "Kunming is rainy and feels like 4℃, windy. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-05-03T19:15+08:00",
+    "temp": "9",
+    "feelsLike": "6",
+    "text": "雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "51",
+    "humidity": "85",
+    "precip": "0.9",
+    "pressure": "814",
+    "vis": "16",
+    "dew": "5",
+    "cloud": "99",
+    "ai_briefing_zh": "昆明有雨又冷，风力不小，记得多穿，带雨具。",
+    "ai_briefing_en": "Kunming is rainy, cold, and windy. Dress warmly and carry an umbrella.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳下雨体感 24℃，湿度大。出行记得带好雨具！",
     "ai_briefing_en": "Shenzhen is rainy, feels 24℃, very humid. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-03T19:14+08:00",
+    "temp": "22",
+    "feelsLike": "25",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "284",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "6",
+    "dew": "22",
+    "cloud": "96",
+    "ai_briefing_zh": "深圳有雾，小心路滑。注意湿度高，会闷热哦。",
+    "ai_briefing_en": "Shenzhen is foggy, watch your step! High humidity might feel stuffy.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大连多云，体感 8℃ 偏冷，北风 3级，注意保暖。",
     "ai_briefing_en": "Dalian: 8℃. Cold. Warm up!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-03T16:41+08:00",
+    "temp": "15",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "11",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "6",
+    "cloud": "8",
+    "ai_briefing_zh": "大连多云，体感 8℃ 风力强劲！务必多穿衣保暖。",
+    "ai_briefing_en": "Dalian is cloudy, feels like 8℃ with strong winds! Be sure to dress very warmly.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

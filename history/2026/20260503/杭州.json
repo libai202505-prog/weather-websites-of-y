@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州有雨 16℃，体感稍凉。出门带伞，注意保暖！",
     "ai_briefing_en": "Hangzhou is rainy at 16℃, feels a bit cool. Take an umbrella and keep warm!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-03T10:50+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "290",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "26",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天，体感 19℃ 湿度大，出门带伞，防止细雨绵绵。",
+    "ai_briefing_en": "Overcast in Hangzhou, feels like 19℃ with high humidity. Bring an umbrella for potential drizzle.",
+    "alert": null
   }
 ]

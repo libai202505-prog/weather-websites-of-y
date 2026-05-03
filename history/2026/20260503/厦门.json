@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门有雾 23℃，体感微热。驾车请注意安全！",
     "ai_briefing_en": "Xiamen is foggy at 23℃, feels a bit warm. Please drive safely!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-05-03T10:50+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "251",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "18",
+    "dew": "22",
+    "cloud": "98",
+    "ai_briefing_zh": "厦门阴天，气温 28℃ 闷热，注意防暑，多喝水哦。",
+    "ai_briefing_en": "Overcast in Xiamen, 28℃ and muggy. Watch out for heatstroke and drink plenty of water.",
+    "alert": null
   }
 ]

@@ -278,5 +278,25 @@
     "ai_briefing_zh": "深圳有雨，湿度很高，记得带伞，出行注意安全！",
     "ai_briefing_en": "Shenzhen is rainy and very humid. Bring your umbrella and stay safe!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-03T22:42+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "99",
+    "humidity": "87",
+    "precip": "0.2",
+    "pressure": "1006",
+    "vis": "12",
+    "dew": "20",
+    "cloud": "99",
+    "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
+    "ai_briefing_en": "深圳: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

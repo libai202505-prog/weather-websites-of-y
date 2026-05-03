@@ -278,5 +278,25 @@
     "ai_briefing_zh": "青岛多云，体感凉意，出门别忘了加件薄外套。",
     "ai_briefing_en": "Qingdao is partly cloudy and cool. Don't forget a light jacket when you go out.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-03T22:42+08:00",
+    "temp": "13",
+    "feelsLike": "7",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "315",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "9",
+    "cloud": "1",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

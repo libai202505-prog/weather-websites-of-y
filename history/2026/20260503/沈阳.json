@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳体感 10℃，风吹有些凉，多穿点，注意防寒保暖。",
     "ai_briefing_en": "It feels like 10℃ in Shenyang, a bit chilly with the wind. Dress warmly and stay protected from the cold.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-03T14:00+08:00",
+    "temp": "18",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "348",
+    "humidity": "23",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "-2",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳阴天，体感 12℃ 较冷，北风 3级，多穿点哦！",
+    "ai_briefing_en": "Shenyang: 12℃. Cold. Warm up!",
+    "alert": null
   }
 ]

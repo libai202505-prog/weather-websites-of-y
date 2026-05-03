@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连体感 5℃ 伴有凉风，多穿点，小心受寒，保护好自己。",
     "ai_briefing_en": "It feels like 5℃ with a cool breeze in Dalian. Dress warmly, watch out for the cold, and take care.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-03T14:00+08:00",
+    "temp": "15",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "346",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "5",
+    "cloud": "10",
+    "ai_briefing_zh": "大连多云，体感 8℃ 偏冷，北风 3级，注意保暖。",
+    "ai_briefing_en": "Dalian: 8℃. Cold. Warm up!",
+    "alert": null
   }
 ]

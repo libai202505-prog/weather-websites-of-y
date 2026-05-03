@@ -178,5 +178,25 @@
     "ai_briefing_zh": "青岛大风 5级，体感只有 5℃，出门务必加厚防风，别冻着！",
     "ai_briefing_en": "Strong winds (level 5) in Qingdao, feels like only 5℃. Be sure to wear thick, windproof clothes when going out!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-03T14:00+08:00",
+    "temp": "15",
+    "feelsLike": "5",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "17",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "9",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛风力 5级，体感只有 5℃！湿冷大风，注意防风保暖！",
+    "ai_briefing_en": "Qingdao: 5℃. Wind 5. Cold.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

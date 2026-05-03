@@ -258,5 +258,25 @@
     "ai_briefing_zh": "深圳有雾，小心路滑。注意湿度高，会闷热哦。",
     "ai_briefing_en": "Shenzhen is foggy, watch your step! High humidity might feel stuffy.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-03T21:02+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "雨",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "174",
+    "humidity": "96",
+    "precip": "0.6",
+    "pressure": "1006",
+    "vis": "1",
+    "dew": "21",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳有雨，湿度很高，记得带伞，出行注意安全！",
+    "ai_briefing_en": "Shenzhen is rainy and very humid. Bring your umbrella and stay safe!",
+    "alert": null
   }
 ]

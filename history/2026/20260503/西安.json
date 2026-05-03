@@ -258,5 +258,25 @@
     "ai_briefing_zh": "西安晴朗干燥，注意多饮水，皮肤保湿。",
     "ai_briefing_en": "Xi'an is clear and dry. Drink water and moisturize your skin.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-03T20:59+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "236",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "5",
+    "dew": "5",
+    "cloud": "0",
+    "ai_briefing_zh": "西安晴空万里，体感凉爽，早晚温差大，注意保暖。",
+    "ai_briefing_en": "Xi'an is sunny and cool. Layer up for the morning and evening, keep warm.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安晴朗温暖，体感舒适，多补充水分。",
     "ai_briefing_en": "Sunny and warm, feels good. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-04T17:03+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "962",
+    "vis": "5",
+    "dew": "8",
+    "cloud": "2",
+    "ai_briefing_zh": "西安晴朗，体感偏热，多喝水注意防晒。",
+    "ai_briefing_en": "Xi'an sunny & warm, drink water, use sunscreen.",
+    "alert": null
   }
 ]

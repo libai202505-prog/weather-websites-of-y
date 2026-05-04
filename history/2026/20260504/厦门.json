@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门阴天凉爽，湿度高，衣物要防潮。",
     "ai_briefing_en": "Overcast, cool, high humidity. Mind your clothes!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-05-04T17:01+08:00",
+    "temp": "18",
+    "feelsLike": "19",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "38",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门小雨，出门带伞，注意路面湿滑。",
+    "ai_briefing_en": "Xiamen light rain, grab umbrella, watch for slippery roads.",
+    "alert": null
   }
 ]

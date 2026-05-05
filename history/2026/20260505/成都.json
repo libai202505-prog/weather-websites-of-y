@@ -138,5 +138,25 @@
     "ai_briefing_zh": "晴热天气，户外活动注意防暑，多喝水。",
     "ai_briefing_en": "Sunny and hot! Stay hydrated and avoid heatstroke outdoors.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-05-05T16:00+08:00",
+    "temp": "31",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "26",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "948",
+    "vis": "16",
+    "dew": "11",
+    "cloud": "2",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

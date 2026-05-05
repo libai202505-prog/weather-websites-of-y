@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云凉爽，早晚温差大，记得添衣别着凉。",
     "ai_briefing_en": "Cloudy and cool, with big temperature swings. Dress in layers!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-05-05T16:00+08:00",
+    "temp": "23",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "190",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "30",
+    "dew": "10",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "西安有雨，出门别忘带伞，注意保暖。",
     "ai_briefing_en": "It's raining in Xi'an. Don't forget your umbrella and stay warm!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-06T17:15+08:00",
+    "temp": "16",
+    "feelsLike": "19",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "356",
+    "humidity": "95",
+    "precip": "0.4",
+    "pressure": "968",
+    "vis": "6",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门多云湿度大，体感温暖，记得防潮哦！",
     "ai_briefing_en": "Xiamen is warm and humid, enjoy the seaside!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-05-06T22:02+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "126",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "18",
+    "dew": "20",
+    "cloud": "3",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

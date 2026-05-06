@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连阴天体感微凉，湿度较高，多补充水分！",
     "ai_briefing_en": "Dalian is cool and humid, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-06T22:02+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "15",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "999",
+    "vis": "5",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

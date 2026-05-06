@@ -118,5 +118,25 @@
     "ai_briefing_zh": "沈阳阴天，体感凉爽，出门别忘了加件外套。",
     "ai_briefing_en": "Shenyang is cloudy and cool. Don't forget your jacket!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-06T14:02+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "339",
+    "humidity": "99",
+    "precip": "5.3",
+    "pressure": "1004",
+    "vis": "14",
+    "dew": "10",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳下雨湿冷，多穿衣，别感冒了。",
+    "ai_briefing_en": "Shenyang is rainy and chilly. Bundle up to stay warm!",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

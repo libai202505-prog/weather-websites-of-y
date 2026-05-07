@@ -138,5 +138,25 @@
     "ai_briefing_zh": "青岛阴天，体感寒凉。出门多添衣，注意防风保暖。",
     "ai_briefing_en": "Qingdao: Chilly. Bundle up!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-07T14:00+08:00",
+    "temp": "20",
+    "feelsLike": "12",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "6",
+    "windSpeed": "46",
+    "wind360": "315",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "29",
+    "dew": "8",
+    "cloud": "95",
+    "ai_briefing_zh": "青岛风力超大，体感凉，多穿点！",
+    "ai_briefing_en": "Qingdao: Windy, cool. Dress warm!",
+    "alert": "💨 北风警报：西北风 6级"
   }
 ]

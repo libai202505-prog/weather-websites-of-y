@@ -138,5 +138,25 @@
     "ai_briefing_zh": "哈尔滨阴冷，体感偏凉。出门多穿，注意防寒保暖。",
     "ai_briefing_en": "Harbin: Cold. Bundle up!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-07T14:00+08:00",
+    "temp": "15",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "315",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "-3",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨风大很凉，务必多穿保暖！",
+    "ai_briefing_en": "Harbin: Cold, windy. Bundle up!",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

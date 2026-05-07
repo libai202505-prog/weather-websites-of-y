@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉有雾，能见度低，体感湿凉。驾车注意安全！",
     "ai_briefing_en": "Wuhan: Foggy. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-07T14:00+08:00",
+    "temp": "22",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "45",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "11",
+    "dew": "18",
+    "cloud": "96",
+    "ai_briefing_zh": "武汉风大湿冷，小心感冒，带伞！",
+    "ai_briefing_en": "Wuhan: Windy, damp. Get warm!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

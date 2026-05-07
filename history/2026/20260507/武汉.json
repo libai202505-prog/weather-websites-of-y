@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天，风力较大，湿度高，注意保暖防风。",
     "ai_briefing_en": "Wuhan is cloudy and windy. Stay warm and dry!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-07T22:02+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "11",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

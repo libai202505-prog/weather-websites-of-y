@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴天微凉，体感舒适，记得添减衣物喔。",
     "ai_briefing_en": "Wuhan is cloudy and slightly cool, feels pleasant. Remember to adjust your clothing.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-08T17:02+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "21",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感 22℃ 刚刚好，湿度适中，保持好心情。",
+    "ai_briefing_en": "Wuhan is cloudy, feeling just right at 22℃ with moderate humidity. Keep smiling!",
+    "alert": null
   }
 ]

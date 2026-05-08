@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大连阳光明媚 14℃，体感舒适，适合户外活动。",
     "ai_briefing_en": "Dalian is sunny and feels 14℃, comfortable for outdoor activities.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-08T10:49+08:00",
+    "temp": "20",
+    "feelsLike": "14",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "315",
+    "humidity": "17",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "0",
+    "ai_briefing_zh": "大连晴朗，体感 14℃，风力 4 级，干燥，注意防风保湿。",
+    "ai_briefing_en": "Dalian is sunny, feels 14℃, windy at level 4, dry, keep warm and hydrated.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

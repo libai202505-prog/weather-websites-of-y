@@ -138,5 +138,25 @@
     "ai_briefing_zh": "晴朗舒适，体感宜人。享受阳光，别忘了适当休息放松。",
     "ai_briefing_en": "Sunny and pleasant, feels comfortable. Enjoy the sun, remember to relax!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-08T15:34+08:00",
+    "temp": "20",
+    "feelsLike": "14",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "315",
+    "humidity": "22",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "-1",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳风力较大，体感偏凉，外出注意防风保暖。",
+    "ai_briefing_en": "Shenyang is windy and feels cool. Take precautions against wind and cold outdoors.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

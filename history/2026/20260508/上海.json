@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天微凉，体感有点冷。记得多穿衣物，别着凉啦！",
     "ai_briefing_en": "Cloudy and cool, feels a bit chilly. Dress warmly to avoid catching a cold!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-08T15:32+08:00",
+    "temp": "21",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "0",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天微凉，风力不大，早晚温差注意添衣哦。",
+    "ai_briefing_en": "Shanghai is cloudy and cool. Mind the temperature difference between morning and night.",
+    "alert": null
   }
 ]

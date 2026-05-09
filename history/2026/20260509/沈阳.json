@@ -218,5 +218,25 @@
     "ai_briefing_zh": "阴天风力 5级，体感 11℃ 很凉。务必多添衣！",
     "ai_briefing_en": "Cloudy with strong winds, feels chilly at 11℃. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-09T22:44+08:00",
+    "temp": "17",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "180",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

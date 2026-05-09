@@ -218,5 +218,25 @@
     "ai_briefing_zh": "阴天风力 5级，体感 10℃ 寒冷，请务必多穿！",
     "ai_briefing_en": "Cloudy with strong winds, feels cold at 10℃. Dress very warmly!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-09T22:44+08:00",
+    "temp": "16",
+    "feelsLike": "9",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "180",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "98",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

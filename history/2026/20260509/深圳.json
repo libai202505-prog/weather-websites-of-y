@@ -198,5 +198,25 @@
     "ai_briefing_zh": "深圳阴天，风力 3级，湿度大。体感舒适，保持心情愉悦！",
     "ai_briefing_en": "Shenzhen is cloudy with a breeze, humid. It feels pleasant, stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-09T21:02+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "21",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微风，气温 23℃，注意防潮和保持舒爽！",
+    "ai_briefing_en": "Cloudy with a breeze, 23℃. Mind the humidity and stay comfy!",
+    "alert": null
   }
 ]

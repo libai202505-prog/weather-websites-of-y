@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安晴朗，体感 27℃。天气较热，多喝水，防晒哦。",
     "ai_briefing_en": "Sunny Xi'an, feels 27℃. Quite warm, drink more water and protect from sun.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-09T19:43+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "8",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "西安多云，体感温度舒适。美好的一天，从好心情开始！",
+    "ai_briefing_en": "Xi'an is cloudy with comfortable temperatures. Start your beautiful day with a good mood!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

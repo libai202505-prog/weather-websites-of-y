@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阵雨天气，空气湿润，外出记得带伞哦。",
     "ai_briefing_en": "Showers expected with high humidity, don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-09T18:00+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "13",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "广州有雾，湿度 94%，出行注意能见度，保持凉爽。",
+    "ai_briefing_en": "Fog in Guangzhou, 94% humidity. Watch visibility when out, stay cool.",
+    "alert": null
   }
 ]

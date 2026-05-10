@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京阴天微风，体感舒适，散步好天气。",
     "ai_briefing_en": "Comfy, light breeze.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-10T21:02+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "17",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天，气温适中。注意适时增减衣物，别着凉。",
+    "ai_briefing_en": "Nanjing is cloudy with moderate temps. Dress accordingly to avoid a chill.",
+    "alert": null
   }
 ]

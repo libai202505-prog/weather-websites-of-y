@@ -238,5 +238,25 @@
     "ai_briefing_zh": "广州有雾湿度大，体感暖和，出行注意安全。",
     "ai_briefing_en": "Foggy, humid. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-10T21:02+08:00",
+    "temp": "23",
+    "feelsLike": "26",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "3",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "广州雾气浓重，湿度 94%，出行请注意交通安全哦！",
+    "ai_briefing_en": "Guangzhou is very foggy and humid. Please drive safely when out!",
+    "alert": null
   }
 ]

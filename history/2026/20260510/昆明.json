@@ -238,5 +238,25 @@
     "ai_briefing_zh": "昆明小雨湿度大，体感凉，出门带伞！",
     "ai_briefing_en": "Rainy, cool. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-05-10T21:02+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "813",
+    "vis": "5",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明有小雨，湿度 91%。出门记得带雨具，注意防湿保暖。",
+    "ai_briefing_en": "Kunming has light rain and is humid. Bring an umbrella and stay dry.",
+    "alert": null
   }
 ]

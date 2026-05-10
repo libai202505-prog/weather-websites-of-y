@@ -238,5 +238,25 @@
     "ai_briefing_zh": "上海阴天不冷不热，湿度较高，舒适。",
     "ai_briefing_en": "Mild, humid. Enjoy!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-10T21:00+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "28",
+    "dew": "15",
+    "cloud": "98",
+    "ai_briefing_zh": "上海天气阴凉，湿度不低，穿衣记得适当添减哦。",
+    "ai_briefing_en": "Shanghai is cool and humid. Dress in layers and adjust as needed.",
+    "alert": null
   }
 ]

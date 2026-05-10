@@ -138,5 +138,25 @@
     "ai_briefing_zh": "西安多云，体感舒适。昼夜温差大，早晚注意保暖。",
     "ai_briefing_en": "Xi'an is partly cloudy, feels comfortable. Big temperature difference, stay warm morning/evening.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-10T10:48+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "8",
+    "dew": "11",
+    "cloud": "99",
+    "ai_briefing_zh": "西安多云，气温偏高，记得防晒，补充水分哦。",
+    "ai_briefing_en": "Xi'an is cloudy and warm. Protect from sun and stay hydrated!",
+    "alert": null
   }
 ]

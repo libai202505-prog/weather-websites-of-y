@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州天气适宜，阴天出行记得带伞，以防万一哦。",
     "ai_briefing_en": "Hangzhou has pleasant cloudy weather. Bring an umbrella, just in case.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-10T22:50+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "225",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "19",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

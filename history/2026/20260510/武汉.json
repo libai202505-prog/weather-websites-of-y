@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉阴天，体感适宜，享受悠闲时光吧！",
     "ai_briefing_en": "Wuhan is cloudy and comfortable, enjoy your leisure time!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-10T19:42+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "17",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天湿度高，体感温和，注意防潮哦。",
+    "ai_briefing_en": "Humid, mild. Stay dry!",
+    "alert": null
   }
 ]

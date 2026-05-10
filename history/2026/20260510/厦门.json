@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门阴天风大，体感较凉，记得添件薄衣哦！",
     "ai_briefing_en": "Xiamen is cloudy and windy, feeling cool, remember a light layer!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-05-10T19:42+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "135",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "99",
+    "ai_briefing_zh": "厦门阴天湿度高，体感适中，注意防潮。",
+    "ai_briefing_en": "Humid, mild. Stay dry!",
+    "alert": null
   }
 ]

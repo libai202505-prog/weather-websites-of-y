@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京 31℃ 多云，天气干燥，请多补水哦。",
     "ai_briefing_en": "Beijing 31℃, cloudy. Dry, hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-05-10T16:48+08:00",
+    "temp": "31",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "225",
+    "humidity": "17",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "1",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天有风，体感稍凉，注意添减衣物哦！",
+    "ai_briefing_en": "Cloudy, windy, cool. Layer up!",
+    "alert": null
   }
 ]

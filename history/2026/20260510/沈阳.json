@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳阴天，体感凉意十足，风大，记得多添衣。",
     "ai_briefing_en": "Shenyang is overcast and feels quite cool. Dress warmly, it's windy.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-10T14:00+08:00",
+    "temp": "17",
+    "feelsLike": "12",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "180",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "21",
+    "dew": "8",
+    "cloud": "78",
+    "ai_briefing_zh": "沈阳小雨 17℃，体感凉，出门记得带伞添衣。",
+    "ai_briefing_en": "Shenyang 17℃, rain. Umbrella, warm!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "成都阴天，气温适中，微风轻拂，享受惬意的时光吧！",
     "ai_briefing_en": "Chengdu is cloudy with moderate temperatures and a gentle breeze. Enjoy your pleasant time!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-05-11T22:50+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "225",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "953",
+    "vis": "16",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

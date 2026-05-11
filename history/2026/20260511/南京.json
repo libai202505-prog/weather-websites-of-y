@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京多云，气温舒适，微风和煦，是个适合出行的好日子！",
     "ai_briefing_en": "Nanjing is cloudy with comfortable temperatures and a gentle breeze. A great day for outings!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-11T22:50+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "14",
+    "dew": "17",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

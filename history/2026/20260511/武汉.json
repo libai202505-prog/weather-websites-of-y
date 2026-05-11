@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天，气温舒适，南风送爽。出行记得带伞哦！",
     "ai_briefing_en": "Wuhan is cloudy with comfortable temperatures and a refreshing south wind. Remember your umbrella!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-11T22:50+08:00",
+    "temp": "20",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "45",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "9",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

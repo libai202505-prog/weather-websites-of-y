@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州今天挺热的，记得多喝水，注意防暑。",
     "ai_briefing_en": "Hangzhou is hot today. Drink plenty of water and stay cool.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-11T19:02+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "24",
+    "dew": "18",
+    "cloud": "96",
+    "ai_briefing_zh": "杭州多云，气温体感舒适，南风微拂，出门愉快哦！",
+    "ai_briefing_en": "Hangzhou is cloudy with comfortable temperatures. Enjoy the gentle south breeze!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "哈尔滨体感 10℃，风力 4级！多穿衣，注意保暖哦。",
     "ai_briefing_en": "Harbin feels 10℃, strong wind! Bundle up very warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-11T11:26+08:00",
+    "temp": "22",
+    "feelsLike": "17",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "270",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "29",
+    "dew": "8",
+    "cloud": "10",
+    "ai_briefing_zh": "晴空万里，风力 5级。出门添件衣，小心别着凉！",
+    "ai_briefing_en": "Sunny skies, strong wind at force 5. Wear an extra layer, don't catch a cold!",
+    "alert": null
   }
 ]

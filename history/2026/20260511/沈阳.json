@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳晴朗 15℃，体感 13℃，微凉，记得添衣。",
     "ai_briefing_en": "Sunny Shenyang 15℃, feels 13℃. A bit cool, dress warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-11T11:27+08:00",
+    "temp": "21",
+    "feelsLike": "18",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "225",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗微凉，风力 4级。外出记得添衣，注意保暖哦！",
+    "ai_briefing_en": "Sunny and a bit cool with force 4 wind. Remember to dress warmly when out!",
+    "alert": null
   }
 ]

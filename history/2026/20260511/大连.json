@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大连有雾，体感仅 8℃，风大！多穿衣，注意安全。",
     "ai_briefing_en": "Foggy Dalian, feels 8℃, windy! Dress very warm, drive safe.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-11T11:27+08:00",
+    "temp": "16",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "45",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "多云微冷，风力 5级。多穿点，别被海风吹感冒啦！",
+    "ai_briefing_en": "Cloudy and chilly with strong force 5 wind. Bundle up, don't catch a cold!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

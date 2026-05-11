@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴天湿冷，湿度 87%。添衣保暖，注意防潮。",
     "ai_briefing_en": "Overcast, damp and cool, 87% humidity. Dress warmly and watch for dampness.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-05-11T15:30+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "812",
+    "vis": "7",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明有雾，能见度低。行车注意安全！",
+    "ai_briefing_en": "Kunming is foggy, visibility is low. Drive safely.",
+    "alert": null
   }
 ]

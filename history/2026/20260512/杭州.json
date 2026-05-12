@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州气温 32℃，阴天体感热，记得补水，午后防晒。",
     "ai_briefing_en": "Hangzhou is 32℃ and overcast. Stay hydrated and use sunscreen in the afternoon.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-12T17:34+08:00",
+    "temp": "31",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "180",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "24",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州阴天 31℃ 稍热，湿度 38%。体感干燥，记得多补水！",
+    "ai_briefing_en": "Hangzhou is cloudy and hot, feels dry. Remember to hydrate!",
+    "alert": null
   }
 ]

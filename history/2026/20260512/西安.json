@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天风力较大，体感稍凉，出门记得添衣。",
     "ai_briefing_en": "Cloudy with strong winds, feels cool. Dress warmly when going out.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-12T22:23+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "225",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "8",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

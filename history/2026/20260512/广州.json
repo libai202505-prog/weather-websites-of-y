@@ -178,5 +178,25 @@
     "ai_briefing_zh": "体感闷热，湿度大，记得多补充水分，清凉度夏。",
     "ai_briefing_en": "Feels muggy and humid, remember to hydrate and stay cool.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-12T22:26+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "9",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

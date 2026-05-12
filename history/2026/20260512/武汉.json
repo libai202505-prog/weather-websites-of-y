@@ -178,5 +178,25 @@
     "ai_briefing_zh": "湿度高，体感闷热，多补充水分，注意防暑。",
     "ai_briefing_en": "High humidity, feels stuffy. Hydrate well and prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-12T22:26+08:00",
+    "temp": "22",
+    "feelsLike": "25",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "270",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "10",
+    "dew": "20",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

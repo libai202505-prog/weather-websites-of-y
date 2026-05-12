@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阴天 29℃，湿度适中。外出记得带伞，保持愉快！",
     "ai_briefing_en": "Nanjing is cloudy and 29℃. Take an umbrella and enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-12T19:48+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "12",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "天气稍热，湿度适中，记得多补充水分。",
+    "ai_briefing_en": "Slightly warm, moderate humidity. Remember to hydrate well.",
+    "alert": null
   }
 ]

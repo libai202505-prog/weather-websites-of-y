@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 24℃，晴朗。阳光正好，出门防晒别忘。",
     "ai_briefing_en": "Shenyang 24℃, clear sky. Enjoy the sun, but don't forget sunscreen!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-13T19:56+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "4",
+    "ai_briefing_zh": "晴朗天气好，阳光正好，适合户外活动哦。",
+    "ai_briefing_en": "Sunny and pleasant weather, perfect for outdoor activities.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

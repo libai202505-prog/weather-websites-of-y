@@ -98,5 +98,25 @@
     "ai_briefing_zh": "厦门中雨，气温 21℃，湿度高，雨势较大，出门务必带伞！",
     "ai_briefing_en": "Xiamen has moderate rain, 21℃ with high humidity. Heavy rain, be sure to take an umbrella!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-05-14T15:34+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "1",
+    "dew": "22",
+    "cloud": "97",
+    "ai_briefing_zh": "大雾弥漫，湿度 98%。出行注意交通安全。",
+    "ai_briefing_en": "Heavy fog, 98% humidity. Drive carefully, stay safe.",
+    "alert": null
   }
 ]

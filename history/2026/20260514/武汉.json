@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴天，体感闷热潮湿，多喝水，注意防暑和防潮哦。",
     "ai_briefing_en": "Wuhan is cloudy, muggy, and very humid. Drink plenty of water and mind the heat and dampness.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-14T22:54+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "4",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "厦门小雨风力大，路滑潮湿，出门记得带伞！",
     "ai_briefing_en": "Xiamen has light rain and strong winds. Bring an umbrella!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-05-15T12:02+08:00",
+    "temp": "21",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "90",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "28",
+    "dew": "21",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门湿度超高，感觉很潮湿哦。",
+    "ai_briefing_en": "Xiamen: Very humid!",
+    "alert": null
   }
 ]

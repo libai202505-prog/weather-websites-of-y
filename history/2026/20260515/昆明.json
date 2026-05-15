@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明多云风力 4级。体感偏凉，记得多带件外套！",
     "ai_briefing_en": "Kunming is cloudy with 4-level wind. It feels cooler, remember to bring a jacket!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-05-15T23:02+08:00",
+    "temp": "20",
+    "feelsLike": "17",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "225",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "807",
+    "vis": "26",
+    "dew": "11",
+    "cloud": "2",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

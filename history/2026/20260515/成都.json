@@ -178,5 +178,25 @@
     "ai_briefing_zh": "成都小雨湿度 100%，带伞防滑，小心出行呀！",
     "ai_briefing_en": "Chengdu has light rain and 100% humidity. Bring an umbrella, be careful of slippery roads!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-05-15T23:03+08:00",
+    "temp": "19",
+    "feelsLike": "21",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "950",
+    "vis": "16",
+    "dew": "16",
+    "cloud": "99",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

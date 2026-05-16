@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州阳光明媚，气温较高，注意防晒补水。",
     "ai_briefing_en": "Hangzhou is sunny and warm. Remember sun protection and hydration.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-16T19:44+08:00",
+    "temp": "26",
+    "feelsLike": "22",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "180",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州晴好风力大，体感略凉。注意防晒，也别忘了多补水！",
+    "ai_briefing_en": "Hangzhou is sunny with strong winds, feeling a bit cooler. Stay hydrated!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

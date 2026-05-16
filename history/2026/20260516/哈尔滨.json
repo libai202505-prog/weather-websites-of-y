@@ -178,5 +178,25 @@
     "ai_briefing_zh": "哈尔滨阴天凉爽，体感偏冷，别忘了添件外套。",
     "ai_briefing_en": "Harbin is cloudy and cool. It feels chilly, so grab a jacket!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-16T19:44+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "98",
+    "ai_briefing_zh": "哈尔滨阴天，体感较凉。记得添衣保暖，预防感冒哦！",
+    "ai_briefing_en": "Harbin is cloudy & feels cool. Dress warmly to avoid catching a cold!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳阴天舒适，早晚温差大，注意适时添减衣物。",
     "ai_briefing_en": "Shenyang is cloudy and pleasant. Mind temperature changes.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-16T19:44+08:00",
+    "temp": "22",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "5",
+    "cloud": "99",
+    "ai_briefing_zh": "沈阳阴天，气温适宜。出门享受这舒适的天气吧！",
+    "ai_briefing_en": "Shenyang is cloudy with comfortable temperatures. Enjoy your day!",
+    "alert": null
   }
 ]

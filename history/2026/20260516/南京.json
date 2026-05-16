@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京晴朗风力超强，体感偏凉，外出注意防风！",
     "ai_briefing_en": "Nanjing is sunny but super windy, feels cool. Be careful of strong winds outdoors!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-16T15:58+08:00",
+    "temp": "28",
+    "feelsLike": "23",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "135",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "16",
+    "dew": "16",
+    "cloud": "10",
+    "ai_briefing_zh": "晴朗有风，风力 6 级。体感 23℃，外出要注意防风保暖！",
+    "ai_briefing_en": "Sunny and windy, 6-level wind. Feels like 23℃, dress warmly!",
+    "alert": null
   }
 ]

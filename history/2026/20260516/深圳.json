@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳阴天湿度大，体感略凉，出门记得带伞！",
     "ai_briefing_en": "Shenzhen is overcast and humid, feels a bit cool. Remember your umbrella!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-16T15:58+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "45",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天潮湿 81%。体感 24℃，记得保持清爽舒适哦！",
+    "ai_briefing_en": "Cloudy, feels like 24℃, high humidity 81%. Stay cool and fresh!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

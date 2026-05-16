@@ -158,5 +158,25 @@
     "ai_briefing_zh": "多云 17℃，体感 13℃。天气较凉，一定要注意保暖！",
     "ai_briefing_en": "Cloudy 17℃, feels like 13℃. It's quite chilly, remember to keep warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-16T18:00+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "4",
+    "cloud": "94",
+    "ai_briefing_zh": "哈尔滨阴天凉爽，体感偏冷，别忘了添件外套。",
+    "ai_briefing_en": "Harbin is cloudy and cool. It feels chilly, so grab a jacket!",
+    "alert": null
   }
 ]

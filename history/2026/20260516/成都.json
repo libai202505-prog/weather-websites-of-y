@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴天 26℃，微风舒适。体感 27℃，享受惬意时光吧！",
     "ai_briefing_en": "Cloudy 26℃ with a light breeze. Feels like 27℃, enjoy the day!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-05-16T18:00+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "90",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "16",
+    "dew": "18",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天略热，记得多补充水分，保持活力。",
+    "ai_briefing_en": "Chengdu is cloudy and a bit warm. Stay hydrated and energetic!",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天湿度大，体感微凉。出门带伞哦！",
     "ai_briefing_en": "Cloudy and humid, feels cool. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-16T10:50+08:00",
+    "temp": "25",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "90",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天风力大，湿度高，出门记得带伞。",
+    "ai_briefing_en": "Shenzhen is cloudy with strong winds and high humidity. Don't forget your umbrella!",
+    "alert": null
   }
 ]

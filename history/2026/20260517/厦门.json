@@ -138,5 +138,25 @@
     "ai_briefing_zh": "厦门阴天有风，体感舒适，出行记得多饮水。",
     "ai_briefing_en": "Xiamen is cloudy and breezy, comfortable. Remember to stay hydrated!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-05-17T14:28+08:00",
+    "temp": "28",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "90",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "18",
+    "cloud": "10",
+    "ai_briefing_zh": "多云，风力 5级，海边风大，注意防晒和防风。",
+    "ai_briefing_en": "Cloudy with strong winds, expect strong winds by the sea. Mind sun protection and wind.",
+    "alert": null
   }
 ]

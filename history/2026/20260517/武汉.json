@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉阴天有风，体感舒适，注意适时增减衣物。",
     "ai_briefing_en": "Wuhan is cloudy and breezy, feeling comfortable. Dress appropriately!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-17T14:28+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "27",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天有风，湿度高，注意身体，保持健康。",
+    "ai_briefing_en": "Cloudy and windy with high humidity. Take care and stay healthy.",
+    "alert": null
   }
 ]

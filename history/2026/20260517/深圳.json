@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳风力不小，体感凉爽，出门注意防风。",
     "ai_briefing_en": "Shenzhen is breezy and cool. Be mindful of the wind!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-17T14:28+08:00",
+    "temp": "25",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "90",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "20",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天风力 5级，体感微凉，多穿点衣服哦。",
+    "ai_briefing_en": "Cloudy with strong winds, feels a bit cool. Dress warmly!",
+    "alert": null
   }
 ]

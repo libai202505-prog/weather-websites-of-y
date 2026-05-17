@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京多云有风，感觉微热，别忘了多喝水。",
     "ai_briefing_en": "Nanjing is partly cloudy and breezy, a bit warm. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-17T14:28+08:00",
+    "temp": "29",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "135",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "24",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天，风力 5级，出门注意防风，小心着凉。",
+    "ai_briefing_en": "Cloudy with strong winds, remember to shield yourself from the wind.",
+    "alert": null
   }
 ]

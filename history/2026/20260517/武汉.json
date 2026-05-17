@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴天有风，湿度高，注意身体，保持健康。",
     "ai_briefing_en": "Cloudy and windy with high humidity. Take care and stay healthy.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-17T17:02+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "135",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "29",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感舒适。湿度略高，保持清爽哦。",
+    "ai_briefing_en": "Wuhan is overcast, comfortable. Humidity is a bit high, stay fresh!",
+    "alert": null
   }
 ]

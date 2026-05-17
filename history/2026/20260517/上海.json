@@ -158,5 +158,25 @@
     "ai_briefing_zh": "晴空万里，阳光正好，注意防晒补水哦！",
     "ai_briefing_en": "Sunny skies, perfect for enjoying the day. Remember sun protection and hydration!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-17T17:01+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "上海多云，气温适宜，体感舒适，出门好心情！",
+    "ai_briefing_en": "Shanghai is cloudy and mild, comfortable outside, enjoy your day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

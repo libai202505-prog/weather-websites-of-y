@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴天风力 5级，体感微凉，多穿点衣服哦。",
     "ai_briefing_en": "Cloudy with strong winds, feels a bit cool. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-17T17:02+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "26",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天，气温宜人。户外活动要注意防潮哦。",
+    "ai_briefing_en": "Shenzhen is overcast, pleasant temps. Mind the humidity outdoors.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

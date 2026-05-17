@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京风力较大，阴天体感微凉，记得添衣。",
     "ai_briefing_en": "Nanjing is cloudy and breezy, feeling a bit cool. Don't forget an extra layer!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-17T22:50+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "135",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "20",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

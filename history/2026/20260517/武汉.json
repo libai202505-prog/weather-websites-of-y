@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉阴天，体感舒适。湿度略高，保持清爽哦。",
     "ai_briefing_en": "Wuhan is overcast, comfortable. Humidity is a bit high, stay fresh!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-17T19:02+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "23",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，体感舒适。虽无阳光，也要保持好心情哦。",
+    "ai_briefing_en": "Wuhan is overcast, feels pleasant. Even without sun, keep your spirits bright!",
+    "alert": null
   }
 ]

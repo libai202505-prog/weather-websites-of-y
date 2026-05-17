@@ -198,5 +198,25 @@
     "ai_briefing_zh": "哈尔滨阴天凉爽，体感舒适。出门散步，享受惬意。",
     "ai_briefing_en": "Harbin is overcast and cool, feels comfortable. Enjoy a pleasant stroll outside!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-17T21:01+08:00",
+    "temp": "22",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "225",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "29",
+    "dew": "12",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨风力大，体感稍凉，记得多穿件衣服。",
+    "ai_briefing_en": "Harbin is breezy and feels cool. Remember to wear an extra layer!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

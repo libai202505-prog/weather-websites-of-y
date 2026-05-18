@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大雾天气，能见度低，行车注意安全。",
     "ai_briefing_en": "Heavy fog, low visibility. Drive carefully!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-18T12:02+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "中雨",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "135",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "4",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛中雨，风大体感冷。出门带伞，添衣保暖，小心路滑！",
+    "ai_briefing_en": "Qingdao has moderate rain, windy and cold. Bring umbrella, dress warm!",
+    "alert": null
   }
 ]

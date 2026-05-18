@@ -138,5 +138,25 @@
     "ai_briefing_zh": "小雨绵绵，地面湿滑，出行请带伞。",
     "ai_briefing_en": "Light rain, slippery ground. Carry an umbrella!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-05-18T12:00+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阵雨",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "17",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆阵雨天气，气温凉爽。出门带伞，注意防雨防潮！",
+    "ai_briefing_en": "Chongqing has showers, cool temps. Grab an umbrella, stay dry!",
+    "alert": null
   }
 ]

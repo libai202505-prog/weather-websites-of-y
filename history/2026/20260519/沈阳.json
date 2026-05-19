@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天 20℃，湿度 82%。微凉潮湿，小心感冒哦！",
     "ai_briefing_en": "Cloudy 20℃, 82% humidity. Cool and damp, take care!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-19T20:26+08:00",
+    "temp": "18",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "24",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

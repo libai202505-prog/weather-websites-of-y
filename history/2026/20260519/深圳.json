@@ -98,5 +98,25 @@
     "ai_briefing_zh": "深圳阴天 25℃ 伴有风，湿度高，注意防风防潮哦！",
     "ai_briefing_en": "Shenzhen is overcast at 25℃ with wind and high humidity. Mind the wind and dampness!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-19T12:49+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "93",
+    "precip": "4.0",
+    "pressure": "1003",
+    "vis": "6",
+    "dew": "23",
+    "cloud": "92",
+    "ai_briefing_zh": "深圳有雾，湿度 93%，能见度低，开车请注意安全。",
+    "ai_briefing_en": "Shenzhen is foggy with 93% humidity. Drive safely due to low visibility.",
+    "alert": null
   }
 ]

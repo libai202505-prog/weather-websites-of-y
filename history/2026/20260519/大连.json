@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大连 15℃ 阵雨，湿度高，体感微凉，出门带伞添衣！",
     "ai_briefing_en": "Dalian has showers at 15℃ with high humidity, feels cool. Bring an umbrella and dress warmly!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-19T12:49+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "97",
+    "precip": "1.0",
+    "pressure": "1000",
+    "vis": "4",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "大连小雨 15℃，体感寒凉，湿度大，记得添衣带伞。",
+    "ai_briefing_en": "Dalian has light rain at 15℃, feels cold and humid. Add layers and bring an umbrella.",
+    "alert": null
   }
 ]

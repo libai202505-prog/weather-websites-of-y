@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天风大微凉，湿度高，注意保暖防风。",
     "ai_briefing_en": "Cloudy, windy and cool, high humidity. Stay warm and protect from wind.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-20T15:28+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "315",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "25",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛阴冷湿滑，注意添衣保暖哦。",
+    "ai_briefing_en": "Qingdao is cool and damp. Keep warm!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

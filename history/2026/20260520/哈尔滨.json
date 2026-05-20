@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云舒适，体感 23℃，早晚温差大，保暖。",
     "ai_briefing_en": "Cloudy, comfy 23℃. Big temp swing, keep warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-20T21:26+08:00",
+    "temp": "17",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "98",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

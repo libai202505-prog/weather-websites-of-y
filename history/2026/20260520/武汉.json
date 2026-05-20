@@ -78,5 +78,25 @@
     "ai_briefing_zh": "雾气较重，能见度低，外出注意交通安全。",
     "ai_briefing_en": "Heavy fog means low visibility, be safe on your commute.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-20T11:28+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "315",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "15",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微凉，湿度较高，注意通风防潮。",
+    "ai_briefing_en": "Cloudy and cool, high humidity. Ensure ventilation, prevent dampness.",
+    "alert": null
   }
 ]

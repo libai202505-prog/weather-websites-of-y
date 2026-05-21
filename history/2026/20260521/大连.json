@@ -118,5 +118,25 @@
     "ai_briefing_zh": "气温较低，记得多穿点，小心着凉哦！",
     "ai_briefing_en": "Cooler temperatures, remember to layer up and don't catch a cold!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-21T19:08+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "180",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天体感较凉，湿度不低，出门添衣注意保暖。",
+    "ai_briefing_en": "Dalian is overcast and cool. High humidity. Add clothes and stay warm.",
+    "alert": null
   }
 ]

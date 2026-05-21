@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天微热，体感尚可，出门带伞，以防有雨。",
     "ai_briefing_en": "Hangzhou is overcast and slightly warm. Bring an umbrella just in case.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-21T23:12+08:00",
+    "temp": "23",
+    "feelsLike": "25",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "8",
+    "dew": "20",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

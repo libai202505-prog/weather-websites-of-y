@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天体感较凉，湿度不低，出门添衣注意保暖。",
     "ai_briefing_en": "Dalian is overcast and cool. High humidity. Add clothes and stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-21T23:08+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "180",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "96",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

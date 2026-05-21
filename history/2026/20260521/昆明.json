@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云风大，体感微凉，出门注意防风保暖哦。",
     "ai_briefing_en": "Kunming is cloudy and windy, feels cool. Mind the wind and dress warmly.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-05-21T23:16+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "225",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "19",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "杭州有雾，开车慢行。湿度 79%，出门记得带手帕哦。",
     "ai_briefing_en": "Hangzhou is foggy, drive carefully. With 79% humidity, it feels a bit damp.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-22T17:10+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "225",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "3",
+    "dew": "22",
+    "cloud": "99",
+    "ai_briefing_zh": "杭州有雾，能见度较低，出行请务必小心。",
+    "ai_briefing_en": "Hangzhou: Foggy. Travel safe.",
+    "alert": null
   }
 ]

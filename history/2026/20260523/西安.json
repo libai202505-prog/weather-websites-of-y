@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，气温 26℃。体感舒适，出门可备薄外套哦！",
     "ai_briefing_en": "Xi'an is overcast, 26℃. Feels comfortable, bring a light jacket!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-23T19:02+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "96",
+    "ai_briefing_zh": "西安阴天，气温舒适，记得带伞以防不时之需。",
+    "ai_briefing_en": "Xi'an is overcast and comfortable. Bring an umbrella just in case!",
+    "alert": null
   }
 ]

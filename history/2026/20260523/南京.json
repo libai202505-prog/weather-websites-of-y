@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阴天，气温 29℃。体感舒适，记得适当补水哦！",
     "ai_briefing_en": "Nanjing is overcast, 29℃. Feels comfortable, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-23T19:00+08:00",
+    "temp": "28",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "8",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "南京风力较大，出门注意防风，小心着凉。",
+    "ai_briefing_en": "Nanjing has strong winds. Take care to keep warm and avoid catching a cold.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "北京多云，气温 18℃，体感舒适，记得添衣哦。",
     "ai_briefing_en": "Beijing is cloudy, 18℃. Feels comfortable, remember to layer up!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-05-23T12:24+08:00",
+    "temp": "22",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "270",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "13",
+    "dew": "18",
+    "cloud": "91",
+    "ai_briefing_zh": "北京阴天微凉，体感 19℃，出门记得添衣哦！",
+    "ai_briefing_en": "Beijing is cloudy and cool, feels like 19℃. Remember to add a layer!",
+    "alert": null
   }
 ]

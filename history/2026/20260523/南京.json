@@ -98,5 +98,25 @@
     "ai_briefing_zh": "南京有雾 25℃，风力较大，能见度低，注意保暖。",
     "ai_briefing_en": "Nanjing is foggy, 25℃, strong wind. Low visibility, stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-23T12:26+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "5",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "南京有雾，体感 31℃。出行注意安全，多喝水！",
+    "ai_briefing_en": "Nanjing is foggy, feels like 31℃. Travel safely and stay hydrated!",
+    "alert": null
   }
 ]

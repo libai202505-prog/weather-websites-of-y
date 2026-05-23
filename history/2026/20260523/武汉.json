@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-23T08:02+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天 25℃，湿度高，体感闷热，多补充水分。",
+    "ai_briefing_en": "Wuhan is cloudy, 25℃. High humidity, feels muggy, replenish fluids.",
+    "alert": null
   }
 ]

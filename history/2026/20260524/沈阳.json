@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云微凉，风力较大，出门注意带件外套。",
     "ai_briefing_en": "Cloudy and a bit cool, windy. Bring a jacket when you go out.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-24T19:00+08:00",
+    "temp": "22",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "180",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳阴天体感 19℃，风力 4 级，出门注意保暖。",
+    "ai_briefing_en": "Shenyang is cloudy and cool. Mind the wind, dress warmly!",
+    "alert": null
   }
 ]

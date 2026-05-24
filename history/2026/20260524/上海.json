@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天湿润，体感闷热，保持室内通风。",
     "ai_briefing_en": "Overcast and humid, feeling stuffy. Keep rooms ventilated.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-24T19:00+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "9",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阴天湿度高，感觉会有点闷热，注意防潮。",
+    "ai_briefing_en": "Shanghai is cloudy and humid. It might feel stuffy, stay hydrated.",
+    "alert": null
   }
 ]

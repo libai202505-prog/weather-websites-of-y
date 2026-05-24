@@ -178,5 +178,25 @@
     "ai_briefing_zh": "天热风大湿度高，注意防晒防风，多补水。",
     "ai_briefing_en": "Hot, windy, and humid. Protect from sun and wind, stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-24T19:01+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "180",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "广州风力 5 级，湿度 80%，注意防风防潮哦。",
+    "ai_briefing_en": "Guangzhou has strong winds and high humidity. Stay cautious!",
+    "alert": null
   }
 ]

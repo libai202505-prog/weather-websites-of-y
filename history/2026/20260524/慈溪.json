@@ -218,5 +218,25 @@
     "ai_briefing_zh": "慈溪雾气浓，湿度大体感热，请注意防潮哦！",
     "ai_briefing_en": "Cixi is foggy, humid, and feels hot. Watch out for dampness!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-05-24T22:58+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "180",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "3",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

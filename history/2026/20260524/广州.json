@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州阴天，气温 32℃。记得多喝水，防暑降温，健康第一！",
     "ai_briefing_en": "Cloudy in Guangzhou, 32℃. Stay hydrated and cool down!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-24T17:50+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "135",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "96",
+    "ai_briefing_zh": "天热风大湿度高，注意防晒防风，多补水。",
+    "ai_briefing_en": "Hot, windy, and humid. Protect from sun and wind, stay hydrated.",
+    "alert": null
   }
 ]

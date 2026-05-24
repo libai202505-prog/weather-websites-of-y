@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海小雨，湿度大。出行带伞，地面湿滑，注意慢行。",
     "ai_briefing_en": "Light rain in Shanghai, high humidity. Take an umbrella and walk carefully.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-24T17:48+08:00",
+    "temp": "23",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天湿润，体感闷热，保持室内通风。",
+    "ai_briefing_en": "Overcast and humid, feeling stuffy. Keep rooms ventilated.",
+    "alert": null
   }
 ]

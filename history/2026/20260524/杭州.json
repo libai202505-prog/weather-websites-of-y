@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州中雨，湿度 96%。出行记得带伞，注意防潮哦！",
     "ai_briefing_en": "Moderate rain in Hangzhou, very humid. Carry an umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-24T17:50+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "96",
+    "precip": "1.0",
+    "pressure": "1000",
+    "vis": "3",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨绵绵，湿气重，外出别忘带伞哦。",
+    "ai_briefing_en": "Light rain and humid. Don't forget your umbrella when going out!",
+    "alert": null
   }
 ]

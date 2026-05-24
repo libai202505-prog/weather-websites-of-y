@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨多云，体感 23℃。风力 4 级，出门带件外套哦。",
     "ai_briefing_en": "Cloudy in Harbin, feels like 23℃. Bring a jacket, it's breezy.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-24T17:48+08:00",
+    "temp": "27",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "180",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "多云风力大，体感凉爽，外出注意防风保暖。",
+    "ai_briefing_en": "Cloudy and windy, feels cool. Protect from wind, stay warm.",
+    "alert": null
   }
 ]

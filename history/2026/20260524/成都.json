@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天有点热，外出多喝水，小心着凉。",
     "ai_briefing_en": "Overcast and a bit warm, drink more water when out, watch out for colds.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-05-24T15:42+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "940",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，体感舒适。虽是阴天，紫外线防护别忘哦！",
+    "ai_briefing_en": "Cloudy and pleasant in Chengdu. Protect yourself from UV rays!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

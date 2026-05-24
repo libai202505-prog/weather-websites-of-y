@@ -138,5 +138,25 @@
     "ai_briefing_zh": "多云体感凉，风力适中，外出记得添衣。",
     "ai_briefing_en": "Partly cloudy and feels cool, moderate wind, remember to add layers when out.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-24T15:42+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "135",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "27",
+    "dew": "16",
+    "cloud": "2",
+    "ai_briefing_zh": "大连多云，体感 16℃。风力 4 级，记得添衣，小心着凉。",
+    "ai_briefing_en": "Cloudy and cool in Dalian, feels like 16℃. Dress warmly!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京阴天，气温适宜，出门记得带伞哦。",
     "ai_briefing_en": "Beijing is cloudy with pleasant temps. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-05-24T21:08+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "9",
+    "dew": "20",
+    "cloud": "98",
+    "ai_briefing_zh": "北京有雾，能见度低，出门请注意安全和交通哦！",
+    "ai_briefing_en": "Beijing is foggy. Drive safe and stay cautious outdoors!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，体感舒适。注意保持通风，享受美好的一天。",
     "ai_briefing_en": "Xi'an is overcast and feels pleasant. Keep good ventilation, and enjoy your day.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-25T23:42+08:00",
+    "temp": "23",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "11",
+    "dew": "20",
+    "cloud": "10",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

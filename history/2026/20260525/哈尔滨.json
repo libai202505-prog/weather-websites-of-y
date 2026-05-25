@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨阴天，体感 6℃。风力大，多穿衣别冻着。",
     "ai_briefing_en": "Harbin: Cloudy, 6℃, strong winds. Dress warmly, avoid colds!",
     "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：北风 6级"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-25T11:40+08:00",
+    "temp": "19",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "29",
+    "dew": "4",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天，气温偏低。体感凉，多穿点别着凉。",
+    "ai_briefing_en": "Overcast, cool. Wrap up!",
+    "alert": null
   }
 ]

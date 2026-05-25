@@ -98,5 +98,25 @@
     "ai_briefing_zh": "广州阴天闷热，体感 30℃。多喝水，防中暑。",
     "ai_briefing_en": "Guangzhou: Cloudy, 30℃ muggy. Hydrate, prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-25T11:42+08:00",
+    "temp": "31",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "180",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，体感炎热。风力较大，注意防晒！",
+    "ai_briefing_en": "Cloudy, hot. Windy.",
+    "alert": null
   }
 ]

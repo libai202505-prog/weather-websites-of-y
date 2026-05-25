@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳阴天体感 23℃，早晚温差大，注意保暖。",
     "ai_briefing_en": "Shenyang is cloudy 23℃ felt, mind the temp changes.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-25T20:08+08:00",
+    "temp": "19",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "14",
+    "dew": "15",
+    "cloud": "99",
+    "ai_briefing_zh": "沈阳小雨，体感微凉。出门带伞，注意保暖防湿哦。",
+    "ai_briefing_en": "Shenyang has light rain and feels cool. Bring an umbrella and stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

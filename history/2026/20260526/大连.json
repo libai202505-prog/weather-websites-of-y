@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大连中雨，风力 4级，体感 14℃ 湿冷，出行小心，注意添衣！",
     "ai_briefing_en": "Dalian has moderate rain and 4-level wind. Feels damp and cold at 14℃. Be careful when going out, add clothes!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-26T11:22+08:00",
+    "temp": "17",
+    "feelsLike": "13",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "97",
+    "precip": "1.0",
+    "pressure": "997",
+    "vis": "4",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "大连中雨 17℃，体感 13℃ 寒冷。风大雨急，务必注意防雨防寒！",
+    "ai_briefing_en": "Dalian has moderate rain 17℃, feels cold 13℃. Stay warm and dry in the wind and rain!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

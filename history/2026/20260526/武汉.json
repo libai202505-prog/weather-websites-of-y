@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉阴天，北风 4级。体感 23℃，风大注意保暖，防范感冒哦！",
     "ai_briefing_en": "Wuhan is cloudy with a 4-level northerly wind. Feels 23℃, mind staying warm in the wind, prevent colds!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-26T11:24+08:00",
+    "temp": "24",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "25",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 24℃，湿度高达 94%。阴天潮湿，注意保持室内通风哦！",
+    "ai_briefing_en": "Wuhan 24℃, very humid. It's damp, keep your room well-ventilated!",
+    "alert": null
   }
 ]

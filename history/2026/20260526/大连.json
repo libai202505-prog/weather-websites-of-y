@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大连中雨 17℃，体感 13℃ 寒冷。风大雨急，务必注意防雨防寒！",
     "ai_briefing_en": "Dalian has moderate rain 17℃, feels cold 13℃. Stay warm and dry in the wind and rain!",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-26T15:40+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "90",
+    "humidity": "98",
+    "precip": "1.0",
+    "pressure": "996",
+    "vis": "7",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "有小雨，体感湿冷，注意保暖防雨哦！",
+    "ai_briefing_en": "Rainy & chilly. Dress warm!",
+    "alert": null
   }
 ]

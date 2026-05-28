@@ -78,5 +78,25 @@
     "ai_briefing_zh": "雾气重，体感凉，风力 3级，高湿度。",
     "ai_briefing_en": "Foggy, cool, humid. Watch!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-28T11:22+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "315",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "11",
+    "dew": "17",
+    "cloud": "3",
+    "ai_briefing_zh": "青岛多云风力 4级，体感微凉，注意防风保暖哦！",
+    "ai_briefing_en": "Qingdao is cloudy with moderate winds, feels a bit cool. Mind the wind!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

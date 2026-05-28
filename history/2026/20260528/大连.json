@@ -78,5 +78,25 @@
     "ai_briefing_zh": "雾大风力 4级，体感凉。小心出行。",
     "ai_briefing_en": "Foggy, windy, cool. Watch!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-05-28T11:22+08:00",
+    "temp": "23",
+    "feelsLike": "18",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "315",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "1",
+    "ai_briefing_zh": "大连晴朗风力 5级体感凉，记得添衣保暖，注意防风！",
+    "ai_briefing_en": "Dalian is sunny with strong winds, feels cool. Dress warm and mind the wind!",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

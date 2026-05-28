@@ -78,5 +78,25 @@
     "ai_briefing_zh": "有雾天气，出行注意安全，体感偏热。",
     "ai_briefing_en": "Foggy & warm. Drive safe.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-28T11:24+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "14",
+    "dew": "22",
+    "cloud": "93",
+    "ai_briefing_zh": "上海阴天体感稍闷热，记得多补充水分，注意防暑哦！",
+    "ai_briefing_en": "Shanghai feels a bit muggy today. Stay hydrated and mind the heat!",
+    "alert": null
   }
 ]

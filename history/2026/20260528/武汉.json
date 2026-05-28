@@ -78,5 +78,25 @@
     "ai_briefing_zh": "雾气浓重，湿度 100%，小心出行哦。",
     "ai_briefing_en": "Foggy, very humid. Safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-28T11:22+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "270",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "12",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云体感 30℃，湿度大，记得多喝水，注意防暑！",
+    "ai_briefing_en": "Wuhan feels 30℃ with high humidity. Stay hydrated and mind the heat!",
+    "alert": null
   }
 ]

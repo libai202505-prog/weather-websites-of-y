@@ -98,5 +98,25 @@
     "ai_briefing_zh": "杭州多云适宜出行，注意防晒，保持愉快好心情哦！",
     "ai_briefing_en": "Hangzhou is cloudy, good for going out. Mind the sun, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-28T15:50+08:00",
+    "temp": "29",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "23",
+    "dew": "20",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，风力 4级，体感舒适。外出注意防风。",
+    "ai_briefing_en": "Hangzhou is cloudy with a 4-level wind, feels pleasant. Watch out for wind outdoors.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

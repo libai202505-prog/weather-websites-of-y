@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳晴天，体感舒适，阳光正好，宜出行散步。",
     "ai_briefing_en": "Shenyang is sunny and comfortable. Perfect weather for a walk!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-28T23:50+08:00",
+    "temp": "13",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "135",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "5",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

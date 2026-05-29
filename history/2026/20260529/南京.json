@@ -58,5 +58,25 @@
     "ai_briefing_zh": "风力较大，体感略凉。注意添衣保暖哦。",
     "ai_briefing_en": "Strong winds, feels cooler. Dress warmly!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-29T11:26+08:00",
+    "temp": "26",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "24",
+    "dew": "15",
+    "cloud": "91",
+    "ai_briefing_zh": "南京阴天 26℃，体感舒适，出行记得带件薄外套。",
+    "ai_briefing_en": "Nanjing is overcast 26℃, comfortable. A light jacket might be nice.",
+    "alert": null
   }
 ]

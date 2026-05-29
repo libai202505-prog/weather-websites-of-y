@@ -58,5 +58,25 @@
     "ai_briefing_zh": "天气闷热，体感 30℃。记得多补水、穿轻薄衣物。",
     "ai_briefing_en": "Humid and warm, feels like 30℃. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-29T11:27+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "广州体感 35℃ 湿热，多补充水分，避免长时间户外。",
+    "ai_briefing_en": "Guangzhou feels 35℃, hot and humid. Stay hydrated and avoid long outdoors.",
+    "alert": null
   }
 ]

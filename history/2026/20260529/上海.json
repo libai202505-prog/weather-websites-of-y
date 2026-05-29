@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海阴天，气温 25℃ 体感舒适，适合漫步。",
     "ai_briefing_en": "Shanghai is overcast, 25℃ and comfortable. Perfect for a walk.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-29T15:50+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "28",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天气，气温宜人，很适合户外活动，祝您愉快！",
+    "ai_briefing_en": "Partly cloudy, pleasant weather, enjoy your day outside!",
+    "alert": null
   }
 ]

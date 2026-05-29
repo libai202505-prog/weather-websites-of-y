@@ -78,5 +78,25 @@
     "ai_briefing_zh": "青岛晴天 27℃，体感 25℃ 舒适，海边风大注意防晒。",
     "ai_briefing_en": "Qingdao sunny 27℃, feels 25℃. Enjoy the beach, mind the sun.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-29T15:50+08:00",
+    "temp": "29",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "315",
+    "humidity": "31",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "多云有风，气温适宜。注意防晒，保持水润好状态。",
+    "ai_briefing_en": "Partly cloudy and windy, pleasant. Sunscreen and hydrate!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云天气，气温适中。注意适量补水，保持好心情。",
     "ai_briefing_en": "Partly cloudy and warm. Stay hydrated and cheerful!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-05-29T19:10+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "0",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "22",
+    "dew": "16",
+    "cloud": "1",
+    "ai_briefing_zh": "南京 27℃，4级风，出门注意防风，小心感冒！",
+    "ai_briefing_en": "Nanjing is cloudy and 27℃ with 4-level wind. Dress appropriately!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气晴朗，阳光炙热，请注意防晒补水，小心干燥哦！",
     "ai_briefing_en": "Sunny and hot, stay hydrated and moisturize, darling!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-05-29T19:08+08:00",
+    "temp": "29",
+    "feelsLike": "27",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "225",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "10",
+    "cloud": "1",
+    "ai_briefing_zh": "北京晴空万里，29℃ 气温宜人，防晒补水别忘啦！",
+    "ai_briefing_en": "Beijing is sunny and 29℃. Enjoy the warmth, stay hydrated!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气阴沉，湿度较大，外出记得带伞，别淋湿了。",
     "ai_briefing_en": "Cloudy and humid, bring an umbrella, don't get wet!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-29T19:10+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "45",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "11",
+    "dew": "18",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，26℃ 气温宜人，适合散步，享受好天气！",
+    "ai_briefing_en": "Hangzhou is cloudy and 26℃. A comfortable day for a stroll!",
+    "alert": null
   }
 ]

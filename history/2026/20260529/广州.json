@@ -98,5 +98,25 @@
     "ai_briefing_zh": "酷热难当，体感已达 40℃！请务必多饮水，防暑降温。",
     "ai_briefing_en": "Scorching hot, feels like 40℃! Stay hydrated and cool down.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-29T19:13+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "1",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "广州中雨 26℃，体感湿热，出门带伞，注意安全！",
+    "ai_briefing_en": "Guangzhou has moderate rain, 26℃. Bring an umbrella, stay safe!",
+    "alert": "📉 红色降温预警：1小时骤降12℃"
   }
 ]

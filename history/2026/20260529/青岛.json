@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云有风，气温适宜。注意防晒，保持水润好状态。",
     "ai_briefing_en": "Partly cloudy and windy, pleasant. Sunscreen and hydrate!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-05-29T19:08+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "180",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛多云 25℃，气温宜人，微风舒适，适合散步！",
+    "ai_briefing_en": "Qingdao is cloudy and 25℃. A pleasant day for a walk by the sea!",
+    "alert": null
   }
 ]

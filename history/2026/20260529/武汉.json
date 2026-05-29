@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天有风，体感稍凉，记得适当添衣，小心着凉。",
     "ai_briefing_en": "Cloudy and windy, feels a bit cool. Dress warmly, don't catch a cold.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-29T19:12+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "26",
+    "dew": "19",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 23℃ 阴天，湿度较高，保持室内通风，祝好！",
+    "ai_briefing_en": "Wuhan is cloudy and 23℃ with high humidity. Keep good ventilation!",
+    "alert": null
   }
 ]

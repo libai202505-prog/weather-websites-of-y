@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天舒适，记得带伞以防万一哦！",
     "ai_briefing_en": "Cloudy & comfy, umbrella just in case!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-05-30T16:58+08:00",
+    "temp": "26",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "90",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪微风阴凉，外出记得带件外套哦。",
+    "ai_briefing_en": "Cixi is overcast and breezy, bring a light jacket!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

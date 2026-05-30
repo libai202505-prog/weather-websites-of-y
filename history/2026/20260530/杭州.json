@@ -58,5 +58,25 @@
     "ai_briefing_zh": "阴天微凉，体感舒适，外出别忘带伞哦。",
     "ai_briefing_en": "Overcast and cool. Don't forget your umbrella.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-05-30T11:00+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "23",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴天舒适，早晚温差大，注意添衣。",
+    "ai_briefing_en": "Hangzhou is overcast and comfy, mind the temp changes, layer up.",
+    "alert": null
   }
 ]

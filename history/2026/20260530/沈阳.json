@@ -58,5 +58,25 @@
     "ai_briefing_zh": "晴天风力较大，体感稍凉，注意防风保暖。",
     "ai_briefing_en": "Sunny and windy, feels cooler. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-30T11:00+08:00",
+    "temp": "30",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "270",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "7",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳晴热，气温较高，多喝水，注意防晒。",
+    "ai_briefing_en": "Shenyang is sunny and hot, drink water and use sunscreen.",
+    "alert": null
   }
 ]

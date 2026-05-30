@@ -58,5 +58,25 @@
     "ai_briefing_zh": "天气阴沉，体感炎热，记得多补充水分。",
     "ai_briefing_en": "Warm and humid today. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-30T11:04+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳多云湿热，注意防暑，及时补水哦。",
+    "ai_briefing_en": "Shenzhen is cloudy and humid, stay cool and hydrate!",
+    "alert": null
   }
 ]

@@ -58,5 +58,25 @@
     "ai_briefing_zh": "阴天，气温适中，注意保持心情愉悦。",
     "ai_briefing_en": "Overcast and mild. Keep your spirits up!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-30T11:04+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "26",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "10",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天，体感舒适，注意预防着凉。",
+    "ai_briefing_en": "Shanghai is overcast, feels comfy, take care not to catch a cold.",
+    "alert": null
   }
 ]

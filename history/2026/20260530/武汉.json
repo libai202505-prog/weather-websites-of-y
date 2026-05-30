@@ -58,5 +58,25 @@
     "ai_briefing_zh": "阴天湿润，体感舒适，记得保持好心情。",
     "ai_briefing_en": "Overcast and humid. Keep your spirits high.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-05-30T11:04+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "0",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "19",
+    "dew": "18",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感微凉，注意添衣保暖。",
+    "ai_briefing_en": "Wuhan is overcast and cool, remember to dress warm.",
+    "alert": null
   }
 ]

@@ -58,5 +58,25 @@
     "ai_briefing_zh": "阳光正好，气温适中，出门感受春意吧。",
     "ai_briefing_en": "Sunny and mild! Enjoy the spring air.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-30T11:04+08:00",
+    "temp": "26",
+    "feelsLike": "25",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "969",
+    "vis": "11",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "西安晴朗舒适，紫外线强，注意防晒。",
+    "ai_briefing_en": "Xi'an is sunny and comfy, strong UV, remember sunscreen.",
+    "alert": null
   }
 ]

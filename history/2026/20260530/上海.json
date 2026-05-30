@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海阴天，体感舒适，注意预防着凉。",
     "ai_briefing_en": "Shanghai is overcast, feels comfy, take care not to catch a cold.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-05-30T14:38+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "25",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天微热，注意补水，保持好心情！",
+    "ai_briefing_en": "Cloudy & warm, drink water!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安多云凉爽，微风和煦，适宜出行哦。",
     "ai_briefing_en": "Xi'an is cloudy and cool, light breeze, good for going out.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-05-30T23:02+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "135",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "964",
+    "vis": "16",
+    "dew": "15",
+    "cloud": "91",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

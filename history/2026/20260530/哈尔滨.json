@@ -138,5 +138,25 @@
     "ai_briefing_zh": "哈尔滨阳光温柔，气温舒适，适合户外活动哦。",
     "ai_briefing_en": "Harbin is sunny and comfy, perfect for outdoor fun!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-05-30T21:26+08:00",
+    "temp": "15",
+    "feelsLike": "14",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "135",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "7",
+    "dew": "4",
+    "cloud": "0",
+    "ai_briefing_zh": "哈尔滨阳光正好，气温偏凉，注意保暖。",
+    "ai_briefing_en": "Harbin is sunny and cool, remember to stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

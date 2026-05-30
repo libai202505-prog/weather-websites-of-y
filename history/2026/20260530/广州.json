@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州体感炎热，湿度较高，多喝水，小心中暑哦。",
     "ai_briefing_en": "Guangzhou feels hot and humid. Stay hydrated to avoid heatstroke!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-05-30T21:26+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "广州体感热，湿度大，记得多喝水防暑哦。",
+    "ai_briefing_en": "Guangzhou feels hot and humid, stay hydrated to prevent heatstroke.",
+    "alert": null
   }
 ]

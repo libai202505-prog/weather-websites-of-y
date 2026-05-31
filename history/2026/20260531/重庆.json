@@ -158,5 +158,25 @@
     "ai_briefing_zh": "重庆多云 29℃，体感舒适，注意防晒。",
     "ai_briefing_en": "Chongqing is cloudy 29℃. It feels comfortable, don't forget sun protection.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-05-31T19:58+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "多云，体感 28℃。注意防晒，小心紫外线哦。",
+    "ai_briefing_en": "Cloudy, feels 28℃. Protect from sun and UV rays.",
+    "alert": null
   }
 ]

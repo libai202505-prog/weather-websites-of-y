@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳阴天 29℃，体感舒适，风力 5级 较大。",
     "ai_briefing_en": "Shenyang is overcast 29℃. It feels comfortable, but winds are strong.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-05-31T20:01+08:00",
+    "temp": "28",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "180",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "30",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天有风，体感 24℃。风力 5级，小心着凉。",
+    "ai_briefing_en": "Cloudy and windy, feels 24℃. Mind catching a cold.",
+    "alert": null
   }
 ]

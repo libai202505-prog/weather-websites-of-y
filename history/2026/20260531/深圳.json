@@ -98,5 +98,25 @@
     "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
     "ai_briefing_en": "深圳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-05-31T13:00+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "180",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳小雨 27℃，湿度较大。出门带伞，注意防潮！",
+    "ai_briefing_en": "Light rain in Shenzhen 27℃, quite humid. Take an umbrella!",
+    "alert": null
   }
 ]

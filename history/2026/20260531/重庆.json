@@ -98,5 +98,25 @@
     "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
     "ai_briefing_en": "重庆: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-05-31T13:00+08:00",
+    "temp": "30",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "315",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "979",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "1",
+    "ai_briefing_zh": "重庆多云 30℃，体感温暖。注意防晒，及时补充水分！",
+    "ai_briefing_en": "Cloudy in Chongqing 30℃, feels warm. Sun protection & hydrate promptly!",
+    "alert": null
   }
 ]

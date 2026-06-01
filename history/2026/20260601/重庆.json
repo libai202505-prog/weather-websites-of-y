@@ -98,5 +98,25 @@
     "ai_briefing_zh": "重庆阴天微热，注意补充水分哦。",
     "ai_briefing_en": "Cloudy, warm. Drink up!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-06-01T12:00+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "983",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆小雨，体感凉爽，带把伞别着凉哦。",
+    "ai_briefing_en": "Chongqing has light rain and is cool, bring an umbrella!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

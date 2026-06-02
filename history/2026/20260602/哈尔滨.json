@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨 19℃，风力 5级。注意添衣保暖！",
     "ai_briefing_en": "Harbin 14℃, windy. Dress warmly!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 5级"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-06-02T20:38+08:00",
+    "temp": "14",
+    "feelsLike": "13",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "6",
+    "cloud": "2",
+    "ai_briefing_zh": "哈尔滨晴朗 14℃，早晚温差大，注意添衣保暖哦！",
+    "ai_briefing_en": "Harbin 14℃, sunny. Mind the temperature difference, dress warmly!",
+    "alert": null
   }
 ]

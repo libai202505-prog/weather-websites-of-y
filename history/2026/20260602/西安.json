@@ -98,5 +98,25 @@
     "ai_briefing_zh": "西安 33℃，多云。记得防晒，多补水哦！",
     "ai_briefing_en": "Xi'an 33℃, hot. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-06-02T20:39+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "270",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "16",
+    "dew": "18",
+    "cloud": "99",
+    "ai_briefing_zh": "西安阴天 26℃，体感舒适。愿你今天心情也很好！",
+    "ai_briefing_en": "Xi'an cloudy, 26℃. Hope you have a lovely day!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

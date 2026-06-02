@@ -58,5 +58,25 @@
     "ai_briefing_zh": "南京有雾，能见度低，注意交通安全。湿度也高。",
     "ai_briefing_en": "Nanjing is foggy, low visibility. Drive safely. High humidity too.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-06-02T11:50+08:00",
+    "temp": "32",
+    "feelsLike": "31",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "12",
+    "dew": "21",
+    "cloud": "0",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

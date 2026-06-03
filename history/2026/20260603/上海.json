@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海阴天炎热，体感 33℃，注意防暑补水。",
     "ai_briefing_en": "Shanghai is overcast and hot at 33℃. Stay cool and hydrated!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-03T17:08+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "8",
+    "dew": "23",
+    "cloud": "94",
+    "ai_briefing_zh": "上海有雾 26℃，体感 30℃。雾气重，出行注意安全！",
+    "ai_briefing_en": "Shanghai is foggy 26℃, feels like 30℃. Low visibility, please travel safely!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

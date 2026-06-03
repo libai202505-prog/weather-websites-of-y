@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉阴天，体感 30℃，湿度高，注意防潮哦。",
     "ai_briefing_en": "Wuhan is overcast and feels 30℃, very humid. Keep an eye on the dampness!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-03T17:11+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉小雨 28℃，体感 31℃。湿热有雨，带伞防潮哦！",
+    "ai_briefing_en": "Wuhan has light rain 28℃, feels like 31℃. Humid and rainy, bring an umbrella and prevent dampness!",
+    "alert": null
   }
 ]

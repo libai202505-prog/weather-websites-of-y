@@ -78,5 +78,25 @@
     "ai_briefing_zh": "沈阳阴天，体感 22℃，风力 4级，小心着凉。",
     "ai_briefing_en": "Shenyang is overcast and 22℃ with 4-level winds. Don't catch a cold!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-03T17:08+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "7",
+    "dew": "16",
+    "cloud": "99",
+    "ai_briefing_zh": "沈阳中雨 17℃，湿度 96%。雨势大，出行注意安全！",
+    "ai_briefing_en": "Shenyang has moderate rain 17℃, 96% humidity. Heavy rain, please travel safely!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

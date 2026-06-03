@@ -98,5 +98,25 @@
     "ai_briefing_zh": "沈阳中雨 17℃，湿度 96%。雨势大，出行注意安全！",
     "ai_briefing_en": "Shenyang has moderate rain 17℃, 96% humidity. Heavy rain, please travel safely!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-03T22:32+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "6",
+    "dew": "14",
+    "cloud": "99",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

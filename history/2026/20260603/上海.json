@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海有雾 26℃，体感 30℃。雾气重，出行注意安全！",
     "ai_briefing_en": "Shanghai is foggy 26℃, feels like 30℃. Low visibility, please travel safely!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-03T22:32+08:00",
+    "temp": "25",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "315",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "3",
+    "dew": "23",
+    "cloud": "98",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

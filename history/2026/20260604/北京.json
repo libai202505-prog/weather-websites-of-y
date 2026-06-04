@@ -98,5 +98,25 @@
     "ai_briefing_zh": "北京风力 4级，体感 20℃，外出注意添衣保暖哦！",
     "ai_briefing_en": "Beijing feels 20℃ with moderate winds. Dress warmly when heading out!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-06-04T19:50+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，气温适中。注意早晚温差哦！",
+    "ai_briefing_en": "Cloudy with mild temps. Mind the morning/evening chill!",
+    "alert": null
   }
 ]

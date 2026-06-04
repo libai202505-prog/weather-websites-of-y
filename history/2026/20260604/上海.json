@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大雾天气，能见度低，出行请注意安全。",
     "ai_briefing_en": "Foggy weather, low visibility. Drive safely, please.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-04T16:22+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "9",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 30℃，体感 32℃ 略热，记得多补充水分，注意防晒！",
+    "ai_briefing_en": "Shanghai is 30℃, feels 32℃. Stay hydrated and protect yourself from the sun!",
+    "alert": null
   }
 ]

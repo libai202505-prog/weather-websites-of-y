@@ -78,5 +78,25 @@
     "ai_briefing_zh": "多云天气，气温较高，注意防暑和补水。",
     "ai_briefing_en": "Cloudy and warm. Stay cool and hydrated.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-06-04T16:24+08:00",
+    "temp": "33",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "14",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "南京 33℃，体感炎热。外出记得防晒，多喝水，防止中暑。",
+    "ai_briefing_en": "Nanjing is hot at 33℃. Wear sunscreen, drink water, and prevent heatstroke.",
+    "alert": null
   }
 ]

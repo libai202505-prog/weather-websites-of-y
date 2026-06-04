@@ -78,5 +78,25 @@
     "ai_briefing_zh": "多云炎热，体感 35℃，出门记得防晒补水。",
     "ai_briefing_en": "Cloudy and hot, feels like 35℃. Stay hydrated and sun-safe.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-06-04T16:26+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "985",
+    "vis": "23",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门 30℃，湿度 72%，风力 4级。体感闷热，注意防暑防潮。",
+    "ai_briefing_en": "Xiamen is 30℃ with high humidity and strong winds. It feels muggy, stay cool.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

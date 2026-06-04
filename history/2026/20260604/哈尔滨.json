@@ -78,5 +78,25 @@
     "ai_briefing_zh": "阴天有风，体感 14℃，注意保暖，别着凉。",
     "ai_briefing_en": "Overcast and windy, feels like 14℃. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-06-04T16:22+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "90",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨体感 13℃，风力 4级，有点凉意，出门别忘了添衣哦。",
+    "ai_briefing_en": "Harbin feels 13℃ with strong winds. Remember to dress warmly when going out!",
+    "alert": null
   }
 ]

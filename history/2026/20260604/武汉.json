@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉有雾，体感闷热，湿度 100%，多补充水分！",
     "ai_briefing_en": "Wuhan is foggy, muggy, 100% humidity. Drink plenty of water!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-04T11:58+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "13",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天热，体感 32℃，请注意防晒和补水。",
+    "ai_briefing_en": "Cloudy and hot, feels like 32℃. Stay hydrated and sun-safe.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大连晴天 23℃，体感 19℃，风力 4级，风大，记得加衣！",
     "ai_briefing_en": "Dalian is sunny, 23℃ but feels like 19℃ with a level 4 wind. Windy, remember to layer up!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-06-05T17:43+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "315",
+    "humidity": "33",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "9",
+    "cloud": "2",
+    "ai_briefing_zh": "大连晴朗，体感 20℃。温差大，小心感冒。",
+    "ai_briefing_en": "Sunny, 20℃. Watch changes!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海 23℃ 多云，体感舒适，户外活动很棒哦！",
     "ai_briefing_en": "Shanghai 23℃ cloudy, feels comfortable, perfect for outdoors!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-06T23:00+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "24",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

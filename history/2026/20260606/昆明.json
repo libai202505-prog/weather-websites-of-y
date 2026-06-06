@@ -98,5 +98,25 @@
     "ai_briefing_zh": "昆明多云，风力 4级。出门注意防风！",
     "ai_briefing_en": "Kunming: Cloudy, windy. Mind the wind outdoors!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-06-06T14:44+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "225",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "807",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "昆明多云微热，外出注意防晒，享受好天气。",
+    "ai_briefing_en": "Kunming: Cloudy & warm. Watch for sun, enjoy the pleasant weather.",
+    "alert": null
   }
 ]

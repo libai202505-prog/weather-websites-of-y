@@ -38,5 +38,25 @@
     "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
     "ai_briefing_en": "青岛: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-06-07T05:01+08:00",
+    "temp": "19",
+    "feelsLike": "14",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "0",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "7",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 5级"
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都阴天，体感 18℃，注意添衣。",
     "ai_briefing_en": "Chengdu: Cool, 18℃. Layer!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-06-07T22:42+08:00",
+    "temp": "20",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "956",
+    "vis": "16",
+    "dew": "13",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

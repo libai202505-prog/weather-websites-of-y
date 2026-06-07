@@ -98,5 +98,25 @@
     "ai_briefing_zh": "重庆有雨，出门带好雨具，路面湿滑请慢行。",
     "ai_briefing_en": "Chongqing has moderate rain. Bring your umbrella and be careful on wet roads.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-06-07T15:50+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "大雨",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "315",
+    "humidity": "92",
+    "precip": "7.0",
+    "pressure": "972",
+    "vis": "7",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆大雨，湿度 92%。注意防雨，出行安全第一！",
+    "ai_briefing_en": "Chongqing has heavy rain and 92% humidity. Be safe and watch for rain!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 4级"
   }
 ]

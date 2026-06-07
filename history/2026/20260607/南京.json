@@ -78,5 +78,25 @@
     "ai_briefing_zh": "南京多云，气温 22℃ 适宜，注意风力适中。",
     "ai_briefing_en": "Nanjing is partly cloudy and 22℃. A pleasant day, mind the moderate wind.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-06-07T11:50+08:00",
+    "temp": "29",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "14",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "南京多云风大，出门注意防风，小心衣物飞扬。",
+    "ai_briefing_en": "Nanjing is cloudy with strong winds. Be careful with your belongings.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

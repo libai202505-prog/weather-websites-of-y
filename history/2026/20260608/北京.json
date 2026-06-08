@@ -78,5 +78,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-06-08T08:00+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "21",
+    "dew": "12",
+    "cloud": "5",
+    "ai_briefing_zh": "晴朗舒适，注意防晒哦！",
+    "ai_briefing_en": "Sunny and pleasant, don't forget sun protection!",
+    "alert": null
   }
 ]

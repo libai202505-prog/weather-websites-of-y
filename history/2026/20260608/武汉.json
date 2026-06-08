@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-08T08:02+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "9",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "有雾风大，出行注意安全！",
+    "ai_briefing_en": "Foggy and windy, please travel safely!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

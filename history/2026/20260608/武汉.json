@@ -98,5 +98,25 @@
     "ai_briefing_zh": "有雾风大，出行注意安全！",
     "ai_briefing_en": "Foggy and windy, please travel safely!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-08T13:44+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "13",
+    "dew": "16",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨，体感 19℃。出门带伞添衣，小心着凉呀！",
+    "ai_briefing_en": "Wuhan has light rain, feels like 19℃. Take an umbrella, add a layer, and don't catch a cold!",
+    "alert": null
   }
 ]

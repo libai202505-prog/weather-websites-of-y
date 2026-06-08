@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天微凉，体感舒适。",
     "ai_briefing_en": "Cloudy and slightly cool, a comfortable day.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-06-08T13:44+08:00",
+    "temp": "28",
+    "feelsLike": "27",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "966",
+    "vis": "11",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "西安晴朗，体感 27℃。阳光正好，记得防晒补水哦！",
+    "ai_briefing_en": "Xi'an is sunny, feels like 27℃. It's lovely and bright, remember sun protection and hydration!",
+    "alert": null
   }
 ]

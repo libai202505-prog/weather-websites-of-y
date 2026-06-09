@@ -118,5 +118,25 @@
     "ai_briefing_zh": "上海阳光正好，气温舒适，享受美好时光！",
     "ai_briefing_en": "Shanghai is sunny and pleasant, enjoy the lovely day!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-09T20:22+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "0",
+    "ai_briefing_zh": "22℃ 多云，体感舒适。享受美好时光吧。",
+    "ai_briefing_en": "A pleasant 22℃ and partly cloudy. Have a lovely day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

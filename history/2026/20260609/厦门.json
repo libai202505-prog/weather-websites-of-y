@@ -78,5 +78,25 @@
     "ai_briefing_zh": "阴天，风力 5级。出门注意防风，小心安全。",
     "ai_briefing_en": "Overcast, strong winds at level 5. Be careful of wind when going out.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-06-09T13:02+08:00",
+    "temp": "21",
+    "feelsLike": "18",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "45",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "13",
+    "dew": "21",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门有小雨和大风，带伞注意防风！",
+    "ai_briefing_en": "Light rain and strong winds in Xiamen, bring an umbrella!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

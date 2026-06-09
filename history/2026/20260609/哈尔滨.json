@@ -78,5 +78,25 @@
     "ai_briefing_zh": "多云，体感略凉。风力不小，多穿点。",
     "ai_briefing_en": "Cloudy, feels a bit cool. Quite windy, dress warmly.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-06-09T13:00+08:00",
+    "temp": "21",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨多云微凉，记得添件薄外套哦。",
+    "ai_briefing_en": "Cloudy and cool in Harbin, bring a light jacket!",
+    "alert": null
   }
 ]

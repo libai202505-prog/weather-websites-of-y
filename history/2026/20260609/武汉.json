@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉多云，午后稍热，注意及时补水。",
     "ai_briefing_en": "Cloudy in Wuhan, warm in the afternoon, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-09T17:38+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "270",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "96",
+    "ai_briefing_zh": "武汉体感偏热，湿度低，记得多喝水防晒。",
+    "ai_briefing_en": "Wuhan feels warm, low humidity, hydrate and sunscreen!",
+    "alert": null
   }
 ]

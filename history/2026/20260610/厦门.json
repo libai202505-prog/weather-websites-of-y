@@ -78,5 +78,25 @@
     "ai_briefing_zh": "厦门多云，23℃ 略有湿意。微风轻拂，出行记得带伞！",
     "ai_briefing_en": "Xiamen is cloudy and 23℃ with some humidity. A light breeze, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-06-10T13:02+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "90",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "96",
+    "ai_briefing_zh": "阴天潮湿风力大，记得添衣防风。",
+    "ai_briefing_en": "Windy and cool. Layer up!",
+    "alert": null
   }
 ]

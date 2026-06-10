@@ -78,5 +78,25 @@
     "ai_briefing_zh": "北京阴天，气温 21℃，注意添衣，保持好心情哦！",
     "ai_briefing_en": "Beijing is overcast at 21℃. Remember to dress warmly and stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-06-10T13:00+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "270",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天气，气温适中，出门愉快哦！",
+    "ai_briefing_en": "Cloudy and mild. Enjoy it!",
+    "alert": null
   }
 ]

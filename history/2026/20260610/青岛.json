@@ -78,5 +78,25 @@
     "ai_briefing_zh": "青岛大雾，气温 21℃。风力较大，能见度低，请小心慢行！",
     "ai_briefing_en": "Qingdao is foggy at 21℃ with strong winds. Low visibility, please drive carefully!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-06-10T13:02+08:00",
+    "temp": "26",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "10",
+    "ai_briefing_zh": "风力较大，出行注意防风保暖。",
+    "ai_briefing_en": "Windy! Dress warm!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

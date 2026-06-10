@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉多云，24℃ 体感偏暖。记得多补充水分，保持活力！",
     "ai_briefing_en": "Wuhan is cloudy and feels 25℃. Remember to hydrate and stay energized!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-10T13:02+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "18",
+    "cloud": "10",
+    "ai_briefing_zh": "多云偏暖，及时补水，保持活力！",
+    "ai_briefing_en": "Cloudy and warm. Hydrate!",
+    "alert": null
   }
 ]

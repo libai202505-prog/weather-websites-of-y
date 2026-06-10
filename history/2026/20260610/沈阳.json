@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云天气，微风拂面，享受当下。",
     "ai_briefing_en": "Cloudy, breezy. Enjoy it!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-10T17:50+08:00",
+    "temp": "17",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "225",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

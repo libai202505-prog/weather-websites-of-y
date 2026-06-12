@@ -98,5 +98,25 @@
     "ai_briefing_zh": "深圳有阵雨，出门带伞，路滑慢行哦。",
     "ai_briefing_en": "Shenzhen has showers, bring an umbrella. Roads are slippery, drive slowly.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-06-12T20:02+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云 26℃，湿度大，体感闷热，多喝水。",
+    "ai_briefing_en": "Shenzhen: 26℃. Hot & humid.",
+    "alert": null
   }
 ]

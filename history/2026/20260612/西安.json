@@ -98,5 +98,25 @@
     "ai_briefing_zh": "西安气温 31℃，体感炎热。注意补水，防中暑。",
     "ai_briefing_en": "Xi'an is 31℃ and hot. Hydrate well, prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-06-12T20:02+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "270",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "11",
+    "dew": "14",
+    "cloud": "91",
+    "ai_briefing_zh": "西安阴天 28℃，气温较高，记得多喝水哦。",
+    "ai_briefing_en": "Xi'an: 28℃. Warm. Dry.",
+    "alert": null
   }
 ]

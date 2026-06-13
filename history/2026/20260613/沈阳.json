@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天微风，体感舒适，保持好心情哦。",
     "ai_briefing_en": "Cloudy, breezy. Smile!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-13T15:42+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "225",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳阴天，25℃。风力适中，出门也带件薄外套吧。",
+    "ai_briefing_en": "Shenyang is cloudy, 25℃. Moderate wind, bring a light jacket.",
+    "alert": null
   }
 ]

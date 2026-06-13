@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云天气，早晚温差大，注意添衣保暖。",
     "ai_briefing_en": "Cloudy. Dress warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-06-13T15:42+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "6",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨多云，23℃ 体感稍凉。风不小，注意别着凉了。",
+    "ai_briefing_en": "Harbin is cloudy, 23℃ feels cool. A bit windy, dress warmly.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "今日阴天，体感舒适，记得多喝水哦。",
     "ai_briefing_en": "Cloudy, comfy. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-13T15:42+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阵雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "84",
+    "precip": "1.0",
+    "pressure": "1010",
+    "vis": "19",
+    "dew": "18",
+    "cloud": "100",
+    "ai_briefing_zh": "上海阵雨，22℃ 湿度高，记得带伞，小心路滑。",
+    "ai_briefing_en": "Shanghai has showers, 22℃ and humid. Bring an umbrella, watch your step!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

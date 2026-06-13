@@ -138,5 +138,25 @@
     "ai_briefing_zh": "北京大雨降温，风力大。记得添衣带伞，注意安全哦！",
     "ai_briefing_en": "Beijing: Heavy rain, strong wind. Dress warm, bring an umbrella, stay safe!",
     "alert": "📉 红色降温预警：1小时骤降14℃ | 💨 北风警报：北风 5级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-06-13T20:08+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "89",
+    "precip": "6.0",
+    "pressure": "998",
+    "vis": "28",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "北京小雨，记得带伞，小心路滑哦！",
+    "ai_briefing_en": "Beijing has light rain. Take an umbrella and watch your step!",
+    "alert": null
   }
 ]

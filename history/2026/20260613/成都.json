@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都阴天炎热，体感高。多喝水，注意防晒，保持活力满满。",
     "ai_briefing_en": "Chengdu: Overcast, hot. Stay hydrated, sun protection, keep energized!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-06-13T20:09+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "180",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "16",
+    "dew": "17",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天，气温舒适，保持好心情。",
+    "ai_briefing_en": "Cloudy in Chengdu. Comfortable weather, enjoy your day!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

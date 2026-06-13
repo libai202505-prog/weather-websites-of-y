@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉大雾，能见度低，湿度百分百！出行注意安全，慢行。",
     "ai_briefing_en": "Wuhan: Heavy fog, low visibility, 100% humidity! Drive safe, slow down.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-13T20:08+08:00",
+    "temp": "21",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "6",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉大雾，湿度 100%，注意交通安全。",
+    "ai_briefing_en": "Heavy fog in Wuhan, 100% humidity. Drive safely!",
+    "alert": null
   }
 ]

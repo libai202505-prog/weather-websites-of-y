@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉阴 30℃，体感微热。多喝水，注意防晒！",
     "ai_briefing_en": "Wuhan is overcast at 30℃, feels warm. Drink water, mind the sun!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-14T19:48+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "19",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天，体感微热，注意休息，保持舒畅。",
+    "ai_briefing_en": "Wuhan is cloudy and slightly warm. Take a break and stay comfortable.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

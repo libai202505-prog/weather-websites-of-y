@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安气温偏高，记得防晒，补充水分哦。",
     "ai_briefing_en": "Xi'an is quite warm. Remember to protect yourself from the sun and stay hydrated.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-06-14T22:12+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "90",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

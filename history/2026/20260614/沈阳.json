@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳阴天，气温适中，穿衣注意冷暖变化。",
     "ai_briefing_en": "Shenyang is cloudy with moderate temperatures. Dress according to the changes.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-14T22:08+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "270",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "17",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京多云有风，出行要注意防风，别着凉。",
     "ai_briefing_en": "Nanjing is partly cloudy and windy. Take care to avoid the wind and catching a cold.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-06-14T22:10+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "90",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "6",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

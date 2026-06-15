@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天凉爽，湿度高，记得添衣。",
     "ai_briefing_en": "Overcast, cool, add a layer.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-06-15T14:10+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "225",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "22",
+    "dew": "19",
+    "cloud": "97",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

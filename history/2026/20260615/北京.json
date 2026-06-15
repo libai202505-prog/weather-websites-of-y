@@ -98,5 +98,25 @@
     "ai_briefing_zh": "雾气浓，出门注意交通安全哦！",
     "ai_briefing_en": "Heavy fog, drive safe!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-06-15T14:08+08:00",
+    "temp": "23",
+    "feelsLike": "25",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "4",
+    "dew": "20",
+    "cloud": "94",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

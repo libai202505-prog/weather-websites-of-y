@@ -98,5 +98,25 @@
     "ai_briefing_zh": "雾气重，出门注意交通安全！",
     "ai_briefing_en": "Heavy fog, be careful outside!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-15T14:08+08:00",
+    "temp": "32",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "14",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -38,5 +38,25 @@
     "ai_briefing_zh": "成都 夜间监测中，注意保暖",
     "ai_briefing_en": "成都: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-06-16T07:38+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "16",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "成都湿度百分百，感觉潮湿，注意除湿，保持好心情哦！",
+    "ai_briefing_en": "Chengdu is 100% humid, feeling damp. Remember to dehumidify and stay cheerful!",
+    "alert": null
   }
 ]

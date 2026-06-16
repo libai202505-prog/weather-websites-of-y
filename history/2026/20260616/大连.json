@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大连体感 18℃，风力 4级，风大凉意浓，多穿衣。",
     "ai_briefing_en": "Dalian feels like 18℃, 4-level winds. It's windy and cool, dress warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-06-16T18:00+08:00",
+    "temp": "22",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "135",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "28",
+    "dew": "17",
+    "cloud": "99",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

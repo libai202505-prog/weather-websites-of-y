@@ -98,5 +98,25 @@
     "ai_briefing_zh": "有雾，体感 29℃。出行注意交通安全，小心慢行。",
     "ai_briefing_en": "Foggy and feels like 29℃. Please drive carefully!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-06-17T23:08+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "315",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "5",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

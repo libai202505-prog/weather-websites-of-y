@@ -98,5 +98,25 @@
     "ai_briefing_zh": "雾气弥漫，体感 30℃。出行注意安全，记得戴口罩哦。",
     "ai_briefing_en": "Foggy and feels like 30℃. Travel safely, consider a mask!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-17T23:08+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "4",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

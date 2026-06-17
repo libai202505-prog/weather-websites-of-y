@@ -58,5 +58,25 @@
     "ai_briefing_zh": "西安 夜间监测中，注意保暖",
     "ai_briefing_en": "西安: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-06-17T13:58+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "西安阴天体感热，多补水，保持活力。",
+    "ai_briefing_en": "Cloudy and warm in Xi'an, stay hydrated and energetic.",
+    "alert": null
   }
 ]

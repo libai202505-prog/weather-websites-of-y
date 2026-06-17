@@ -78,5 +78,25 @@
     "ai_briefing_zh": "慈溪体感偏热，多饮水，防中暑。",
     "ai_briefing_en": "Feels hot in Cixi, drink plenty of water to prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-06-17T19:44+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "7",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "有雾，体感 29℃。出行注意交通安全，小心慢行。",
+    "ai_briefing_en": "Foggy and feels like 29℃. Please drive carefully!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "重庆中雨，湿冷，出门带伞加件衣。",
     "ai_briefing_en": "Moderate rain in Chongqing, wet and cool, bring umbrella and a jacket.",
     "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-06-17T19:42+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "3",
+    "dew": "23",
+    "cloud": "97",
+    "ai_briefing_zh": "小雨 21℃，湿度高。记得带伞，注意防潮保暖。",
+    "ai_briefing_en": "Light rain 21℃, high humidity. Bring an umbrella and stay dry!",
+    "alert": null
   }
 ]

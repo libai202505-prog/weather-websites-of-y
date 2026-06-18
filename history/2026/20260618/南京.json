@@ -98,5 +98,25 @@
     "ai_briefing_zh": "小雨天气，出门记得带伞，注意防潮哦。",
     "ai_briefing_en": "Light rain, remember your umbrella. Mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-06-18T20:08+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "90",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "3",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "雾气重湿度高，体感闷热，注意安全！",
+    "ai_briefing_en": "Foggy, humid. Be safe!",
+    "alert": null
   }
 ]

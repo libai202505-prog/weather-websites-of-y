@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气有些闷热，注意补水，保持清爽舒适。",
     "ai_briefing_en": "A bit muggy, remember to hydrate and stay cool.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-18T20:08+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "10",
+    "dew": "22",
+    "cloud": "98",
+    "ai_briefing_zh": "阴天微凉，湿度较高，出门备伞哦。",
+    "ai_briefing_en": "Cloudy, mild. High humidity.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉小雨，风力较大。出门记得带伞，注意保暖。",
     "ai_briefing_en": "Wuhan has light rain and strong winds. Bring an umbrella and keep warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-18T11:50+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "90",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "10",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天体感热，湿度较高，多补充水分哦！",
+    "ai_briefing_en": "Overcast and muggy. Stay hydrated and keep cool!",
+    "alert": null
   }
 ]

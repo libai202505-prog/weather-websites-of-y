@@ -58,5 +58,25 @@
     "ai_briefing_zh": "成都阴天，湿度百分百。体感微热，注意防潮哦。",
     "ai_briefing_en": "Chengdu is cloudy, 100% humid. Feels warm, mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-06-18T11:51+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "950",
+    "vis": "16",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天舒适，记得适时增减衣物，保持好心情。",
+    "ai_briefing_en": "Overcast and pleasant. Dress appropriately and keep smiling!",
+    "alert": null
   }
 ]

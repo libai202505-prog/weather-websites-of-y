@@ -98,5 +98,25 @@
     "ai_briefing_zh": "慈溪有阵雨，体感 31℃ 较热，记得带伞，多喝水！",
     "ai_briefing_en": "Cixi has showers, feels like 31℃. Bring an umbrella, hydrate!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-06-20T13:02+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "24",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "天气较热且湿度高，记得多喝水，防潮哦。",
+    "ai_briefing_en": "It's warm and humid, remember to hydrate and stay dry!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

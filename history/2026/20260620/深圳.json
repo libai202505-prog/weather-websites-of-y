@@ -118,5 +118,25 @@
     "ai_briefing_zh": "天气炎热风力大，户外活动请注意防暑哦。",
     "ai_briefing_en": "Hot and windy, please stay cool and hydrated outdoors.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-06-20T16:50+08:00",
+    "temp": "30",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "225",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳风力不小，体感闷热，出行注意安全哦。",
+    "ai_briefing_en": "Shenzhen is breezy and humid, stay safe when going out.",
+    "alert": null
   }
 ]

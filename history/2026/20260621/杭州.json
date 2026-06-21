@@ -138,5 +138,25 @@
     "ai_briefing_zh": "雾气弥漫，注意行车安全，保持车距。",
     "ai_briefing_en": "Foggy conditions, drive carefully and keep your distance.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-06-21T20:58+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "12",
+    "dew": "23",
+    "cloud": "98",
+    "ai_briefing_zh": "杭州多云，体感 28℃。湿度较高，出门记得带把伞哦！",
+    "ai_briefing_en": "Hangzhou is cloudy, feels like 28℃. It's humid, remember an umbrella!",
+    "alert": null
   }
 ]

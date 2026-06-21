@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州多云，体感 28℃。湿度较高，出门记得带把伞哦！",
     "ai_briefing_en": "Hangzhou is cloudy, feels like 28℃. It's humid, remember an umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-06-21T23:44+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "4",
+    "dew": "23",
+    "cloud": "92",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

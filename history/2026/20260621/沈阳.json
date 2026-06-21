@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳天气晴朗，体感 18℃。出门感受好天气，保持好心情！",
     "ai_briefing_en": "Shenyang is sunny and mild, feels like 18℃. Enjoy the weather and stay cheerful!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-21T23:44+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

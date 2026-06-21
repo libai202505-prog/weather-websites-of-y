@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都阴天有风，体感 21℃。早晚温差大，注意添衣哦！",
     "ai_briefing_en": "Chengdu is overcast and windy, feels like 21℃. Mind the temperature change, dress warmly!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-06-21T23:42+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "11",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

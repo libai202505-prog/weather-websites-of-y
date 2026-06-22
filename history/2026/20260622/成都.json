@@ -98,5 +98,25 @@
     "ai_briefing_zh": "成都阴天，气温适宜，外出带把伞备用。",
     "ai_briefing_en": "Chengdu is cloudy with mild weather. Bring an umbrella just in case.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-06-22T18:23+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "945",
+    "vis": "11",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，气温适中，体感舒适，愿你有个好一天。",
+    "ai_briefing_en": "Chengdu is cloudy, temperature's just right. Have a wonderful day!",
+    "alert": null
   }
 ]

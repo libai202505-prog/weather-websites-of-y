@@ -78,5 +78,25 @@
     "ai_briefing_zh": "南京中雨，风力大，记得带伞注意保暖。",
     "ai_briefing_en": "Nanjing: Rainy. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-06-22T12:02+08:00",
+    "temp": "21",
+    "feelsLike": "18",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "7.0",
+    "pressure": "1000",
+    "vis": "3",
+    "dew": "22",
+    "cloud": "98",
+    "ai_briefing_zh": "南京小雨降温，风力较大，添衣保暖哦。",
+    "ai_briefing_en": "Nanjing has light rain and is cooler. Add layers and stay warm.",
+    "alert": null
   }
 ]

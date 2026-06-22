@@ -78,5 +78,25 @@
     "ai_briefing_zh": "广州多云，体感炎热，记得多喝水哦！",
     "ai_briefing_en": "Guangzhou: Cloudy. Stay cool.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-06-22T12:00+08:00",
+    "temp": "32",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "180",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云略热，记得多喝水，防晒防暑。",
+    "ai_briefing_en": "Guangzhou is cloudy and warm. Stay hydrated and use sunscreen.",
+    "alert": null
   }
 ]

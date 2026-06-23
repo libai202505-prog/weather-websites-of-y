@@ -78,5 +78,25 @@
     "ai_briefing_zh": "沈阳阴天，体感舒适。早晚温差大，记得多穿点。",
     "ai_briefing_en": "Shenyang overcast, feels comfy. Mind temp changes, dress warmly!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-23T17:22+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

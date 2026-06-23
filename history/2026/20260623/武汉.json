@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉小雨，湿度百分百。出门带伞，小心湿滑路面哦！",
     "ai_briefing_en": "Wuhan light rain, 100% humidity. Bring an umbrella, mind slippery roads!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-23T17:26+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "13",
+    "dew": "23",
+    "cloud": "92",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

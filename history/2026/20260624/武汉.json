@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大雾弥漫，湿度达到 100%，出行注意安全！",
     "ai_briefing_en": "Dense fog and 100% humidity, travel safely!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-24T11:58+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "25",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

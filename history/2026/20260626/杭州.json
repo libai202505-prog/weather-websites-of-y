@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州多云 28℃，体感舒适。享受美好时光。",
     "ai_briefing_en": "Cloudy 28℃. Comfortable day.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-06-26T21:02+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "12",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天 26℃，体感 27℃ 较舒适。",
+    "ai_briefing_en": "Overcast in Hangzhou, 26℃, feels pleasant 27℃.",
+    "alert": null
   }
 ]

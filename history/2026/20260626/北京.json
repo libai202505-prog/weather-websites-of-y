@@ -138,5 +138,25 @@
     "ai_briefing_zh": "北京阴天 31℃。多喝水，注意防晒哦。",
     "ai_briefing_en": "Cloudy 31℃. Hydrate. SPF.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-06-26T20:59+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "26",
+    "dew": "15",
+    "cloud": "99",
+    "ai_briefing_zh": "天气阴沉，体感舒适 27℃，记得带伞哦。",
+    "ai_briefing_en": "Cloudy day, feels like 27℃. Don't forget your umbrella!",
+    "alert": null
   }
 ]

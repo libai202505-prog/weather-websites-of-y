@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州中雨 27℃。风大，带伞慢行防滑。",
     "ai_briefing_en": "Rain 27℃. Umbrella. Wind.",
     "alert": "📉 红色降温预警：1小时骤降7℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-06-26T21:02+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "6",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "广州小雨，体感 28℃ 略闷，出门带伞！",
+    "ai_briefing_en": "Light rain in Guangzhou, feels stuffy 28℃. Bring an umbrella!",
+    "alert": null
   }
 ]

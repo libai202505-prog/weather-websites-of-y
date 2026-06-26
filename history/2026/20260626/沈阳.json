@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳晴天 27℃，体感微热。多补充水分哦。",
     "ai_briefing_en": "Sunny 27℃. Warm, hydrate.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-26T20:59+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "225",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳多云 21℃，体感 23℃，湿度稍高。",
+    "ai_briefing_en": "Cloudy 21℃ in Shenyang, feels 23℃. Slightly humid.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

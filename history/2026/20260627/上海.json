@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海阴天，体感略热。注意保持好心情！",
     "ai_briefing_en": "Shanghai cloudy. Stay happy!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-27T12:42+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "11",
+    "dew": "19",
+    "cloud": "91",
+    "ai_briefing_zh": "上海天气阴沉，气温适中，注意保持好心情！",
+    "ai_briefing_en": "Shanghai is cloudy and mild, remember to keep a good mood!",
+    "alert": null
   }
 ]

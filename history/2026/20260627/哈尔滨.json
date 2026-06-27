@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨多云，体感舒适。享受美好时光！",
     "ai_briefing_en": "Harbin cloudy. Good day!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-06-27T12:42+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "990",
+    "vis": "29",
+    "dew": "15",
+    "cloud": "98",
+    "ai_briefing_zh": "哈尔滨多云，气温适宜，外出注意添减衣物。",
+    "ai_briefing_en": "Harbin is partly cloudy and pleasant, remember to adjust your clothing.",
+    "alert": null
   }
 ]

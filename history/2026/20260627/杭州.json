@@ -98,5 +98,25 @@
     "ai_briefing_zh": "杭州有小雨，记得带伞，注意防潮哦！",
     "ai_briefing_en": "Hangzhou rain. Careful!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-06-27T12:44+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "225",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "6",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天，气温偏高，外出注意防晒哦。",
+    "ai_briefing_en": "Hangzhou is cloudy and warm, remember sun protection when going out.",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天闷热 体感 34℃，多补水，小心湿热不适！",
     "ai_briefing_en": "Overcast, muggy, feels like 34℃. Hydrate well and watch out for humidity!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-06-27T18:02+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "180",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "95",
+    "ai_briefing_zh": "深圳 30℃，体感 33℃。湿度高，注意防暑。",
+    "ai_briefing_en": "Shenzhen 30℃. Humid, keep cool!",
+    "alert": null
   }
 ]

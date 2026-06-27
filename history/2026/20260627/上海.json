@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海 26℃，体感 27℃。多云，小心防晒哦！",
     "ai_briefing_en": "Shanghai 26℃. Cloudy, mind sun!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-27T20:00+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "11",
+    "dew": "20",
+    "cloud": "10",
+    "ai_briefing_zh": "阳光正好，气温舒适。记得防晒，开心出行！",
+    "ai_briefing_en": "Sunny and pleasant, enjoy your day! Remember sun protection.",
+    "alert": null
   }
 ]

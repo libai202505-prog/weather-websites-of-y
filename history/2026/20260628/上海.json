@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海晴朗 29℃，体感舒适。外出记得防晒哦！",
     "ai_briefing_en": "Shanghai is sunny 29℃, pleasant. Don't forget sunscreen!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-28T19:00+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "270",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "12",
+    "dew": "21",
+    "cloud": "7",
+    "ai_briefing_zh": "上海晴朗体感热，记得防晒，补充水分哦。",
+    "ai_briefing_en": "Shanghai is sunny and feels warm. Remember sun protection and hydration.",
+    "alert": null
   }
 ]

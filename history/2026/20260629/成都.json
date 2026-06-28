@@ -58,5 +58,25 @@
     "ai_briefing_zh": "成都 夜间监测中，注意保暖",
     "ai_briefing_en": "成都: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-06-29T06:58+08:00",
+    "temp": "22",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "11",
+    "dew": "20",
+    "cloud": "99",
+    "ai_briefing_zh": "成都阴天，湿度 100%！体感闷热，注意防潮和身体舒适！",
+    "ai_briefing_en": "Overcast and 100% humid in Chengdu. Mind the dampness!",
+    "alert": null
   }
 ]

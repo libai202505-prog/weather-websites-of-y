@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-30T08:02+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "27",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，湿度很高。体感闷热，多补充水分哦。",
+    "ai_briefing_en": "Wuhan is overcast, very humid. Feels stuffy, remember to hydrate!",
+    "alert": null
   }
 ]

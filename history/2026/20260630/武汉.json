@@ -138,5 +138,25 @@
     "ai_briefing_zh": "小雨连绵，体感 26℃。湿度大，出行带伞哦。",
     "ai_briefing_en": "Continuous light rain, 26℃. Humid, bring an umbrella.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-30T20:00+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "180",
+    "humidity": "100",
+    "precip": "1.0",
+    "pressure": "1004",
+    "vis": "7",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉阴天，湿度爆表，出门请注意防潮防滑。",
+    "ai_briefing_en": "Wuhan is overcast, 100% humidity. Watch for dampness and slippery roads.",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天正好，体感 27℃。外出记得带件薄外套。",
     "ai_briefing_en": "Cloudy and pleasant 27℃. Bring a light jacket when out.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-06-30T20:00+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳阴天暖和，体感舒适，适合户外活动。",
+    "ai_briefing_en": "Shenyang is warm and overcast, pleasant for outdoor activities.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴天，湿度爆表，出门请注意防潮防滑。",
     "ai_briefing_en": "Wuhan is overcast, 100% humidity. Watch for dampness and slippery roads.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-30T23:12+08:00",
+    "temp": "23",
+    "feelsLike": "26",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "6",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

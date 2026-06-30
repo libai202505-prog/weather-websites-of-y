@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海大雨，体感湿凉。出门带伞，注意安全呀。",
     "ai_briefing_en": "Shanghai has heavy rain, feels damp and cool. Bring an umbrella, stay safe!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-06-30T12:57+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "21",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "上海小雨，体感 28℃，湿度高，注意防潮。",
+    "ai_briefing_en": "Shanghai has light rain, feels like 28℃ with high humidity. Stay dry!",
+    "alert": null
   }
 ]

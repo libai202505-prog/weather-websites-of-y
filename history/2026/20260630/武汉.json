@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉阴天，湿度很高。体感闷热，多补充水分哦。",
     "ai_briefing_en": "Wuhan is overcast, very humid. Feels stuffy, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-06-30T12:57+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "225",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "10",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "武汉小雨，体感 29℃ 湿热。注意防暑防潮，出行带伞。",
+    "ai_briefing_en": "Wuhan has light rain, feels like 29℃ and humid. Stay cool and bring an umbrella.",
+    "alert": null
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "南京雾气重，湿度百分百！出行注意能见度，小心驾驶。",
     "ai_briefing_en": "Nanjing is foggy with 100% humidity. Drive carefully due to low visibility.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-01T11:51+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "10",
+    "dew": "24",
+    "cloud": "94",
+    "ai_briefing_zh": "阴天微热，湿度大，记得多补充水分。",
+    "ai_briefing_en": "Overcast and warm, high humidity. Drink more water.",
+    "alert": null
   }
 ]

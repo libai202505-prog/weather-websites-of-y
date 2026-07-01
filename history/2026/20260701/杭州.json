@@ -78,5 +78,25 @@
     "ai_briefing_zh": "杭州中雨，路面湿滑，外出记得带伞，注意出行安全。",
     "ai_briefing_en": "Hangzhou has moderate rain. Bring an umbrella and drive safe!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-01T11:50+08:00",
+    "temp": "24",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "1.0",
+    "pressure": "1004",
+    "vis": "23",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨微风，出门记得带伞，小心着凉。",
+    "ai_briefing_en": "Light rain, bring an umbrella and stay warm.",
+    "alert": null
   }
 ]

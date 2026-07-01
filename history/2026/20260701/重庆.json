@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天闷热，湿度高，请注意防暑降温。",
     "ai_briefing_en": "Overcast and muggy, high humidity. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-07-01T16:00+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "炎热又闷，体感 34℃，注意防晒！",
+    "ai_briefing_en": "Hot and stuffy, feels like 34℃, wear sunscreen!",
+    "alert": null
   }
 ]

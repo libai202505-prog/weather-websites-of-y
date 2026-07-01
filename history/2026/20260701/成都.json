@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天闷热，多喝水，小心暑热哦！",
     "ai_briefing_en": "Overcast and muggy, drink water and stay cool.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-01T15:58+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天有点闷热，多喝水，注意休息。",
+    "ai_briefing_en": "Overcast and muggy, drink water and rest.",
+    "alert": null
   }
 ]

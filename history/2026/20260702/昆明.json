@@ -98,5 +98,25 @@
     "ai_briefing_zh": "昆明阴天，气温凉爽，湿度较高，注意添衣防潮。",
     "ai_briefing_en": "Kunming is cloudy and cool. High humidity, dress for comfort and dampness.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-07-02T15:28+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "810",
+    "vis": "30",
+    "dew": "17",
+    "cloud": "99",
+    "ai_briefing_zh": "昆明阴天，体感 22℃，出门记得加件衣服，注意保暖。",
+    "ai_briefing_en": "Kunming is overcast and feels like 22℃. Add a layer when you go out to stay warm.",
+    "alert": null
   }
 ]

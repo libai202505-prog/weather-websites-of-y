@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉阴天，体感闷热潮湿，多喝水防中暑哦！",
     "ai_briefing_en": "Wuhan is cloudy, feels hot and humid. Drink water to prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-02T15:26+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "180",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "98",
+    "ai_briefing_zh": "武汉小雨微凉，体感 31℃，出门带伞，注意防潮。",
+    "ai_briefing_en": "Wuhan has light rain, feels like 31℃. Bring an umbrella and stay dry.",
+    "alert": null
   }
 ]

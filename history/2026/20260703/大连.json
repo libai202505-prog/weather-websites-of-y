@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大连雾气重，风力大，体感偏凉，注意保暖防风！",
     "ai_briefing_en": "Dalian is foggy and windy, feels cool. Keep warm and stay safe!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-07-03T11:00+08:00",
+    "temp": "25",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "180",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "4",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "大连大雾，风力 5级。能见度差，注意出行安全哦。",
+    "ai_briefing_en": "Dalian is foggy with 5-grade wind. Poor visibility, please travel safely.",
+    "alert": null
   }
 ]

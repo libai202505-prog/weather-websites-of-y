@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海中雨湿热，请带伞慢行，路面湿滑哦。",
     "ai_briefing_en": "Shanghai has rain, it's humid. Take an umbrella, watch your step!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-03T11:00+08:00",
+    "temp": "30",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "12",
+    "dew": "24",
+    "cloud": "98",
+    "ai_briefing_zh": "上海阴天，体感 34℃ 且湿度高。小心闷热，保持清爽。",
+    "ai_briefing_en": "Shanghai is overcast, feels like 34℃ with high humidity. Stay cool and comfortable.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉大雨，气温 24℃。雨势较大，请注意防雨保暖。",
     "ai_briefing_en": "Wuhan has heavy rain, 24℃. Heavy downpour, stay dry and warm.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-03T15:00+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "270",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "98",
+    "ai_briefing_zh": "武汉天阴湿润，体感稍凉，注意添衣！",
+    "ai_briefing_en": "Wuhan is overcast and humid, feels a bit cool, add a layer!",
+    "alert": null
   }
 ]

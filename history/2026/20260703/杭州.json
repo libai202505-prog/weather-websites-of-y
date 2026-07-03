@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州有雨，风力较大，出门注意防风防雨哦！",
     "ai_briefing_en": "Rain and strong winds in Hangzhou, take care outdoors!",
     "alert": "📉 红色降温预警：1小时骤降10℃ | 💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-03T20:50+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "0",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "27",
+    "dew": "25",
+    "cloud": "68",
+    "ai_briefing_zh": "杭州阴天，体感适宜。湿度 93%，注意除湿，保持干爽好心情！",
+    "ai_briefing_en": "Hangzhou is overcast and feels comfortable. With 93% humidity, mind dampness and stay dry and cheerful!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

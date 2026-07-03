@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连有雾，能见度下降。出行注意安全，保持好心情，暖暖哒！",
     "ai_briefing_en": "Dalian is foggy with reduced visibility. Mind your safety when out, stay cheerful and warm!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-07-03T23:00+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "225",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "5",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

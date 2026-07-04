@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大连阴天，风力 6级！防风防高坠，出行务必小心。",
     "ai_briefing_en": "Dalian is overcast with 6-level wind. Be sure to protect from wind, watch for falling objects.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-07-04T14:08+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "135",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "17",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "多云凉爽，风力 4级。外出记得添衣，小心着凉！",
+    "ai_briefing_en": "Cloudy, breezy, 4-level wind. Layer up and don't catch cold!",
+    "alert": null
   }
 ]

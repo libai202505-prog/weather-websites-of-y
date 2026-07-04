@@ -98,5 +98,25 @@
     "ai_briefing_zh": "重庆大雾，体感 31℃，出行注意能见度，小心驾驶哦。",
     "ai_briefing_en": "Chongqing is foggy, feels like 31℃. Watch out for visibility when traveling, drive safely!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-07-04T14:08+08:00",
+    "temp": "31",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "19",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，体感 33℃。防晒补水，小心中暑！",
+    "ai_briefing_en": "Cloudy, feels 33℃. Sunscreen, hydrate, avoid heatstroke!",
+    "alert": null
   }
 ]

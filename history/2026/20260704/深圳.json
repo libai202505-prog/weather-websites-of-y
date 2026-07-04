@@ -98,5 +98,25 @@
     "ai_briefing_zh": "深圳阴天，体感 31℃，风力 4级，小心出行，保持舒适。",
     "ai_briefing_en": "Shenzhen is overcast, feels like 31℃. With 4-level wind, take care and stay comfy.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-04T14:10+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "180",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天微热，体感 32℃。记得多喝水，防潮。",
+    "ai_briefing_en": "Cloudy, feels 32℃. Hydrate and mind humidity.",
+    "alert": null
   }
 ]

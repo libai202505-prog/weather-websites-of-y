@@ -78,5 +78,25 @@
     "ai_briefing_zh": "沈阳小雨湿度 100%，风力较大，出门注意保暖。",
     "ai_briefing_en": "Shenyang has light rain and 100% humidity, windy, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-04T10:50+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "中雨",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "180",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "21",
+    "dew": "23",
+    "cloud": "83",
+    "ai_briefing_zh": "沈阳中雨，温度 21℃，出门记得带伞，注意保暖防湿。",
+    "ai_briefing_en": "Shenyang has moderate rain, 21℃. Remember your umbrella, stay warm and dry.",
+    "alert": null
   }
 ]

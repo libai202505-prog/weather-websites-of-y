@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海体感 30℃，多云闷热，别忘了防晒。",
     "ai_briefing_en": "Shanghai feels like 30℃, cloudy and humid, don't forget sun protection.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-04T10:50+08:00",
+    "temp": "32",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "21",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "上海体感 36℃ 湿热，防暑是关键，记得多喝水哦。",
+    "ai_briefing_en": "Shanghai feels humid 36℃. Heatstroke prevention is key, drink plenty of water!",
+    "alert": null
   }
 ]

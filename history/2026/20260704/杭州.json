@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州中雨，湿度 95%！雨势较大，请务必带伞，注意安全。",
     "ai_briefing_en": "Hangzhou moderate rain, 95% humidity! Bring your umbrella and stay safe.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-04T23:00+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "7",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

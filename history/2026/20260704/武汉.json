@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉湿度 100%！潮湿闷热，请注意防潮防蚊虫，保持心情愉悦。",
     "ai_briefing_en": "Wuhan 100% humidity! It's damp and muggy. Watch out for mosquitoes!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-04T23:02+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "180",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "28",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

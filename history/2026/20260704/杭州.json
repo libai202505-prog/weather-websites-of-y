@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州阴天湿度大，体感 29℃，注意防潮哦。",
     "ai_briefing_en": "Hangzhou is cloudy with high humidity, feels like 29℃. Pay attention to dampness.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-04T19:08+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "72",
+    "ai_briefing_zh": "杭州阴天湿度大，记得除湿，保持居家清爽。",
+    "ai_briefing_en": "Hangzhou is cloudy and humid. Remember to dehumidify.",
+    "alert": null
   }
 ]

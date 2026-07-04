@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉阴天湿度 100%，体感 30℃，记得开除湿哦。",
     "ai_briefing_en": "Wuhan is cloudy with 100% humidity, feels like 30℃. Remember to dehumidify.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-04T19:08+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "96",
+    "ai_briefing_zh": "武汉湿度爆表，出门注意防潮，保持心情愉悦。",
+    "ai_briefing_en": "Wuhan is extremely humid. Stay dry and keep a happy mood.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海阴天体感闷热，湿度大，记得多喝水哦。",
     "ai_briefing_en": "Shanghai is cloudy and muggy with high humidity. Remember to drink more water!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-05T21:28+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "19",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "上海湿度 90%，体感 30℃，闷热，注意防暑！",
+    "ai_briefing_en": "Shanghai's 90% humidity makes it feel like 30℃. It's muggy, stay cool!",
+    "alert": null
   }
 ]

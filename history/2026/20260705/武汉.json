@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉风力 5级，体感舒适。出行注意防风，小心着凉！",
     "ai_briefing_en": "Wuhan has strong winds, feels nice. Watch out for wind!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-05T18:56+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "225",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天风力 5级 较大，出行注意防风。",
+    "ai_briefing_en": "Wuhan is cloudy with strong wind (level 5). Watch out for wind!",
+    "alert": null
   }
 ]

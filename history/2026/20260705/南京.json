@@ -98,5 +98,25 @@
     "ai_briefing_zh": "南京 夜间监测中，注意保暖",
     "ai_briefing_en": "南京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-05T12:50+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "225",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天风力 5 级，湿度 86%。出行注意防风保暖！",
+    "ai_briefing_en": "Nanjing is cloudy with Force 5 winds, 86% humidity. Watch out for wind and stay warm!",
+    "alert": null
   }
 ]

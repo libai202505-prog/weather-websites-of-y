@@ -138,5 +138,25 @@
     "ai_briefing_zh": "北京大雨，出行记得带伞，注意安全哦！",
     "ai_briefing_en": "Heavy rain in Beijing, take an umbrella and stay safe!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-07-06T22:08+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

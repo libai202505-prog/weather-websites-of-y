@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州体感 37℃，天气炎热，记得多喝水，注意休息。",
     "ai_briefing_en": "Hangzhou feels 37℃, it's hot. Remember to drink water and rest.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-06T22:08+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "225",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

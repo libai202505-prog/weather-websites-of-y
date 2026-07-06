@@ -118,5 +118,25 @@
     "ai_briefing_zh": "晴朗 30℃，风力 4级。外出记得防晒，注意补水哦！",
     "ai_briefing_en": "Sunny 30℃, wind 4. Sunscreen up, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-07-06T18:08+08:00",
+    "temp": "31",
+    "feelsLike": "30",
+    "text": "大雨",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "270",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "23",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "北京大雨，出行记得带伞，注意安全哦！",
+    "ai_briefing_en": "Heavy rain in Beijing, take an umbrella and stay safe!",
+    "alert": null
   }
 ]

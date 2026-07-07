@@ -78,5 +78,25 @@
     "ai_briefing_zh": "北京多云，体感舒适。注意防晒，保持水分哦！",
     "ai_briefing_en": "Beijing is cloudy and feels pleasant. Stay hydrated and use sunscreen!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-07-07T11:14+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "15",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "晴热，注意防晒补水，别中暑哦！",
+    "ai_briefing_en": "Sunny and hot, stay hydrated and protect from sun!",
+    "alert": null
   }
 ]

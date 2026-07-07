@@ -138,5 +138,25 @@
     "ai_briefing_zh": "青岛小雨风力 4级，湿度极高，出门记得带伞。",
     "ai_briefing_en": "Light rain and windy (level 4) in Qingdao, extremely humid. Bring an umbrella!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-07T21:02+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "315",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "21",
+    "dew": "22",
+    "cloud": "99",
+    "ai_briefing_zh": "青岛多云，湿度 97%，感觉闷热，注意防潮。",
+    "ai_briefing_en": "Qingdao is cloudy with 97% humidity, may feel stuffy.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云高温，风力 4级，记得防晒补水哦！",
     "ai_briefing_en": "Cloudy and hot, with 4-level wind. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-07T15:30+08:00",
+    "temp": "35",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "225",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "97",
+    "ai_briefing_zh": "杭州阴天炎热，请多喝水，注意防暑。",
+    "ai_briefing_en": "Hangzhou: Hot, overcast. Hydrate well, prevent heatstroke!",
+    "alert": null
   }
 ]

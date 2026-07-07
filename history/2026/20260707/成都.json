@@ -98,5 +98,25 @@
     "ai_briefing_zh": "小雨闷热，体感 35℃，记得多喝水降温。",
     "ai_briefing_en": "Light rain and muggy, feels like 35℃, drink water to cool down.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-07T15:32+08:00",
+    "temp": "35",
+    "feelsLike": "38",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "943",
+    "vis": "16",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "成都体感炎热，请多喝水，注意防暑。",
+    "ai_briefing_en": "Chengdu: Feels very hot. Hydrate, prevent heatstroke!",
+    "alert": null
   }
 ]

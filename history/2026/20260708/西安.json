@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，体感 38℃ 酷热，务必防晒多喝水。",
     "ai_briefing_en": "Xi'an is overcast, feels scorching at 38℃. Be sure to use sun protection and drink plenty.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-08T21:59+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

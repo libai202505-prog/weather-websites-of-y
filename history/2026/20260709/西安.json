@@ -138,5 +138,25 @@
     "ai_briefing_zh": "气温 39℃ 极高，体感酷热。注意防暑降温！",
     "ai_briefing_en": "Extremely hot. Stay cool and hydrated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-09T20:02+08:00",
+    "temp": "35",
+    "feelsLike": "38",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "950",
+    "vis": "16",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "西安多云，体感 38℃！高温炎热，务必防暑，多喝水！",
+    "ai_briefing_en": "Xi'an, partly cloudy, feels 38℃! It's scorching, stay hydrated and prevent heatstroke.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

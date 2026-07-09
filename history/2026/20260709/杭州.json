@@ -138,5 +138,25 @@
     "ai_briefing_zh": "小雨闷热，湿度 85%。出门记得带伞哦！",
     "ai_briefing_en": "Light rain and muggy. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-09T20:02+08:00",
+    "temp": "29",
+    "feelsLike": "33",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "5",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州有雾，体感 33℃。小心驾驶，记得防暑防潮哦！",
+    "ai_briefing_en": "Hangzhou is foggy, feels 33℃. Drive safe, mind the heat and humidity.",
+    "alert": null
   }
 ]

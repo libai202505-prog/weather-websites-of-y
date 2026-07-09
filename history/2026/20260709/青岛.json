@@ -78,5 +78,25 @@
     "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
     "ai_briefing_en": "青岛: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-09T08:00+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "180",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "4",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛大雾，风力4级，出行注意安全，保持视线。",
+    "ai_briefing_en": "Foggy with strong wind in Qingdao. Drive safe and mind visibility!",
+    "alert": null
   }
 ]

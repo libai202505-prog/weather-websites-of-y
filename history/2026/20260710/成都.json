@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都 夜间监测中，注意保暖",
     "ai_briefing_en": "成都: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-10T20:58+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "941",
+    "vis": "16",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天微热体感 31℃。注意防晒，多补水。",
+    "ai_briefing_en": "Overcast, warm. Hydrate.",
+    "alert": null
   }
 ]

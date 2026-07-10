@@ -78,5 +78,25 @@
     "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
     "ai_briefing_en": "厦门: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-11T07:50+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "315",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "981",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天微热体感高，出门记得防晒哦。",
+    "ai_briefing_en": "Cloudy and slightly warm, high feels-like temp. Remember sunscreen.",
+    "alert": null
   }
 ]

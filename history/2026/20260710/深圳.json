@@ -98,5 +98,25 @@
     "ai_briefing_zh": "深圳体感 32℃，阴天也热，注意补充水分。",
     "ai_briefing_en": "Shenzhen feels 32℃, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-10T15:28+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳阴天体感热，记得补水，防晒哦。",
+    "ai_briefing_en": "Shenzhen is cloudy and hot. Stay hydrated and use sun protection.",
+    "alert": null
   }
 ]

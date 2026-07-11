@@ -138,5 +138,25 @@
     "ai_briefing_zh": "高温炙烤体感炎热，多喝水，注意防暑降温！",
     "ai_briefing_en": "Extremely hot, stay hydrated, keep cool.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-11T16:38+08:00",
+    "temp": "37",
+    "feelsLike": "38",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉晴热，体感 38℃！高温炎热，防晒补水是关键！",
+    "ai_briefing_en": "Wuhan is sunny and feels like 38℃! Stay hydrated and protect yourself from the sun!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门阴天风大，气温较高，外出注意防晒防风。",
     "ai_briefing_en": "Xiamen is cloudy and windy with high temperatures. Watch out for strong winds!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-11T19:44+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "270",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "22",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天体感 31℃，气温较高，外出注意防晒哦！",
+    "ai_briefing_en": "Xiamen is overcast and feels like 31℃, it's hot, remember sun protection!",
+    "alert": null
   }
 ]

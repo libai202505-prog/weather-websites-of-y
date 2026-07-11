@@ -198,5 +198,25 @@
     "ai_briefing_zh": "成都小雨伴 100% 湿度，体感潮湿，带好雨具别着凉。",
     "ai_briefing_en": "Chengdu has light rain and 100% humidity, bring rain gear and don't catch a cold.",
     "alert": "📉 红色降温预警：1小时骤降8℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-11T20:58+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "943",
+    "vis": "11",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，湿度 100% 体感闷热！多补水，保持清爽舒适哦。",
+    "ai_briefing_en": "Chengdu is overcast and feels humid (100%) and stuffy! Stay hydrated and cool.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气阴沉风力大，外出记得多添衣。",
     "ai_briefing_en": "Cloudy with strong winds, remember to wear more clothes.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-11T10:22+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "多云 30℃，体感微热，午后高温，多喝水哦。",
+    "ai_briefing_en": "Cloudy 30℃ feels warm, hydrate well this hot afternoon.",
+    "alert": null
   }
 ]

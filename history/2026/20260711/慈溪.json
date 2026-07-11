@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气阴沉风力大，外出记得带伞哦。",
     "ai_briefing_en": "Cloudy with strong winds, remember your umbrella.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-11T10:24+08:00",
+    "temp": "30",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "90",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天风力 5级，体感舒适，仍需注意补水防晒。",
+    "ai_briefing_en": "Overcast with 5-level winds, feels nice, but stay hydrated.",
+    "alert": null
   }
 ]

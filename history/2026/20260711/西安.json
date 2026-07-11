@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安体感 30℃，记得多喝水，注意防晒。阴天也要小心紫外线！",
     "ai_briefing_en": "Xi'an feels like 30℃. Stay hydrated and don't forget sun protection, even on cloudy days!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-11T22:43+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "大雨",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "315",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "24",
+    "cloud": "99",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：西北风 4级"
   }
 ]

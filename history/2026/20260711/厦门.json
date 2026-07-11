@@ -118,5 +118,25 @@
     "ai_briefing_zh": "阴天 30℃，体感 31℃ 闷热，多补水，保持清爽。",
     "ai_briefing_en": "Overcast 30℃ feels 31℃ muggy, hydrate and stay refreshed.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-11T14:00+08:00",
+    "temp": "31",
+    "feelsLike": "30",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "315",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "979",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "95",
+    "ai_briefing_zh": "小雨阵风 5 级，带好雨具，出行注意防滑防风。",
+    "ai_briefing_en": "Light rain and strong winds, take umbrella, careful on roads.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

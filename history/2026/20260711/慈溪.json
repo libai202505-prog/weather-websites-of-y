@@ -118,5 +118,25 @@
     "ai_briefing_zh": "阴天风力 5级，体感舒适，仍需注意补水防晒。",
     "ai_briefing_en": "Overcast with 5-level winds, feels nice, but stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-11T14:00+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "45",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "7",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阵风 5 级，风力较大，出门注意防风，保持舒适。",
+    "ai_briefing_en": "Strong winds, mind the wind, stay comfortable.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

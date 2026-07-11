@@ -118,5 +118,25 @@
     "ai_briefing_zh": "30℃ 晴天，风力 5级，防晒补水，享受舒适。",
     "ai_briefing_en": "Sunny 30℃ with 5-level winds, protect from sun and hydrate.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-11T14:00+08:00",
+    "temp": "33",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "90",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "22",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "晴好但风力 6 级，防晒同时，请注意防风哦！",
+    "ai_briefing_en": "Sunny but windy, protect from sun, mind the wind.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳晴朗，体感 36℃。炎热天气，记得多喝水，注意防晒！",
     "ai_briefing_en": "Shenzhen is sunny and feels like 36℃. Stay hydrated and use sunscreen!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-11T18:00+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "225",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳晴朗炎热，体感 34℃，多饮水，注意防晒。",
+    "ai_briefing_en": "Shenzhen is sunny and hot, feels like 34℃. Stay hydrated and use sunscreen!",
+    "alert": null
   }
 ]

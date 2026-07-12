@@ -198,5 +198,25 @@
     "ai_briefing_zh": "青岛大雾，风力 5级，能见度低，注意出行安全。",
     "ai_briefing_en": "Qingdao has heavy fog and strong winds (level 5). Low visibility, travel safely.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-12T18:08+08:00",
+    "temp": "26",
+    "feelsLike": "23",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "90",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "10",
+    "dew": "24",
+    "cloud": "0",
+    "ai_briefing_zh": "青岛有雾风力 6级，体感凉爽，出行注意安全。",
+    "ai_briefing_en": "Qingdao is foggy with 6-grade wind, feels cool, travel safely.",
+    "alert": null
   }
 ]

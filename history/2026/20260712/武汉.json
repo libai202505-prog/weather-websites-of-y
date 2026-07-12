@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉 36℃ 高温，防暑是关键，避免中暑！",
     "ai_briefing_en": "Wuhan is 36℃, high heat. Staying cool is key, avoid heatstroke!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-12T18:08+08:00",
+    "temp": "35",
+    "feelsLike": "37",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天酷热，体感 37℃，小心防暑哦！",
+    "ai_briefing_en": "Wuhan is cloudy and scorching at 37℃, take care in the heat!",
+    "alert": null
   }
 ]

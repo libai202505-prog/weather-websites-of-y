@@ -178,5 +178,25 @@
     "ai_briefing_zh": "重庆体感 37℃，小心高温中暑，一定要多喝水！",
     "ai_briefing_en": "Chongqing feels 37℃! Beware of heatstroke, drink plenty of water!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-07-12T16:08+08:00",
+    "temp": "37",
+    "feelsLike": "40",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "968",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆体感 40℃，炎热难耐，务必防晒，及时补水。",
+    "ai_briefing_en": "Chongqing feels 40℃, intensely hot. Be sure to protect from sun and hydrate.",
+    "alert": null
   }
 ]

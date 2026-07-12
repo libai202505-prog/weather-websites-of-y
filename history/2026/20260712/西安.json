@@ -238,5 +238,25 @@
     "ai_briefing_zh": "西安晴天炎热，体感 34℃，紫外线强，注意防晒补水。",
     "ai_briefing_en": "Xi'an is sunny and hot, feeling like 34℃. Strong UV, mind sun protection and hydration!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-12T21:42+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "180",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "958",
+    "vis": "16",
+    "dew": "21",
+    "cloud": "0",
+    "ai_briefing_zh": "西安晴朗，体感微热。外出注意防晒，多补充水分。",
+    "ai_briefing_en": "Xi'an is sunny and feels slightly warm. Remember sun protection and hydrate well.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

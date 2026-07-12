@@ -238,5 +238,25 @@
     "ai_briefing_zh": "慈溪风力 6级较大，体感略凉，别着凉了，注意防风。",
     "ai_briefing_en": "Strong winds in Cixi make it feel cooler. Mind the wind and don't catch a cold!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-12T21:44+08:00",
+    "temp": "29",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "6",
+    "windSpeed": "44",
+    "wind360": "180",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪风力较大，体感凉爽。出门注意防风保暖哦。",
+    "ai_briefing_en": "Cixi has strong winds, feels cool. Take care and stay warm outside.",
+    "alert": null
   }
 ]

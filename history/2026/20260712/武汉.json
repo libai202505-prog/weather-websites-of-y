@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉阴天，体感 35℃，高温炎热，注意防暑降温！",
     "ai_briefing_en": "Wuhan is overcast, feeling like 35℃. It's very hot, so take precautions against heatstroke!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-12T21:44+08:00",
+    "temp": "31",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "21",
+    "dew": "27",
+    "cloud": "97",
+    "ai_briefing_zh": "武汉体感酷热，请务必防暑！多喝水，避开高温时段。",
+    "ai_briefing_en": "Wuhan feels extremely hot, please protect from heatstroke! Hydrate and avoid peak heat.",
+    "alert": null
   }
 ]

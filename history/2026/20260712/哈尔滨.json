@@ -238,5 +238,25 @@
     "ai_briefing_zh": "哈尔滨风力 6级大，体感略凉，湿度高，注意防风保暖。",
     "ai_briefing_en": "Harbin has strong 6-level winds, feeling cooler with high humidity. Mind the wind and stay warm!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-12T21:44+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "270",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨阴天风大，湿度极高。出门添衣，小心着凉。",
+    "ai_briefing_en": "Harbin is overcast and windy, very high humidity. Dress warmly, avoid catching a cold.",
+    "alert": null
   }
 ]

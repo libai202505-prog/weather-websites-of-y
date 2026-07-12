@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海体感 30℃，湿度大，请多补充水分。",
     "ai_briefing_en": "It feels like 30℃ in Shanghai with high humidity, stay hydrated!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-12T13:50+08:00",
+    "temp": "30",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "16",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "上海风力 5级，体感 29℃，风大，记得带件薄外套哦。",
+    "ai_briefing_en": "Shanghai is windy, feels 29℃. A light jacket might be nice!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

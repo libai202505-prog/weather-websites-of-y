@@ -158,5 +158,25 @@
     "ai_briefing_zh": "慈溪风力 7级，请注意防风，小心出行。",
     "ai_briefing_en": "Strong winds (level 7) in Cixi, please take care and stay safe!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-12T13:50+08:00",
+    "temp": "30",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "6",
+    "windSpeed": "44",
+    "wind360": "180",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "20",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "慈溪风力 6级体感 27℃，风大注意保暖，小心感冒。",
+    "ai_briefing_en": "Cixi is windy, feels 27℃. Take care not to catch a cold!",
+    "alert": null
   }
 ]

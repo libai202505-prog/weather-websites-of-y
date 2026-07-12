@@ -158,5 +158,25 @@
     "ai_briefing_zh": "成都体感 34℃，多云炎热，记得多喝水。",
     "ai_briefing_en": "Cloudy and feels like 34℃ in Chengdu, remember to drink plenty of water.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-12T13:50+08:00",
+    "temp": "35",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "947",
+    "vis": "11",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "成都体感 36℃，天气炎热，请注意防晒补水哦！",
+    "ai_briefing_en": "Chengdu feels 36℃, very hot. Remember sun protection and hydration!",
+    "alert": null
   }
 ]

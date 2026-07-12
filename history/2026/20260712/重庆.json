@@ -258,5 +258,25 @@
     "ai_briefing_zh": "重庆阴天，体感闷热，湿度大。注意防暑和室内通风。",
     "ai_briefing_en": "Chongqing is overcast, feels stuffy and humid. Stay cool and ensure good indoor ventilation.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-07-12T22:50+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "180",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "971",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆 夜间监测中，注意保暖",
+    "ai_briefing_en": "重庆: Night watch, stay warm.",
+    "alert": null
   }
 ]

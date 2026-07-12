@@ -258,5 +258,25 @@
     "ai_briefing_zh": "青岛小雨伴大风，体感寒凉。务必添衣保暖，注意防风防雨！",
     "ai_briefing_en": "Qingdao has light rain and strong winds, feels quite cold. Dress warmly, protect from wind and rain!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-12T22:50+08:00",
+    "temp": "25",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "7",
+    "windSpeed": "53",
+    "wind360": "90",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "3",
+    "dew": "24",
+    "cloud": "96",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

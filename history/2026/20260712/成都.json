@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都阴天潮湿，体感闷热，保持室内通风。",
     "ai_briefing_en": "Chengdu is cloudy, humid, and feels stuffy. Keep your room ventilated.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-12T10:39+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "948",
+    "vis": "11",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "成都体感 34℃，多云炎热，记得多喝水。",
+    "ai_briefing_en": "Cloudy and feels like 34℃ in Chengdu, remember to drink plenty of water.",
+    "alert": null
   }
 ]

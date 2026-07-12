@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海阴天微热，湿度较高，注意清爽穿搭。",
     "ai_briefing_en": "Shanghai is cloudy and a bit warm with high humidity. Dress in light clothes.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-12T10:38+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "16",
+    "dew": "25",
+    "cloud": "97",
+    "ai_briefing_zh": "上海体感 30℃，湿度大，请多补充水分。",
+    "ai_briefing_en": "It feels like 30℃ in Shanghai with high humidity, stay hydrated!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州风力很强，体感凉爽，出门注意防风哦！",
     "ai_briefing_en": "Hangzhou is very windy and feels cool. Be mindful of strong winds when out.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-12T10:39+08:00",
+    "temp": "28",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "6",
+    "windSpeed": "45",
+    "wind360": "180",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "982",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "杭州风力 6级，出门注意防风，多添件衣！",
+    "ai_briefing_en": "Strong winds (level 6) in Hangzhou, dress warmly and be careful when out.",
+    "alert": null
   }
 ]

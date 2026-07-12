@@ -138,5 +138,25 @@
     "ai_briefing_zh": "青岛风力较大，体感凉爽，出门注意保暖。",
     "ai_briefing_en": "Qingdao is quite windy and feels cool. Dress warmly when you go out.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-12T10:39+08:00",
+    "temp": "27",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "6",
+    "windSpeed": "49",
+    "wind360": "90",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "12",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛风力 6级，体感凉爽，出门注意防风。",
+    "ai_briefing_en": "Strong winds (level 6) and cool in Qingdao, dress appropriately and be mindful of the wind.",
+    "alert": null
   }
 ]

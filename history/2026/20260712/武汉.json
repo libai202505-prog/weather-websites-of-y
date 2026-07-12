@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉多云炎热，风力适中，注意防暑降温。",
     "ai_briefing_en": "Wuhan is cloudy and hot. The wind is moderate, so keep cool.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-12T10:38+08:00",
+    "temp": "32",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "315",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "92",
+    "ai_briefing_zh": "武汉多云炎热，风力 5级，愿您度过舒适一天。",
+    "ai_briefing_en": "Cloudy and hot in Wuhan with moderate winds, wishing you a comfortable day!",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

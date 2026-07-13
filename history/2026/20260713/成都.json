@@ -198,5 +198,25 @@
     "ai_briefing_zh": "高温酷热，体感近 40 ℃，注意防暑降温！",
     "ai_briefing_en": "Scorching hot, feels like 40℃, remember to prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-13T21:08+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "941",
+    "vis": "16",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "成都多云 33℃，体感 36℃，炎热，多喝水！",
+    "ai_briefing_en": "Chengdu, cloudy 33℃, feels like 36℃. It's hot, drink more water!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

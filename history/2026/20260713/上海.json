@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天湿热，体感 35℃。注意防暑，多喝水。",
     "ai_briefing_en": "Cloudy and humid, feels like 35°C. Stay cool and hydrated!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-13T18:08+08:00",
+    "temp": "30",
+    "feelsLike": "34",
+    "text": "大雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "大雨来袭，记得带伞，注意出行安全哦！",
+    "ai_briefing_en": "Heavy rain today, don't forget your umbrella and stay safe!",
+    "alert": null
   }
 ]

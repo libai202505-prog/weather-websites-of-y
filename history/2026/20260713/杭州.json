@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州阴天闷热，请注意补水，保持清爽。",
     "ai_briefing_en": "Hangzhou is hot and muggy. Stay hydrated and keep cool.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-13T14:00+08:00",
+    "temp": "33",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "36",
+    "wind360": "270",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "28",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天有风，体感 31℃。风力 5级，注意出行安全。",
+    "ai_briefing_en": "Cloudy with 5-level wind, feels like 31°C. Be careful when going out.",
+    "alert": null
   }
 ]

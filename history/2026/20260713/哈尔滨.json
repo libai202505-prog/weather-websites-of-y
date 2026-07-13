@@ -138,5 +138,25 @@
     "ai_briefing_zh": "哈尔滨风力 5级，湿度大。外出注意防风，小心着凉。",
     "ai_briefing_en": "Harbin has strong winds and high humidity. Dress warmly!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-13T10:43+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "225",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨风力较大，湿度高，出门注意防风保暖。",
+    "ai_briefing_en": "Harbin is windy and humid. Watch out for wind and stay warm.",
+    "alert": null
   }
 ]

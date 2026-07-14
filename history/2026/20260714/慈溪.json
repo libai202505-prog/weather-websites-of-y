@@ -218,5 +218,25 @@
     "ai_briefing_zh": "慈溪多云 32℃，风力 4级。注意防晒，小心大风。",
     "ai_briefing_en": "Cixi: Cloudy, 32℃. Wind!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-14T22:44+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "180",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "27",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

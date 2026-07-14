@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安体感 39℃，户外活动注意防暑和防晒哦。",
     "ai_briefing_en": "Xi'an feels 39℃. Take care in heat and sun protection outdoors.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-14T15:57+08:00",
+    "temp": "37",
+    "feelsLike": "39",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "45",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "952",
+    "vis": "16",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "西安体感爆热，请减少外出，注意补充水分和休息！",
+    "ai_briefing_en": "Xi'an feels extremely hot, limit outings, hydrate, rest!",
+    "alert": null
   }
 ]

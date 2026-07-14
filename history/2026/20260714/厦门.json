@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门湿度高，风力强劲，注意防潮和出行安全！",
     "ai_briefing_en": "Xiamen is humid and windy, mind dampness, travel safely!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-14T18:38+08:00",
+    "temp": "26",
+    "feelsLike": "25",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "180",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "21",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门小雨 25℃，风力 4级，记得带伞防风。",
+    "ai_briefing_en": "Light rain 25℃, windy. Umbrella handy!",
+    "alert": null
   }
 ]

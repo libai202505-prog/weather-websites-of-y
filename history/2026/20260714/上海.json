@@ -198,5 +198,25 @@
     "ai_briefing_zh": "体感 37℃ 高温，多云天气，注意防暑！",
     "ai_briefing_en": "Feels 37℃, partly cloudy. Beat the heat!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-14T20:00+08:00",
+    "temp": "32",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天体感 36℃，湿度 70%。高温闷热，记得防暑。",
+    "ai_briefing_en": "Shanghai: Cloudy, 36℃. Hot!",
+    "alert": null
   }
 ]

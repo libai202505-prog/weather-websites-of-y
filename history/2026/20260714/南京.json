@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京体感 37℃，阴天闷热，多补水哦！",
     "ai_briefing_en": "Feels 37℃, cloudy & muggy. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-14T20:00+08:00",
+    "temp": "32",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "18",
+    "dew": "28",
+    "cloud": "10",
+    "ai_briefing_zh": "南京多云体感 36℃，有些闷热。记得防暑降温！",
+    "ai_briefing_en": "Nanjing: Cloudy, 36℃.",
+    "alert": null
   }
 ]

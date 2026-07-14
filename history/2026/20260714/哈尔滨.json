@@ -198,5 +198,25 @@
     "ai_briefing_zh": "哈尔滨阴天 27℃，湿度大，体感黏腻。",
     "ai_briefing_en": "Cloudy 27℃, high humidity. Feels a bit sticky!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-14T20:00+08:00",
+    "temp": "23",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨阴天 23℃，湿度 92%。有点潮湿，注意保持干燥。",
+    "ai_briefing_en": "Harbin: Cloudy, 23℃.",
+    "alert": null
   }
 ]

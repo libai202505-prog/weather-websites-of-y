@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门多云 29℃，风力 5级，海边活动注意防风。",
     "ai_briefing_en": "Xiamen cloudy 29℃, wind level 5, mind wind at the beach.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-15T18:44+08:00",
+    "temp": "28",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "225",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门风力较大，出行注意安全，当心大风！",
+    "ai_briefing_en": "Xiamen has strong winds, be safe and mind the gusts!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连晴天 29℃，风力 5级，海边风大注意保暖。",
     "ai_briefing_en": "Dalian sunny 29℃, wind level 5, mind warmth by the sea.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-07-15T18:42+08:00",
+    "temp": "29",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "270",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "26",
+    "dew": "22",
+    "cloud": "0",
+    "ai_briefing_zh": "大连风力较大，多云，出门注意防风保暖！",
+    "ai_briefing_en": "Dalian is windy and cloudy, stay warm and mind the wind!",
+    "alert": null
   }
 ]

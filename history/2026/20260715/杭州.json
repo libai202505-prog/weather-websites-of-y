@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州 37℃，多云天，户外活动注意防暑。",
     "ai_briefing_en": "Hangzhou 37℃, cloudy. Be careful of heatstroke outdoors.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-15T18:44+08:00",
+    "temp": "35",
+    "feelsLike": "37",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "225",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州高温，体感炎热，多补水防晒哦！",
+    "ai_briefing_en": "Hangzhou is hot, stay hydrated and sun-safe!",
+    "alert": null
   }
 ]

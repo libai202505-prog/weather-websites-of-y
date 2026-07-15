@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨多云，湿度大，出门小心，注意保暖。",
     "ai_briefing_en": "Harbin is cloudy with high humidity. Be careful outdoors and stay warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-15T10:08+08:00",
+    "temp": "25",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "270",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "982",
+    "vis": "30",
+    "dew": "17",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨体感 23℃，风力 4级，外出注意防风，小心着凉哦！",
+    "ai_briefing_en": "Harbin feels 23°C with a force 4 wind. Watch out for wind when out, avoid catching cold!",
+    "alert": null
   }
 ]

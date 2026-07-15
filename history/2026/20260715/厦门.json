@@ -98,5 +98,25 @@
     "ai_briefing_zh": "厦门多云，湿度 92%，感觉有点闷热，多喝水。",
     "ai_briefing_en": "Xiamen is cloudy with 92% humidity, feeling a bit muggy. Drink more water.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-15T10:08+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "180",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门体感 28℃，多云有风，海边游玩注意安全，小心潮湿！",
+    "ai_briefing_en": "Xiamen feels 28°C, cloudy with wind. Be safe when playing by the sea, watch out for dampness!",
+    "alert": null
   }
 ]

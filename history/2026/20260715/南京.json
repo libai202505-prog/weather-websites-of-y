@@ -138,5 +138,25 @@
     "ai_briefing_zh": "天气炎热，注意防暑，多喝水哦。",
     "ai_briefing_en": "Hot weather, stay cool and drink plenty of water.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-15T16:00+08:00",
+    "temp": "35",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "270",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "21",
+    "dew": "27",
+    "cloud": "99",
+    "ai_briefing_zh": "南京阴天 35℃，记得多补水，小心中暑。",
+    "ai_briefing_en": "Nanjing cloudy 35℃, remember to hydrate, beware of heatstroke.",
+    "alert": null
   }
 ]

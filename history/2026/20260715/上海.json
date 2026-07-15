@@ -138,5 +138,25 @@
     "ai_briefing_zh": "41℃ 体感温度！小心热浪，多补水呀。",
     "ai_briefing_en": "Feels like 41℃! Watch out for the heatwave, hydrate!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-15T16:00+08:00",
+    "temp": "38",
+    "feelsLike": "42",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "上海体感 42℃，高温炎热，注意防暑降温！",
+    "ai_briefing_en": "Shanghai feels 42℃, extreme heat! Stay cool and prevent heatstroke.",
+    "alert": null
   }
 ]

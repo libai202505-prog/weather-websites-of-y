@@ -198,5 +198,25 @@
     "ai_briefing_zh": "沈阳晴天，体感 28℃，湿度大。注意防晒，保持室内通风。",
     "ai_briefing_en": "Shenyang is sunny and feels like 28℃ with high humidity. Protect from sun, keep indoor ventilation.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-15T22:42+08:00",
+    "temp": "22",
+    "feelsLike": "25",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "180",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "14",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

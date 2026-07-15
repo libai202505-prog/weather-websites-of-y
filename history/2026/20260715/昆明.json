@@ -198,5 +198,25 @@
     "ai_briefing_zh": "昆明阴天，湿度 90%，风力 4 级。感觉湿凉，出门记得带外套哦。",
     "ai_briefing_en": "Kunming is cloudy, 90% humidity, 4-level wind. Feels damp and cool, bring a jacket when out.",
     "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-07-15T22:44+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "807",
+    "vis": "30",
+    "dew": "18",
+    "cloud": "93",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

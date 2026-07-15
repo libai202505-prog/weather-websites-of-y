@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海高温 35℃，体感 39℃。请减少户外活动，谨防中暑！",
     "ai_briefing_en": "Shanghai is scorching at 35℃, feels like 39℃. Limit outdoor activities and watch out for heatstroke!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-15T22:42+08:00",
+    "temp": "34",
+    "feelsLike": "38",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "94",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

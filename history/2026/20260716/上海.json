@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海体感 39℃，高温炎热，减少户外活动，谨防中暑。",
     "ai_briefing_en": "Shanghai feels like 39℃, extreme heat. Limit outdoor activities, prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-16T22:57+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "29",
+    "dew": "26",
+    "cloud": "96",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "广州湿度 85%，体感闷热。注意除湿，保持清爽哦。",
     "ai_briefing_en": "Guangzhou is 85% humidity, feels muggy. Dehumidify, stay cool and fresh.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-07-16T22:58+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

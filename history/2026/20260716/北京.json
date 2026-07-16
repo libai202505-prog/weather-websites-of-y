@@ -138,5 +138,25 @@
     "ai_briefing_zh": "北京朋友，体感 34℃，天气闷热，别忘了多补水哦！",
     "ai_briefing_en": "Beijing friends, it feels like 34℃. It's muggy, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-07-16T16:00+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "29",
+    "dew": "19",
+    "cloud": "96",
+    "ai_briefing_zh": "天气阴沉，体感 34℃。多补水，注意防晒。",
+    "ai_briefing_en": "Cloudy 34℃. Hydrate, sun.",
+    "alert": null
   }
 ]

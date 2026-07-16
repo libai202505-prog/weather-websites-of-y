@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大连有雾，能见度低，驾车出行请注意交通安全。",
     "ai_briefing_en": "Dalian is foggy, low visibility. Please mind traffic safety when driving.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-07-16T16:01+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "8",
+    "dew": "24",
+    "cloud": "98",
+    "ai_briefing_zh": "大连有雾，湿度 75%。出行慢行，注意安全。",
+    "ai_briefing_en": "Dalian foggy. Humid. Drive!",
+    "alert": null
   }
 ]

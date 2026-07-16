@@ -178,5 +178,25 @@
     "ai_briefing_zh": "中雨加大风 6级，体感很凉，添衣保暖！",
     "ai_briefing_en": "Moderate rain with strong 6-level winds, feels quite cool. Dress warmly!",
     "alert": "📉 红色降温预警：1小时骤降12℃ | 💨 北风警报：西北风 6级"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-07-16T20:10+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "91",
+    "precip": "3.0",
+    "pressure": "806",
+    "vis": "20",
+    "dew": "17",
+    "cloud": "88",
+    "ai_briefing_zh": "昆明小雨，气温 18℃。出门带伞，注意保暖防着凉。",
+    "ai_briefing_en": "Kunming has light rain, 18℃. Take an umbrella, stay warm to avoid colds.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云炎热，体感 36℃，注意防晒补水！",
     "ai_briefing_en": "Cloudy and hot, feels like 36℃. Remember sun protection and hydration!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-16T20:08+08:00",
+    "temp": "32",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "22",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "慈溪体感 36℃，天气闷热，多补水，注意防暑。",
+    "ai_briefing_en": "Cixi feels like 36℃, muggy and hot. Hydrate well, prevent heatstroke.",
+    "alert": null
   }
 ]

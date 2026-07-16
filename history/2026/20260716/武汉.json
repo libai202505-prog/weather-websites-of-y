@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云炎热，体感 37℃，务必做好防暑措施。",
     "ai_briefing_en": "Cloudy and hot, feels like 37℃. Be sure to take heatstroke precautions.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-16T20:08+08:00",
+    "temp": "33",
+    "feelsLike": "37",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "21",
+    "dew": "28",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉体感 37℃，炎热潮湿。多喝水，小心中暑。",
+    "ai_briefing_en": "Wuhan feels like 37℃, hot and humid. Drink plenty of water, be careful of heatstroke.",
+    "alert": null
   }
 ]

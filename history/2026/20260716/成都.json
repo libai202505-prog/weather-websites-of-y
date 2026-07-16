@@ -178,5 +178,25 @@
     "ai_briefing_zh": "中雨来袭，风力 4级，出门记得带雨具防风哦。",
     "ai_briefing_en": "Moderate rain and 4-level wind, remember your umbrella and windproof gear.",
     "alert": "📉 红色降温预警：1小时骤降9℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-16T20:08+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "942",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "成都阴天，体感 34℃。注意防晒，保持舒适哦。",
+    "ai_briefing_en": "Chengdu is cloudy, feels like 34℃. Protect from sun, stay comfortable.",
+    "alert": null
   }
 ]

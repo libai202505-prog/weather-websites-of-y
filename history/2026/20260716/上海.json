@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海体感 39℃ 炎热，及时补水，防中暑。",
     "ai_briefing_en": "Shanghai 39℃. Hydrate, cool.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-16T18:48+08:00",
+    "temp": "35",
+    "feelsLike": "38",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "94",
+    "ai_briefing_zh": "高温体感 38℃，请务必防暑，减少户外活动。",
+    "ai_briefing_en": "High of 38℃, please prevent heatstroke and limit outdoor activities.",
+    "alert": null
   }
 ]

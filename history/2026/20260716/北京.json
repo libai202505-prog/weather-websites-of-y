@@ -158,5 +158,25 @@
     "ai_briefing_zh": "天气阴沉，体感 34℃。多补水，注意防晒。",
     "ai_briefing_en": "Cloudy 34℃. Hydrate, sun.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-07-16T18:48+08:00",
+    "temp": "31",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "7",
+    "dew": "21",
+    "cloud": "98",
+    "ai_briefing_zh": "阴天体感稍热，记得多喝水，保持凉爽哦！",
+    "ai_briefing_en": "Cloudy and feels warm, remember to drink water and stay cool!",
+    "alert": null
   }
 ]

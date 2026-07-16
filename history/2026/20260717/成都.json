@@ -78,5 +78,25 @@
     "ai_briefing_zh": "成都 夜间监测中，注意保暖",
     "ai_briefing_en": "成都: Night watch, stay warm.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-17T07:52+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "946",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "99",
+    "ai_briefing_zh": "成都阴天 23℃，体感舒适，湿度高，注意防潮！",
+    "ai_briefing_en": "Chengdu: Humid 23℃. Mind damp!",
+    "alert": null
   }
 ]

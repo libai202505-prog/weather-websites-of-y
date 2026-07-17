@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连阴天，气温 23℃，湿度大。出门记得带伞哦。",
     "ai_briefing_en": "Dalian is overcast, 23℃ and humid. Remember your umbrella!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-07-17T19:08+08:00",
+    "temp": "23",
+    "feelsLike": "26",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "0",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "8",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "大雾 23℃，湿度 90%，能见度低，注意出行安全。",
+    "ai_briefing_en": "Foggy 23℃ with 90% humidity, low visibility. Drive safely.",
+    "alert": null
   }
 ]

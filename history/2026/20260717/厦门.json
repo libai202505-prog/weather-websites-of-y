@@ -178,5 +178,25 @@
     "ai_briefing_zh": "27℃，体感 27℃ 舒适。风力 4级，注意防晒。",
     "ai_briefing_en": "27℃, feels 27℃ comfortable! 4-level wind, remember sun protection.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-17T21:10+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "990",
+    "vis": "21",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门多云体感闷热潮湿，多喝水，注意防潮！",
+    "ai_briefing_en": "Xiamen: Muggy, humid. Hydrate, stay dry!",
+    "alert": null
   }
 ]

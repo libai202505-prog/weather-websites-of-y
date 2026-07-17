@@ -178,5 +178,25 @@
     "ai_briefing_zh": "小雨 24℃，湿度 98%！出门带伞，注意路滑。",
     "ai_briefing_en": "Light rain at 24℃, 98% humidity! Grab an umbrella and watch for slippery roads.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-17T21:08+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "99",
+    "precip": "3.0",
+    "pressure": "992",
+    "vis": "9",
+    "dew": "22",
+    "cloud": "99",
+    "ai_briefing_zh": "青岛小雨湿度极高，出门记得带伞防潮哦！",
+    "ai_briefing_en": "Light rain, very humid. Umbrella & dry!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

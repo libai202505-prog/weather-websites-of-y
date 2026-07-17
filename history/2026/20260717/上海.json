@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海体感酷热，小心防暑，多补水呀！",
     "ai_briefing_en": "Shanghai: Extremely hot. Hydrate, stay cool!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-17T23:00+08:00",
+    "temp": "33",
+    "feelsLike": "37",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "24",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

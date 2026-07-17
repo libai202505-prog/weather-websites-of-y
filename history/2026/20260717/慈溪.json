@@ -198,5 +198,25 @@
     "ai_briefing_zh": "慈溪有小雨，体感湿热。记得带伞，注意防潮哦！",
     "ai_briefing_en": "Light rain, humid. Take umbrella, stay cool!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-17T23:00+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "15",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

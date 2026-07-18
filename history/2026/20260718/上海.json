@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海高温 35℃，体感 38℃！注意防暑降温。",
     "ai_briefing_en": "Shanghai is 35℃, feels like 38℃! Stay cool.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-18T13:08+08:00",
+    "temp": "33",
+    "feelsLike": "38",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "90",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "95",
+    "ai_briefing_zh": "上海体感 38℃，记得多补水，注意防暑！",
+    "ai_briefing_en": "Shanghai: Feels 38℃. Hydrate!",
+    "alert": null
   }
 ]

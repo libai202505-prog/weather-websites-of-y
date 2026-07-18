@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门阴天风力 4级，湿度较高，请注意防风防潮。",
     "ai_briefing_en": "Xiamen is overcast with a level 4 wind, high humidity. Mind the wind and dampness.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-18T21:00+08:00",
+    "temp": "26",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "270",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "990",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "94",
+    "ai_briefing_zh": "厦门风力较大，湿度适中，出行注意安全。",
+    "ai_briefing_en": "Xiamen is breezy and moderately humid. Stay safe outdoors.",
+    "alert": null
   }
 ]

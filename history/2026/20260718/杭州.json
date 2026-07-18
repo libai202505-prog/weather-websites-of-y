@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州阴天风力 5级，体感 26℃。注意防风保暖哦。",
     "ai_briefing_en": "Hangzhou is overcast with a level 5 wind, feels like 26℃. Stay warm and mind the wind.",
     "alert": "📉 红色降温预警：1小时骤降12℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-18T21:00+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "97",
+    "ai_briefing_zh": "杭州阴天微热，注意防晒，多喝水。",
+    "ai_briefing_en": "Hangzhou is overcast and warm. Stay hydrated and sun-safe.",
+    "alert": null
   }
 ]

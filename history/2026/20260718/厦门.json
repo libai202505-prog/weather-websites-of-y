@@ -238,5 +238,25 @@
     "ai_briefing_zh": "厦门风力较大，湿度适中，出行注意安全。",
     "ai_briefing_en": "Xiamen is breezy and moderately humid. Stay safe outdoors.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-18T22:44+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "97",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

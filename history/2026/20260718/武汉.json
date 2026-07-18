@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉湿度高，体感 32℃，注意防暑。",
     "ai_briefing_en": "Wuhan is very humid and feels like 32℃. Stay cool.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-18T22:44+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

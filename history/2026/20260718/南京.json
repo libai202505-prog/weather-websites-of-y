@@ -238,5 +238,25 @@
     "ai_briefing_zh": "南京湿度大，体感稍闷，记得多喝水。",
     "ai_briefing_en": "Nanjing is humid and a bit muggy. Drink more water.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-18T22:44+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

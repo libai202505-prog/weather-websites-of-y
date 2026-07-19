@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
     "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-20T07:50+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "19",
+    "dew": "20",
+    "cloud": "97",
+    "ai_briefing_zh": "哈尔滨多云体感 27℃，湿度高，出行注意备伞。",
+    "ai_briefing_en": "Harbin is cloudy, feels like 27℃ with high humidity. Be prepared for rain.",
+    "alert": null
   }
 ]

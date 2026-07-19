@@ -218,5 +218,25 @@
     "ai_briefing_zh": "上海阴天，体感 30℃，湿度 94%，无风闷热，注意防潮。",
     "ai_briefing_en": "Shanghai is cloudy, feels 30℃, 94% humidity, no wind, muggy. Mind dampness.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-19T21:36+08:00",
+    "temp": "26",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "45",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "20",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "上海体感闷热，湿度大，记得多喝水哦。",
+    "ai_briefing_en": "Shanghai feels stuffy and humid, stay hydrated.",
+    "alert": null
   }
 ]

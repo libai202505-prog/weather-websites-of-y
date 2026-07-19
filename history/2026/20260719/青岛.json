@@ -218,5 +218,25 @@
     "ai_briefing_zh": "青岛阴天，湿度 89%，体感略闷热，出门记得带伞哦。",
     "ai_briefing_en": "Qingdao is cloudy with 89% humidity. It feels a bit muggy, remember your umbrella.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-19T21:36+08:00",
+    "temp": "24",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "135",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "22",
+    "dew": "21",
+    "cloud": "93",
+    "ai_briefing_zh": "青岛阴天湿度高，微风阵阵，注意防潮。",
+    "ai_briefing_en": "Qingdao is cloudy and humid, mind the damp.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

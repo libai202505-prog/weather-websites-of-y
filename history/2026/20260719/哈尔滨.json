@@ -218,5 +218,25 @@
     "ai_briefing_zh": "哈尔滨阴天，湿度 90%，体感闷热，注意防潮和保持通风。",
     "ai_briefing_en": "Harbin is cloudy with 90% humidity. It feels muggy, dehumidify and ventilate.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-19T21:36+08:00",
+    "temp": "22",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨多云湿度大，出门带伞不湿身。",
+    "ai_briefing_en": "Harbin is cloudy and humid, bring an umbrella.",
+    "alert": null
   }
 ]

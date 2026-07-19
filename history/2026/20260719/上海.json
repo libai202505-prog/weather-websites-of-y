@@ -198,5 +198,25 @@
     "ai_briefing_zh": "上海小雨微凉，记得带伞，小心路滑。",
     "ai_briefing_en": "Shanghai has light rain, carry umbrella, watch for slippery roads.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-19T19:50+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "270",
+    "humidity": "94",
+    "precip": "1.0",
+    "pressure": "1003",
+    "vis": "15",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "上海阴天，体感 30℃，湿度 94%，无风闷热，注意防潮。",
+    "ai_briefing_en": "Shanghai is cloudy, feels 30℃, 94% humidity, no wind, muggy. Mind dampness.",
+    "alert": null
   }
 ]

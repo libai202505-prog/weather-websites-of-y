@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉多云炎热，防暑降温别忘了哦！",
     "ai_briefing_en": "Wuhan is cloudy and hot, don't forget heatstroke prevention.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-19T19:50+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "12",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云，体感 32℃，湿度 75%，注意防暑降温哦。",
+    "ai_briefing_en": "Wuhan is partly cloudy, feels 32℃ with 75% humidity. Stay cool and prevent heatstroke.",
+    "alert": null
   }
 ]

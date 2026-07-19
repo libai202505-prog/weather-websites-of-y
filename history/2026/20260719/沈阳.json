@@ -198,5 +198,25 @@
     "ai_briefing_zh": "沈阳阴天湿润，出门注意防潮，保持舒畅。",
     "ai_briefing_en": "Shenyang is cloudy and humid, mind the damp, stay comfy.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-19T19:50+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "6",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳多云，湿度 99%！体感微凉但潮湿，注意除湿哦。",
+    "ai_briefing_en": "Shenyang is partly cloudy with 99% humidity! It feels cool but damp, dehumidify.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

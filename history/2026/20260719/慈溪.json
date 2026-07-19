@@ -198,5 +198,25 @@
     "ai_briefing_zh": "慈溪大雨伴强风，出门带伞注意安全！",
     "ai_briefing_en": "Cixi has heavy rain & strong winds, carry an umbrella, stay safe!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-19T19:50+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "2.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "97",
+    "ai_briefing_zh": "慈溪阴天，湿度 94%，体感略闷热，多通风保持舒爽哦。",
+    "ai_briefing_en": "Cixi is cloudy with 94% humidity. It feels muggy, ventilate to stay cool.",
+    "alert": null
   }
 ]

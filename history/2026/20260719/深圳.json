@@ -198,5 +198,25 @@
     "ai_briefing_zh": "深圳阴天闷热，衣物选轻薄透气的哦。",
     "ai_briefing_en": "Shenzhen is cloudy and muggy, wear light, breathable clothes.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-19T19:51+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "180",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，湿度 79%，体感略闷，多喝水，保持身体舒畅哦！",
+    "ai_briefing_en": "Shenzhen is cloudy with 79% humidity. It feels warm, drink water and stay comfortable!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京阴天湿度大，注意除湿，保持好心情。",
     "ai_briefing_en": "Nanjing is cloudy, very humid, dehumidify, stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-19T19:50+08:00",
+    "temp": "25",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "12",
+    "dew": "27",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天，湿度 100%！体感闷热，注意除湿，保持好心情。",
+    "ai_briefing_en": "Nanjing is cloudy with 100% humidity! It's muggy, dehumidify and keep spirits high.",
+    "alert": null
   }
 ]

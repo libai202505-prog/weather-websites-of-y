@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京大雨，湿度 100%，雨势较大，注意安全。",
     "ai_briefing_en": "Heavy rain in Nanjing, 100% humidity. Stay safe!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-19T18:08+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "6.0",
+    "pressure": "998",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "南京阴天湿度大，注意除湿，保持好心情。",
+    "ai_briefing_en": "Nanjing is cloudy, very humid, dehumidify, stay cheerful!",
+    "alert": null
   }
 ]

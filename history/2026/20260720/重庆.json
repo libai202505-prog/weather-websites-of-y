@@ -178,5 +178,25 @@
     "ai_briefing_zh": "重庆体感 39℃，晴朗酷热！防暑降温，注意身体！",
     "ai_briefing_en": "Chongqing feels 39℃, sunny and scorching! Stay cool and take care!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-07-20T21:00+08:00",
+    "temp": "35",
+    "feelsLike": "36",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "970",
+    "vis": "23",
+    "dew": "21",
+    "cloud": "1",
+    "ai_briefing_zh": "重庆晴天 35℃，体感 36℃。高温炎热，防暑降温很关键哦！",
+    "ai_briefing_en": "Chongqing is 35℃, feels like 36℃. Stay cool and beat the heat!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

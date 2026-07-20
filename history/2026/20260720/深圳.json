@@ -118,5 +118,25 @@
     "ai_briefing_zh": "深圳大雨，风力 4级，出门务必带伞，注意安全。",
     "ai_briefing_en": "Shenzhen has heavy rain with 4-level wind. Be sure to bring an umbrella and stay safe!",
     "alert": "📉 红色降温预警：1小时骤降7℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-20T11:26+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "180",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天极湿 92%，体感 29℃。记得带好雨具。",
+    "ai_briefing_en": "Overcast and very humid 92%, feels like 29℃. Remember your rain gear.",
+    "alert": null
   }
 ]

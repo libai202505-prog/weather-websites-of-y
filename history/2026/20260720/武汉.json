@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阴天，32℃体感舒适，风力稍大，出行注意。",
     "ai_briefing_en": "Wuhan is cloudy, 32℃ feels comfortable. Enjoy your day!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-20T18:00+08:00",
+    "temp": "31",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉体感 33℃，有点闷热。多补充水分，注意休息哦！",
+    "ai_briefing_en": "Wuhan feels 33℃, a bit muggy. Hydrate well and rest up!",
+    "alert": null
   }
 ]

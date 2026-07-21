@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨中雨湿润，体感舒适，记得带雨具！",
     "ai_briefing_en": "Moderate rain in Harbin, feels pleasant. Remember your rain gear!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-21T21:30+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "13",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨体感 24℃ 舒适，但湿度 100% 很高，注意防潮。",
+    "ai_briefing_en": "Harbin feels 24℃ but 100% humid. Mind the damp!",
+    "alert": null
   }
 ]

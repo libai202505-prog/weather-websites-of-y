@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阴天体感热，补水是关键，保持好心情！",
     "ai_briefing_en": "Nanjing is cloudy and feels hot. Hydration is key, stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-21T21:34+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "8",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "南京有雾，湿度 95% 很高。出行小心，注意防潮。",
+    "ai_briefing_en": "Nanjing is foggy and very humid. Drive safely!",
+    "alert": null
   }
 ]

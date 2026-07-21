@@ -78,5 +78,25 @@
     "ai_briefing_zh": "南京雾大湿气重，出行小心，注意除湿！",
     "ai_briefing_en": "Nanjing foggy, humid. Safe!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-21T10:36+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "14",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "南京阴天体感30℃。虽然阴，也要注意防晒哦。",
+    "ai_briefing_en": "Nanjing: overcast, feels 30℃. Don't forget SPF.",
+    "alert": null
   }
 ]

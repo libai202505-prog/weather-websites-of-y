@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海小雨绵绵，湿度 91% 很高，出门记得带伞！",
     "ai_briefing_en": "Shanghai is rainy and humid. Grab your umbrella!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-21T23:38+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "270",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "24",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

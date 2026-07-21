@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海体感35℃。闷热天，记得多喝水防暑。",
     "ai_briefing_en": "Shanghai feels 35℃. Muggy, drink water!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-21T13:42+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "135",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "28",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "上海气温较高，体感闷热，多喝水，小心暑热哦。",
+    "ai_briefing_en": "Shanghai is hot and muggy. Drink water and watch out for heat.",
+    "alert": null
   }
 ]

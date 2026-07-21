@@ -138,5 +138,25 @@
     "ai_briefing_zh": "阴天湿热，体感闷热。注意防暑，多喝水！",
     "ai_briefing_en": "Cloudy and humid. It feels stuffy. Stay cool and hydrated!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-21T19:00+08:00",
+    "temp": "27",
+    "feelsLike": "23",
+    "text": "大雨",
+    "windDir": "西北风",
+    "windScale": "6",
+    "windSpeed": "43",
+    "wind360": "315",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "97",
+    "ai_briefing_zh": "慈溪大雨伴强风，出门务必带伞、注意安全！",
+    "ai_briefing_en": "Heavy rain and strong winds in Cixi. Carry an umbrella and stay safe!",
+    "alert": "📉 红色降温预警：1小时骤降12℃ | 💨 北风警报：西北风 6级"
   }
 ]

@@ -118,5 +118,25 @@
     "ai_briefing_zh": "广州湿度较高，阴天体感闷热，保持室内干爽。",
     "ai_briefing_en": "Guangzhou is humid and muggy. Keep indoor air fresh.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-07-21T16:10+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "95",
+    "ai_briefing_zh": "阴天湿度高，体感潮湿。注意防潮，保持好心情！",
+    "ai_briefing_en": "Cloudy and humid. Take care of dampness and keep a good mood!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "慈溪阴天微热，风力不小，注意防晒防风哦。",
     "ai_briefing_en": "Cixi is cloudy and warm with noticeable wind. Stay protected from sun and wind!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-07-22T23:34+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "15",
+    "dew": "25",
+    "cloud": "4",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": null
   }
 ]

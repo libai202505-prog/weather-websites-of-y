@@ -178,5 +178,25 @@
     "ai_briefing_zh": "成都晴热，体感 37℃！高温防暑，多喝水注意防晒。",
     "ai_briefing_en": "Sunny and hot in Chengdu, feels 37℃! Protect from sun, drink plenty!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-22T21:43+08:00",
+    "temp": "31",
+    "feelsLike": "35",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "943",
+    "vis": "10",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "成都晴热，体感 35℃。无风更闷，记得补水防晒。",
+    "ai_briefing_en": "Chengdu is sunny and hot, feels like 35℃. No wind means it's muggy, stay hydrated and use sun protection.",
+    "alert": null
   }
 ]

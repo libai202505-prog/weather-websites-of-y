@@ -178,5 +178,25 @@
     "ai_briefing_zh": "哈尔滨晴朗，体感 28℃。天气不错，但记得注意补水。",
     "ai_briefing_en": "Sunny in Harbin, feels 28℃. Lovely weather, but remember to hydrate.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-22T21:44+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "20",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "哈尔滨多云湿润，注意带伞，体感微闷哦。",
+    "ai_briefing_en": "Harbin is partly cloudy and humid. Carry an umbrella, it feels a bit stuffy.",
+    "alert": null
   }
 ]

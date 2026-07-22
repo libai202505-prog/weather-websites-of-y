@@ -178,5 +178,25 @@
     "ai_briefing_zh": "青岛有雾，湿度 94%，体感 28℃。注意交通安全哦。",
     "ai_briefing_en": "Foggy in Qingdao, 94% humidity, feels 28℃. Drive carefully, please!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-22T21:44+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "135",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "7",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛有雾，湿度 94%。出行注意安全，能见度低。",
+    "ai_briefing_en": "Qingdao is foggy, 94% humidity. Travel safely, visibility is low.",
+    "alert": null
   }
 ]

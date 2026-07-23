@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳 30℃，体感 31℃。湿度较高，出门带伞哦。",
     "ai_briefing_en": "Shenzhen 30℃, feels like 31℃. High humidity, remember to bring an umbrella.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-23T21:51+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "180",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "3",
+    "ai_briefing_zh": "晴热湿度大，多喝水防暑，注意防晒哦！",
+    "ai_briefing_en": "Sunny, hot & humid. Hydrate, use sunscreen!",
+    "alert": null
   }
 ]

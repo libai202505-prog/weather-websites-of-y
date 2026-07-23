@@ -78,5 +78,25 @@
     "ai_briefing_zh": "成都多云，体感微热，注意补充水分，保持好心情！",
     "ai_briefing_en": "Cloudy in Chengdu, feels slightly warm. Stay hydrated and cheerful!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-23T10:12+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "225",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "945",
+    "vis": "10",
+    "dew": "21",
+    "cloud": "0",
+    "ai_briefing_zh": "成都阴天，体感 35℃ 炎热。风力小，注意防晒补水。",
+    "ai_briefing_en": "Chengdu is overcast, feeling 35℃ hot. Light breeze, remember sun protection and hydration.",
+    "alert": null
   }
 ]

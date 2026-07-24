@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳体感 32℃，阴天也热，注意防暑。",
     "ai_briefing_en": "Shenyang feels like 32℃, cloudy but hot. Stay cool.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-24T19:59+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳阴天潮湿，体感闷热，多喝水保持舒爽。",
+    "ai_briefing_en": "Shenyang is overcast and humid, it feels muggy, stay hydrated and cool.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

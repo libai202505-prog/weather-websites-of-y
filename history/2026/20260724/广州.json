@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州 37℃ 体感，防暑降温是关键！",
     "ai_briefing_en": "Guangzhou feels like 37℃. Staying cool is key!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-07-24T20:02+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "1",
+    "ai_briefing_zh": "广州晴朗潮湿，记得多补充水分，清爽出行！",
+    "ai_briefing_en": "Guangzhou is sunny and humid, remember to hydrate and stay cool!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

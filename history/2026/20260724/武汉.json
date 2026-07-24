@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉体感 36℃，天气闷热，小心中暑。",
     "ai_briefing_en": "Wuhan feels like 36℃. Muggy weather, watch for heatstroke.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-24T20:02+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "135",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天微热，风力不小，穿衣舒适就好。",
+    "ai_briefing_en": "Wuhan is overcast and warm with a breeze, dress comfortably.",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

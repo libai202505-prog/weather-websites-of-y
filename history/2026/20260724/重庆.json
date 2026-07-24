@@ -158,5 +158,25 @@
     "ai_briefing_zh": "重庆 39℃ 晴热，火炉模式，注意防晒补水！",
     "ai_briefing_en": "Chongqing 39℃ and sunny, furnace mode. Hydrate & sun protection!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-07-24T19:58+08:00",
+    "temp": "38",
+    "feelsLike": "38",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "135",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "969",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆晴空万里酷热难当，一定注意防暑降温！",
+    "ai_briefing_en": "Chongqing is scorching hot, make sure to prevent heatstroke and cool down!",
+    "alert": null
   }
 ]

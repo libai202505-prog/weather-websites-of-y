@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天潮湿，湿度极高，体感闷热，注意防潮。",
     "ai_briefing_en": "Overcast and extremely humid, feeling muggy. Mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-24T12:00+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "29",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天舒适，风力大。出门注意安全，防风！",
+    "ai_briefing_en": "Windy. Cloudy. Stay safe!",
+    "alert": null
   }
 ]

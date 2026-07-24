@@ -98,5 +98,25 @@
     "ai_briefing_zh": "雾气弥漫，湿度极高，出行注意交通安全，体感闷热。",
     "ai_briefing_en": "Very foggy and humid. Drive safely and it feels quite muggy.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-24T12:02+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "180",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "23",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "多云闷热，体感偏高。多喝水，谨防中暑哦！",
+    "ai_briefing_en": "Muggy, hot. Drink water!",
+    "alert": null
   }
 ]

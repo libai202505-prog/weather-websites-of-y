@@ -98,5 +98,25 @@
     "ai_briefing_zh": "晴天微热，风力较小，注意补充水分哦。",
     "ai_briefing_en": "Sunny and a bit warm, with light wind. Don't forget to hydrate!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-24T12:02+08:00",
+    "temp": "37",
+    "feelsLike": "39",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "946",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "晴热高温，体感极热。多喝水，做好防暑！",
+    "ai_briefing_en": "Extreme heat. Drink water!",
+    "alert": null
   }
 ]

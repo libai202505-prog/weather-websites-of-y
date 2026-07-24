@@ -78,5 +78,25 @@
     "ai_briefing_zh": "西安 夜间监测中，注意保暖",
     "ai_briefing_en": "西安: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-24T07:58+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "16",
+    "dew": "21",
+    "cloud": "0",
+    "ai_briefing_zh": "多云天气，体感舒适，风力适中，好好享受哦。",
+    "ai_briefing_en": "Cloudy with comfortable temperatures. Enjoy the pleasant breeze!",
+    "alert": null
   }
 ]

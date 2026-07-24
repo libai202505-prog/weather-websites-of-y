@@ -138,5 +138,25 @@
     "ai_briefing_zh": "天气阴沉，体感微热。外出别忘带伞，以防阵雨哦。",
     "ai_briefing_en": "Cloudy and feels slightly warm. Don't forget an umbrella when going out, just in case of showers!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-24T18:00+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "225",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳体感 32℃，阴天也热，注意防暑。",
+    "ai_briefing_en": "Shenyang feels like 32℃, cloudy but hot. Stay cool.",
+    "alert": null
   }
 ]

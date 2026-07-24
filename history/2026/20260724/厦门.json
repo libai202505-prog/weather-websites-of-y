@@ -138,5 +138,25 @@
     "ai_briefing_zh": "天阴微热，湿度较高。出门带伞，注意防晒和补水。",
     "ai_briefing_en": "Cloudy and slightly warm with high humidity. Bring an umbrella, remember sun protection and hydration.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-24T18:02+08:00",
+    "temp": "29",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "93",
+    "ai_briefing_zh": "厦门阴天，风力 5级，记得添衣，小心着凉。",
+    "ai_briefing_en": "Cloudy and windy in Xiamen. Dress warmly to avoid catching a cold.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

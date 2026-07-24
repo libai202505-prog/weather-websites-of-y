@@ -138,5 +138,25 @@
     "ai_briefing_zh": "酷热难耐，气温 40℃！体感更热，请务必防暑降温。",
     "ai_briefing_en": "Unbearably hot, temperature at 40°C! Feels even hotter, please prioritize heatstroke prevention and cooling down.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-07-24T18:00+08:00",
+    "temp": "39",
+    "feelsLike": "38",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "135",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "969",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆 39℃ 晴热，火炉模式，注意防晒补水！",
+    "ai_briefing_en": "Chongqing 39℃ and sunny, furnace mode. Hydrate & sun protection!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

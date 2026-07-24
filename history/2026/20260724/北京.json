@@ -138,5 +138,25 @@
     "ai_briefing_zh": "天阴微热，注意防晒，记得多喝水哦！",
     "ai_briefing_en": "It's cloudy and a bit warm. Remember to stay hydrated and protect yourself from the sun!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-07-24T18:00+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "13",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "北京多云，体感 32℃，请注意补水哦！",
+    "ai_briefing_en": "Cloudy in Beijing, feels like 32℃. Stay hydrated!",
+    "alert": null
   }
 ]

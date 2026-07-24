@@ -138,5 +138,25 @@
     "ai_briefing_zh": "晴空万里，高温炎热。请多喝水，避免长时间户外活动。",
     "ai_briefing_en": "Clear skies, hot and sunny. Please drink plenty of water and avoid prolonged outdoor activities.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-24T18:02+08:00",
+    "temp": "33",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "0",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "西安多云，风力 5级，出门注意防晒防风。",
+    "ai_briefing_en": "Cloudy in Xi'an, windy. Protect from sun and wind.",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 5级"
   }
 ]

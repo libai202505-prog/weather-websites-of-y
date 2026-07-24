@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大雨倾盆，路面湿滑。出门记得带伞，注意交通安全。",
     "ai_briefing_en": "Heavy rain is pouring, roads are slippery. Remember your umbrella and watch out for traffic safety.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-07-24T18:00+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "1.0",
+    "pressure": "994",
+    "vis": "22",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨湿度 100%，阴雨绵绵，出门记得带伞哦。",
+    "ai_briefing_en": "Harbin 100% humidity, cloudy. Take an umbrella!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京阴天体感 31℃，湿度较高，记得多喝水哦！",
     "ai_briefing_en": "Beijing is cloudy, feels like 31℃ with high humidity. Remember to drink more water!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-07-25T21:08+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "12",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "有雾哦！出门注意交通安全，天气偏热别忘补水！",
+    "ai_briefing_en": "Foggy! Drive safe and stay hydrated in the warmth.",
+    "alert": null
   }
 ]

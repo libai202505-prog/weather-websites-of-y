@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴天炎热体感 35℃，风大请多补水。",
     "ai_briefing_en": "Cloudy, hot 35℃. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-25T19:02+08:00",
+    "temp": "32",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "16",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "西安体感 32℃，风力 4级，多云，注意防晒补水。",
+    "ai_briefing_en": "Xi'an feels like 32℃ with level 4 winds. Partly cloudy, remember sun protection and hydration.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

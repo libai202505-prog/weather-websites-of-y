@@ -158,5 +158,25 @@
     "ai_briefing_zh": "多云高温体感 37℃，务必防晒防暑！",
     "ai_briefing_en": "Cloudy & hot 37℃. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-25T19:01+08:00",
+    "temp": "34",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "180",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州体感 36℃，天气炎热，注意防暑降温哦！",
+    "ai_briefing_en": "Hangzhou feels like 36℃. It's hot, remember heatstroke prevention!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京 29℃，小雨。记得带伞，湿度大，小心路滑哦！",
     "ai_briefing_en": "29℃. Rain. Be careful!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-26T19:12+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "26",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "南京阴天，体感 32℃，湿度大，记得多喝水哦。",
+    "ai_briefing_en": "Nanjing is overcast, feels like 32℃, high humidity. Remember to drink more water.",
+    "alert": null
   }
 ]

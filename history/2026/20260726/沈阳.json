@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳晴朗，体感 31℃。阳光正好，注意防晒。",
     "ai_briefing_en": "Shenyang is sunny, feels like 31℃. Perfect sunshine, remember sunscreen.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-26T12:08+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳多云体感较热，湿度大，请注意补水哦。",
+    "ai_briefing_en": "Shenyang is partly cloudy and feels quite warm with high humidity. Please hydrate!",
+    "alert": null
   }
 ]

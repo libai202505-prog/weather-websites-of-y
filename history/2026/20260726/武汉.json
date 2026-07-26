@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉多云，体感 35℃。炎热，注意防暑降温！",
     "ai_briefing_en": "Wuhan is cloudy, feels like 35℃. It's scorching, take care to cool down!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-07-26T12:10+08:00",
+    "temp": "35",
+    "feelsLike": "38",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "20",
+    "dew": "28",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉体感温度高，注意防暑降温，避免中暑。",
+    "ai_briefing_en": "Wuhan feels very hot. Be sure to prevent heatstroke and keep cool.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天体感稍热，记得多喝水，注意防晒。",
     "ai_briefing_en": "Xi'an is overcast and feels slightly warm. Remember to hydrate and protect from the sun.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-26T15:28+08:00",
+    "temp": "36",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "0",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "954",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "西安高温多云，多喝水，做好防晒措施呀！",
+    "ai_briefing_en": "Xi'an is hot and cloudy, drink water and protect from sun!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

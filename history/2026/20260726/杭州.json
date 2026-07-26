@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州天气炎热，体感高，湿度低，多补水哦。",
     "ai_briefing_en": "Hangzhou is hot and feels even hotter with low humidity. Please drink plenty of water.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-26T15:28+08:00",
+    "temp": "35",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "225",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州高温阴天，记得多喝水，防范中暑哦！",
+    "ai_briefing_en": "Hangzhou is hot and cloudy, remember to hydrate and prevent heatstroke!",
+    "alert": null
   }
 ]

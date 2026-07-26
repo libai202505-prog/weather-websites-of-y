@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳大雨倾盆，出门带好雨具，注意安全呀！",
     "ai_briefing_en": "Shenzhen heavy rain, bring your umbrella and stay safe!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-26T17:50+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "135",
+    "humidity": "93",
+    "precip": "2.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳 25℃，天阴。湿度大，出门带伞，祝您一天好心情！",
+    "ai_briefing_en": "25℃. Cloudy. Good day!",
+    "alert": null
   }
 ]

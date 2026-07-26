@@ -178,5 +178,25 @@
     "ai_briefing_zh": "厦门阴天风大，出行注意安全，做好防风措施！",
     "ai_briefing_en": "Xiamen cloudy and windy, stay safe and take wind precautions!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-26T17:50+08:00",
+    "temp": "27",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "6",
+    "windSpeed": "42",
+    "wind360": "180",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "23",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "厦门 27℃，大风 6级。天阴，大风天注意安全，多喝水！",
+    "ai_briefing_en": "27℃. Wind 6. Be careful!",
+    "alert": null
   }
 ]

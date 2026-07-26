@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明有阵雨，带好雨具，注意防湿保暖呀！",
     "ai_briefing_en": "Kunming has showers, bring umbrella and stay dry and warm!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-07-26T17:50+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "26",
+    "dew": "16",
+    "cloud": "91",
+    "ai_briefing_zh": "昆明 21℃，天阴。天气宜人，湿度高，出行舒适！",
+    "ai_briefing_en": "21℃. Cloudy. Good day!",
+    "alert": null
   }
 ]

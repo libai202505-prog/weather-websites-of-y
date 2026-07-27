@@ -138,5 +138,25 @@
     "ai_briefing_zh": "南京高温，注意防暑，及时补充水分。",
     "ai_briefing_en": "Nanjing is hot, prevent heatstroke and hydrate promptly.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-27T19:08+08:00",
+    "temp": "31",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "135",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "南京阴天体感闷热，湿度大，记得开空调解暑！",
+    "ai_briefing_en": "Nanjing is cloudy and feels stuffy, high humidity, turn on AC for relief!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "青岛湿热，体感闷热，穿透气衣物。",
     "ai_briefing_en": "Qingdao is humid and muggy, wear breathable clothes.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-27T19:08+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "6",
+    "dew": "26",
+    "cloud": "97",
+    "ai_briefing_zh": "青岛有雾，湿度非常高，能见度低，注意交通安全。",
+    "ai_briefing_en": "Qingdao is foggy with extreme humidity, low visibility, drive safe!",
+    "alert": null
   }
 ]

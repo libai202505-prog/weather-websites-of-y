@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门阴天湿度超高，体感黏腻，记得保持干燥！",
     "ai_briefing_en": "Xiamen is cloudy with extreme humidity, feels sticky, keep dry!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-07-27T22:10+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "97",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

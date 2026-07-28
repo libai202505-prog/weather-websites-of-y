@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳体感闷热，多补充水分哦！",
     "ai_briefing_en": "Shenzhen feels stuffy and hot, replenish fluids!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-28T18:28+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "90",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "93",
+    "ai_briefing_zh": "深圳阴天风大，注意出行安全。",
+    "ai_briefing_en": "Shenzhen: Cloudy, windy. Be careful!",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

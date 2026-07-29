@@ -98,5 +98,25 @@
     "ai_briefing_zh": "深圳小雨，湿度 94%，出门记得带雨具。",
     "ai_briefing_en": "Shenzhen has light rain, 94% humidity, remember rain gear.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-29T12:02+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "94",
+    "precip": "1.0",
+    "pressure": "1004",
+    "vis": "5",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳中雨，湿度 94%，出门记得带伞，注意路滑。",
+    "ai_briefing_en": "Shenzhen is rainy, take an umbrella and watch your step.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海晴热，体感 34℃，小心别中暑哦。",
     "ai_briefing_en": "Shanghai is sunny and hot, feels like 34℃, beware of heatstroke.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-29T12:00+08:00",
+    "temp": "35",
+    "feelsLike": "37",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "上海晴朗酷热 37℃，务必注意防暑，避免中暑！",
+    "ai_briefing_en": "Shanghai is scorching hot 37℃, prevent heatstroke!",
+    "alert": null
   }
 ]

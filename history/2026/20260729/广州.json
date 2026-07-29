@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州小雨，出门记得带伞哦！",
     "ai_briefing_en": "Guangzhou has light rain, remember your umbrella!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-07-29T20:50+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "广州阴天潮湿体感 29℃，注意除湿，保持好心情。",
+    "ai_briefing_en": "Guangzhou feels 29℃, humid and overcast. Keep dry and cheerful.",
+    "alert": null
   }
 ]

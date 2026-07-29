@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳 30℃ 大风天，注意防晒，当心风大哦！",
     "ai_briefing_en": "Shenyang 30℃, windy. Mind the sun and strong breezes!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-29T23:00+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "225",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "23",
+    "dew": "24",
+    "cloud": "1",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

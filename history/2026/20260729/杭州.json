@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州体感 33℃，多云也别忘了多喝水，防暑降温。",
     "ai_briefing_en": "Hangzhou feels 33℃. Drink more water and stay cool on cloudy days.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-07-29T23:00+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "225",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

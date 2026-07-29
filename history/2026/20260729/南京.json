@@ -178,5 +178,25 @@
     "ai_briefing_zh": "南京体感 34℃，天气闷热，小心暑气，多补水呀！",
     "ai_briefing_en": "Nanjing feels 34℃, very muggy. Watch out for heat, hydrate well!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-07-29T23:00+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "28",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

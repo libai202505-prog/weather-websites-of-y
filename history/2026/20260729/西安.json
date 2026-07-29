@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安体感 33℃，阴天也热，多喝水，小心别中暑哦。",
     "ai_briefing_en": "Xi'an feels 33℃, hot even if cloudy. Drink water and avoid heatstroke.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-29T23:02+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "958",
+    "vis": "11",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": null
   }
 ]

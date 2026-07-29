@@ -1,75 +1,75 @@
 {
-  "updateTime": "2026-07-29T13:00:13.958Z",
+  "updateTime": "2026-07-29T15:14:52.328Z",
   "cities": [
     {
       "name": "北京",
-      "temp": "30",
+      "temp": "29",
       "feelsLike": "32",
       "text": "多云",
-      "wind": "南风3级",
-      "humidity": "75",
+      "wind": "西南风2级",
+      "humidity": "79",
       "alert": null
     },
     {
       "name": "成都",
       "temp": "28",
-      "feelsLike": "32",
+      "feelsLike": "29",
       "text": "阴",
-      "wind": "北风0级",
-      "humidity": "74",
-      "alert": null
+      "wind": "西北风3级",
+      "humidity": "70",
+      "alert": "🟧 橙色降温提示：1小时降温3℃"
     },
     {
       "name": "重庆",
-      "temp": "35",
+      "temp": "34",
       "feelsLike": "35",
-      "text": "多云",
-      "wind": "东南风3级",
-      "humidity": "38",
+      "text": "阴",
+      "wind": "南风2级",
+      "humidity": "41",
       "alert": null
     },
     {
       "name": "慈溪",
-      "temp": "31",
-      "feelsLike": "33",
-      "text": "晴",
-      "wind": "南风3级",
-      "humidity": "72",
+      "temp": "29",
+      "feelsLike": "32",
+      "text": "多云",
+      "wind": "东南风3级",
+      "humidity": "79",
       "alert": null
     },
     {
       "name": "大连",
       "temp": "27",
-      "feelsLike": "28",
-      "text": "雾",
-      "wind": "西南风3级",
-      "humidity": "89",
-      "alert": "🟧 橙色降温提示：1小时降温4℃"
-    },
-    {
-      "name": "广州",
-      "temp": "26",
       "feelsLike": "29",
-      "text": "阴",
-      "wind": "东风2级",
+      "text": "雾",
+      "wind": "南风3级",
       "humidity": "88",
       "alert": null
     },
     {
+      "name": "广州",
+      "temp": "25",
+      "feelsLike": "28",
+      "text": "小雨",
+      "wind": "北风2级",
+      "humidity": "94",
+      "alert": null
+    },
+    {
       "name": "哈尔滨",
-      "temp": "24",
+      "temp": "25",
       "feelsLike": "27",
       "text": "多云",
-      "wind": "北风1级",
-      "humidity": "98",
-      "alert": "🟧 橙色降温提示：1小时降温4℃"
+      "wind": "北风2级",
+      "humidity": "93",
+      "alert": null
     },
     {
       "name": "杭州",
-      "temp": "31",
-      "feelsLike": "33",
+      "temp": "29",
+      "feelsLike": "31",
       "text": "多云",
-      "wind": "西风3级",
+      "wind": "西南风2级",
       "humidity": "65",
       "alert": null
     },
@@ -79,7 +79,7 @@
       "feelsLike": "19",
       "text": "阴",
       "wind": "南风3级",
-      "humidity": "78",
+      "humidity": "82",
       "alert": null
     },
     {
@@ -88,35 +88,35 @@
       "feelsLike": "34",
       "text": "阴",
       "wind": "西南风2级",
-      "humidity": "65",
+      "humidity": "66",
       "alert": null
     },
     {
       "name": "青岛",
-      "temp": "28",
-      "feelsLike": "30",
+      "temp": "27",
+      "feelsLike": "28",
       "text": "雾",
       "wind": "东南风4级",
-      "humidity": "95",
+      "humidity": "96",
       "alert": null
     },
     {
       "name": "厦门",
       "temp": "27",
-      "feelsLike": "29",
+      "feelsLike": "30",
       "text": "阴",
-      "wind": "东风3级",
-      "humidity": "81",
+      "wind": "西北风2级",
+      "humidity": "84",
       "alert": null
     },
     {
       "name": "上海",
-      "temp": "31",
+      "temp": "30",
       "feelsLike": "33",
-      "text": "多云",
-      "wind": "东风2级",
-      "humidity": "62",
-      "alert": "🟧 橙色降温提示：1小时降温3℃"
+      "text": "晴",
+      "wind": "东南风2级",
+      "humidity": "74",
+      "alert": null
     },
     {
       "name": "深圳",
@@ -124,34 +124,34 @@
       "feelsLike": "28",
       "text": "阴",
       "wind": "东风3级",
-      "humidity": "91",
+      "humidity": "88",
       "alert": null
     },
     {
       "name": "沈阳",
-      "temp": "30",
-      "feelsLike": "29",
+      "temp": "29",
+      "feelsLike": "28",
       "text": "晴",
       "wind": "西南风5级",
-      "humidity": "74",
+      "humidity": "80",
       "alert": null
     },
     {
       "name": "武汉",
       "temp": "30",
-      "feelsLike": "33",
+      "feelsLike": "32",
       "text": "阴",
-      "wind": "东南风3级",
-      "humidity": "83",
+      "wind": "东南风4级",
+      "humidity": "81",
       "alert": null
     },
     {
       "name": "西安",
-      "temp": "30",
-      "feelsLike": "33",
-      "text": "阴",
-      "wind": "西南风1级",
-      "humidity": "67",
+      "temp": "29",
+      "feelsLike": "31",
+      "text": "多云",
+      "wind": "东北风2级",
+      "humidity": "68",
       "alert": null
     }
   ],
@@ -166,7 +166,7 @@
     },
     "上海": {
       "isAlerted": false,
-      "lastSeverity": 1
+      "lastSeverity": 0
     },
     "广州": {
       "isAlerted": false,
@@ -186,7 +186,7 @@
     },
     "成都": {
       "isAlerted": false,
-      "lastSeverity": 0
+      "lastSeverity": 1
     },
     "武汉": {
       "isAlerted": false,
@@ -202,7 +202,7 @@
     },
     "哈尔滨": {
       "isAlerted": false,
-      "lastSeverity": 1
+      "lastSeverity": 0
     },
     "沈阳": {
       "isAlerted": true,
@@ -222,7 +222,7 @@
     },
     "大连": {
       "isAlerted": true,
-      "lastSeverity": 1
+      "lastSeverity": 0
     }
   }
 }

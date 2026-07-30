@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连有雾，湿度 86%。出行注意交通安全哦。",
     "ai_briefing_en": "Dalian foggy, humid. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-07-30T21:58+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

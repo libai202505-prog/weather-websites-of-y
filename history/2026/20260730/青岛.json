@@ -178,5 +178,25 @@
     "ai_briefing_zh": "青岛多云，湿度 88%。体感闷热，保持清爽。",
     "ai_briefing_en": "Qingdao humid. Stay fresh!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-30T21:57+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "180",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "6",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

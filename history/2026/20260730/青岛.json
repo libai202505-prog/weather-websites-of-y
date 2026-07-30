@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛湿度 86%，风力 4级，多云，记得注意防潮。",
     "ai_briefing_en": "Qingdao is 86% humid, 4-level wind, cloudy, mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-30T19:44+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "135",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "22",
+    "dew": "26",
+    "cloud": "5",
+    "ai_briefing_zh": "青岛多云，湿度 88%。体感闷热，保持清爽。",
+    "ai_briefing_en": "Qingdao humid. Stay fresh!",
+    "alert": null
   }
 ]

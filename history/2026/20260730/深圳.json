@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳小雨，带好雨具，湿度大，记得除湿。",
     "ai_briefing_en": "Shenzhen has light rain, bring an umbrella, high humidity.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-07-30T19:44+08:00",
+    "temp": "24",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "深圳天气阴沉，湿度 94%，出门记得带伞哦。",
+    "ai_briefing_en": "Shenzhen humid. Umbrella!",
+    "alert": null
   }
 ]

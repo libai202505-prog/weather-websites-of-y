@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安风力 5级，阴天，出门注意防风，小心安全。",
     "ai_briefing_en": "Xi'an has 5-level wind, cloudy, watch out for wind!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-07-30T19:44+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "270",
+    "humidity": "90",
+    "precip": "4.0",
+    "pressure": "957",
+    "vis": "11",
+    "dew": "23",
+    "cloud": "92",
+    "ai_briefing_zh": "西安小雨，湿度 90%。出门记得带伞，注意路滑。",
+    "ai_briefing_en": "Xi'an 90% humid. Umbrella!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

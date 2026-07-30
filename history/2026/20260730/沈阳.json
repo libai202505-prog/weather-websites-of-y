@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳晴天，风力 4级，小心防晒，出行注意安全。",
     "ai_briefing_en": "Shenyang is sunny with 4-level wind, sun protect and be safe!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-30T19:40+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "225",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳多云，风力 4 级。外出注意防风，多喝水。",
+    "ai_briefing_en": "Shenyang windy. Hydrate!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

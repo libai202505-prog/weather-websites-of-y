@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳晴天 33℃，阳光强烈，注意防晒，多喝水哦！",
     "ai_briefing_en": "Shenyang is sunny 33℃, protect from sun and drink water!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-07-30T17:08+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "225",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "9",
+    "ai_briefing_zh": "沈阳晴天，风力 4级，小心防晒，出行注意安全。",
+    "ai_briefing_en": "Shenyang is sunny with 4-level wind, sun protect and be safe!",
+    "alert": null
   }
 ]

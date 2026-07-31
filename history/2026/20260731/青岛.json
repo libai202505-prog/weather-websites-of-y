@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛晴天，体感 33℃，湿度 78%，注意防暑！",
     "ai_briefing_en": "Qingdao feels 33℃. Humid and hot, stay cool!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-07-31T20:50+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "22",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛晴热，体感 32℃，湿度大，注意补水。",
+    "ai_briefing_en": "Qingdao is sunny and humid, feels like 32℃.",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海多云，体感稍热，注意清凉防暑，保持好心情！",
     "ai_briefing_en": "Shanghai, cloudy and warm. Stay cool and keep a good mood!",
     "alert": "📉 红色降温预警：1小时骤降7℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-07-31T18:22+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "27",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "上海晴天炎热，体感 33℃，多补充水分哦！",
+    "ai_briefing_en": "Shanghai: Sunny, feels 33℃. Keep hydrated!",
+    "alert": null
   }
 ]

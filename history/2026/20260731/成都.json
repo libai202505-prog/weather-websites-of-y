@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都湿度 100%！衣服可能难干，记得除湿。",
     "ai_briefing_en": "Chengdu, 100% humidity! Clothes may not dry, remember to dehumidify.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-07-31T18:28+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "946",
+    "vis": "6",
+    "dew": "23",
+    "cloud": "99",
+    "ai_briefing_zh": "成都湿度 100%，阴天潮湿，别忘带伞哦！",
+    "ai_briefing_en": "Chengdu: 100% humidity, damp. Bring your umbrella!",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "沈阳晴热，风力 4级偏大，外出注意防风防晒。",
     "ai_briefing_en": "Sunny and hot in Shenyang with strong winds. Protect from sun and wind!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-01T12:08+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "270",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳多云 33℃，风力 4级，注意防风和补水。",
+    "ai_briefing_en": "Shenyang 33℃ cloudy, strong wind.",
+    "alert": null
   }
 ]

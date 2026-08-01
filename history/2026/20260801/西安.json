@@ -98,5 +98,25 @@
     "ai_briefing_zh": "西安阴天湿度大，体感潮湿闷热，注意通风。",
     "ai_briefing_en": "Xi'an is very humid and muggy. Keep well-ventilated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-01T12:12+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "11",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "西安天阴湿度大，注意衣物防潮干燥。",
+    "ai_briefing_en": "Xi'an cloudy, humid, keep dry!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "体感 36℃，真的好热！记得多补水，做好防暑。",
     "ai_briefing_en": "Feels like 36℃, so hot! Stay hydrated and cool down.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-01T21:10+08:00",
+    "temp": "29",
+    "feelsLike": "35",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "90",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "8",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "大雾弥漫，体感 35℃，出行注意交通安全。",
+    "ai_briefing_en": "Foggy & feels like 35℃, drive safe, take care!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴朗微风，湿度高，体感较热，记得多饮水。",
     "ai_briefing_en": "Sunny and calm, a bit muggy. Remember to drink water!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-01T21:08+08:00",
+    "temp": "29",
+    "feelsLike": "33",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "270",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "20",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "晴朗炎热，紫外线强，出门记得防晒哦！",
+    "ai_briefing_en": "Sunny & hot, strong UV, remember your sunblock!",
+    "alert": null
   }
 ]

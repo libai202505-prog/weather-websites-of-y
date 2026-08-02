@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海大雨体感热，出门别忘带伞防暑哦！",
     "ai_briefing_en": "Heavy rain and humid heat in Shanghai, bring an umbrella and prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-02T17:00+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "81",
+    "precip": "1.0",
+    "pressure": "1008",
+    "vis": "17",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "上海体感 32℃ 且潮湿，注意保持清爽舒适哦！",
+    "ai_briefing_en": "Shanghai feels 32℃ and humid. Stay cool and comfortable!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

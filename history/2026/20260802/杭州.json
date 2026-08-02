@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州高温酷热，注意防暑降温，补水防晒！",
     "ai_briefing_en": "Extreme heat in Hangzhou, prevent heatstroke, cool down, hydrate, and sun protect!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-02T17:00+08:00",
+    "temp": "35",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "315",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 35℃，风力 5 级。外出注意防晒，小心大风哦！",
+    "ai_briefing_en": "Hangzhou is 35℃ with Level 5 winds. Protect from sun and watch out for strong gusts!",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：西北风 5级"
   }
 ]

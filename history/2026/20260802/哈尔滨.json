@@ -178,5 +178,25 @@
     "ai_briefing_zh": "哈尔滨多云湿度大，体感舒适，注意防潮。",
     "ai_briefing_en": "Cloudy and humid in Harbin, it feels comfortable, mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-02T17:00+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "哈尔滨多云，湿度 88%，体感稍闷，注意通风哦！",
+    "ai_briefing_en": "Harbin is cloudy with 88% humidity, feeling a bit muggy. Ensure good ventilation!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京 35℃ 且闷热，请注意防暑降温，多喝水哦！",
     "ai_briefing_en": "Nanjing is 35℃ and muggy. Please stay cool, hydrated, and prevent heatstroke!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-02T19:00+08:00",
+    "temp": "32",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "25",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "南京体感热，防暑降温，注意身体哦！",
+    "ai_briefing_en": "Nanjing feels hot. Stay cool and take good care!",
+    "alert": null
   }
 ]

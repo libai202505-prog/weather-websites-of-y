@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳阴天湿度高，注意防潮，保持好心情！",
     "ai_briefing_en": "Shenzhen is humid and cloudy. Mind dampness, stay cheerful!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-02T21:02+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "100",
+    "ai_briefing_zh": "深圳阴天湿度大，感觉黏黏的？注意除湿，保持好心情！",
+    "ai_briefing_en": "Shenzhen is overcast with high humidity. Feeling sticky? Dehumidify and keep a good mood!",
+    "alert": null
   }
 ]

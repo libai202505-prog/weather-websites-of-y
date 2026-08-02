@@ -218,5 +218,25 @@
     "ai_briefing_zh": "哈尔滨晴朗，湿度大。注意防晒，保持愉悦！",
     "ai_briefing_en": "Harbin is sunny and humid. Sun protection, stay happy!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-02T21:00+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "5",
+    "ai_briefing_zh": "哈尔滨多云，湿度非常大，注意除湿，小心着凉哦！",
+    "ai_briefing_en": "Harbin is partly cloudy with very high humidity. Dehumidify and watch out for chills!",
+    "alert": null
   }
 ]

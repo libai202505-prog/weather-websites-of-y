@@ -218,5 +218,25 @@
     "ai_briefing_zh": "重庆阴天，湿度高，注意防潮，保持好心情！",
     "ai_briefing_en": "Chongqing is cloudy and humid. Mind dampness, stay cheerful!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-02T21:00+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "225",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "重庆阴天湿度大，出门带好雨具，保持好心情哦！",
+    "ai_briefing_en": "Chongqing is overcast with high humidity. Bring an umbrella and keep a good mood!",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京体感热，防暑降温，注意身体哦！",
     "ai_briefing_en": "Nanjing feels hot. Stay cool and take good care!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-02T21:02+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "南京多云体感炎热，外出注意防暑，多补充水分哦！",
+    "ai_briefing_en": "Nanjing is partly cloudy and feels hot. Stay cool and hydrate well!",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海体感炎热，注意防暑降温，多喝水。",
     "ai_briefing_en": "Shanghai feels very hot, keep cool and drink plenty of water.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-02T11:34+08:00",
+    "temp": "36",
+    "feelsLike": "39",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "270",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "上海体感 39℃，炎热难耐，务必做好防晒和补水！",
+    "ai_briefing_en": "Shanghai feels 39℃, extremely hot. Stay hydrated and sun-protected!",
+    "alert": null
   }
 ]

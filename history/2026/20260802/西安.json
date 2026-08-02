@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安阴天，湿度较高，体感舒适，注意防潮。",
     "ai_briefing_en": "Xi'an is cloudy, high humidity. Feels comfortable, mind the dampness.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-02T14:12+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "11",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "西安小雨伴高湿，记得带伞，注意防潮哦。",
+    "ai_briefing_en": "Light rain with high humidity in Xi'an, bring an umbrella and mind the dampness.",
+    "alert": null
   }
 ]

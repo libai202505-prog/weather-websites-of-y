@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳湿度高，体感稍热，注意清爽！",
     "ai_briefing_en": "Shenzhen humid & warm, stay refreshed!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-03T16:14+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "深圳 28℃，体感 31℃，湿度偏高，注意防潮，保持清爽哦！",
+    "ai_briefing_en": "Shenzhen is 28℃, feels like 31℃ with high humidity. Stay fresh and mind the damp.",
+    "alert": null
   }
 ]

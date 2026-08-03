@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉体感 36℃，风力 4级，多补水防暑！",
     "ai_briefing_en": "Wuhan feels 36℃, stay hydrated & cool!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-03T16:14+08:00",
+    "temp": "36",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "135",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉 36℃，体感也 36℃，阴天也很热！小心中暑，多补充水分。",
+    "ai_briefing_en": "Wuhan is 36℃, feels like 36℃, hot even with cloud! Watch for heatstroke, hydrate.",
+    "alert": null
   }
 ]

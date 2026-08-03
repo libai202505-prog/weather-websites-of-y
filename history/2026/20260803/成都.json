@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都晴好，风力 3级，出门注意防晒哦！",
     "ai_briefing_en": "Chengdu sunny, enjoy the breeze, sun protection!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-03T16:16+08:00",
+    "temp": "34",
+    "feelsLike": "35",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "950",
+    "vis": "6",
+    "dew": "22",
+    "cloud": "10",
+    "ai_briefing_zh": "成都晴朗 34℃，体感 35℃。阳光充足，记得补水防晒！",
+    "ai_briefing_en": "Chengdu is sunny 34℃, feels like 35℃. Plenty of sun, hydrate and use sunscreen!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "北京小雨，体感 28℃。出门带伞，注意防潮哦！",
     "ai_briefing_en": "Beijing, light rain and humid. Grab an umbrella and stay dry!",
     "alert": "📉 红色降温预警：1小时骤降9℃"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-03T23:22+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "94",
+    "precip": "1.0",
+    "pressure": "1004",
+    "vis": "20",
+    "dew": "25",
+    "cloud": "95",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

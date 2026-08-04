@@ -138,5 +138,25 @@
     "ai_briefing_zh": "重庆 32℃，体感 34℃。多喝水，小心暑热。",
     "ai_briefing_en": "Chongqing is 32℃, feels like 34℃. Drink plenty of water to beat the heat!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-04T18:08+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "974",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆多云，体感 35℃。多喝水，小心别热着了。",
+    "ai_briefing_en": "Chongqing is cloudy, feels 35℃. Drink more water, stay cool.",
+    "alert": null
   }
 ]

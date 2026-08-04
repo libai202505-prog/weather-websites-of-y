@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉 38℃，体感 40℃！务必防暑，少出门哦。",
     "ai_briefing_en": "Wuhan is 38℃, feels like 40℃! Please stay cool and avoid going out.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-04T18:12+08:00",
+    "temp": "34",
+    "feelsLike": "38",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉体感 38℃！高温预警，记得做好防暑措施！",
+    "ai_briefing_en": "Wuhan feels 38℃! Heat warning, remember to take heat protection measures!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连晴天湿热，体感舒适。出门记得防晒和补水哦。",
     "ai_briefing_en": "Sunny and humid in Dalian, feels comfortable. Mind sun protection and hydration.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-04T20:57+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "大连晴天体感 29℃，湿度 82%。阳光正好，别忘补水！",
+    "ai_briefing_en": "Dalian sunny, feels 29℃, 82% humidity. Enjoy the sun, hydrate!",
+    "alert": null
   }
 ]

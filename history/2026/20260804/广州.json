@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州小雨，湿度大。出门记得带伞，小心路滑。",
     "ai_briefing_en": "Light rain in Guangzhou, high humidity. Take an umbrella and watch for slippery roads.",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-04T20:58+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "广州湿度 94%，体感 28℃，记得防潮，保持好心情！",
+    "ai_briefing_en": "Guangzhou 94% humidity, feels 28℃. Stay dry, keep smiling!",
+    "alert": null
   }
 ]

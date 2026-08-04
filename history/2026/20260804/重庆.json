@@ -98,5 +98,25 @@
     "ai_briefing_zh": "重庆多云，湿度 83%，体感舒适，记得补水。",
     "ai_briefing_en": "Chongqing is cloudy, 83% humidity. Comfortable but hydrate!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-04T12:00+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆多云，体感 31℃，天气闷热，记得多补水！",
+    "ai_briefing_en": "Chongqing is cloudy, feels like 31℃. It's muggy, remember to hydrate!",
+    "alert": null
   }
 ]

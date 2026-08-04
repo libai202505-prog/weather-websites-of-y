@@ -98,5 +98,25 @@
     "ai_briefing_zh": "沈阳大晴天，体感 32℃，出门记得防晒。",
     "ai_briefing_en": "Sunny in Shenyang, feels 32℃. Don't forget sunscreen!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-04T12:00+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "225",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳晴天，体感 34℃，紫外线强，注意防晒补水！",
+    "ai_briefing_en": "Shenyang is sunny, feels like 34℃. Strong UV, use sunscreen, hydrate!",
+    "alert": null
   }
 ]

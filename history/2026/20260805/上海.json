@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴热体感 34℃，多喝水，注意防晒！",
     "ai_briefing_en": "Sunny and feels like 34℃, drink more water, protect from sun!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-05T23:00+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

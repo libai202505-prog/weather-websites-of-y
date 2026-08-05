@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴热潮湿，风力 3级，出门防晒哦。",
     "ai_briefing_en": "Sunny, hot and humid, level 3 wind, protect from sun.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-05T23:02+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "135",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "28",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

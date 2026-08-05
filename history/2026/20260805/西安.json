@@ -78,5 +78,25 @@
     "ai_briefing_zh": "西安 夜间监测中，注意保暖",
     "ai_briefing_en": "西安: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-05T07:58+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "中雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "97",
+    "precip": "5.0",
+    "pressure": "964",
+    "vis": "16",
+    "dew": "20",
+    "cloud": "100",
+    "ai_briefing_zh": "中雨降温，出门备好雨具，注意保暖。",
+    "ai_briefing_en": "Rain, cooler. Umbrella!",
+    "alert": null
   }
 ]

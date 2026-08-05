@@ -98,5 +98,25 @@
     "ai_briefing_zh": "湿度 100% 呀，出门记得带伞哦。",
     "ai_briefing_en": "100% humid. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-05T11:48+08:00",
+    "temp": "32",
+    "feelsLike": "38",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "950",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都晴热，体感 38℃。小心高温，多饮水降温！",
+    "ai_briefing_en": "Chengdu is sunny, feels like 38℃. Beware of high heat, drink plenty!",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "湿度 95%，体感湿热，注意除湿哦。",
     "ai_briefing_en": "Very humid. Dehumidify.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-05T12:00+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "阵雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阵雨，体感 32℃。出门别忘带伞，注意防潮！",
+    "ai_briefing_en": "Guangzhou has showers, feels like 32℃. Don't forget your umbrella!",
+    "alert": null
   }
 ]

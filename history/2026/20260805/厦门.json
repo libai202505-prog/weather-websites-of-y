@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大雾高湿度，能见度低，小心驾驶呀。",
     "ai_briefing_en": "Dense fog. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-05T12:00+08:00",
+    "temp": "32",
+    "feelsLike": "31",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "45",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "990",
+    "vis": "28",
+    "dew": "23",
+    "cloud": "2",
+    "ai_briefing_zh": "厦门晴热，气温 32℃。注意防晒，多补充水分！",
+    "ai_briefing_en": "Xiamen is sunny, 32℃. Protect from sun and stay hydrated!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

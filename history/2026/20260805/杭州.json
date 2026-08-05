@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州阴天高温，防晒补水，带伞防阵雨！",
     "ai_briefing_en": "Hangzhou is hot. Hydrate, prepare for rain!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-05T18:30+08:00",
+    "temp": "32",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "20",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴天，有 4级 风，注意添减衣物，别着凉。",
+    "ai_briefing_en": "Hangzhou: Cloudy, 4级 wind. Dress smart, avoid chills!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

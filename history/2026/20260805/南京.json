@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阴天潮湿，体感 32℃，请注意防潮和清爽。",
     "ai_briefing_en": "Nanjing: Cloudy & humid, feels 32℃. Stay dry and comfy!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-05T20:44+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "12",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天闷热潮湿，记得多喝水哦。",
+    "ai_briefing_en": "Cloudy, muggy, and humid, remember to drink more water.",
+    "alert": null
   }
 ]

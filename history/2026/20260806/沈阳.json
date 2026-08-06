@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 36℃，体感 37℃。晴热风大，防晒补水防中暑！",
     "ai_briefing_en": "Shenyang 36℃. Hot, hydrate!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-06T18:30+08:00",
+    "temp": "34",
+    "feelsLike": "37",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "270",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "97",
+    "ai_briefing_zh": "沈阳晴热 34℃，体感 37℃，注意防暑。",
+    "ai_briefing_en": "Shenyang 37℃, stay cool!",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "广州 35℃，体感 38℃。晴朗炎热，注意防晒多补水！",
     "ai_briefing_en": "Guangzhou 35℃. Hot, hydrate!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-06T18:32+08:00",
+    "temp": "33",
+    "feelsLike": "37",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "广州晴热 33℃，体感 37℃，注意防晒。",
+    "ai_briefing_en": "Guangzhou 37℃, stay cool!",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳 32℃，体感 33℃。晴朗炎热，注意防晒补水。",
     "ai_briefing_en": "Shenzhen 32℃. Hot, hydrate!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-06T18:32+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "225",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "8",
+    "ai_briefing_zh": "深圳晴 29℃，湿度 77%，注意防晒补水。",
+    "ai_briefing_en": "Shenzhen 29℃, humid, hydrate!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

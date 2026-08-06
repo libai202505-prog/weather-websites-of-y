@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天闷热，体感 34℃，多喝水勤降温。",
     "ai_briefing_en": "Overcast and muggy, feels like 34℃. Drink water and cool down often.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-06T23:00+08:00",
+    "temp": "29",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "12",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

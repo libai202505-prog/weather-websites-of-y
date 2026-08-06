@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴好炎热，体感 32℃，出门记得防晒。",
     "ai_briefing_en": "Sunny and warm, feels like 32℃. Don't forget sun protection outside.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-06T23:00+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "18",
+    "dew": "25",
+    "cloud": "0",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

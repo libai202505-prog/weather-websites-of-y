@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云有风，体感 32℃，出行注意防暑。",
     "ai_briefing_en": "Cloudy with breeze, feels like 32℃. Stay cool when you go out.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-06T23:00+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "0",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

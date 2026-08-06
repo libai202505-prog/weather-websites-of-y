@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天凉爽，体感 16℃，风力大，添件外套。",
     "ai_briefing_en": "Overcast and cool, feels like 16℃. Windy, put on a jacket.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-06T23:00+08:00",
+    "temp": "17",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "810",
+    "vis": "26",
+    "dew": "14",
+    "cloud": "99",
+    "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
+    "ai_briefing_en": "昆明: Night watch, stay warm.",
+    "alert": null
   }
 ]

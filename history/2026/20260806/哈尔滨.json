@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨湿度 84%，体感 29℃。多云天，记得及时补水哦！",
     "ai_briefing_en": "Harbin's humidity is 84%, feels like 29℃. Stay hydrated on this cloudy day!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-06T12:00+08:00",
+    "temp": "31",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "270",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "97",
+    "ai_briefing_zh": "哈尔滨 31℃，多云有风，出行舒适。",
+    "ai_briefing_en": "Harbin 31℃, cloudy and windy. Comfortable for going out.",
+    "alert": null
   }
 ]

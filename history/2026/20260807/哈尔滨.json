@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨晴朗凉爽，风力 5级，早晚温差大注意保暖！",
     "ai_briefing_en": "Harbin is sunny and cool with 5-level winds. Mind the temperature difference between day and night!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-07T18:00+08:00",
+    "temp": "20",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "14",
+    "cloud": "9",
+    "ai_briefing_zh": "哈尔滨晴天，体感 15℃，风力 5级，早晚温差大，注意添衣。",
+    "ai_briefing_en": "Harbin: Sunny, feels like 15℃, 5-level winds. Big temp swing, dress warm!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

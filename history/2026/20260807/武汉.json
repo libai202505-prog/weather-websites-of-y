@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉大雨且高温，风力不小，出门记得带伞注意安全！",
     "ai_briefing_en": "Wuhan has heavy rain and high temperatures with strong winds. Remember your umbrella and stay safe!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-07T18:02+08:00",
+    "temp": "35",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "0",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉晴天酷热 35℃，防晒补水，注意 5级 大风。",
+    "ai_briefing_en": "Wuhan: Sunny and 35℃, very hot! Sun protection, hydration, and mind 5-level winds.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

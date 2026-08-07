@@ -98,5 +98,25 @@
     "ai_briefing_zh": "慈溪风力 6级，多云炎热，务必注意防风防晒！",
     "ai_briefing_en": "Cixi has strong 6-level winds and is cloudy and hot. Be sure to protect from wind and sun!",
     "alert": "💨 北风警报：北风 6级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-07T17:58+08:00",
+    "temp": "31",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "36",
+    "wind360": "45",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "24",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪多云有点热，多喝水，小心风力 5级 阵风哦。",
+    "ai_briefing_en": "Cixi: Cloudy and warm. Stay hydrated and mind the 5-level winds.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

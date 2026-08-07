@@ -98,5 +98,25 @@
     "ai_briefing_zh": "重庆阴天，天气闷热，及时补充水分防止中暑！",
     "ai_briefing_en": "Chongqing is overcast and muggy. Hydrate regularly to prevent heatstroke!",
     "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-07T18:00+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "315",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆阴天体感 30℃，闷热，注意防暑和补充水分哦。",
+    "ai_briefing_en": "Chongqing: Overcast, feels like 30℃. Muggy weather, stay cool and hydrate!",
+    "alert": null
   }
 ]

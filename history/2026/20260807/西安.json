@@ -38,5 +38,25 @@
     "ai_briefing_zh": "西安多云，湿度 73% 较高。体感 30℃，注意通风！",
     "ai_briefing_en": "Xi'an is cloudy with high humidity (73%). It feels 30℃, ensure ventilation!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-07T13:34+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "135",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "30℃ 阴天，湿度 63%。小心闷热，多喝水哦！",
+    "ai_briefing_en": "Xi'an, 30℃ cloudy with 63% humidity. Beware of mugginess, drink more water!",
+    "alert": null
   }
 ]

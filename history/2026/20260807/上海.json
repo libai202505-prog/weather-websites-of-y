@@ -138,5 +138,25 @@
     "ai_briefing_zh": "上海多云，体感偏热，多补水防晒，保持清爽！",
     "ai_briefing_en": "Cloudy and feels hot in Shanghai, hydrate and protect from sun!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-07T20:58+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "96",
+    "ai_briefing_zh": "上海体感炎热，多喝水，小心中暑哦。",
+    "ai_briefing_en": "Shanghai feels hot, stay hydrated and avoid heatstroke.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

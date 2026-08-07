@@ -58,5 +58,25 @@
     "ai_briefing_zh": "35℃ 高温，风力 4 级。记得防晒补水，注意强风！",
     "ai_briefing_en": "Beijing, 35℃ feels hot with strong winds. Stay hydrated, mind the wind!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-07T15:00+08:00",
+    "temp": "35",
+    "feelsLike": "35",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "45",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "20",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

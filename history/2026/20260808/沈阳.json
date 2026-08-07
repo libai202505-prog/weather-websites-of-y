@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-08T07:28+08:00",
+    "temp": "19",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "0",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗有 5 级风体感 15℃ 凉，出门记得多穿点哦。",
+    "ai_briefing_en": "Sunny and 5-level windy, feels 15℃ cool. Remember to layer up when going out.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

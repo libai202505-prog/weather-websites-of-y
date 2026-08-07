@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-07T16:50+08:00",
+    "temp": "36",
+    "feelsLike": "35",
+    "text": "大雨",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "0",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "40",
+    "ai_briefing_zh": "武汉大雨且高温，风力不小，出门记得带伞注意安全！",
+    "ai_briefing_en": "Wuhan has heavy rain and high temperatures with strong winds. Remember your umbrella and stay safe!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

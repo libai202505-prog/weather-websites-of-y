@@ -118,5 +118,25 @@
     "ai_briefing_zh": "杭州多云风力 6级，气温高注意防风，小心衣物被吹走。",
     "ai_briefing_en": "Hangzhou: Cloudy, 6-level winds, 34℃. High temps but strong winds, stay safe!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 6级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-07T19:36+08:00",
+    "temp": "33",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "27",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，风力较大，注意防晒，小心大风哦！",
+    "ai_briefing_en": "Cloudy with strong winds in Hangzhou, protect from sun and strong gusts!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

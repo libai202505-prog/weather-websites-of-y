@@ -458,5 +458,25 @@
     "ai_briefing_zh": "哈尔滨晴朗舒适，湿度 80%。享受宜人天气！",
     "ai_briefing_en": "Harbin is sunny and pleasant with 80% humidity. Enjoy the nice weather!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-08T20:42+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "12",
+    "cloud": "0",
+    "ai_briefing_zh": "哈尔滨晴朗，气温 15℃。湿度 92%，早晚温差大，注意保暖哦。",
+    "ai_briefing_en": "Harbin is sunny, 15℃. Very humid, mind the temperature difference, stay warm!",
+    "alert": null
   }
 ]

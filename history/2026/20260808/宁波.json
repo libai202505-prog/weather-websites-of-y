@@ -138,5 +138,25 @@
     "ai_briefing_zh": "宁波小雨，风力很大。出门请务必携带雨具，注意安全。",
     "ai_briefing_en": "Ningbo: Light rain, very windy. Please bring rain gear and stay safe when out.",
     "alert": "💨 北风警报：东北风 7级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-08T22:26+08:00",
+    "temp": "27",
+    "feelsLike": "22",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "7",
+    "windSpeed": "53",
+    "wind360": "45",
+    "humidity": "91",
+    "precip": "1.0",
+    "pressure": "994",
+    "vis": "14",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
+    "ai_briefing_en": "宁波: Night watch, stay warm.",
+    "alert": "💨 北风警报：东北风 7级"
   }
 ]

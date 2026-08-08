@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海阴天微热，多喝水，小心别中暑哦。",
     "ai_briefing_en": "Shanghai is cloudy and warm. Drink more water to avoid heatstroke.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-08T11:08+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "28",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天体感 36℃，天气闷热，别忘了防暑降温，多喝水。",
+    "ai_briefing_en": "Overcast, feels like 36℃. It's muggy, stay cool and hydrated!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "西安多云，体感湿热，多喝水保持清爽哦。",
     "ai_briefing_en": "Xi'an is cloudy and humid, feels warm. Stay hydrated and cool.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-08T11:12+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "964",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天气，体感 33℃。出门注意防晒，及时补充水分。",
+    "ai_briefing_en": "Cloudy, feels like 33℃. Wear sun protection and stay hydrated!",
+    "alert": null
   }
 ]

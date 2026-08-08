@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天潮湿，体感 31℃。湿热黏腻，注意保持身体清爽。",
     "ai_briefing_en": "Overcast and humid, feels like 31℃. Stay fresh in the sticky heat!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-08T12:50+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "11",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆阴天闷热，湿度大，记得多喝水。",
+    "ai_briefing_en": "Chongqing hot, humid, cool!",
+    "alert": null
   }
 ]

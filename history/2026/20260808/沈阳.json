@@ -198,5 +198,25 @@
     "ai_briefing_zh": "晴天体感 20℃，微风舒适。注意早晚温差，穿衣适度。",
     "ai_briefing_en": "Sunny, feels like 20℃ with a comfortable breeze. Mind the day-night temp difference.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-08T12:50+08:00",
+    "temp": "25",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "0",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳晴朗风大，体感偏凉，记得添衣。",
+    "ai_briefing_en": "Shenyang sunny, windy, layer.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "多云天气，体感 22℃，微风送爽。出行注意防风哦！",
     "ai_briefing_en": "Cloudy, feels like 22℃ with a cool breeze. Mind the wind outside!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-08T12:50+08:00",
+    "temp": "28",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "315",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "16",
+    "cloud": "0",
+    "ai_briefing_zh": "大连多云风大，体感微凉，记得添衣。",
+    "ai_briefing_en": "Dalian windy, cool, dress warm.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "晴热天气，体感 35℃。出门务必做好防晒防暑措施。",
     "ai_briefing_en": "Sunny and hot, feels like 35℃. Take full sun and heat protection!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-08T12:50+08:00",
+    "temp": "35",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉酷热，注意防晒防暑，多喝水。",
+    "ai_briefing_en": "Wuhan hot, hydrate.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

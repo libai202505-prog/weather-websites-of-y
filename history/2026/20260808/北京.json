@@ -198,5 +198,25 @@
     "ai_briefing_zh": "多云天气，体感 30℃，注意补水，保持好心情哦！",
     "ai_briefing_en": "Cloudy skies, feels like 30℃. Stay hydrated and cheerful!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-08T12:50+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "180",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "18",
+    "dew": "20",
+    "cloud": "10",
+    "ai_briefing_zh": "北京多云舒适，出门注意防晒哦！",
+    "ai_briefing_en": "Beijing cloudy, sunblock!",
+    "alert": null
   }
 ]

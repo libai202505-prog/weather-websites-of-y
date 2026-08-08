@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴天湿冷体感 15℃，注意保暖，别着凉了。",
     "ai_briefing_en": "Cloudy, damp, and feels 15℃ chilly. Stay warm and don't catch a cold.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-08T09:15+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "21",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天微凉，湿度大，记得带件外套哦。",
+    "ai_briefing_en": "Kunming is cloudy and cool with high humidity. Bring a jacket!",
+    "alert": null
   }
 ]

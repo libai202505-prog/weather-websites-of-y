@@ -158,5 +158,25 @@
     "ai_briefing_zh": "晴朗但湿度高，体感 30℃ 闷热，及时补充水分。",
     "ai_briefing_en": "Sunny but humid and feels 30℃ muggy. Remember to hydrate.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-08T09:28+08:00",
+    "temp": "31",
+    "feelsLike": "31",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "0",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "南京晴朗有风，天气炎热，注意防晒补水哦。",
+    "ai_briefing_en": "Nanjing is sunny and windy, but hot. Remember sunscreen and hydration.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

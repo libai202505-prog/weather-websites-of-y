@@ -218,5 +218,25 @@
     "ai_briefing_zh": "哈尔滨晴朗舒适，早晚温差大，注意添衣。",
     "ai_briefing_en": "Harbin sunny, cool, mind chill!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-08T13:36+08:00",
+    "temp": "22",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "45",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "11",
+    "cloud": "0",
+    "ai_briefing_zh": "晴朗宜人，体感微凉，早晚添衣。",
+    "ai_briefing_en": "Sunny, pleasant, slightly cool. Add clothes morning/evening.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

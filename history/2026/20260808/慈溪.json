@@ -218,5 +218,25 @@
     "ai_briefing_zh": "慈溪小雨风大，带伞添衣别着凉。",
     "ai_briefing_en": "Cixi rainy, windy, jacket.",
     "alert": "💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-08T13:36+08:00",
+    "temp": "28",
+    "feelsLike": "24",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "6",
+    "windSpeed": "47",
+    "wind360": "45",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "9",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨大风，出门带伞，注意保暖！",
+    "ai_briefing_en": "Light rain, strong winds. Umbrella, stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 6级"
   }
 ]

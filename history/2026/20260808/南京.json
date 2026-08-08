@@ -218,5 +218,25 @@
     "ai_briefing_zh": "南京多云炎热，及时补水，小心中暑。",
     "ai_briefing_en": "Nanjing hot, hydrate.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-08T13:36+08:00",
+    "temp": "31",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "6",
+    "windSpeed": "41",
+    "wind360": "0",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "15",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "小雨大风，带好雨具，注意安全！",
+    "ai_briefing_en": "Light rain, strong winds. Bring umbrella, stay safe!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 6级"
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "昆明阴天湿度高，天气宜人，心情好。",
     "ai_briefing_en": "Kunming pleasant, humidity high.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-08T13:25+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "180",
+    "humidity": "65",
+    "precip": "0.1",
+    "pressure": "811",
+    "vis": "21",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天舒适，备件薄外套，以防降温。",
+    "ai_briefing_en": "Overcast, comfy. Bring light jacket for temp drops.",
+    "alert": null
   }
 ]

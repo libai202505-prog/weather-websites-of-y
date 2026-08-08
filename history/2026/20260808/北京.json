@@ -478,5 +478,25 @@
     "ai_briefing_zh": "北京多云，体感 27℃ 舒适。出门走走，放松心情！",
     "ai_briefing_en": "Beijing is cloudy and pleasant at 27℃. Enjoy a relaxing stroll!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-08T21:38+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "180",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "18",
+    "cloud": "10",
+    "ai_briefing_zh": "北京多云，体感舒适。别忘了补充水分哦！",
+    "ai_briefing_en": "Beijing: Cloudy and pleasant. Don't forget to hydrate!",
+    "alert": null
   }
 ]

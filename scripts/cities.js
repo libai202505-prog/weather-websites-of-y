@@ -4,7 +4,7 @@ export default [
     // tagId: 原企业微信标签ID (保留备用)
     // topic: PushPlus 群组编码
     { name: '北京', id: '101010100', isVip: true, tagId: '1', topic: 'weather_bj' },
-    { name: '慈溪', id: '101210401', isVip: true, tagId: '2', topic: 'weather_cx' },
+    { name: '慈溪', id: '101210402', isVip: true, tagId: '2', topic: 'weather_cx' },
 
     // 🔵 普通城市 (只存数据用于网页展示，不发微信)
     { name: '上海', id: '101020100' },
@@ -21,7 +21,7 @@ export default [
     { name: '昆明', id: '101290101' },
     { name: '厦门', id: '101230201' },
     { name: '漳浦', id: '101230607' },
-    { name: '宁波', id: '101210400' },
+    { name: '宁波', id: '101210401' },
     { name: '青岛', id: '101120201' },
     { name: '大连', id: '101070201' },
 ];

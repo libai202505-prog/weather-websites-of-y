@@ -358,5 +358,25 @@
     "ai_briefing_zh": "西安体感闷热，多补充水分，注意休息。",
     "ai_briefing_en": "It feels muggy in Xi'an, hydrate more and get enough rest.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-08T17:12+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "西安阴天，体感 33℃，注意防晒解暑。",
+    "ai_briefing_en": "Xi'an feels 33℃. Protect from heat!",
+    "alert": null
   }
 ]

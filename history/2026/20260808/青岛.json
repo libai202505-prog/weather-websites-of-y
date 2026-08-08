@@ -358,5 +358,25 @@
     "ai_briefing_zh": "青岛晴朗，风力较大，出门注意防晒。",
     "ai_briefing_en": "Sunny with strong winds in Qingdao, remember sun protection.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-08T17:10+08:00",
+    "temp": "32",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "315",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "4",
+    "ai_briefing_zh": "青岛晴朗 32℃，风力 5 级，海边注意防晒。",
+    "ai_briefing_en": "Qingdao is sunny 32℃, windy. Sunscreen at beach!",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

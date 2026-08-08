@@ -358,5 +358,25 @@
     "ai_briefing_zh": "慈溪小雨伴大风，记得带伞，注意保暖。",
     "ai_briefing_en": "Light rain and strong winds in Cixi. Bring an umbrella and stay warm!",
     "alert": "💨 北风警报：北风 7级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-08T17:18+08:00",
+    "temp": "28",
+    "feelsLike": "24",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "6",
+    "windSpeed": "44",
+    "wind360": "45",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "慈溪小雨，风力 6 级，出门带伞，注意防风！",
+    "ai_briefing_en": "Cixi has rain, strong winds. Bring an umbrella!",
+    "alert": "💨 北风警报：东北风 6级"
   }
 ]

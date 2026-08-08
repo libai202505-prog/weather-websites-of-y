@@ -358,5 +358,25 @@
     "ai_briefing_zh": "大连多云，风力较大，外出注意保暖。",
     "ai_briefing_en": "Cloudy with strong winds in Dalian, stay warm when going out.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-08T17:08+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "315",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "23",
+    "dew": "18",
+    "cloud": "10",
+    "ai_briefing_zh": "大连多云 28℃，体感舒适，注意防晒哦。",
+    "ai_briefing_en": "Dalian is 28℃, pleasant. Mind the sun!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

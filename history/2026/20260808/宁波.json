@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-08T17:10+08:00",
+    "temp": "28",
+    "feelsLike": "25",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "6",
+    "windSpeed": "43",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "17",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "宁波小雨，风力 6 级，出门带伞，注意防风！",
+    "ai_briefing_en": "Ningbo has rain, strong winds. Bring an umbrella!",
+    "alert": "💨 北风警报：东北风 6级"
+  }
+]

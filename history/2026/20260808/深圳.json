@@ -418,5 +418,25 @@
     "ai_briefing_zh": "深圳多云 33℃，天气炎热，请多饮水防暑。",
     "ai_briefing_en": "Shenzhen is cloudy 33℃, hot weather. Drink more water to prevent heatstroke.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-08T18:26+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "92",
+    "ai_briefing_zh": "深圳晴朗，体感 35℃ 较热，出门记得防晒多补水！",
+    "ai_briefing_en": "Sunny Shenzhen, feels like 35℃. Remember sunscreen and hydration!",
+    "alert": null
   }
 ]

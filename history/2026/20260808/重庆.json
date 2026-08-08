@@ -438,5 +438,25 @@
     "ai_briefing_zh": "重庆阴天，体感 31℃，湿度较高，注意防潮通风。",
     "ai_briefing_en": "Overcast Chongqing, feels like 31℃. High humidity, ventilate well.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-08T19:08+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "21",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆阴天体感热，多饮水，注意防暑。",
+    "ai_briefing_en": "Chongqing feels hot despite being overcast. Drink water, prevent heatstroke.",
+    "alert": null
   }
 ]

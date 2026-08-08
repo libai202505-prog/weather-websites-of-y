@@ -438,5 +438,25 @@
     "ai_briefing_zh": "沈阳晴朗，体感 20℃，舒适宜人，出门散步很不错。",
     "ai_briefing_en": "Sunny Shenyang, feels like 20℃. Pleasant for a walk outside!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-08T19:08+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "91",
+    "ai_briefing_zh": "沈阳晴朗，风力 4级。体感凉爽，出门注意保暖。",
+    "ai_briefing_en": "Shenyang is sunny with moderate winds. Feels cool, dress warmly outdoors.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

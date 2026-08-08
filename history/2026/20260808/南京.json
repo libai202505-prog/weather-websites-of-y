@@ -438,5 +438,25 @@
     "ai_briefing_zh": "南京湿度 97%，感觉有点闷，注意通风哦！",
     "ai_briefing_en": "Nanjing is 97% humid, feels stuffy. Remember to ventilate!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-08T19:10+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "92",
+    "precip": "2.0",
+    "pressure": "998",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "南京湿度 92%，体感闷热。请注意保持室内通风。",
+    "ai_briefing_en": "Nanjing is 92% humid and muggy. Keep your home well-ventilated.",
+    "alert": null
   }
 ]

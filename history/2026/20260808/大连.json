@@ -338,5 +338,25 @@
     "ai_briefing_zh": "大连多云 28℃，风力 5级，风大体感凉爽。",
     "ai_briefing_en": "Dalian: Cloudy 28℃, 5-level wind. Windy & feels cool!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-08T16:56+08:00",
+    "temp": "28",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "23",
+    "dew": "18",
+    "cloud": "7",
+    "ai_briefing_zh": "大连多云，风力较大，外出注意保暖。",
+    "ai_briefing_en": "Cloudy with strong winds in Dalian, stay warm when going out.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

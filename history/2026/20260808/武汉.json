@@ -238,5 +238,25 @@
     "ai_briefing_zh": "气温高，风力大，防晒防暑，多喝水！",
     "ai_briefing_en": "Hot, windy. Sun/heat protection, hydrate!",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-08T14:44+08:00",
+    "temp": "37",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉 37℃ 高温！天气炎热，外出请注意防晒防暑。",
+    "ai_briefing_en": "Wuhan is experiencing 37℃ high temperatures! It's scorching; please protect yourself from sun and heat if you go out.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

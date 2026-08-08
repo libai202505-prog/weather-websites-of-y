@@ -238,5 +238,25 @@
     "ai_briefing_zh": "小雨大风，带好雨具，注意安全！",
     "ai_briefing_en": "Light rain, strong winds. Bring umbrella, stay safe!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 6级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-08T14:44+08:00",
+    "temp": "32",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "6",
+    "windSpeed": "43",
+    "wind360": "0",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "19",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "南京小雨 32℃，伴 6级风，体感略凉，带伞注意防风。",
+    "ai_briefing_en": "Nanjing has light rain and 32℃ with 6-level winds, feeling a bit cool. Bring an umbrella and watch for wind.",
+    "alert": "💨 北风警报：北风 6级"
   }
 ]

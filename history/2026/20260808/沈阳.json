@@ -278,5 +278,25 @@
     "ai_briefing_zh": "沈阳晴天，有 5级 风，出门注意防风。",
     "ai_briefing_en": "Sunny, wind 5. Watch out!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-08T16:36+08:00",
+    "temp": "26",
+    "feelsLike": "23",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "10",
+    "ai_briefing_zh": "沈阳晴天 26℃，体感凉爽，享受好天气吧！",
+    "ai_briefing_en": "Shenyang is sunny and cool at 26℃. Enjoy the good weather!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

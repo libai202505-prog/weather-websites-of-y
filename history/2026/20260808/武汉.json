@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉晴 36℃，风力 5 级，注意防晒防风哦！",
     "ai_briefing_en": "Wuhan is sunny 36℃, windy. Protect from sun!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-08T17:26+08:00",
+    "temp": "36",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "45",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "23",
+    "dew": "25",
+    "cloud": "1",
+    "ai_briefing_zh": "晴热高温伴有大风，请注意防晒防风，及时补充水分！",
+    "ai_briefing_en": "Sunny and hot with strong winds, remember sun and wind protection, hydrate!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "厦门多云，体感 34℃，紫外线强，注意防晒！",
     "ai_briefing_en": "Xiamen feels 34℃. Strong UV, protect your skin!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-08T17:26+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "135",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "94",
+    "ai_briefing_zh": "多云炎热，紫外线强，外出注意防晒，多喝水哦！",
+    "ai_briefing_en": "Cloudy and hot with strong UV. Protect from sun, remember to hydrate!",
+    "alert": null
   }
 ]

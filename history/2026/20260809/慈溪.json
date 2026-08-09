@@ -318,5 +318,25 @@
     "ai_briefing_zh": "慈溪中雨大风，体感较凉。出门记得带伞！",
     "ai_briefing_en": "Cixi: Rain, wind. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-09T19:18+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "中雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "90",
+    "humidity": "95",
+    "precip": "1.0",
+    "pressure": "992",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "中雨来啦，出门记得带伞，路滑慢行，注意安全哦！",
+    "ai_briefing_en": "Moderate rain! Don't forget your umbrella. Roads may be slippery, drive safe!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "厦门多云风大，体感舒适。出门注意防风防晒。",
     "ai_briefing_en": "Xiamen: Windy. Be careful!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：西北风 6级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-09T19:12+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "315",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "973",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "99",
+    "ai_briefing_zh": "天阴风大，气温高，注意防晒防风，别被吹散了头发哦！",
+    "ai_briefing_en": "Overcast and windy with high temperatures. Protect from sun and wind, and mind your hair!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

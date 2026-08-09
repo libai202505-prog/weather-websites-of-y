@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明中雨，体感较冷。记得添衣，出门带伞！",
     "ai_briefing_en": "Kunming: Moderate rain, feels cold. Add layers, bring umbrella!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-09T11:25+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "28",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天微凉，湿度高，出门带薄外套。",
+    "ai_briefing_en": "Kunming is overcast and cool, high humidity, remember a light jacket.",
+    "alert": null
   }
 ]

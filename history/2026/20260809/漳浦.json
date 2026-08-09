@@ -178,5 +178,25 @@
     "ai_briefing_zh": "漳浦多云，风力 7级。体感舒适，但要注意防风！",
     "ai_briefing_en": "Zhangpu: Cloudy, strong wind. Feels comfy, but stay cautious!",
     "alert": "💨 北风警报：西北风 7级"
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-09T11:36+08:00",
+    "temp": "32",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "7",
+    "windSpeed": "50",
+    "wind360": "315",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "漳浦阴天狂风，体感舒适，请注意防风安全。",
+    "ai_briefing_en": "Zhangpu is overcast with strong winds, feels comfortable, but mind wind safety.",
+    "alert": "💨 北风警报：西北风 7级"
   }
 ]

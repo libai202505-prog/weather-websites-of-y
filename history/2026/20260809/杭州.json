@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州小雨伴 8级大风，体感 16℃。风大雨大，出门要保暖防风哦！",
     "ai_briefing_en": "Light rain and strong 8-level winds in Hangzhou, feels like 16℃. Stay warm and wind-proof!",
     "alert": "💨 北风警报：东北风 8级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-09T16:37+08:00",
+    "temp": "26",
+    "feelsLike": "19",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "8",
+    "windSpeed": "62",
+    "wind360": "0",
+    "humidity": "93",
+    "precip": "2.0",
+    "pressure": "988",
+    "vis": "6",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "中雨 8级大风，体感 19℃。风雨交加，出行务必小心。",
+    "ai_briefing_en": "Moderate rain with strong winds (force 8), feels like 19℃. Be extra careful if heading out.",
+    "alert": "💨 北风警报：北风 8级"
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "厦门阴天，风力 5级。体感 29℃，出门小心防风。",
     "ai_briefing_en": "Overcast in Xiamen with 5-level winds. Feels like 29℃, mind the wind when going out.",
     "alert": "💨 北风警报：西北风 5级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-09T16:36+08:00",
+    "temp": "33",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "6",
+    "windSpeed": "44",
+    "wind360": "315",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天 33℃，风力 6级。体感 29℃，出门仍要注意防晒。",
+    "ai_briefing_en": "Overcast with 33℃, feels like 29℃ and windy. Mind sun protection.",
+    "alert": "💨 北风警报：西北风 6级"
   }
 ]

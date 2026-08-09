@@ -258,5 +258,25 @@
     "ai_briefing_zh": "慈溪大雨伴 7级风，体感 20℃，外出请务必带伞、注意保暖防风！",
     "ai_briefing_en": "Heavy rain and strong winds in Cixi, feels like 20℃. Bring an umbrella and stay warm!",
     "alert": "💨 北风警报：东北风 7级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-09T16:38+08:00",
+    "temp": "26",
+    "feelsLike": "20",
+    "text": "大雨",
+    "windDir": "东北风",
+    "windScale": "8",
+    "windSpeed": "63",
+    "wind360": "45",
+    "humidity": "100",
+    "precip": "9.0",
+    "pressure": "988",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "大雨伴 8级大风，体感 20℃。务必注意安全，防风防雨。",
+    "ai_briefing_en": "Heavy rain, strong winds (force 8), feels like 20℃. Stay safe and dry!",
+    "alert": "💨 北风警报：东北风 8级"
   }
 ]

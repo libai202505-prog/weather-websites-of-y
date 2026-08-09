@@ -258,5 +258,25 @@
     "ai_briefing_zh": "重庆多云，体感 35℃。火炉模式开启，注意防暑降温哦！",
     "ai_briefing_en": "Cloudy in Chongqing, feels like 35℃. The 'furnace mode' is on, stay cool!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-09T16:36+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "974",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天 32℃，体感 34℃。有些闷热，注意防暑降温。",
+    "ai_briefing_en": "Overcast with 32℃, feels like 34℃. A bit muggy, stay cool.",
+    "alert": null
   }
 ]

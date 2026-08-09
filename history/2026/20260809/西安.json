@@ -258,5 +258,25 @@
     "ai_briefing_zh": "西安多云，体感 34℃。天气炎热，注意防晒和多喝水！",
     "ai_briefing_en": "Cloudy in Xi'an, feels like 34℃. It's hot, remember sunscreen and hydration!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-09T16:38+08:00",
+    "temp": "32",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "0",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，气温 32℃，体感舒适。外出记得防晒补水。",
+    "ai_briefing_en": "Cloudy with 32℃, feels comfortable. Remember sun protection and hydration.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

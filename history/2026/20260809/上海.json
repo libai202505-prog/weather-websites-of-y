@@ -278,5 +278,25 @@
     "ai_briefing_zh": "小雨 27℃，体感 26℃。记得带伞，路面湿滑，请小心。",
     "ai_briefing_en": "Light rain, 27℃, feels like 26℃. Grab your umbrella, roads might be slippery.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-09T17:22+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "45",
+    "humidity": "87",
+    "precip": "1.0",
+    "pressure": "996",
+    "vis": "8",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "上海中雨，湿度大。出行带雨具，小心路滑。",
+    "ai_briefing_en": "Shanghai has moderate rain and high humidity. Take an umbrella and watch your step.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

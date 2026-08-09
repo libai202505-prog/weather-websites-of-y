@@ -278,5 +278,25 @@
     "ai_briefing_zh": "气温 32℃，体感 37℃。感觉好热，注意防暑，保持凉爽。",
     "ai_briefing_en": "It's 32℃ but feels like 37℃. Very hot, stay cool and hydrate!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-09T17:15+08:00",
+    "temp": "33",
+    "feelsLike": "37",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "53",
+    "precip": "1.1",
+    "pressure": "947",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都晴朗炎热，体感 37℃。请注意防晒防暑，多补水！",
+    "ai_briefing_en": "Chengdu is sunny and very hot, feels like 37℃. Protect from sun and heat, hydrate!",
+    "alert": null
   }
 ]

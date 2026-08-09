@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京阴天，体感闷热。注意通风，保持舒畅。",
     "ai_briefing_en": "Nanjing is overcast and muggy. Ensure good ventilation to stay comfortable.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-09T09:36+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "26",
+    "dew": "25",
+    "cloud": "93",
+    "ai_briefing_zh": "南京阴天风大，注意添衣，小心着凉。",
+    "ai_briefing_en": "Nanjing: Cloudy, strong wind. Add layers, don't catch a cold!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 6级"
   }
 ]

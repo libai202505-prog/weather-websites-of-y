@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州多云，天气炎热。记得多喝水，注意防暑降温！",
     "ai_briefing_en": "Guangzhou is cloudy and hot. Stay hydrated and cool down!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-09T18:30+08:00",
+    "temp": "34",
+    "feelsLike": "38",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "986",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "广州体感炎热 38℃。记得多喝水、防暑降温！",
+    "ai_briefing_en": "Guangzhou: Hot 38℃. Hydrate!",
+    "alert": null
   }
 ]

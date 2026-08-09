@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海中雨，湿度大。出行带雨具，小心路滑。",
     "ai_briefing_en": "Shanghai has moderate rain and high humidity. Take an umbrella and watch your step.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-09T18:28+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "45",
+    "humidity": "91",
+    "precip": "17.0",
+    "pressure": "996",
+    "vis": "9",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "上海中雨，风力不小。出门带伞，注意安全哦。",
+    "ai_briefing_en": "Shanghai: Rain, wind. Safe!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

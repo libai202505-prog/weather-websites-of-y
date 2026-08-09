@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州大雨，风力 8级。体感偏凉，请注意添衣，出行务必安全！",
     "ai_briefing_en": "Hangzhou has heavy rain and strong winds. It feels cool, dress warmly and stay safe!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 8级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-09T18:30+08:00",
+    "temp": "25",
+    "feelsLike": "21",
+    "text": "大雨",
+    "windDir": "东北风",
+    "windScale": "6",
+    "windSpeed": "48",
+    "wind360": "45",
+    "humidity": "95",
+    "precip": "13.0",
+    "pressure": "988",
+    "vis": "8",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州大雨风大，体感凉 21℃。出行务必带伞！",
+    "ai_briefing_en": "Hangzhou: Rain. Umbrella!",
+    "alert": "💨 北风警报：东北风 6级"
   }
 ]

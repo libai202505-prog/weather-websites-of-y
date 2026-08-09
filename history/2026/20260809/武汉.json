@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉多云，风力 6级。气温舒适，但风大注意安全哦。",
     "ai_briefing_en": "Wuhan is cloudy with strong winds. The temperature is pleasant, but be mindful of the wind.",
     "alert": "💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-09T18:30+08:00",
+    "temp": "31",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "45",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "3",
+    "ai_briefing_zh": "武汉多云，体感 28℃。风力稍大，出行注意。",
+    "ai_briefing_en": "Wuhan: Cloudy, 28℃. Relax!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

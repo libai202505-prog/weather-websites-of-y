@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉多云风大，气温适中，注意防晒哦。",
     "ai_briefing_en": "Wuhan is cloudy with strong winds, temperature is mild, just mind sun protection.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-09T13:02+08:00",
+    "temp": "32",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "45",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "24",
+    "dew": "24",
+    "cloud": "9",
+    "ai_briefing_zh": "武汉多云，温度较高。注意补充水分，出门戴帽防晒。",
+    "ai_briefing_en": "Wuhan is cloudy and warm. Remember to hydrate, wear a hat for sun protection.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

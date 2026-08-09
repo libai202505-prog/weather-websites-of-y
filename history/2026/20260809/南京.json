@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京小雨风大，请带好雨具，注意路滑。",
     "ai_briefing_en": "Nanjing has light rain and strong winds, bring your umbrella and watch for slippery roads.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-09T13:02+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "0",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "21",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "小雨绵绵，湿度高。出门带伞，路滑小心，保持好心情。",
+    "ai_briefing_en": "Light rain and high humidity. Remember your umbrella, watch for slippery roads, stay happy.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

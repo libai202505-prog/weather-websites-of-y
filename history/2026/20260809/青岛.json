@@ -198,5 +198,25 @@
     "ai_briefing_zh": "青岛中雨闷热，注意防雨防滑，多饮水。",
     "ai_briefing_en": "Qingdao has moderate rain, feels muggy, mind rain and slippery roads, drink more water.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-09T13:02+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "45",
+    "humidity": "89",
+    "precip": "4.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "70",
+    "ai_briefing_zh": "青岛小雨，风力适中。出门带伞，路滑小心，保持好心情。",
+    "ai_briefing_en": "Qingdao has light rain and moderate wind. Remember your umbrella, watch for slippery roads.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 5级"
   }
 ]

@@ -358,5 +358,25 @@
     "ai_briefing_zh": "宁波大雨，湿度高。出门带好雨具，注意安全！",
     "ai_briefing_en": "Ningbo has heavy rain and high humidity. Bring rain gear and stay safe!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-09T21:44+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "96",
+    "precip": "5.0",
+    "pressure": "992",
+    "vis": "10",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "宁波小雨，湿度高。出门记得带好雨具哦。",
+    "ai_briefing_en": "Ningbo has light rain, high humidity. Remember your rain gear when going out.",
+    "alert": null
   }
 ]

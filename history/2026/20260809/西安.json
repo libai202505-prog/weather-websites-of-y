@@ -338,5 +338,25 @@
     "ai_briefing_zh": "多云炎热，体感温度高，多喝水，注意防晒，避免中暑哦！",
     "ai_briefing_en": "Cloudy and hot! Stay hydrated, use sun protection, and avoid heatstroke!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-09T20:42+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "225",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "1",
+    "ai_briefing_zh": "西安晴朗，体感偏热。阳光充足，注意防晒哦！",
+    "ai_briefing_en": "Xi'an is sunny and feels warm. Enjoy the sunshine, but remember sun protection!",
+    "alert": null
   }
 ]

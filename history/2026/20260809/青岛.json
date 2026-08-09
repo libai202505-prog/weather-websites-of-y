@@ -238,5 +238,25 @@
     "ai_briefing_zh": "青岛阴天，湿度较高。体感闷热，记得清爽补水哦！",
     "ai_briefing_en": "Cloudy and muggy in Qingdao. Stay hydrated and cool!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-09T15:48+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "26",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛阴天，体感 30℃。虽然阴天，防晒补水也不要忽视哦。",
+    "ai_briefing_en": "Overcast in Qingdao, feels like 30℃. Even cloudy, don't forget sunscreen and hydration.",
+    "alert": null
   }
 ]

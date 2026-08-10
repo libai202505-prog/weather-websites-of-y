@@ -258,5 +258,25 @@
     "ai_briefing_zh": "天气炎热，多喝水，避免中暑哦！",
     "ai_briefing_en": "Very hot, drink plenty of water and avoid heatstroke!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-10T19:02+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天热，记得多喝水，小心别中暑啦！",
+    "ai_briefing_en": "Partly cloudy and hot, drink plenty of water to avoid heatstroke!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

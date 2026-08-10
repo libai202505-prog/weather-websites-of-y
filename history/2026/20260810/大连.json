@@ -258,5 +258,25 @@
     "ai_briefing_zh": "多云天气，凉爽舒适，出门愉快！",
     "ai_briefing_en": "Cloudy weather, cool and comfortable, have a great day!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-10T19:00+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "135",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "多云湿度高，体感稍闷，出门记得带伞哦。",
+    "ai_briefing_en": "Partly cloudy with high humidity, feels a bit muggy. Remember to bring an umbrella.",
+    "alert": null
   }
 ]

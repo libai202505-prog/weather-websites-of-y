@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天有风，注意防风，早晚微凉。",
     "ai_briefing_en": "Overcast and windy, mind the wind, cool in mornings/evenings.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-10T19:02+08:00",
+    "temp": "29",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "270",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "98",
+    "ai_briefing_zh": "多云阵风 5 级，海边风大，出门注意防风哦！",
+    "ai_briefing_en": "Partly cloudy with 5-level gusts, windy by the sea. Be mindful of strong winds!",
+    "alert": null
   }
 ]

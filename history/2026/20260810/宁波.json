@@ -258,5 +258,25 @@
     "ai_briefing_zh": "雨势风急，注意添衣防雨，出行慢行。",
     "ai_briefing_en": "Rainy and windy, dress warm, take care when traveling.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-10T19:02+08:00",
+    "temp": "27",
+    "feelsLike": "22",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "7",
+    "windSpeed": "52",
+    "wind360": "90",
+    "humidity": "90",
+    "precip": "1.0",
+    "pressure": "995",
+    "vis": "9",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨伴 7 级大风，体感较凉，风雨交加注意保暖。",
+    "ai_briefing_en": "Light rain with 7-level winds, feels cool. Stay warm and safe in the wind and rain.",
+    "alert": null
   }
 ]

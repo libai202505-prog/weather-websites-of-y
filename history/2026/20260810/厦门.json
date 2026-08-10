@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天伴 5级 大风，注意防风保暖哦。",
     "ai_briefing_en": "Cloudy with strong winds (Force 5), protect yourself from wind and cold.",
     "alert": "💨 北风警报：西北风 5级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-10T17:01+08:00",
+    "temp": "30",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "270",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天有风，注意防风，早晚微凉。",
+    "ai_briefing_en": "Overcast and windy, mind the wind, cool in mornings/evenings.",
+    "alert": null
   }
 ]

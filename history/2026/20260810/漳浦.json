@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天微热，注意防晒，保持身体舒适。",
     "ai_briefing_en": "Cloudy and slightly warm, sun protect, keep comfortable.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-10T17:01+08:00",
+    "temp": "32",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "270",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天仍热，记得防暑补水，保持凉爽。",
+    "ai_briefing_en": "Overcast yet hot, remember heatstroke prevention and hydration.",
+    "alert": null
   }
 ]

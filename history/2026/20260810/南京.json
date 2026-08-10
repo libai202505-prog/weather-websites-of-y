@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天大风，风力 6级，注意防风保暖哦。",
     "ai_briefing_en": "Cloudy with strong winds (Force 6), protect yourself from wind and cold.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-10T17:00+08:00",
+    "temp": "26",
+    "feelsLike": "22",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "7",
+    "windSpeed": "50",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "21",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "大风雨急，添衣保暖，出行注意安全！",
+    "ai_briefing_en": "Strong wind and heavy rain, dress warm, stay safe.",
+    "alert": null
   }
 ]

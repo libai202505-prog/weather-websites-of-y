@@ -238,5 +238,25 @@
     "ai_briefing_zh": "小雨伴 5级 大风，出行备伞，注意防风。",
     "ai_briefing_en": "Light rain with strong winds (Force 5), bring umbrella, stay safe.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-10T17:01+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "135",
+    "humidity": "87",
+    "precip": "1.0",
+    "pressure": "998",
+    "vis": "29",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天有风，湿度大，记得防潮防晒哦。",
+    "ai_briefing_en": "Overcast and windy, high humidity, mind moisture and sun.",
+    "alert": null
   }
 ]

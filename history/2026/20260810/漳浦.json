@@ -198,5 +198,25 @@
     "ai_briefing_zh": "漳浦多云 6级 大风，体感 27℃，外出注意防风！",
     "ai_briefing_en": "Zhangpu cloudy with strong level 6 wind, feels 27℃, beware of wind when out!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-10T13:12+08:00",
+    "temp": "32",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "315",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "97",
+    "ai_briefing_zh": "漳浦风力 5级，天气闷热，小心着凉感冒。",
+    "ai_briefing_en": "Strong winds and muggy in Zhangpu, be careful not to catch a cold.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

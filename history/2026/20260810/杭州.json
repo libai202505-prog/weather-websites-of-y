@@ -278,5 +278,25 @@
     "ai_briefing_zh": "大雨倾盆，路面湿滑，出行请备雨具，注意安全。",
     "ai_briefing_en": "Heavy rain, roads are slick. Bring rain gear and be careful when out.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-10T21:00+08:00",
+    "temp": "26",
+    "feelsLike": "23",
+    "text": "大雨",
+    "windDir": "东风",
+    "windScale": "6",
+    "windSpeed": "41",
+    "wind360": "90",
+    "humidity": "95",
+    "precip": "5.0",
+    "pressure": "990",
+    "vis": "6",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "杭州大雨大风，请减少外出，注意交通安全！",
+    "ai_briefing_en": "Hangzhou: Heavy rain & strong wind. Stay indoors, be safe!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

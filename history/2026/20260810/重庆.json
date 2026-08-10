@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云天气，体感 31℃ 略闷，外出注意防晒。",
     "ai_briefing_en": "Partly cloudy, feels like 31℃ and a bit muggy. Mind the sun when out.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-10T21:00+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "971",
+    "vis": "22",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆阳光明媚，体感微热。多喝水，防中暑！",
+    "ai_briefing_en": "Chongqing is sunny & warm. Hydrate well, prevent heatstroke!",
+    "alert": null
   }
 ]

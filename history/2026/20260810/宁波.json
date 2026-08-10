@@ -298,5 +298,25 @@
     "ai_briefing_zh": "宁波中雨大风，风力6级。雨具备好，出行多小心。",
     "ai_briefing_en": "Ningbo: Moderate rain & strong wind. Prepare rain gear, travel safely.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-10T22:48+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "中雨",
+    "windDir": "东南风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "135",
+    "humidity": "92",
+    "precip": "1.0",
+    "pressure": "997",
+    "vis": "5",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
+    "ai_briefing_en": "宁波: Night watch, stay warm.",
+    "alert": null
   }
 ]

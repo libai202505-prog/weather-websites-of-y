@@ -298,5 +298,25 @@
     "ai_briefing_zh": "大连多云，湿度 87%。体感舒适，记得防晒哦！",
     "ai_briefing_en": "Dalian: Cloudy, 87% humidity. Comfortable but remember sun protection!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-10T22:48+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "180",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "大连 夜间监测中，注意保暖",
+    "ai_briefing_en": "大连: Night watch, stay warm.",
+    "alert": null
   }
 ]

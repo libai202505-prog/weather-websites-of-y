@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州阴天，气温较高，多补充水分，保持清爽。",
     "ai_briefing_en": "Guangzhou is overcast & warm. Stay hydrated & cool!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-10T22:49+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "990",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "92",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

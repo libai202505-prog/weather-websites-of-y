@@ -158,5 +158,25 @@
     "ai_briefing_zh": "炎炎夏日，气温 30℃。防晒补水，注意中暑哦！",
     "ai_briefing_en": "Hot summer day, 30℃. Stay hydrated, avoid heatstroke!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-10T09:36+08:00",
+    "temp": "33",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "315",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "92",
+    "ai_briefing_zh": "深圳多云炎热，风力较大，出门注意防晒补水。",
+    "ai_briefing_en": "Shenzhen is cloudy and hot with strong winds. Stay hydrated and sun-safe.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

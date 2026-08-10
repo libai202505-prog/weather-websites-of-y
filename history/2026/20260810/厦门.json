@@ -218,5 +218,25 @@
     "ai_briefing_zh": "厦门风力 5级，体感闷热，多补充水分哦。",
     "ai_briefing_en": "Strong winds and muggy in Xiamen, remember to hydrate.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-10T15:34+08:00",
+    "temp": "29",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "315",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天伴 5级 大风，注意防风保暖哦。",
+    "ai_briefing_en": "Cloudy with strong winds (Force 5), protect yourself from wind and cold.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

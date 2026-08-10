@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳烈日炎炎，体感如火，防晒防暑最重要！",
     "ai_briefing_en": "Shenzhen is scorching hot, protect yourself from sun and heatstroke!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-10T15:34+08:00",
+    "temp": "35",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "315",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "多云炎热，体感温度高，注意防暑。",
+    "ai_briefing_en": "Cloudy and hot, high feels-like temperature, take care in heat.",
+    "alert": null
   }
 ]

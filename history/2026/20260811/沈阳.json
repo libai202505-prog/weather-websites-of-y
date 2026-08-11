@@ -198,5 +198,25 @@
     "ai_briefing_zh": "沈阳多云，气温 31℃，风力 4 级，出门注意防风。",
     "ai_briefing_en": "Shenyang is cloudy, 31℃ with 4-level wind. Mind the wind!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-11T13:00+08:00",
+    "temp": "32",
+    "feelsLike": "33",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "225",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "4",
+    "ai_briefing_zh": "沈阳晴天，体感 33℃。阳光正好，出门记得防晒。",
+    "ai_briefing_en": "Shenyang is sunny, feels 33℃. Perfect sunshine, remember sun protection.",
+    "alert": null
   }
 ]

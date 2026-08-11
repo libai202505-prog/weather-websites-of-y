@@ -198,5 +198,25 @@
     "ai_briefing_zh": "深圳今天很热，多云但阳光强，注意防晒。",
     "ai_briefing_en": "Shenzhen is very hot today, protect from sun!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-11T13:00+08:00",
+    "temp": "34",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "270",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "深圳多云，体感 36℃。外出记得防晒补水！",
+    "ai_briefing_en": "Shenzhen is cloudy, feels like 36℃. Sun protection and hydration are key!",
+    "alert": null
   }
 ]

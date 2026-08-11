@@ -338,5 +338,25 @@
     "ai_briefing_zh": "阴天体感舒适，风力 4级，出行注意防风哦。",
     "ai_briefing_en": "Overcast with moderate wind. Feels pleasant, be mindful of the wind.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-11T22:50+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "135",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "26",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛小雨风大，出行注意，记得带雨具。",
     "ai_briefing_en": "Light rain and strong winds in Qingdao, stay safe and bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-11T09:38+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "90",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "22",
+    "dew": "25",
+    "cloud": "97",
+    "ai_briefing_zh": "青岛阴天，湿度82%，注意防潮，体感舒适哦！",
+    "ai_briefing_en": "Qingdao is cloudy and humid. Pay attention to dampness!",
+    "alert": null
   }
 ]

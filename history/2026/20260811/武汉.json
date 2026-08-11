@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉阵雨，湿度高，出门别忘带雨具哦。",
     "ai_briefing_en": "Showers in Wuhan, very humid, don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-11T09:38+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "武汉有雾，湿度100%，出行注意安全，保持干爽！",
+    "ai_briefing_en": "Wuhan has fog, 100% humidity. Drive safely and stay dry!",
+    "alert": null
   }
 ]

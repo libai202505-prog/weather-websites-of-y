@@ -158,5 +158,25 @@
     "ai_briefing_zh": "北京雾气浓，出行请慢行，注意安全哦！",
     "ai_briefing_en": "Foggy in Beijing, drive safe and take it slow, dear!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-11T09:38+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "9",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "北京有雾，能见度低，出行请注意安全哦！",
+    "ai_briefing_en": "Beijing has fog, low visibility. Please drive safely!",
+    "alert": null
   }
 ]

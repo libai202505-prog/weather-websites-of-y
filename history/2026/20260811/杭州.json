@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天湿度大风力强，注意防潮，感受夏日清风吧。",
     "ai_briefing_en": "Overcast, humid, and windy. Stay dry and enjoy the breeze.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-11T20:58+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "45",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "96",
+    "ai_briefing_zh": "多云风力 5级 较大，体感稍凉，记得添衣哦。",
+    "ai_briefing_en": "Cloudy with strong wind. Feels a bit cool, dress warmly!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：东北风 5级"
   }
 ]

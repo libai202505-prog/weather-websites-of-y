@@ -318,5 +318,25 @@
     "ai_briefing_zh": "多云凉爽，体感 19℃，湿度大，记得添件薄外套哦。",
     "ai_briefing_en": "Cloudy and cool, feels like 19℃. It's humid, bring a light jacket.",
     "alert": "📉 红色降温预警：1小时骤降8℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-11T20:48+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "806",
+    "vis": "19",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "多云体感舒适，湿度适中，享受好天气。",
+    "ai_briefing_en": "Cloudy and feels comfortable. Enjoy the pleasant weather!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京中雨风力 4级，体感 25℃，雨势较大，出行注意安全！",
     "ai_briefing_en": "Nanjing has moderate rain and 4-level wind. Be careful when traveling!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-11T19:44+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "6.0",
+    "pressure": "995",
+    "vis": "4",
+    "dew": "25",
+    "cloud": "96",
+    "ai_briefing_zh": "小雨伴强风，湿度 100%，出门带伞，小心湿滑。",
+    "ai_briefing_en": "Light rain and strong winds, 100% humidity. Bring an umbrella, watch for slips.",
+    "alert": null
   }
 ]

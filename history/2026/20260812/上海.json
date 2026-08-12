@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海有阵雨，带把伞，体感湿热，多喝水。",
     "ai_briefing_en": "Showers in Shanghai, grab an umbrella and drink water!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-12T12:00+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "95",
+    "precip": "2.0",
+    "pressure": "1000",
+    "vis": "4",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "上海中雨，湿度大，出行带伞，注意防潮哦。",
+    "ai_briefing_en": "Moderate rain in Shanghai, bring an umbrella and mind the humidity.",
+    "alert": null
   }
 ]

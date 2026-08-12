@@ -218,5 +218,25 @@
     "ai_briefing_zh": "气温 29℃，风力 4级。外出小心大风哦。",
     "ai_briefing_en": "It's 29℃ with 4-level wind. Be careful of strong winds outdoors.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-12T17:58+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天微热，注意防晒，保持好心情哦！",
+    "ai_briefing_en": "Overcast and mild, remember to sun-protect and stay cheerful!",
+    "alert": null
   }
 ]

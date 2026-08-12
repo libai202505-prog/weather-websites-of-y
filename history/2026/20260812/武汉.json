@@ -218,5 +218,25 @@
     "ai_briefing_zh": "天气闷热，湿度 94%。多穿透气衣物，保持舒爽。",
     "ai_briefing_en": "It's muggy and humid at 94%. Wear breathable clothes to stay comfortable.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-12T17:58+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "29",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "湿度极高，体感闷热，及时补充水分哦！",
+    "ai_briefing_en": "Extremely humid and muggy, remember to rehydrate often!",
+    "alert": null
   }
 ]

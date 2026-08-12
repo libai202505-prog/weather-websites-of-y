@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天湿度大，体感有点闷。记得多喝水，保持清爽哦。",
     "ai_briefing_en": "Cloudy and humid. Stay hydrated and keep cool, dear.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-12T20:58+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "13",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天湿热，体感 30℃。保持清爽最重要！",
+    "ai_briefing_en": "Overcast and humid, feels like 30℃. Stay cool!",
+    "alert": null
   }
 ]

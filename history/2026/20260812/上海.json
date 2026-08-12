@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天湿热，体感 30℃。保持清爽最重要！",
     "ai_briefing_en": "Overcast and humid, feels like 30℃. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-12T22:50+08:00",
+    "temp": "27",
+    "feelsLike": "31",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "9",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

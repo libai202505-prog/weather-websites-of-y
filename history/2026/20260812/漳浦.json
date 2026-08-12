@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大雾闷热，体感 32℃，出行注意安全！",
     "ai_briefing_en": "Dense fog & muggy, feels 32℃, drive safely!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-12T09:49+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "270",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "16",
+    "dew": "26",
+    "cloud": "92",
+    "ai_briefing_zh": "漳浦多云炎热，风力不小，注意防晒补水哦。",
+    "ai_briefing_en": "Sunny and hot in Zhangpu, with wind. Hydrate and use sunscreen!",
+    "alert": null
   }
 ]

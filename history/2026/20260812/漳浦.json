@@ -198,5 +198,25 @@
     "ai_briefing_zh": "漳浦阴天，体感 35℃，炎热，多喝水防中暑。",
     "ai_briefing_en": "Cloudy and hot in Zhangpu, drink water to prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-12T16:00+08:00",
+    "temp": "34",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "225",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "21",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "天气炎热，风力 4级。外出记得防晒，多喝水。",
+    "ai_briefing_en": "It's hot with 4-level wind. Don't forget sunscreen and drink plenty of water.",
+    "alert": null
   }
 ]

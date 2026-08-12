@@ -198,5 +198,25 @@
     "ai_briefing_zh": "北京小雨送清凉，出门别忘带雨具哦！",
     "ai_briefing_en": "Light rain in Beijing, remember your umbrella!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-12T16:00+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "27",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "天气微热，湿度大，记得保持清爽哦！",
+    "ai_briefing_en": "It's warm and humid. Stay fresh and comfortable!",
+    "alert": null
   }
 ]

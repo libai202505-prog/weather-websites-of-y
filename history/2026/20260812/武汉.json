@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉阴天，体感 32℃，记得多喝水解暑。",
     "ai_briefing_en": "Cloudy and warm in Wuhan, drink plenty of water.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-12T16:00+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "225",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "天气闷热，湿度 94%。多穿透气衣物，保持舒爽。",
+    "ai_briefing_en": "It's muggy and humid at 94%. Wear breathable clothes to stay comfortable.",
+    "alert": null
   }
 ]

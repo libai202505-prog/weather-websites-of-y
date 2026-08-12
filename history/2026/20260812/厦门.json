@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门多云，体感 33℃，海边游玩注意防晒。",
     "ai_briefing_en": "Cloudy and warm in Xiamen, protect yourself from sun at the beach.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-12T16:00+08:00",
+    "temp": "32",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "135",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "982",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "气温 32℃，风力 4级。多补水，注意防晒。",
+    "ai_briefing_en": "It's 32℃ with 4-level wind. Stay hydrated and use sunscreen.",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "大雾弥漫，能见度低，开车请务必小心！",
     "ai_briefing_en": "Dense fog, low visibility, please drive extra carefully!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-12T19:38+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "8",
+    "dew": "24",
+    "cloud": "97",
+    "ai_briefing_zh": "浓雾弥漫，湿度 100%。出行注意安全，别着凉了。",
+    "ai_briefing_en": "Dense fog and 100% humidity. Travel safely and don't catch a cold.",
+    "alert": null
   }
 ]

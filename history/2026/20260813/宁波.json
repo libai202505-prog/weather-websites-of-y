@@ -138,5 +138,25 @@
     "ai_briefing_zh": "宁波多云，体感 35℃。闷热难耐，注意防暑降温！",
     "ai_briefing_en": "Ningbo is cloudy, feels like 35℃. Hot & muggy, stay cool!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-13T12:02+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "15",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天体感 36℃，出门记得防晒防暑。",
+    "ai_briefing_en": "Cloudy, hot 36℃. Sunscreen!",
+    "alert": null
   }
 ]

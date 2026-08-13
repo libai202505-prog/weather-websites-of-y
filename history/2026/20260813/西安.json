@@ -138,5 +138,25 @@
     "ai_briefing_zh": "西安中雨，气温 23℃。雨天微凉，记得添衣保暖。",
     "ai_briefing_en": "Xi'an has moderate rain, 23℃. It's cool, dress warmly!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-13T11:48+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "0.7",
+    "pressure": "963",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "阴天体感 29℃，湿度大，保持好心情。",
+    "ai_briefing_en": "Cloudy, 29℃ feel, humid. Enjoy!",
+    "alert": null
   }
 ]

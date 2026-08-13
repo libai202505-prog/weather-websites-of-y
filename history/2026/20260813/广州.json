@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大雨伴强风，请注意出行安全，记得带伞。",
     "ai_briefing_en": "Heavy rain & wind. Safe!",
     "alert": "📉 红色降温预警：1小时骤降16℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-13T18:02+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "1.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "99",
+    "ai_briefing_zh": "广州阴天，湿度 94%，体感闷热，多补水哦！",
+    "ai_briefing_en": "Guangzhou is cloudy, 94% humidity. It feels muggy, hydrate well!",
+    "alert": null
   }
 ]

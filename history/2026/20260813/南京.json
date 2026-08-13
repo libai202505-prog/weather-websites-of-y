@@ -258,5 +258,25 @@
     "ai_briefing_zh": "大雾蒙蒙，湿度 100%。路面湿滑，出行请慢行。",
     "ai_briefing_en": "Very foggy, 100% humidity. Roads are slick, please drive slowly.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-13T22:50+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "13",
+    "dew": "24",
+    "cloud": "99",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

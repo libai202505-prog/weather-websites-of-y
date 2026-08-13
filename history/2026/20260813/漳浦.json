@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天炎热，体感 31℃，湿度高，注意防暑。",
     "ai_briefing_en": "Overcast and hot, feels like 31℃. High humidity, remember to stay cool!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-13T22:50+08:00",
+    "temp": "29",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "18",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "漳浦 夜间监测中，注意保暖",
+    "ai_briefing_en": "漳浦: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大雾闷热体感 36℃，出行注意安全。",
     "ai_briefing_en": "Foggy, feels 36℃. Drive safely!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-13T14:02+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "90",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "8",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州多云炎热，出行注意防晒补水哦。",
+    "ai_briefing_en": "Hangzhou is cloudy and hot. Remember sun protection and hydration.",
+    "alert": null
   }
 ]

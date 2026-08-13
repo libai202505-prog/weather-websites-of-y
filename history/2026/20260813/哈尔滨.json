@@ -238,5 +238,25 @@
     "ai_briefing_zh": "哈尔滨阴天湿度大，感觉有点闷，记得开窗通风。",
     "ai_briefing_en": "Harbin is overcast and humid; feels stuffy, open windows!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-13T20:48+08:00",
+    "temp": "20",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "270",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天凉爽，湿度 94%，出门记得带雨具。",
+    "ai_briefing_en": "Overcast and cool, 94% humidity. Remember to bring your rain gear!",
+    "alert": null
   }
 ]

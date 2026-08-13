@@ -238,5 +238,25 @@
     "ai_briefing_zh": "北京多云，体感稍热，记得多喝水哦！",
     "ai_briefing_en": "Beijing is cloudy and feels warm; stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-13T21:00+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "7",
+    "ai_briefing_zh": "多云微热，湿度大，感觉有点闷哦，注意补水。",
+    "ai_briefing_en": "Cloudy and warm, high humidity. Feels muggy, remember to hydrate!",
+    "alert": null
   }
 ]

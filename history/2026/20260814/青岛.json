@@ -258,5 +258,25 @@
     "ai_briefing_zh": "青岛多云，体感 29℃，风力不大。出门记得防晒补水哦！",
     "ai_briefing_en": "Qingdao is cloudy, feels like 29℃, light wind. Mind sun protection, hydrate!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-14T21:00+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "180",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛多云，体感 29℃ 湿度大，出门记得带伞哦。",
+    "ai_briefing_en": "Qingdao is cloudy, feels 29°C and humid. Remember your umbrella when you go out.",
+    "alert": null
   }
 ]

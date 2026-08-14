@@ -218,5 +218,25 @@
     "ai_briefing_zh": "深圳阴天，体感闷热，多喝水，注意防暑降温。",
     "ai_briefing_en": "Shenzhen is cloudy and muggy. Drink more water and cool down.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-14T17:48+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "180",
+    "humidity": "82",
+    "precip": "5.5",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，体感 30℃。记得多喝水。",
+    "ai_briefing_en": "Shenzhen 30℃. Hydrate!",
+    "alert": null
   }
 ]

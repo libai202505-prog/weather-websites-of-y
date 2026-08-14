@@ -218,5 +218,25 @@
     "ai_briefing_zh": "慈溪大雨，风力强劲，出行请带好雨具，注意安全！",
     "ai_briefing_en": "Cixi has heavy rain and strong winds. Bring rain gear and stay safe!",
     "alert": "📉 红色降温预警：1小时骤降11℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-14T17:58+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "13.0",
+    "pressure": "999",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "慈溪小雨，湿度 100%。出门带伞！",
+    "ai_briefing_en": "Cixi rain. Bring umbrella!",
+    "alert": null
   }
 ]

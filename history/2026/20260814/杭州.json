@@ -178,5 +178,25 @@
     "ai_briefing_zh": "小雨炎热，体感 35℃。出门带伞，注意防暑降温哦。",
     "ai_briefing_en": "Light rain in Hangzhou, feels scorching. Don't forget your umbrella and stay cool.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-14T14:00+08:00",
+    "temp": "31",
+    "feelsLike": "30",
+    "text": "大雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "13",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "杭州大雨 31℃，风力 5 级。雨大风强，注意安全带伞！",
+    "ai_briefing_en": "Hangzhou has heavy rain 31℃, wind level 5. Strong rain & wind, stay safe & bring an umbrella!",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：东北风 5级"
   }
 ]

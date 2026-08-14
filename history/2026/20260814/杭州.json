@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州大雨 31℃，风力 5 级。雨大风强，注意安全带伞！",
     "ai_briefing_en": "Hangzhou has heavy rain 31℃, wind level 5. Strong rain & wind, stay safe & bring an umbrella!",
     "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-14T16:00+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "大雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "45",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "9",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "杭州大雨，风力 5 级。请带好雨具，注意出行安全。",
+    "ai_briefing_en": "Hangzhou has heavy rain and 5-level winds. Bring rain gear, travel safely.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

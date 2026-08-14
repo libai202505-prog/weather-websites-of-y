@@ -198,5 +198,25 @@
     "ai_briefing_zh": "武汉多云 30℃，注意防晒哦。保持好心情！",
     "ai_briefing_en": "Wuhan is cloudy 30℃, remember sunscreen. Keep in a good mood!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-14T16:02+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "45",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天，体感适中。出门记得带伞，预防阵雨。",
+    "ai_briefing_en": "Wuhan is cloudy with a moderate feel. Bring an umbrella for possible showers.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

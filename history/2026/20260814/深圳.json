@@ -198,5 +198,25 @@
     "ai_briefing_zh": "深圳小雨 26℃，体感 29℃。湿度高，带伞防闷热。",
     "ai_briefing_en": "Shenzhen has light rain 26℃, feels 29℃. High humidity, bring an umbrella to avoid stuffiness.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-14T15:48+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，体感闷热，多喝水，注意防暑降温。",
+    "ai_briefing_en": "Shenzhen is cloudy and muggy. Drink more water and cool down.",
+    "alert": null
   }
 ]

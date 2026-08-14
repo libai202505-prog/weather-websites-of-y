@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳阴天，体感 32℃ 闷热，注意防晒补水哦。",
     "ai_briefing_en": "Shenzhen: Muggy. Cool!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-14T12:02+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "小雨",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "225",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "8",
+    "dew": "26",
+    "cloud": "92",
+    "ai_briefing_zh": "小雨舒适，风力稍大。外出记得带伞，注意安全。",
+    "ai_briefing_en": "Shenzhen has light rain and stronger winds. Carry an umbrella!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

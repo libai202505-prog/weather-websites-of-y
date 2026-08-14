@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海阴天闷热 31℃，湿度高，注意防暑。",
     "ai_briefing_en": "Shanghai: Humid. Cool!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-14T12:00+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "135",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "15",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "小雨湿热，出门带伞。注意防潮，小心路滑哦。",
+    "ai_briefing_en": "Light rain in Shanghai, feels muggy. Take an umbrella and mind the humidity.",
+    "alert": null
   }
 ]

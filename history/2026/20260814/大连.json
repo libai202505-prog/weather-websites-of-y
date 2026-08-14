@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连阴天，体感 30℃ 稍闷，湿度适中，注意调整。",
     "ai_briefing_en": "Dalian: Cloudy. Muggy.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-14T11:48+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天，体感偏热。记得多喝水，保持身体舒适。",
+    "ai_briefing_en": "Dalian is overcast and feels warm. Remember to drink water and stay comfortable.",
+    "alert": null
   }
 ]

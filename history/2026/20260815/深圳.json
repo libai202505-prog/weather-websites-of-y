@@ -138,5 +138,25 @@
     "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
     "ai_briefing_en": "深圳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-15T06:48+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "135",
+    "humidity": "95",
+    "precip": "2.8",
+    "pressure": "996",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，湿度高。体感 28℃，多喝水哦。",
+    "ai_briefing_en": "Overcast in Shenzhen, high humidity. Feels like 28℃, drink more water.",
+    "alert": null
   }
 ]

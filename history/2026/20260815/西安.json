@@ -138,5 +138,25 @@
     "ai_briefing_zh": "西安 夜间监测中，注意保暖",
     "ai_briefing_en": "西安: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-15T06:48+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安晴朗，气温 23℃。注意补水，享受好天气。",
+    "ai_briefing_en": "Sunny in Xi'an, 23℃. Stay hydrated and enjoy the fine weather.",
+    "alert": null
   }
 ]

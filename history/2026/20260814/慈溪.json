@@ -138,5 +138,25 @@
     "ai_briefing_zh": "慈溪阴天，体感 32℃ 较闷热，湿度大，记得防暑降温哦！",
     "ai_briefing_en": "Cixi is cloudy, feels like 32℃ and humid. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-14T09:51+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪阴天，体感 32℃ 较闷热，湿度高，注意防暑。",
+    "ai_briefing_en": "Cixi: Humid. Hydrate!",
+    "alert": null
   }
 ]

@@ -138,5 +138,25 @@
     "ai_briefing_zh": "成都晴朗，湿度 100%，体感 25℃。空气湿润，保持好心情。",
     "ai_briefing_en": "Chengdu is sunny with 100% humidity, feels 25℃. Enjoy the moisture!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-14T09:37+08:00",
+    "temp": "31",
+    "feelsLike": "36",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都晴朗，体感 36℃ 炎热，请注意防晒补水。",
+    "ai_briefing_en": "Chengdu: Hot. Hydrate!",
+    "alert": null
   }
 ]

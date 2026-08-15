@@ -378,5 +378,25 @@
     "ai_briefing_zh": "成都体感 34℃ 高温。及时补水，避免长时间户外！",
     "ai_briefing_en": "Chengdu feels like 34℃ with high temperatures. Hydrate promptly and avoid long outdoor exposure!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-15T20:15+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.4",
+    "pressure": "945",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天，体感炎热，注意防暑，多喝水。",
+    "ai_briefing_en": "Chengdu is cloudy and feels very hot. Protect yourself from heatstroke, drink more water.",
+    "alert": null
   }
 ]

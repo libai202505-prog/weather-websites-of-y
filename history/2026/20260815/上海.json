@@ -418,5 +418,25 @@
     "ai_briefing_zh": "上海阴天，体感偏热，记得多补充水分呀。",
     "ai_briefing_en": "Shanghai is cloudy. It feels a bit hot, remember to hydrate well.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-15T22:00+08:00",
+    "temp": "27",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -418,5 +418,25 @@
     "ai_briefing_zh": "宁波小雨，体感湿热，请带好雨具防滑。",
     "ai_briefing_en": "Ningbo has light rain. It feels hot and humid, please bring rain gear and watch for slippery roads.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-15T22:02+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "97",
+    "precip": "1.0",
+    "pressure": "1002",
+    "vis": "5",
+    "dew": "25",
+    "cloud": "99",
+    "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
+    "ai_briefing_en": "宁波: Night watch, stay warm.",
+    "alert": null
   }
 ]

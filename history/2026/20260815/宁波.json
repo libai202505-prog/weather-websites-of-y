@@ -318,5 +318,25 @@
     "ai_briefing_zh": "宁波小雨，湿度 80%。带伞，小心湿滑！",
     "ai_briefing_en": "Ningbo: Rain. Umbrella, beware!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-15T17:12+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "大雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "100",
+    "ai_briefing_zh": "宁波大雨，体感 32℃，出门记得带伞，注意出行安全。",
+    "ai_briefing_en": "Ningbo has heavy rain with a feels-like 32℃. Remember your umbrella and travel safely.",
+    "alert": null
   }
 ]

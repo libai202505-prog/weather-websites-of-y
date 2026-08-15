@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京阵雨，湿度 100%。带伞，衣物防潮！",
     "ai_briefing_en": "Nanjing: Showers. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-15T17:12+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "90",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "11",
+    "dew": "24",
+    "cloud": "95",
+    "ai_briefing_zh": "南京有雾，能见度低，驾车出行请减速慢行，注意安全。",
+    "ai_briefing_en": "Nanjing is foggy with low visibility. Drive slowly and carefully, stay safe.",
+    "alert": null
   }
 ]

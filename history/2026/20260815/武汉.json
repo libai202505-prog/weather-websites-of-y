@@ -278,5 +278,25 @@
     "ai_briefing_zh": "武汉阴天，湿度 86% 较大，外出记得带伞。",
     "ai_briefing_en": "Wuhan is overcast, 86% humidity. Bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-15T15:24+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天微凉，湿度较高。出门带件薄外套！",
+    "ai_briefing_en": "Overcast, cool. Jacket!",
+    "alert": null
   }
 ]

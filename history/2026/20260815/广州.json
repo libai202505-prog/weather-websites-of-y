@@ -278,5 +278,25 @@
     "ai_briefing_zh": "广州阴天 36℃，炎热难耐，多喝水避暑哦。",
     "ai_briefing_en": "Guangzhou is overcast 36℃. Very hot, drink water!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-15T15:15+08:00",
+    "temp": "33",
+    "feelsLike": "37",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "315",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "天气炎热！体感高，注意防晒防暑。",
+    "ai_briefing_en": "Hot! Sunscreen, hydrate!",
+    "alert": null
   }
 ]

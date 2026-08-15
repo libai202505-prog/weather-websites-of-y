@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天舒适，体感 30℃，微风阵阵，出行惬意。",
     "ai_briefing_en": "Overcast and comfortable, feels like 30℃. Enjoy the breeze.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-15T14:32+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "180",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛多云，体感 30℃ 舒适，风力 4级 注意防晒。",
+    "ai_briefing_en": "Qingdao is cloudy, feels 30℃ pleasant. 4-level wind, stay cool.",
+    "alert": null
   }
 ]

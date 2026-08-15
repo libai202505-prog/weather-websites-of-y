@@ -258,5 +258,25 @@
     "ai_briefing_zh": "阴天高湿，体感闷热，注意防潮，保持室内通风。",
     "ai_briefing_en": "Overcast and very humid. Keep rooms ventilated, stay dry.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-15T14:30+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "22",
+    "dew": "24",
+    "cloud": "93",
+    "ai_briefing_zh": "南京多云，湿度 91% 闷热，注意防潮防蚊哦。",
+    "ai_briefing_en": "Nanjing is cloudy, 91% humidity. Muggy, watch for dampness!",
+    "alert": null
   }
 ]

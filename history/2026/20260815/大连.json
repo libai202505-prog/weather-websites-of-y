@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云舒适。海风微拂，享受惬意！",
     "ai_briefing_en": "Cloudy, comfy. Enjoy!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-15T16:05+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "180",
+    "humidity": "69",
+    "precip": "0.2",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，风力 4级。海边风大，注意防风！",
+    "ai_briefing_en": "Dalian: Windy. Dress warm!",
+    "alert": null
   }
 ]

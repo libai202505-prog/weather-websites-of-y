@@ -298,5 +298,25 @@
     "ai_briefing_zh": "天气炎热。防晒防暑，及时补充水分！",
     "ai_briefing_en": "Hot! Sunscreen, hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-15T16:05+08:00",
+    "temp": "33",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安阴天 35℃。炎热，外出注意防暑！",
+    "ai_briefing_en": "Xi'an: 35℃. Hot, stay cool!",
+    "alert": null
   }
 ]

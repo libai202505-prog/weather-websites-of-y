@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天体感热。多补水，注意防暑降温！",
     "ai_briefing_en": "Overcast, feels hot. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-15T16:18+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "中雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "慈溪中雨，湿度 92%。带伞，防滑！",
+    "ai_briefing_en": "Cixi: Rain. Umbrella, beware!",
+    "alert": null
   }
 ]

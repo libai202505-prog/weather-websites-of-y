@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天体感闷热。注意防暑，多喝水！",
     "ai_briefing_en": "Overcast, muggy. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-15T16:12+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "13",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "宁波小雨，湿度 80%。带伞，小心湿滑！",
+    "ai_briefing_en": "Ningbo: Rain. Umbrella, beware!",
+    "alert": null
   }
 ]

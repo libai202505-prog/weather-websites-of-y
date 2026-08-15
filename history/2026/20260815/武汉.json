@@ -298,5 +298,25 @@
     "ai_briefing_zh": "阴天微凉，湿度较高。出门带件薄外套！",
     "ai_briefing_en": "Overcast, cool. Jacket!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-15T16:12+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，湿度 85%。闷热，多补水！",
+    "ai_briefing_en": "Wuhan: Muggy, hydrate!",
+    "alert": null
   }
 ]

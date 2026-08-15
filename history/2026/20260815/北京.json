@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云舒适，微风宜人。出门带上好心情！",
     "ai_briefing_en": "Cloudy, comfy. Enjoy!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-15T16:08+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "225",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "91",
+    "ai_briefing_zh": "北京多云 32℃，注意防晒补水！",
+    "ai_briefing_en": "Beijing: 32℃. Hydrate!",
+    "alert": null
   }
 ]

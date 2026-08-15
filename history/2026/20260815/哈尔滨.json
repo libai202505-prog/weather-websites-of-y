@@ -298,5 +298,25 @@
     "ai_briefing_zh": "多云舒适。享受宜人天气，心情美美哒！",
     "ai_briefing_en": "Cloudy, comfy. Enjoy!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-15T16:05+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "90",
+    "humidity": "61",
+    "precip": "0.4",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨多云，风力 4级。注意防风保暖！",
+    "ai_briefing_en": "Harbin: Windy. Dress warmly!",
+    "alert": null
   }
 ]

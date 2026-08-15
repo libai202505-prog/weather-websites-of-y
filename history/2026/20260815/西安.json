@@ -238,5 +238,25 @@
     "ai_briefing_zh": "西安多云，体感 36℃。天气炎热，请多喝水，注意防晒。",
     "ai_briefing_en": "Xi'an is cloudy, feels like 36℃. It's hot, so drink water and stay sun-safe.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-15T12:48+08:00",
+    "temp": "31",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "多云炎热，体感 36℃，防晒补水，小心中暑哦。",
+    "ai_briefing_en": "Cloudy and hot, feels like 36℃. Stay hydrated, avoid heatstroke.",
+    "alert": null
   }
 ]

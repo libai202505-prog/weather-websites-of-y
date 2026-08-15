@@ -338,5 +338,25 @@
     "ai_briefing_zh": "北京多云，体感 30℃，记得多喝水防暑哦！",
     "ai_briefing_en": "Beijing is cloudy with a feels-like 30℃. Remember to drink water to prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-15T18:00+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "135",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "8",
+    "ai_briefing_zh": "北京晴好 30℃，多喝水，注意防晒！",
+    "ai_briefing_en": "Beijing: Sunny, 30℃. Hydrate, sun-safe.",
+    "alert": null
   }
 ]

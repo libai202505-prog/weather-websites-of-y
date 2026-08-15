@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-16T06:48+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "12",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连有雾 25℃，湿度 90%。能见度低，出行请注意安全。",
+    "ai_briefing_en": "Dalian is foggy at 25℃, 90% humidity. Low visibility, please mind your safety when traveling.",
+    "alert": null
   }
 ]

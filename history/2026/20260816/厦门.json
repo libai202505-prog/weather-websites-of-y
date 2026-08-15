@@ -138,5 +138,25 @@
     "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
     "ai_briefing_en": "厦门: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-16T07:00+08:00",
+    "temp": "27",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "22",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门多云 27℃，体感 31℃。体感炎热，多补水防晒防中暑。",
+    "ai_briefing_en": "Xiamen is cloudy at 27℃, feels 31℃. Feels scorching, hydrate, sun protect, prevent heatstroke.",
+    "alert": null
   }
 ]

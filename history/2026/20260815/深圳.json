@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳阴天 32℃。湿度高，注意防暑通风！",
     "ai_briefing_en": "Shenzhen: Overcast, 32℃. High humidity. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-15T18:48+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "135",
+    "humidity": "83",
+    "precip": "0.3",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天体感闷热。注意防暑降温，保持通风！",
+    "ai_briefing_en": "Shenzhen is overcast and feels stuffy and hot. Stay cool and ensure good ventilation!",
+    "alert": null
   }
 ]

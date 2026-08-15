@@ -178,5 +178,25 @@
     "ai_briefing_zh": "深圳中雨，湿度 92%，出门记得带伞，小心湿滑！",
     "ai_briefing_en": "Moderate rain in Shenzhen, 92% humidity. Grab an umbrella & be careful!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-15T10:37+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "135",
+    "humidity": "92",
+    "precip": "0.6",
+    "pressure": "997",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳湿度 92% 很高哦，体感 31℃ 潮湿。保持室内通风，注意防潮。",
+    "ai_briefing_en": "Shenzhen has very high 92% humidity, feeling 31℃ humid. Keep rooms ventilated and mind the dampness.",
+    "alert": null
   }
 ]

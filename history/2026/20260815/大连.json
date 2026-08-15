@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连阴天，体感 27℃。小心闷热，保持好心情。",
     "ai_briefing_en": "Overcast in Dalian, feels like 27℃. Watch out for mugginess, stay cheerful.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-15T08:48+08:00",
+    "temp": "24",
+    "feelsLike": "19",
+    "text": "大雨",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "90",
+    "humidity": "85",
+    "precip": "0.3",
+    "pressure": "995",
+    "vis": "1",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连大雨体感 19℃，出门带伞，添衣保暖，注意安全！",
+    "ai_briefing_en": "Heavy rain in Dalian, feels like 19℃. Bring umbrella, dress warm, stay safe!",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

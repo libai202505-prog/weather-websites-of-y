@@ -158,5 +158,25 @@
     "ai_briefing_zh": "上海有雾，体感 30℃，出行注意交通安全，注意防暑。",
     "ai_briefing_en": "Fog in Shanghai, feels like 30℃. Drive safe and stay cool!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-15T09:00+08:00",
+    "temp": "27",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "25",
+    "cloud": "98",
+    "ai_briefing_zh": "上海多云体感 31℃，湿度高，防晒补水，注意防暑！",
+    "ai_briefing_en": "Shanghai feels like 31℃, high humidity. Stay cool & hydrated!",
+    "alert": null
   }
 ]

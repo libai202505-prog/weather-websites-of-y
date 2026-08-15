@@ -158,5 +158,25 @@
     "ai_briefing_zh": "宁波阵雨，体感 29℃。出门带伞，小心湿滑。",
     "ai_briefing_en": "Showers in Ningbo, feels like 29℃. Bring umbrella, watch for slippery roads.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-15T09:00+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "17",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云体感 31℃，湿度 83%。防晒补水，注意防暑！",
+    "ai_briefing_en": "Ningbo is cloudy & feels like 31℃ with 83% humidity. Stay cool & hydrate!",
+    "alert": null
   }
 ]

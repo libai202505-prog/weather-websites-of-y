@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州多云风力 4 级，体感舒适。外出注意防晒，小心着凉。",
     "ai_briefing_en": "Hangzhou is cloudy with Force 4 wind, feeling comfortable. Protect from sun and avoid catching a chill.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-16T13:10+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "315",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "18",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "天气微热，体感 32℃，记得多喝水，防晒哦！",
+    "ai_briefing_en": "Slightly warm at 32℃, remember to hydrate and use sun protection!",
+    "alert": null
   }
 ]

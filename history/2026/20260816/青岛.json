@@ -238,5 +238,25 @@
     "ai_briefing_zh": "青岛多云体感舒适，微风阵阵。享受海风，别忘防晒哦。",
     "ai_briefing_en": "Qingdao is cloudy and feels comfortable, with gentle breezes. Enjoy the sea breeze, but don't forget sun protection.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-16T13:10+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "180",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "多云天气，体感 31℃ 舒适，记得防晒！",
+    "ai_briefing_en": "Cloudy and comfortable 31℃, remember sun protection!",
+    "alert": null
   }
 ]

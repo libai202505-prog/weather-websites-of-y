@@ -238,5 +238,25 @@
     "ai_briefing_zh": "沈阳多云体感热，湿度适中。注意防晒，及时补充水分。",
     "ai_briefing_en": "Shenyang is cloudy and feels hot, moderate humidity. Protect from sun and replenish water promptly.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-16T13:05+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "中雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "90",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "5",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "中雨来袭，记得带伞，路上慢行，注意安全！",
+    "ai_briefing_en": "Moderate rain, remember your umbrella, drive safely!",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

@@ -398,5 +398,25 @@
     "ai_briefing_zh": "漳浦有雾，体感 30℃，湿度 97%，出行注意安全！",
     "ai_briefing_en": "Zhangpu has fog, feels like 30℃ with 97% humidity. Travel safely!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-16T21:26+08:00",
+    "temp": "26",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "3",
+    "dew": "27",
+    "cloud": "96",
+    "ai_briefing_zh": "漳浦有雾，体感 30℃，湿度 97%，能见度低，出行注意安全。",
+    "ai_briefing_en": "Zhangpu is foggy, feels like 30℃ with 97% humidity. Visibility is low, travel safely!",
+    "alert": null
   }
 ]

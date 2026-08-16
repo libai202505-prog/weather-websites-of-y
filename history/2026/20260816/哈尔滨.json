@@ -398,5 +398,25 @@
     "ai_briefing_zh": "哈尔滨多云，湿度 94%，体感稍凉，注意防潮哦！",
     "ai_briefing_en": "Harbin is cloudy with 94% humidity. Feels a bit cool, watch out for dampness!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-16T21:15+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "90",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "7",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨多云体感 23℃，湿度 95%，出行记得带伞，早晚微凉。",
+    "ai_briefing_en": "Harbin is cloudy and feels like 23℃ with 95% humidity. Bring an umbrella, it's cool in the mornings and evenings.",
+    "alert": null
   }
 ]

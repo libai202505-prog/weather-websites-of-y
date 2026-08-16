@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州有雾，气温 27℃。出行注意安全，减速慢行！",
     "ai_briefing_en": "Fog in Hangzhou, 27℃. Drive safely and slowly if you're out.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-16T11:50+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "10",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州多云 31℃，湿度大。出门记得带伞！",
+    "ai_briefing_en": "Hangzhou is cloudy, 31℃ with high humidity. Carry an umbrella!",
+    "alert": null
   }
 ]

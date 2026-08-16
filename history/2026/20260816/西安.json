@@ -198,5 +198,25 @@
     "ai_briefing_zh": "西安阴天，体感 31℃。天气微热，别忘补水防晒！",
     "ai_briefing_en": "Xi'an is overcast, feels like 31℃. Even though it's cloudy, remember sun protection and hydration!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-16T11:37+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安阴天，体感 34℃。及时补水，穿衣清爽。",
+    "ai_briefing_en": "Xi'an is cloudy, feels like 34℃. Hydrate well and dress lightly.",
+    "alert": null
   }
 ]

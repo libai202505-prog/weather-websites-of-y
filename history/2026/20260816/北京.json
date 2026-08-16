@@ -358,5 +358,25 @@
     "ai_briefing_zh": "北京多云，体感舒适 28℃。记得补充水分哦！",
     "ai_briefing_en": "Beijing is cloudy, feels comfy at 28℃. Remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-16T19:00+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "4",
+    "ai_briefing_zh": "北京晴空万里，气温 26℃，体感舒适。",
+    "ai_briefing_en": "Beijing enjoys clear skies at 26℃, feeling comfortable.",
+    "alert": null
   }
 ]

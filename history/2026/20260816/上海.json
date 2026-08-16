@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海阵雨，体感 30℃，湿度高。带伞防闷热！",
     "ai_briefing_en": "Shanghai showers, feels 30℃, high humidity. Umbrella for mugginess!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-16T16:08+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "上海体感32℃，湿度大。记得补水，防潮散热。",
+    "ai_briefing_en": "Shanghai: Humid, 32°C. Cool!",
+    "alert": null
   }
 ]

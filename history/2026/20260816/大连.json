@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连有雾 25℃，湿度 90%。能见度低，出行请注意安全。",
     "ai_briefing_en": "Dalian is foggy at 25℃, 90% humidity. Low visibility, please mind your safety when traveling.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-16T08:48+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "45",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "29",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，体感偏热，注意防晒多补水哦！",
+    "ai_briefing_en": "Cloudy in Dalian, feels warm. Remember sun protection and hydration!",
+    "alert": null
   }
 ]

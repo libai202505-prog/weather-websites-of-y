@@ -158,5 +158,25 @@
     "ai_briefing_zh": "慈溪晴天体感 31℃，湿度 100%。小心闷热，注意补水！",
     "ai_briefing_en": "Cixi is sunny, feels 31℃, 100% humidity. Beware of mugginess, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-08-16T09:00+08:00",
+    "temp": "27",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪体感偏热，湿度高，注意防暑补水哦！",
+    "ai_briefing_en": "It feels hot and humid in Cixi, remember to stay cool and hydrated!",
+    "alert": null
   }
 ]

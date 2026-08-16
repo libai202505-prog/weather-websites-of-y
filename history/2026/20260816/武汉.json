@@ -158,5 +158,25 @@
     "ai_briefing_zh": "武汉大雾 24℃，湿度 100%。能见度差，出行注意安全哦。",
     "ai_briefing_en": "Wuhan is heavily foggy at 24℃, 100% humidity. Poor visibility, please travel safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-16T09:00+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "270",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云，体感闷热，多喝水注意防暑哦！",
+    "ai_briefing_en": "Cloudy in Wuhan, feels muggy. Drink water and prevent heatstroke!",
+    "alert": null
   }
 ]

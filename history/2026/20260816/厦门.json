@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门多云 27℃，体感 31℃。体感炎热，多补水防晒防中暑。",
     "ai_briefing_en": "Xiamen is cloudy at 27℃, feels 31℃. Feels scorching, hydrate, sun protect, prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-16T09:00+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "45",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "18",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门体感炎热，湿度大，记得防晒多补水！",
+    "ai_briefing_en": "Xiamen feels hot and humid, remember sun protection and hydration!",
+    "alert": null
   }
 ]

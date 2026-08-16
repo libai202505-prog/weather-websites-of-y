@@ -158,5 +158,25 @@
     "ai_briefing_zh": "哈尔滨阴天 21℃。体感舒适，湿度较高，注意防潮哦。",
     "ai_briefing_en": "Harbin is cloudy at 21℃. Feels comfortable, high humidity, watch out for dampness.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-16T08:48+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "82",
+    "precip": "1.7",
+    "pressure": "991",
+    "vis": "29",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴天，体感舒适，记得多喝水哦！",
+    "ai_briefing_en": "Overcast in Harbin, feels comfortable. Remember to drink more water!",
+    "alert": null
   }
 ]

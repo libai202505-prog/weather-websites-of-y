@@ -158,5 +158,25 @@
     "ai_briefing_zh": "南京大雾 24℃，湿度 100%。能见度低，开车请务必小心慢行！",
     "ai_briefing_en": "Nanjing is heavily foggy at 24℃, 100% humidity. Low visibility, please drive slowly!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-16T09:00+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "23",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "南京晴好，体感偏热，出门记得防晒补水！",
+    "ai_briefing_en": "Sunny in Nanjing, feels warm. Remember sun protection and hydration!",
+    "alert": null
   }
 ]

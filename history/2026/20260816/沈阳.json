@@ -158,5 +158,25 @@
     "ai_briefing_zh": "沈阳多云 22℃，体感 24℃。湿度高，早晚注意添衣保暖。",
     "ai_briefing_en": "Shenyang is cloudy at 22℃, feels 24℃. High humidity, remember to add clothes in morning/evening.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-16T08:48+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "135",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳多云，体感微热，注意补充水分哦！",
+    "ai_briefing_en": "Cloudy in Shenyang, feels slightly warm. Remember to rehydrate!",
+    "alert": null
   }
 ]

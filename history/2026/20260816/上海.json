@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海体感闷热，湿度大。记得开空调，保持凉爽！",
     "ai_briefing_en": "Shanghai feels muggy with high humidity. Remember to use AC and stay cool!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-16T18:08+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "28",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "上海多云，体感 31℃ 有些热。多喝水，注意防晒！",
+    "ai_briefing_en": "Shanghai is cloudy, feels hot at 31℃. Drink water, protect from sun!",
+    "alert": null
   }
 ]

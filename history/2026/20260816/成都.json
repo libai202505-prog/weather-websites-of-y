@@ -258,5 +258,25 @@
     "ai_briefing_zh": "体感 34℃ 闷热，多喝水，小心别中暑哦！",
     "ai_briefing_en": "Feels sultry at 34℃, stay hydrated, avoid heatstroke!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-16T14:15+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "948",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都中雨，气温 28℃ 舒适。记得带伞，慢行注意安全。",
+    "ai_briefing_en": "Moderate rain in Chengdu, comfortable 28℃. Bring an umbrella and drive safely.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

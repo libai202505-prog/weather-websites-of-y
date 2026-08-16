@@ -258,5 +258,25 @@
     "ai_briefing_zh": "体感 32℃ 微热，记得多喝水，防暑降温！",
     "ai_briefing_en": "Feels slightly warm at 32℃, hydrate and keep cool!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-16T14:20+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "28",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天，体感 31℃ 稍闷热，多补充水分哦。",
+    "ai_briefing_en": "Cloudy in Shanghai, feels a bit muggy at 31℃. Remember to drink more water.",
+    "alert": null
   }
 ]

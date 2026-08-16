@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉多云，体感 33℃ 炎热，多喝水哦。",
     "ai_briefing_en": "Wuhan is cloudy, feeling hot at 33℃. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-16T20:26+08:00",
+    "temp": "27",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "315",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "16",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云闷热，体感 32℃，湿度 94%，注意防暑！",
+    "ai_briefing_en": "Wuhan is cloudy and muggy, feels like 32℃ with 94% humidity. Stay cool!",
+    "alert": null
   }
 ]

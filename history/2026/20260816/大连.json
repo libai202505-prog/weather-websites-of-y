@@ -378,5 +378,25 @@
     "ai_briefing_zh": "大连多云，体感 29℃ 舒适，注意紫外线。",
     "ai_briefing_en": "Dalian is cloudy, feeling pleasant at 29℃. Remember UV protection!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-16T20:15+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，体感 27℃，湿度 84%，注意防晒哦！",
+    "ai_briefing_en": "Dalian is cloudy and feels like 27℃ with 84% humidity. Remember sunscreen!",
+    "alert": null
   }
 ]

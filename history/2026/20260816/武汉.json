@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉多云体感 32℃。注意防暑，多休息。",
     "ai_briefing_en": "Wuhan is cloudy, feels like 32℃. Stay cool and get enough rest!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-16T12:30+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉多云，体感微热。湿度适中，保持好心情哦！",
+    "ai_briefing_en": "Wuhan is cloudy, feeling slightly warm. Humidity is moderate, stay in a good mood!",
+    "alert": null
   }
 ]

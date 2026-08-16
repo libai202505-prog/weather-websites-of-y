@@ -218,5 +218,25 @@
     "ai_briefing_zh": "漳浦体感 35℃，炎热天气注意防暑降温。",
     "ai_briefing_en": "Zhangpu feels like 35℃. In this heat, stay cool and prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-16T12:28+08:00",
+    "temp": "34",
+    "feelsLike": "37",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "97",
+    "ai_briefing_zh": "漳浦多云酷热，体感 37℃。务必防暑，多喝水，避开高温时段。",
+    "ai_briefing_en": "Zhangpu is cloudy and extremely hot, feeling 37℃. Be sure to prevent heatstroke, hydrate, avoid high-temperature hours.",
+    "alert": null
   }
 ]

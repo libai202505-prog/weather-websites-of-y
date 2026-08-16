@@ -278,5 +278,25 @@
     "ai_briefing_zh": "厦门阴天，体感 34℃ 闷热。海边游玩注意防晒补水哦。",
     "ai_briefing_en": "Cloudy in Xiamen, feels muggy at 34℃. If by the sea, use sun protection and hydrate.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-16T15:24+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "135",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "985",
+    "vis": "24",
+    "dew": "26",
+    "cloud": "83",
+    "ai_briefing_zh": "厦门阴天，体感 32℃。风力 4 级。多喝水，注意防风！",
+    "ai_briefing_en": "Xiamen is cloudy, feels 32℃. Force 4 wind. Drink water, beware of wind!",
+    "alert": null
   }
 ]

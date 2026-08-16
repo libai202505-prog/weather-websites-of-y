@@ -278,5 +278,25 @@
     "ai_briefing_zh": "成都中雨，气温 28℃ 舒适。记得带伞，慢行注意安全。",
     "ai_briefing_en": "Moderate rain in Chengdu, comfortable 28℃. Bring an umbrella and drive safely.",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-16T15:15+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "阵雨",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "948",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阵雨，体感 28℃。外出别忘带伞，小心路滑！",
+    "ai_briefing_en": "Chengdu showers, feels 28℃. Don't forget your umbrella, watch for slippery roads!",
+    "alert": null
   }
 ]

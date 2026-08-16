@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳多云，体感微热，注意补充水分哦！",
     "ai_briefing_en": "Cloudy in Shenyang, feels slightly warm. Remember to rehydrate!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-16T10:37+08:00",
+    "temp": "29",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳多云体感 33℃。天气炎热，注意防暑，多喝水解渴哦！",
+    "ai_briefing_en": "Shenyang is cloudy, feels like 33℃. It's hot, remember heat protection and drink more water to quench thirst!",
+    "alert": null
   }
 ]

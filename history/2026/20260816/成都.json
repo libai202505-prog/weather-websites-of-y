@@ -178,5 +178,25 @@
     "ai_briefing_zh": "成都阴天，气温舒适，但湿度适中，记得补水！",
     "ai_briefing_en": "Overcast in Chengdu, comfortable temperature, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-16T10:37+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "948",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天，体感 34℃。有些闷热，记得多喝水，注意防暑！",
+    "ai_briefing_en": "Chengdu is overcast, feels like 34℃. It's a bit muggy, remember to drink more water and prevent heatstroke!",
+    "alert": null
   }
 ]

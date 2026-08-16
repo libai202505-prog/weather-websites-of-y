@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连多云，体感偏热，注意防晒多补水哦！",
     "ai_briefing_en": "Cloudy in Dalian, feels warm. Remember sun protection and hydration!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-16T10:37+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，体感 31℃。天气微热，注意补水，保持舒适哦！",
+    "ai_briefing_en": "Dalian is cloudy, feels like 31℃. It's a bit warm, remember to hydrate and stay comfortable!",
+    "alert": null
   }
 ]

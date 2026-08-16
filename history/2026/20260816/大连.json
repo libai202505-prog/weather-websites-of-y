@@ -318,5 +318,25 @@
     "ai_briefing_zh": "大连多云，体感舒适。外出记得防晒。",
     "ai_briefing_en": "Dalian: Cloudy, comfy.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-16T17:15+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "65",
+    "precip": "0.8",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，体感稍热。出门记得多补水，保持活力！",
+    "ai_briefing_en": "Dalian is cloudy, feeling a bit hot. Remember to hydrate and stay energized!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "哈尔滨多云，体感舒适。外出注意防晒。",
     "ai_briefing_en": "Harbin: Cloudy, comfy. Sun.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-16T17:15+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨多云，体感舒适。湿度稍高，保持清爽！",
+    "ai_briefing_en": "Harbin is cloudy and comfortable. Humidity is a bit high, stay fresh!",
+    "alert": null
   }
 ]

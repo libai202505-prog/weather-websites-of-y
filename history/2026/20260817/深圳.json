@@ -258,5 +258,25 @@
     "ai_briefing_zh": "深圳大雨 29℃，出门带伞，注意交通安全。",
     "ai_briefing_en": "Shenzhen has heavy rain at 29℃. Take an umbrella and mind traffic safety.",
     "alert": "📉 红色降温预警：1小时骤降8℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-17T14:37+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "89",
+    "precip": "5.5",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "阴天 27℃，湿度 89%。湿度大易出汗，注意保持清爽。",
+    "ai_briefing_en": "Cloudy 27℃, 89% humidity. Stay cool and dry from the high humidity.",
+    "alert": null
   }
 ]

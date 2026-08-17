@@ -258,5 +258,25 @@
     "ai_briefing_zh": "武汉阴天 32℃，风力 4级。体感湿热，多喝水，注意防风。",
     "ai_briefing_en": "Wuhan is cloudy 32℃ with 4级 winds. Feels humid. Stay hydrated and mind the wind.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-17T14:50+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "中雨",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "315",
+    "humidity": "92",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "14",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "中雨 28℃，体感 30℃。雨势较大，出行请务必带伞！",
+    "ai_briefing_en": "Moderate rain 28℃, feels like 30℃. Heavy rain, remember your umbrella!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

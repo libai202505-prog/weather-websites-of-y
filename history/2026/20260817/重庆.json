@@ -218,5 +218,25 @@
     "ai_briefing_zh": "气温飙升，体感炎热。多补充水分，注意防暑！",
     "ai_briefing_en": "Temperature soaring, feels hot. Replenish fluids, prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-17T12:34+08:00",
+    "temp": "36",
+    "feelsLike": "37",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "42",
+    "precip": "0.0",
+    "pressure": "974",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "93",
+    "ai_briefing_zh": "重庆多云，体感 37℃！高温烘烤，务必做好防暑措施。",
+    "ai_briefing_en": "Chongqing is cloudy, feels like 37℃! Extreme heat, take essential heatstroke precautions.",
+    "alert": null
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "多云微凉，湿度略高。海边散步，注意风力！",
     "ai_briefing_en": "Cloudy and cool, humid. Walk by the sea, mind the wind!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-17T12:25+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "66",
+    "precip": "1.7",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，26℃，体感舒适。早晚温差大，记得添衣。",
+    "ai_briefing_en": "Dalian is cloudy, 26℃, feels comfortable. Mind the morning/evening chill, dress warm.",
+    "alert": null
   }
 ]

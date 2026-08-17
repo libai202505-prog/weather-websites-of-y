@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云 32℃，风力 4级。天气闷热，小心吹风感冒哦。",
     "ai_briefing_en": "Cloudy 32℃ with 4-level wind. Muggy and windy, watch out for colds.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-17T15:42+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云闷热，体感偏高，记得多喝水哦。",
+    "ai_briefing_en": "Ningbo is muggy, hydrate!",
+    "alert": null
   }
 ]

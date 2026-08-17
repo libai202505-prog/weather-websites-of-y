@@ -278,5 +278,25 @@
     "ai_briefing_zh": "中雨 28℃，体感 30℃。雨势较大，出行请务必带伞！",
     "ai_briefing_en": "Moderate rain 28℃, feels like 30℃. Heavy rain, remember your umbrella!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-17T15:44+08:00",
+    "temp": "29",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "270",
+    "humidity": "95",
+    "precip": "2.0",
+    "pressure": "1003",
+    "vis": "13",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天湿热，体感闷热，记得多补充水分。",
+    "ai_briefing_en": "Wuhan is muggy, hydrate!",
+    "alert": null
   }
 ]

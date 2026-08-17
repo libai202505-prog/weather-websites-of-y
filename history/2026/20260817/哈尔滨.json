@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云 28℃，体感 30℃。天气温暖，注意防晒补水哦！",
     "ai_briefing_en": "Cloudy 28℃, feels like 30℃. It's warm, remember sunscreen and hydration!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-17T15:37+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴天微热，湿度大，出门备件薄外套。",
+    "ai_briefing_en": "Harbin is warm, layer up.",
+    "alert": null
   }
 ]

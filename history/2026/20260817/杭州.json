@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云 33℃，体感 35℃。今日高温炎热，防晒补水是关键！",
     "ai_briefing_en": "Cloudy 33℃, feels like 35℃. It's scorching hot, hydrate and use sunscreen!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-17T15:42+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "90",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "23",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州酷热难挡，注意防晒，及时补充水分。",
+    "ai_briefing_en": "Hangzhou is very hot, hydrate!",
+    "alert": null
   }
 ]

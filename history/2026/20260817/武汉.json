@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉阴天湿热，体感闷热，记得多补充水分。",
     "ai_briefing_en": "Wuhan is muggy, hydrate!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-17T16:39+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "14",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，湿度78%。体感闷热，及时补充水分！",
+    "ai_briefing_en": "Wuhan is cloudy, 78% humidity. It feels muggy, remember to hydrate!",
+    "alert": null
   }
 ]

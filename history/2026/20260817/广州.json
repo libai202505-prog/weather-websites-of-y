@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州阴天闷热，湿度大，记得带伞多补水。",
     "ai_briefing_en": "Guangzhou is muggy, bring umbrella.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-17T16:25+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "4.3",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，湿度82%。体感略闷热，多喝水哦！",
+    "ai_briefing_en": "Guangzhou is cloudy, 82% humidity. It feels muggy, drink plenty of water!",
+    "alert": null
   }
 ]

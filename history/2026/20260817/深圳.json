@@ -298,5 +298,25 @@
     "ai_briefing_zh": "深圳小雨，出门别忘带伞，路面湿滑哦。",
     "ai_briefing_en": "Shenzhen is rainy, bring umbrella.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-17T16:25+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "28",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，湿度90%。体感潮湿，注意除湿哦！",
+    "ai_briefing_en": "Shenzhen is cloudy, 90% humidity. It's very damp, mind the humidity!",
+    "alert": null
   }
 ]

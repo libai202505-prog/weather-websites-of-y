@@ -198,5 +198,25 @@
     "ai_briefing_zh": "昆明有雾，气温 22℃。能见度低，出行慢一点。",
     "ai_briefing_en": "Kunming is foggy, 22℃. Visibility is low, travel carefully.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-17T11:37+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "180",
+    "humidity": "68",
+    "precip": "1.9",
+    "pressure": "810",
+    "vis": "12",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天凉爽，体感舒适。外出散步，感受好天气！",
+    "ai_briefing_en": "Overcast and cool, feels comfy. Enjoy a walk outside!",
+    "alert": null
   }
 ]

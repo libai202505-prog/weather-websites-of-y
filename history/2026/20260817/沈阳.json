@@ -338,5 +338,25 @@
     "ai_briefing_zh": "沈阳阴天，湿度 89%，出门小心路滑，记得带伞。",
     "ai_briefing_en": "Shenyang is overcast, 89% humidity. Roads may be slippery, take an umbrella.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-17T18:15+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "270",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，体感 24℃，湿度大，记得带伞。",
+    "ai_briefing_en": "Cloudy in Shenyang, feels like 24℃. High humidity, remember your umbrella.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "成都大雨，体感 18℃ 偏凉，出门带伞，注意保暖。",
     "ai_briefing_en": "Chengdu has heavy rain, feels cooler at 18℃. Take an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-17T10:37+08:00",
+    "temp": "21",
+    "feelsLike": "17",
+    "text": "大雨",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "20",
+    "wind360": "315",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都大雨，气温 21℃。雨天路滑，注意安全哦！",
+    "ai_briefing_en": "Chengdu has heavy rain, 21℃. Roads are slippery, drive safely!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉体感 34℃，高温高湿，注意防暑，多休息。",
     "ai_briefing_en": "Wuhan feels 34℃, hot and humid. Be aware of heatstroke, and rest more.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-17T10:50+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "135",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "27",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云体感 34℃。注意防暑，多喝水哦！",
+    "ai_briefing_en": "Wuhan is partly cloudy, feels 34℃. Stay hydrated to beat the heat!",
+    "alert": null
   }
 ]

@@ -418,5 +418,25 @@
     "ai_briefing_zh": "阴天闷热，湿度高，注意防潮防暑。",
     "ai_briefing_en": "Cloudy, muggy, high humidity. Mind dampness & heat.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-17T22:12+08:00",
+    "temp": "26",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "270",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

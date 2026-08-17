@@ -318,5 +318,25 @@
     "ai_briefing_zh": "沈阳小雨，24℃。出门记得带伞，小心路滑！",
     "ai_briefing_en": "Shenyang has light rain, 24℃. Take an umbrella and watch for slippery roads!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-17T17:25+08:00",
+    "temp": "24",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "89",
+    "precip": "2.1",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，湿度 89%，出门小心路滑，记得带伞。",
+    "ai_briefing_en": "Shenyang is overcast, 89% humidity. Roads may be slippery, take an umbrella.",
+    "alert": null
   }
 ]

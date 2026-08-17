@@ -318,5 +318,25 @@
     "ai_briefing_zh": "深圳阴天，湿度90%。体感潮湿，注意除湿哦！",
     "ai_briefing_en": "Shenzhen is cloudy, 90% humidity. It's very damp, mind the humidity!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-17T17:25+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "29",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳小雨，出门别忘带伞，路面湿滑慢行。",
+    "ai_briefing_en": "Shenzhen has light rain, take an umbrella and drive carefully.",
+    "alert": null
   }
 ]

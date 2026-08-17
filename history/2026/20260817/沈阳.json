@@ -398,5 +398,25 @@
     "ai_briefing_zh": "沈阳 24℃，湿度 100%，多穿点哦。",
     "ai_briefing_en": "Shenyang 24℃, 100% humid. Stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-17T21:25+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "湿度超高，注意防潮，感觉有点凉。",
+    "ai_briefing_en": "Extremely humid, mind dampness, feels a bit cool.",
+    "alert": null
   }
 ]

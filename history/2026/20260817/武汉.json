@@ -398,5 +398,25 @@
     "ai_briefing_zh": "武汉 32℃，湿度大，带伞防暑。",
     "ai_briefing_en": "Wuhan 32℃, humid. Umbrella.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-17T21:30+08:00",
+    "temp": "27",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天闷热，湿度高，注意防潮防暑。",
+    "ai_briefing_en": "Cloudy, muggy, high humidity. Mind dampness & heat.",
+    "alert": null
   }
 ]

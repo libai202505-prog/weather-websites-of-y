@@ -398,5 +398,25 @@
     "ai_briefing_zh": "宁波 28℃，湿度 86%，注意防潮。",
     "ai_briefing_en": "Ningbo 28℃, 86% humid. Stay dry.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-17T21:30+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "22",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "湿度高体感热，穿轻薄衣物，保持清爽。",
+    "ai_briefing_en": "Humid and warm, wear light clothes to stay cool.",
+    "alert": null
   }
 ]

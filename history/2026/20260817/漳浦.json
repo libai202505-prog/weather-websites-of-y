@@ -238,5 +238,25 @@
     "ai_briefing_zh": "漳浦多云，体感 33℃。风力稍大，出行注意，补水防晒。",
     "ai_briefing_en": "Zhangpu is cloudy, feels like 33℃. It's breezy, stay hydrated and protected.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-17T13:30+08:00",
+    "temp": "32",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "18",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "漳浦多云 32℃，体感湿热，风力 5级。记得防风防晒。",
+    "ai_briefing_en": "Zhangpu is partly cloudy 32℃, feels humid with 5级 winds. Mind wind and sun.",
+    "alert": null
   }
 ]

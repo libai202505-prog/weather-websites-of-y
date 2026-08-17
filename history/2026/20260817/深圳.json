@@ -238,5 +238,25 @@
     "ai_briefing_zh": "深圳阴天，体感 35℃。闷热，记得多喝水，小心中暑。",
     "ai_briefing_en": "Shenzhen is overcast, feels like 35℃. It's muggy, drink more water to avoid heatstroke.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-17T13:25+08:00",
+    "temp": "29",
+    "feelsLike": "27",
+    "text": "大雨",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "225",
+    "humidity": "84",
+    "precip": "2.7",
+    "pressure": "996",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳大雨 29℃，出门带伞，注意交通安全。",
+    "ai_briefing_en": "Shenzhen has heavy rain at 29℃. Take an umbrella and mind traffic safety.",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

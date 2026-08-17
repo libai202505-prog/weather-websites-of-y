@@ -238,5 +238,25 @@
     "ai_briefing_zh": "沈阳阴天，体感 30℃，湿度较高。出门带伞，注意防潮。",
     "ai_briefing_en": "Shenyang is overcast, feels like 30℃, quite humid. Take an umbrella, stay dry.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-17T13:15+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "75",
+    "precip": "1.5",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天 27℃，体感微热，湿度较高，注意防潮哦。",
+    "ai_briefing_en": "Shenyang is cloudy 27℃, feels slightly warm and humid. Mind the dampness.",
+    "alert": null
   }
 ]

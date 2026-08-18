@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天风力大，注意出行安全，防风。",
     "ai_briefing_en": "Cloudy, windy, be safe!",
     "alert": "💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-18T10:26+08:00",
+    "temp": "28",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门风力 5级 较大，多云天，注意出行安全。",
+    "ai_briefing_en": "Xiamen has strong winds (level 5), cloudy. Stay safe outdoors.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

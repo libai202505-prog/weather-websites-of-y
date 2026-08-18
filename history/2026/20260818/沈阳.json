@@ -158,5 +158,25 @@
     "ai_briefing_zh": "雾天潮湿，能见度低，驾车请慢行。",
     "ai_briefing_en": "Foggy and humid, low visibility, drive slowly.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-18T08:48+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "225",
+    "humidity": "98",
+    "precip": "0.2",
+    "pressure": "1003",
+    "vis": "11",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天湿度高，注意防潮，保持舒适。",
+    "ai_briefing_en": "Cloudy, humid, relax.",
+    "alert": null
   }
 ]

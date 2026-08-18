@@ -158,5 +158,25 @@
     "ai_briefing_zh": "多云天气，体感舒适，享受美好时光。",
     "ai_briefing_en": "Cloudy day, feels pleasant, enjoy your time.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-18T09:00+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天体感舒适，保持好心情，享受一天。",
+    "ai_briefing_en": "Cloudy, comfy, enjoy!",
+    "alert": null
   }
 ]

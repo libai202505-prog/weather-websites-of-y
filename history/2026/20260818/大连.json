@@ -158,5 +158,25 @@
     "ai_briefing_zh": "阴天湿润，体感温和，是个好天气。",
     "ai_briefing_en": "Overcast and humid, feels mild, a good day.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-18T08:48+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "270",
+    "humidity": "73",
+    "precip": "0.5",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天微热，注意保持清爽，享受舒适。",
+    "ai_briefing_en": "Cloudy and warm, enjoy.",
+    "alert": null
   }
 ]

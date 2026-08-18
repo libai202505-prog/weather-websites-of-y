@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-18T13:42:23.849Z",
+  "updateTime": "2026-08-18T14:34:19.865Z",
   "cities": [
     {
       "name": "北京",
@@ -7,7 +7,7 @@
       "feelsLike": "27",
       "text": "多云",
       "wind": "南风2级",
-      "humidity": "74",
+      "humidity": "76",
       "alert": null
     },
     {
@@ -15,14 +15,14 @@
       "temp": "22",
       "feelsLike": "24",
       "text": "阴",
-      "wind": "北风0级",
+      "wind": "南风1级",
       "humidity": "100",
       "alert": null
     },
     {
       "name": "重庆",
-      "temp": "29",
-      "feelsLike": "30",
+      "temp": "28",
+      "feelsLike": "28",
       "text": "阴",
       "wind": "北风3级",
       "humidity": "70",
@@ -34,16 +34,16 @@
       "feelsLike": "30",
       "text": "阴",
       "wind": "东风2级",
-      "humidity": "89",
+      "humidity": "87",
       "alert": null
     },
     {
       "name": "大连",
       "temp": "24",
-      "feelsLike": "25",
+      "feelsLike": "24",
       "text": "阴",
       "wind": "西北风2级",
-      "humidity": "79",
+      "humidity": "76",
       "alert": null
     },
     {
@@ -52,7 +52,7 @@
       "feelsLike": "31",
       "text": "阴",
       "wind": "西北风1级",
-      "humidity": "87",
+      "humidity": "88",
       "alert": null
     },
     {
@@ -67,10 +67,10 @@
     {
       "name": "杭州",
       "temp": "29",
-      "feelsLike": "31",
+      "feelsLike": "32",
       "text": "阴",
       "wind": "东风3级",
-      "humidity": "79",
+      "humidity": "80",
       "alert": null
     },
     {
@@ -79,16 +79,16 @@
       "feelsLike": "17",
       "text": "阴",
       "wind": "东北风2级",
-      "humidity": "95",
+      "humidity": "94",
       "alert": null
     },
     {
       "name": "南京",
-      "temp": "29",
-      "feelsLike": "31",
+      "temp": "28",
+      "feelsLike": "29",
       "text": "多云",
       "wind": "东风3级",
-      "humidity": "77",
+      "humidity": "79",
       "alert": null
     },
     {
@@ -106,17 +106,17 @@
       "feelsLike": "29",
       "text": "阴",
       "wind": "南风3级",
-      "humidity": "83",
+      "humidity": "84",
       "alert": null
     },
     {
       "name": "厦门",
-      "temp": "30",
-      "feelsLike": "29",
+      "temp": "29",
+      "feelsLike": "27",
       "text": "多云",
-      "wind": "东北风5级",
-      "humidity": "64",
-      "alert": "💨 北风警报：东北风 5级"
+      "wind": "东风5级",
+      "humidity": "66",
+      "alert": null
     },
     {
       "name": "上海",
@@ -124,43 +124,43 @@
       "feelsLike": "30",
       "text": "多云",
       "wind": "东北风2级",
-      "humidity": "77",
+      "humidity": "78",
       "alert": null
     },
     {
       "name": "深圳",
       "temp": "27",
-      "feelsLike": "30",
-      "text": "阴",
-      "wind": "东北风2级",
+      "feelsLike": "28",
+      "text": "小雨",
+      "wind": "东北风3级",
       "humidity": "91",
       "alert": null
     },
     {
       "name": "沈阳",
-      "temp": "24",
-      "feelsLike": "26",
+      "temp": "23",
+      "feelsLike": "25",
       "text": "阴",
       "wind": "东南风1级",
-      "humidity": "99",
+      "humidity": "100",
       "alert": null
     },
     {
       "name": "武汉",
       "temp": "30",
-      "feelsLike": "31",
+      "feelsLike": "32",
       "text": "阴",
       "wind": "东北风3级",
-      "humidity": "73",
-      "alert": "🟧 橙色降温提示：1小时降温3℃"
+      "humidity": "74",
+      "alert": null
     },
     {
       "name": "西安",
       "temp": "23",
       "feelsLike": "25",
       "text": "阴",
-      "wind": "东北风1级",
-      "humidity": "87",
+      "wind": "东风1级",
+      "humidity": "90",
       "alert": null
     },
     {
@@ -169,7 +169,7 @@
       "feelsLike": "28",
       "text": "多云",
       "wind": "东风4级",
-      "humidity": "77",
+      "humidity": "76",
       "alert": null
     }
   ],
@@ -207,7 +207,7 @@
     },
     "武汉": {
       "isAlerted": false,
-      "lastSeverity": 1
+      "lastSeverity": 0
     },
     "西安": {
       "isAlerted": false,
@@ -231,7 +231,7 @@
     },
     "厦门": {
       "isAlerted": false,
-      "lastSeverity": 1
+      "lastSeverity": 0
     },
     "青岛": {
       "isAlerted": false,

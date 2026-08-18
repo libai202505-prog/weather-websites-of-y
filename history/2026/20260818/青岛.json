@@ -298,5 +298,25 @@
     "ai_briefing_zh": "青岛多云 30℃，湿度 64%。天气不错，防晒补水少不了！",
     "ai_briefing_en": "Qingdao is cloudy at 30℃ with 64% humidity. Nice weather, remember sunscreen and hydration!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-18T16:32+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "180",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛多云 31 ℃，体感闷热，多喝水，注意防晒！",
+    "ai_briefing_en": "Qingdao: Muggy 31℃. Hydrate!",
+    "alert": null
   }
 ]

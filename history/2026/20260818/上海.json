@@ -218,5 +218,25 @@
     "ai_briefing_zh": "上海阴天，体感 33℃。出门注意防暑，保持好心情！",
     "ai_briefing_en": "Shanghai is overcast, feels like 33℃. Stay cool and keep a good mood!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-18T12:30+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "28",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "上海阴天体感 34℃，多补水，防中暑。",
+    "ai_briefing_en": "Shanghai feels 34℃, stay hydrated.",
+    "alert": null
   }
 ]

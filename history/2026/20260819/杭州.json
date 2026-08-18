@@ -138,5 +138,25 @@
     "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
     "ai_briefing_en": "杭州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-19T07:10+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "25",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州晴热，体感高，外出别忘防晒和补水。",
+    "ai_briefing_en": "Hangzhou is sunny and hot, feels high, remember sunscreen and hydration outdoors.",
+    "alert": null
   }
 ]

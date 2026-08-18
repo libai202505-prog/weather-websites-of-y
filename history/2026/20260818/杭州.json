@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州体感 35℃，湿度高，注意防暑降温。",
     "ai_briefing_en": "Hangzhou feels 35℃, humid. Stay cool.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-18T13:24+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "270",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "14",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴天 33℃，体感 36℃。持续高温，请务必注意防暑！",
+    "ai_briefing_en": "Hangzhou is overcast, 33℃ feels like 36℃. Stay safe in this heat!",
+    "alert": null
   }
 ]

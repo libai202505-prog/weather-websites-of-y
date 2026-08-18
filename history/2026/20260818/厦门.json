@@ -238,5 +238,25 @@
     "ai_briefing_zh": "厦门多云，有风，体感 29℃，注意防晒。",
     "ai_briefing_en": "Xiamen cloudy & windy, feels 29℃. Protect from sun.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-18T13:24+08:00",
+    "temp": "32",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "90",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门多云 32℃，风力 5 级。风大体感凉爽，但也别着凉。",
+    "ai_briefing_en": "Xiamen is cloudy, 32℃ with strong winds. Feels cool, but don't catch a cold!",
+    "alert": null
   }
 ]

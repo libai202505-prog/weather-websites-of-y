@@ -398,5 +398,25 @@
     "ai_briefing_zh": "重庆阴天，风力不小。请注意防风，外出带件薄外套。",
     "ai_briefing_en": "Chongqing: Cloudy, strong winds. Mind the wind, light jacket!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-18T21:36+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "978",
+    "vis": "16",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆阴天体感 30℃，风力 3级。天气闷热，注意防暑。",
+    "ai_briefing_en": "Chongqing is cloudy, feels like 30℃ with moderate wind. It's muggy, so be mindful of heatstroke.",
+    "alert": null
   }
 ]

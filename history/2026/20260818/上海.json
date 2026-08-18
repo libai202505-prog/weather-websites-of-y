@@ -398,5 +398,25 @@
     "ai_briefing_zh": "上海体感偏热，多云有闷热感。记得防晒补水哦！",
     "ai_briefing_en": "Shanghai: Feels hot and muggy. Hydrate and sun protect!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-18T21:36+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "上海多云体感 30℃，有点闷热，出门记得带伞哦。",
+    "ai_briefing_en": "Shanghai is cloudy, feels like 30℃, a bit muggy. Don't forget your umbrella when going out!",
+    "alert": null
   }
 ]

@@ -318,5 +318,25 @@
     "ai_briefing_zh": "武汉阴天 34 ℃，体感闷热，记得多喝水，防暑哦！",
     "ai_briefing_en": "Wuhan: Hot 34℃. Hydrate well!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-18T17:26+08:00",
+    "temp": "33",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "17",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉 33℃ 体感 35℃，天气闷热，多喝水哦。",
+    "ai_briefing_en": "Wuhan 33℃ feels like 35℃. Hot and humid, drink more water.",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "漳浦风力 5级 较大，出门注意防风，小心衣物。",
     "ai_briefing_en": "Zhangpu has strong winds (level 5). Watch out for wind, mind your clothes.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-18T11:36+08:00",
+    "temp": "32",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "6",
+    "windSpeed": "42",
+    "wind360": "90",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "漳浦多云，风力 6级。风力强劲，外出请注意安全！",
+    "ai_briefing_en": "Zhangpu is cloudy with wind force 6. Strong winds, please be careful when going out!",
+    "alert": null
   }
 ]

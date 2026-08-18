@@ -198,5 +198,25 @@
     "ai_briefing_zh": "南京体感 32℃，记得多补水，注意防暑降温。",
     "ai_briefing_en": "Nanjing feels 32℃. Remember to hydrate and cool down.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-18T11:36+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "45",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "19",
+    "dew": "24",
+    "cloud": "93",
+    "ai_briefing_zh": "南京阴天，体感 32℃。注意防晒，保持清爽哦！",
+    "ai_briefing_en": "Nanjing is overcast, feels like 32℃. Don't forget sun protection, stay fresh!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

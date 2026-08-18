@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门风力 5级 较大，多云天，注意出行安全。",
     "ai_briefing_en": "Xiamen has strong winds (level 5), cloudy. Stay safe outdoors.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-18T11:36+08:00",
+    "temp": "30",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "45",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "25",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "厦门多云，风力 5级。风力较大，注意安全出行哦！",
+    "ai_briefing_en": "Xiamen is cloudy with wind force 5. It's windy, pay attention to safe travel!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

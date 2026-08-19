@@ -158,5 +158,25 @@
     "ai_briefing_zh": "深圳多云风力大，体感舒适，户外注意安全。",
     "ai_briefing_en": "Shenzhen is cloudy with strong winds, feels comfortable, stay safe outdoors.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-19T08:48+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "0",
+    "humidity": "70",
+    "precip": "0.3",
+    "pressure": "997",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳多云，风力 5级。体感 33℃，注意防风防暑！",
+    "ai_briefing_en": "SZ: Windy, 33℃. Safe!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

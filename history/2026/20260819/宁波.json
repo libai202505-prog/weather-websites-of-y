@@ -158,5 +158,25 @@
     "ai_briefing_zh": "宁波晴好体感炎热，出行记得防晒和补水。",
     "ai_briefing_en": "Ningbo is sunny and feels hot, remember sunscreen and hydration when out.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-19T09:00+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "135",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1010",
+    "vis": "25",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "宁波多云闷热，体感 33℃，注意防暑降温！",
+    "ai_briefing_en": "NB: Muggy, 33℃. Be cool!",
+    "alert": null
   }
 ]

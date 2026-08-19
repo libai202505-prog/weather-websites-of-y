@@ -358,5 +358,25 @@
     "ai_briefing_zh": "昆明阴凉，气温 20℃。湿度大，记得添衣！",
     "ai_briefing_en": "Kunming: Cool, 20℃. Layer up!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-19T19:05+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "810",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "天气阴凉，风力较大，出门记得添衣保暖！",
+    "ai_briefing_en": "Cool & windy. Layer up!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

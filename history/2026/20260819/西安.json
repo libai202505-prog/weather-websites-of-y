@@ -358,5 +358,25 @@
     "ai_briefing_zh": "西安多云，体感 31℃。记得多喝水哦。",
     "ai_briefing_en": "Xi'an: Cloudy, 31℃. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-19T19:05+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "多云天气，体感微热，多喝水保持活力！",
+    "ai_briefing_en": "Cloudy & warm. Drink water!",
+    "alert": null
   }
 ]

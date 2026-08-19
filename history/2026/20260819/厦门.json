@@ -358,5 +358,25 @@
     "ai_briefing_zh": "厦门多云风力大，注意防风哦！",
     "ai_briefing_en": "Xiamen: Cloudy, windy. Care!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-19T19:10+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "990",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "天气阴沉，湿度超高，注意保持干燥哦！",
+    "ai_briefing_en": "Humid and warm. Stay dry!",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "多云体感热，多喝水，防晒避免中暑哦！",
     "ai_briefing_en": "Cloudy & warm. Drink water!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-19T20:38+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "225",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "979",
+    "vis": "26",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "天气多云，风力较大，出门小心物品被吹走！",
+    "ai_briefing_en": "Cloudy with strong winds, watch out for your belongings!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

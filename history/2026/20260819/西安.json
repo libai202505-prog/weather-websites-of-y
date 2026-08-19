@@ -378,5 +378,25 @@
     "ai_briefing_zh": "多云天气，体感微热，多喝水保持活力！",
     "ai_briefing_en": "Cloudy & warm. Drink water!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-19T20:25+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "964",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "天气多云，体感舒适，户外活动很不错哦！",
+    "ai_briefing_en": "Cloudy and pleasant, great for outdoor activities!",
+    "alert": null
   }
 ]

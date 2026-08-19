@@ -378,5 +378,25 @@
     "ai_briefing_zh": "多云舒适，湿度较高，保持清爽很重要哦！",
     "ai_briefing_en": "Cloudy, comfy, fresh!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-19T20:25+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "180",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "13",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "天气阴沉，湿度较高，体感闷热，多补充水分！",
+    "ai_briefing_en": "Overcast and humid, feeling muggy, drink more water!",
+    "alert": null
   }
 ]

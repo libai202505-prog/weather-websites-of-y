@@ -258,5 +258,25 @@
     "ai_briefing_zh": "广州多云体感 37℃，闷热，注意防暑降温，多喝水！",
     "ai_briefing_en": "Guangzhou is cloudy, feels like 37℃. It's muggy, stay hydrated and cool!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-19T14:25+08:00",
+    "temp": "34",
+    "feelsLike": "38",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "0",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州多云，气温 34℃，体感 38℃！炎热，请务必防晒补水。",
+    "ai_briefing_en": "Guangzhou is cloudy and 34℃, feels like 38℃! It's scorching, please hydrate and use sunscreen.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

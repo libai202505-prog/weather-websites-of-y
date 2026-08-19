@@ -258,5 +258,25 @@
     "ai_briefing_zh": "西安阴天 28℃，体感 31℃。湿度较高，出门别忘补水哦！",
     "ai_briefing_en": "Xi'an is overcast 28℃, feels like 31℃. Humidity is high, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-19T14:25+08:00",
+    "temp": "30",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "180",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "965",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安多云，气温 30℃，体感 34℃。白天外出注意防晒哦。",
+    "ai_briefing_en": "Xi'an is cloudy and 30℃, feels like 34℃. Remember sun protection during the day.",
+    "alert": null
   }
 ]

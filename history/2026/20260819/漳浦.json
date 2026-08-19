@@ -318,5 +318,25 @@
     "ai_briefing_zh": "漳浦晴朗，风力 5 级。风势强劲，注意安全哦！",
     "ai_briefing_en": "Zhangpu is sunny with 5-level winds. Strong winds, stay safe!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-19T17:30+08:00",
+    "temp": "30",
+    "feelsLike": "26",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "6",
+    "windSpeed": "46",
+    "wind360": "90",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "漳浦晴天风力大，防晒防风，注意补水！",
+    "ai_briefing_en": "Sunny and very windy in Zhangpu, sun protect and hydrate!",
+    "alert": null
   }
 ]

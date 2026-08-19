@@ -318,5 +318,25 @@
     "ai_briefing_zh": "哈尔滨多云，体感 28℃。天气宜人，外出心情棒！",
     "ai_briefing_en": "Harbin is cloudy, feels like 28℃. Pleasant weather, enjoy your day out!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-19T17:25+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨晴朗舒适，正是出门的好天气！",
+    "ai_briefing_en": "Harbin is sunny and pleasant, a great day for outdoor activities!",
+    "alert": null
   }
 ]

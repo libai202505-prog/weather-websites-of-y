@@ -318,5 +318,25 @@
     "ai_briefing_zh": "昆明大雨，体感 12℃。风大湿冷，记得多穿衣！",
     "ai_briefing_en": "Kunming has heavy rain, feels like 12℃. Windy and cold, dress warmly!",
     "alert": "📉 红色降温预警：1小时骤降11℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-19T17:25+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "阵雨",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "95",
+    "precip": "2.7",
+    "pressure": "810",
+    "vis": "25",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阵雨清凉，出门记得带伞添衣哦！",
+    "ai_briefing_en": "Light rain and cool in Kunming, bring an umbrella and a jacket!",
+    "alert": null
   }
 ]

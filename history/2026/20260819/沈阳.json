@@ -178,5 +178,25 @@
     "ai_briefing_zh": "沈阳阴天，湿度 82%，体感 29℃。小心闷热。",
     "ai_briefing_en": "SY: Muggy. Careful!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-19T10:37+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "68",
+    "precip": "0.5",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

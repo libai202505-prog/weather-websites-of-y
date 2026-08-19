@@ -138,5 +138,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-20T07:10+08:00",
+    "temp": "27",
+    "feelsLike": "31",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "7",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "雾气弥漫，湿度大，出行注意安全，保持干燥。",
+    "ai_briefing_en": "Misty and humid. Drive safely and stay dry!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "沈阳晴朗，体感 35℃ 炎热，请多补充水分，防晒很重要！",
     "ai_briefing_en": "Shenyang is sunny, feeling a hot 35℃. Please drink plenty of water, sun protection is crucial!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-19T16:25+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳晴朗，体感 34℃。阳光强烈，防晒补水要做好。",
+    "ai_briefing_en": "Shenyang is sunny, feels like 34℃. Strong sun, remember sunscreen and hydration.",
+    "alert": null
   }
 ]

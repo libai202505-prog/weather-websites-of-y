@@ -298,5 +298,25 @@
     "ai_briefing_zh": "武汉阴天闷热，体感 36℃，记得多喝水，防范中暑！",
     "ai_briefing_en": "Wuhan is overcast and muggy, feeling like 36℃. Remember to drink plenty of water and prevent heatstroke!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-19T16:32+08:00",
+    "temp": "35",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "15",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉阴天，体感 36℃。高温难耐，一定要多补水。",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 36℃. It's extremely hot, remember to hydrate!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

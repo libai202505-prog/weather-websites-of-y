@@ -298,5 +298,25 @@
     "ai_briefing_zh": "漳浦多云，气温 31℃，风力 5级，注意防风防晒，及时补水！",
     "ai_briefing_en": "Zhangpu is cloudy at 31℃ with 5-level winds. Mind wind and sun protection, hydrate promptly!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-19T16:32+08:00",
+    "temp": "30",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "90",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "漳浦晴朗，风力 5 级。风势强劲，注意安全哦！",
+    "ai_briefing_en": "Zhangpu is sunny with 5-level winds. Strong winds, stay safe!",
+    "alert": null
   }
 ]

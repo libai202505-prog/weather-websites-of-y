@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州多云炎热，气温 33℃，午后易疲惫，注意休息补水！",
     "ai_briefing_en": "Hangzhou is cloudy and hot at 33℃. You might feel tired in the afternoon, remember to rest and hydrate!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-19T16:32+08:00",
+    "temp": "32",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "24",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，风力 5 级。注意防风，小心衣物飞扬。",
+    "ai_briefing_en": "Hangzhou is cloudy with 5-level winds. Mind the strong wind, secure loose items.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

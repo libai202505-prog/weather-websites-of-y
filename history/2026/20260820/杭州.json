@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州风力 5级，多云，体感舒适。出门注意防风，小心着凉。",
     "ai_briefing_en": "Hangzhou has 5-level winds, cloudy and comfortable. Be mindful of wind, avoid catching a cold.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-20T11:44+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "90",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州阴，气温高。注意防暑降温，保持好心情！",
+    "ai_briefing_en": "Hangzhou is cloudy and hot. Stay cool, prevent heatstroke, and keep well!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "青岛阴天，风力 5级。体感 25℃，注意防风保暖。",
     "ai_briefing_en": "Qingdao is cloudy with 5-level winds. Feels like 25℃, stay warm and guard against wind.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-20T11:44+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "135",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "98",
+    "ai_briefing_zh": "青岛阴天，湿度大。保持心情愉悦，注意身体哦。",
+    "ai_briefing_en": "Qingdao is cloudy and humid. Stay cheerful and take care of yourself.",
+    "alert": null
   }
 ]

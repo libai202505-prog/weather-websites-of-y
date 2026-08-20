@@ -238,5 +238,25 @@
     "ai_briefing_zh": "多云 30℃，体感 35℃。温差大，注意添衣，早晚保暖！",
     "ai_briefing_en": "Cloudy 30℃. Temp change.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-20T13:15+08:00",
+    "temp": "31",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安多云，体感36℃！非常热，注意防暑降温。",
+    "ai_briefing_en": "Xi'an: Partly cloudy, feels like 36℃! Very hot, stay cool.",
+    "alert": null
   }
 ]

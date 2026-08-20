@@ -178,5 +178,25 @@
     "ai_briefing_zh": "杭州小雨，出门带伞。体感略闷热，注意防暑。",
     "ai_briefing_en": "Hangzhou: Light rain, umbrella. Muggy, mind heatstroke.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-20T10:50+08:00",
+    "temp": "30",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "杭州风力 5级，多云，体感舒适。出门注意防风，小心着凉。",
+    "ai_briefing_en": "Hangzhou has 5-level winds, cloudy and comfortable. Be mindful of wind, avoid catching a cold.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

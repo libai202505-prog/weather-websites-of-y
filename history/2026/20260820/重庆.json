@@ -178,5 +178,25 @@
     "ai_briefing_zh": "重庆阴天，体感微热。多喝水，户外活动别太久哦。",
     "ai_briefing_en": "Chongqing: Cloudy, warm. Hydrate, limit outdoor time.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-20T10:50+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "980",
+    "vis": "24",
+    "dew": "24",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆阴天，体感 30℃，湿度 67%。外出请带伞，预防阵雨。",
+    "ai_briefing_en": "Chongqing is cloudy, feels like 30℃ with 67% humidity. Take an umbrella for possible showers.",
+    "alert": null
   }
 ]

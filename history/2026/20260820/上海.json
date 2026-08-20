@@ -338,5 +338,25 @@
     "ai_briefing_zh": "体感偏热，注意防暑降温，多补水。",
     "ai_briefing_en": "Feels hot, stay cool and hydrated.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-20T18:08+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "大雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "1",
+    "dew": "26",
+    "cloud": "96",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

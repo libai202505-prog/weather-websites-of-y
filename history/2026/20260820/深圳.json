@@ -378,5 +378,25 @@
     "ai_briefing_zh": "阴天闷热，体感不适，及时补充水分。",
     "ai_briefing_en": "Overcast and muggy, stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-20T20:37+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，风力 3级，湿度大，出行注意舒适！",
+    "ai_briefing_en": "Overcast in Shenzhen, moderate wind, high humidity. Stay comfortable!",
+    "alert": null
   }
 ]

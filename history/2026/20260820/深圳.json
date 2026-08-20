@@ -318,5 +318,25 @@
     "ai_briefing_zh": "阴天湿度大，体感闷热，多喝水。",
     "ai_briefing_en": "Cloudy and humid, feels muggy, drink more water.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-20T17:25+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "135",
+    "humidity": "80",
+    "precip": "0.2",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "阴天有点闷热，注意防暑，保持清爽。",
+    "ai_briefing_en": "Overcast and muggy, stay cool and refreshed.",
+    "alert": null
   }
 ]

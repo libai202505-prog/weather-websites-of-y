@@ -318,5 +318,25 @@
     "ai_briefing_zh": "有中雨，出门记得带伞，小心路滑。",
     "ai_briefing_en": "Moderate rain, bring an umbrella, watch out for slippery roads.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-20T17:25+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "中雨",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "90",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "中雨伴高湿，记得带好雨具，出行注意安全。",
+    "ai_briefing_en": "Moderate rain and humid, grab your umbrella, drive safely.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

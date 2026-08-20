@@ -398,5 +398,25 @@
     "ai_briefing_zh": "武汉多云，体感 33℃，风大天热，注意防暑降温！",
     "ai_briefing_en": "Cloudy in Wuhan, feels like 33℃. Windy and hot, prevent heatstroke!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-20T21:36+08:00",
+    "temp": "31",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云，体感 33℃ 很高，记得多喝水避暑呀！",
+    "ai_briefing_en": "Wuhan is cloudy, feels like 33℃. It's hot, so drink plenty of water!",
+    "alert": null
   }
 ]

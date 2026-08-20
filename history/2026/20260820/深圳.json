@@ -398,5 +398,25 @@
     "ai_briefing_zh": "深圳阴天，风力 3级，湿度大，出行注意舒适！",
     "ai_briefing_en": "Overcast in Shenzhen, moderate wind, high humidity. Stay comfortable!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-20T21:25+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天体感 29℃，风力 3级，出门多注意防风。",
+    "ai_briefing_en": "Shenzhen is overcast, feels like 29℃ with a 3-level wind. Mind the wind!",
+    "alert": null
   }
 ]

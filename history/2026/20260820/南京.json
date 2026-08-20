@@ -398,5 +398,25 @@
     "ai_briefing_zh": "南京多云，风力 4级湿度大，出行注意安全哦。",
     "ai_briefing_en": "Cloudy in Nanjing, strong wind and high humidity. Stay safe when going out!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-20T21:36+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "21",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "南京多云，湿度 100%，还有 4级风，注意防潮防风！",
+    "ai_briefing_en": "Nanjing is cloudy, 100% humidity and 4-level wind. Stay dry and cautious of wind!",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "广州阴天，风力较大。出门注意防风防暑，保持愉快！",
     "ai_briefing_en": "Guangzhou is cloudy with strong winds. Guard against wind and heat; stay happy!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-20T16:25+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "中雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "74",
+    "precip": "1.3",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "有中雨，出门记得带伞，小心路滑。",
+    "ai_briefing_en": "Moderate rain, bring an umbrella, watch out for slippery roads.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -218,5 +218,25 @@
     "ai_briefing_zh": "西安体感酷热，多喝水，防晒，避免高温时段外出。",
     "ai_briefing_en": "Xi'an feels extremely hot. Drink water, sun-protect, avoid peak heat.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-20T12:25+08:00",
+    "temp": "30",
+    "feelsLike": "35",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "135",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "964",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "多云 30℃，体感 35℃。温差大，注意添衣，早晚保暖！",
+    "ai_briefing_en": "Cloudy 30℃. Temp change.",
+    "alert": null
   }
 ]

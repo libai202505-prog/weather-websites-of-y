@@ -218,5 +218,25 @@
     "ai_briefing_zh": "武汉酷热难耐，务必多饮水，注意防晒防暑！",
     "ai_briefing_en": "Wuhan is scorching hot. Be sure to drink plenty, protect from sun and heat!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-20T12:30+08:00",
+    "temp": "34",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天 34℃，体感 36℃。高温预警，记得多喝水，注意防暑！",
+    "ai_briefing_en": "Overcast 34℃. Hot. Drink water!",
+    "alert": null
   }
 ]

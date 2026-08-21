@@ -298,5 +298,25 @@
     "ai_briefing_zh": "南京大雨，请注意行车安全，带好雨具！",
     "ai_briefing_en": "Nanjing has heavy rain, please drive safely and bring your rain gear!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-21T17:15+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "15",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京小雨湿热，记得带伞，保持舒爽！",
+    "ai_briefing_en": "Nanjing: Rain. Umbrella!",
+    "alert": null
   }
 ]

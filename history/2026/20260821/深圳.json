@@ -298,5 +298,25 @@
     "ai_briefing_zh": "深圳多云，体感偏热，有风但仍需补水！",
     "ai_briefing_en": "Shenzhen is partly cloudy and feels warm, windy but still stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-21T17:15+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "225",
+    "humidity": "78",
+    "precip": "0.6",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳闷热，注意防暑和补充水分。",
+    "ai_briefing_en": "Shenzhen: Muggy. Hydrate!",
+    "alert": null
   }
 ]

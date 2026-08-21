@@ -298,5 +298,25 @@
     "ai_briefing_zh": "昆明多云，体感微热，注意补充水分！",
     "ai_briefing_en": "Kunming is partly cloudy, feels slightly warm, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-21T17:15+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "180",
+    "humidity": "51",
+    "precip": "0.1",
+    "pressure": "807",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明多云，体感舒适，注意适时增减衣物。",
+    "ai_briefing_en": "Kunming: Comfy. Dress smart!",
+    "alert": null
   }
 ]

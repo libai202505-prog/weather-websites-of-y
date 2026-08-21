@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州多云有大风，气温高，注意防风防暑！",
     "ai_briefing_en": "Hangzhou is partly cloudy with strong winds and high temperatures, mind the wind and heat!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-21T17:15+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.8",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州小雨伴风，出门带伞，注意防风！",
+    "ai_briefing_en": "Hangzhou: Rain. Umbrella!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

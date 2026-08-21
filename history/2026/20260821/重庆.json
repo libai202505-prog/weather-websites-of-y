@@ -298,5 +298,25 @@
     "ai_briefing_zh": "重庆阴天，气温适中，但湿度不低哦！",
     "ai_briefing_en": "Chongqing is overcast, temperatures are moderate, but humidity is quite high!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-21T17:22+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "315",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "973",
+    "vis": "26",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆阴天，湿度大，出行注意舒适！",
+    "ai_briefing_en": "Chongqing: Humid. Stay comfy!",
+    "alert": null
   }
 ]

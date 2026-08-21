@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海阴天，体感较热，注意防暑！",
     "ai_briefing_en": "Shanghai is overcast, feels quite hot, remember to prevent heatstroke!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-21T17:21+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "95",
+    "ai_briefing_zh": "上海多云，体感稍热，注意休息哦！",
+    "ai_briefing_en": "Shanghai: Cloudy, warm. Rest up!",
+    "alert": null
   }
 ]

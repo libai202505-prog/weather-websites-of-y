@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳晴天炎热，体感 36℃，记得多喝水防晒。",
     "ai_briefing_en": "Shenyang is sunny and hot, feels 36℃, hydrate and sun protect.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-21T15:25+08:00",
+    "temp": "32",
+    "feelsLike": "36",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "225",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "天晴体感热，注意防晒，及时补充水分。",
+    "ai_briefing_en": "Sunny but feels hot, protect from sun, replenish fluids promptly.",
+    "alert": null
   }
 ]

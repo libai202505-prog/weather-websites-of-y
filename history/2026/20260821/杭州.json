@@ -258,5 +258,25 @@
     "ai_briefing_zh": "杭州多云风大，体感炎热，注意防晒防风哦。",
     "ai_briefing_en": "Hangzhou is cloudy and windy, feels hot, mind sun and wind.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-21T15:25+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "90",
+    "humidity": "60",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "多云闷热，风力 4级。注意防暑，多补水。",
+    "ai_briefing_en": "Cloudy and muggy, 4-level wind. Stay hydrated and avoid heatstroke.",
+    "alert": null
   }
 ]

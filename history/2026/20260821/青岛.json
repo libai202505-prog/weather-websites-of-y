@@ -258,5 +258,25 @@
     "ai_briefing_zh": "青岛阴天湿度大，体感舒适，注意防潮哦。",
     "ai_briefing_en": "Qingdao is humid and cloudy, feels comfortable, mind the damp.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-21T15:36+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "180",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "小雨风力 5级，带好雨具，出行注意安全。",
+    "ai_briefing_en": "Light rain, 5-level wind. Grab your rain gear, travel safely.",
+    "alert": null
   }
 ]

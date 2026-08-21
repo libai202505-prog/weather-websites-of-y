@@ -338,5 +338,25 @@
     "ai_briefing_zh": "青岛阴天湿润，体感舒适，注意室内通风防潮。",
     "ai_briefing_en": "Qingdao is overcast and humid with comfortable temperatures. Ensure indoor ventilation.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-21T19:10+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "135",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛阴天，体感 28℃。湿度 86%，穿衣以舒适透气为主哦。",
+    "ai_briefing_en": "Qingdao is cloudy, feels like 28°C with 86% humidity. Choose comfortable, breathable clothes.",
+    "alert": null
   }
 ]

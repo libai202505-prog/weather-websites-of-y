@@ -318,5 +318,25 @@
     "ai_briefing_zh": "南京小雨湿热，记得带伞，保持舒爽！",
     "ai_briefing_en": "Nanjing: Rain. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-21T18:15+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "16",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京阴天闷热，湿度高，注意防暑降温。",
+    "ai_briefing_en": "Nanjing is overcast and muggy with high humidity. Remember to prevent heatstroke.",
+    "alert": null
   }
 ]

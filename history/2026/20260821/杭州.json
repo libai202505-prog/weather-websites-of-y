@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州小雨伴风，出门带伞，注意防风！",
     "ai_briefing_en": "Hangzhou: Rain. Umbrella!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-21T18:15+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天潮湿，体感闷热，多喝水，注意防暑。",
+    "ai_briefing_en": "Hangzhou is overcast and humid. It feels muggy, so drink plenty of water and stay cool.",
+    "alert": null
   }
 ]

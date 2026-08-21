@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉酷热，务必防暑降温，多休息。",
     "ai_briefing_en": "Extremely hot. Cool, hydrate, rest.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-21T14:38+08:00",
+    "temp": "35",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "315",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "26",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉多云高温，体感 36℃，务必注意防暑！",
+    "ai_briefing_en": "Wuhan is hot, feels 36℃, definitely prevent heatstroke!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

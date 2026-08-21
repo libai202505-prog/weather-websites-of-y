@@ -278,5 +278,25 @@
     "ai_briefing_zh": "多云闷热，风力 4级。注意防暑，多补水。",
     "ai_briefing_en": "Cloudy and muggy, 4-level wind. Stay hydrated and avoid heatstroke.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-21T16:15+08:00",
+    "temp": "32",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "90",
+    "humidity": "63",
+    "precip": "8.4",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云有大风，气温高，注意防风防暑！",
+    "ai_briefing_en": "Hangzhou is partly cloudy with strong winds and high temperatures, mind the wind and heat!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

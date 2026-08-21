@@ -278,5 +278,25 @@
     "ai_briefing_zh": "小雨风力 5级，带好雨具，出行注意安全。",
     "ai_briefing_en": "Light rain, 5-level wind. Grab your rain gear, travel safely.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-21T16:24+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "135",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "青岛阴天，风力较大，体感湿润，记得添衣！",
+    "ai_briefing_en": "Qingdao is overcast with strong winds, feels humid, remember to add clothes!",
+    "alert": null
   }
 ]

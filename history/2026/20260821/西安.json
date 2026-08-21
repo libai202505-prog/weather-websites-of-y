@@ -278,5 +278,25 @@
     "ai_briefing_zh": "天晴酷热，体感 38℃。注意防晒，多饮水。",
     "ai_briefing_en": "Sunny and scorching, feels like 38℃. Protect from sun, drink plenty.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-21T16:15+08:00",
+    "temp": "33",
+    "feelsLike": "37",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安晴热，体感炎热，注意防晒补水！",
+    "ai_briefing_en": "Xi'an is sunny and hot, feels scorching, remember sun protection and hydration!",
+    "alert": null
   }
 ]

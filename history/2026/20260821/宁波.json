@@ -278,5 +278,25 @@
     "ai_briefing_zh": "阴天湿热，注意防潮，保持身体清爽。",
     "ai_briefing_en": "Overcast and humid, mind the dampness and stay fresh.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-21T16:15+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "中雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波中雨，记得带伞，湿度高，小心潮湿！",
+    "ai_briefing_en": "Ningbo has moderate rain, remember your umbrella, high humidity, watch out for dampness!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

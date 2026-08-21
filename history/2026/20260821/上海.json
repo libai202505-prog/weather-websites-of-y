@@ -278,5 +278,25 @@
     "ai_briefing_zh": "小雨微凉，记得带伞，小心路滑。",
     "ai_briefing_en": "Light rain, slightly cooler. Grab an umbrella, watch for slippery roads.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-21T16:22+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "315",
+    "humidity": "81",
+    "precip": "1.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "94",
+    "ai_briefing_zh": "上海阴天，体感较热，注意防暑！",
+    "ai_briefing_en": "Shanghai is overcast, feels quite hot, remember to prevent heatstroke!",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "厦门有雾，能见度低，体感湿热，请注意安全。",
     "ai_briefing_en": "Fog in Xiamen, low visibility, feels humid. Please stay safe.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-21T21:25+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "987",
+    "vis": "7",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "小雨绵绵，湿度 96%，出门记得带伞哦。",
+    "ai_briefing_en": "Light rain and 96% humidity. Don't forget your umbrella!",
+    "alert": null
   }
 ]

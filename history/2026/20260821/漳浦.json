@@ -378,5 +378,25 @@
     "ai_briefing_zh": "漳浦阴天，湿度大，体感 30℃。注意防潮防闷热。",
     "ai_briefing_en": "Zhangpu is cloudy, high humidity, feels like 30℃. Watch out for dampness and stuffiness.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-21T21:25+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "15",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天闷热，湿度 94%，注意防潮，保持清爽。",
+    "ai_briefing_en": "Overcast and muggy, 94% humidity. Stay dry and cool.",
+    "alert": null
   }
 ]

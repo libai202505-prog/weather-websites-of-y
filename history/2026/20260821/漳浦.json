@@ -158,5 +158,25 @@
     "ai_briefing_zh": "多云闷热，湿度大，记得多喝水降温。",
     "ai_briefing_en": "Humid day. Drink water!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-21T09:02+08:00",
+    "temp": "29",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "270",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦多云体感 33℃。天气炎热，注意防暑降温！",
+    "ai_briefing_en": "Zhangpu: Cloudy, hot.",
+    "alert": null
   }
 ]

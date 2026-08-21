@@ -158,5 +158,25 @@
     "ai_briefing_zh": "天气晴朗体感热，注意防晒，小心中暑哦。",
     "ai_briefing_en": "Sunny and hot. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-21T09:00+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "94",
+    "ai_briefing_zh": "上海阴天闷热，体感 32℃。注意防晒，及时补水！",
+    "ai_briefing_en": "Shanghai: Overcast. Hydrate.",
+    "alert": null
   }
 ]

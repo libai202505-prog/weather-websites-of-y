@@ -158,5 +158,25 @@
     "ai_briefing_zh": "多云闷热，湿度较高，记得多通风透气。",
     "ai_briefing_en": "Humid day. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-21T09:02+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云炎热，体感 33℃。注意防暑，多喝水！",
+    "ai_briefing_en": "Ningbo: Cloudy, hot.",
+    "alert": null
   }
 ]

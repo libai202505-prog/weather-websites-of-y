@@ -158,5 +158,25 @@
     "ai_briefing_zh": "雾气弥漫，能见度低，开车记得慢点哦。",
     "ai_briefing_en": "Foggy. Drive with care!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-21T09:00+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "315",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "977",
+    "vis": "9",
+    "dew": "24",
+    "cloud": "98",
+    "ai_briefing_zh": "重庆雾蒙蒙，体感 32℃。注意交通安全，及时补水！",
+    "ai_briefing_en": "Chongqing: Foggy, warm.",
+    "alert": null
   }
 ]

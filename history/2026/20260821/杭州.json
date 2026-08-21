@@ -158,5 +158,25 @@
     "ai_briefing_zh": "小雨霏霏，出行带伞，地面湿滑小心走。",
     "ai_briefing_en": "It's raining. Take umbrella.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-21T09:02+08:00",
+    "temp": "27",
+    "feelsLike": "31",
+    "text": "阵雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "90",
+    "humidity": "93",
+    "precip": "10.0",
+    "pressure": "1001",
+    "vis": "12",
+    "dew": "27",
+    "cloud": "98",
+    "ai_briefing_zh": "杭州阵雨，体感 31℃。出门带伞，注意防潮湿！",
+    "ai_briefing_en": "Hangzhou: Showers. Umbrella!",
+    "alert": null
   }
 ]

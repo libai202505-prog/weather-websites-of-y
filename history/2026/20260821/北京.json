@@ -158,5 +158,25 @@
     "ai_briefing_zh": "雾气浓重，出行请注意交通安全，小心慢行哦！",
     "ai_briefing_en": "Foggy day. Please drive safe!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-21T09:00+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "3",
+    "dew": "23",
+    "cloud": "91",
+    "ai_briefing_zh": "北京雾重体感热。注意行车安全，记得补水！",
+    "ai_briefing_en": "Beijing: Fog, warm. Be safe.",
+    "alert": null
   }
 ]

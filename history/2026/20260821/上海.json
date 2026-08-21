@@ -358,5 +358,25 @@
     "ai_briefing_zh": "上海体感 34℃ 且无风。多云闷热，避免户外久留，小心中暑。",
     "ai_briefing_en": "Shanghai feels like 34°C with no wind. It's cloudy and muggy, avoid prolonged outdoor stays to prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-21T20:36+08:00",
+    "temp": "28",
+    "feelsLike": "32",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "上海有小雨，体感湿热，出门记得带伞，注意防潮。",
+    "ai_briefing_en": "Light rain in Shanghai, feels humid. Bring an umbrella and stay dry.",
+    "alert": null
   }
 ]

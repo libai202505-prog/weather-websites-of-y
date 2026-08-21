@@ -218,5 +218,25 @@
     "ai_briefing_zh": "广州阴天，体感 32℃ 闷热，多喝水，轻装出行。",
     "ai_briefing_en": "Guangzhou: 32℃. Hydrate.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-21T13:15+08:00",
+    "temp": "32",
+    "feelsLike": "36",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "71",
+    "precip": "0.7",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州闷热如夏，多补水防暑。",
+    "ai_briefing_en": "Guangzhou muggy. Hydrate & cool.",
+    "alert": null
   }
 ]

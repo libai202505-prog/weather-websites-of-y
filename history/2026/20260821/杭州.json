@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州阴天，体感 34℃ 湿热，多喝水，防范中暑！",
     "ai_briefing_en": "Hangzhou: 34℃. Hydrate.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-21T13:15+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "26",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州风大闷热，小心中暑，多补水。",
+    "ai_briefing_en": "Windy, muggy. Stay hydrated!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

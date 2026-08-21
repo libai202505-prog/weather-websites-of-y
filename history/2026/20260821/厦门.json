@@ -398,5 +398,25 @@
     "ai_briefing_zh": "小雨绵绵，湿度 96%，出门记得带伞哦。",
     "ai_briefing_en": "Light rain and 96% humidity. Don't forget your umbrella!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-21T22:25+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "96",
+    "precip": "0.2",
+    "pressure": "988",
+    "vis": "10",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -398,5 +398,25 @@
     "ai_briefing_zh": "广州阴天，体感 32℃ 炎热，小心别中暑呀。",
     "ai_briefing_en": "Guangzhou is cloudy and hot. Watch out for heatstroke!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-22T21:15+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，体感闷热，湿度高，注意防暑和通风！",
+    "ai_briefing_en": "Guangzhou is overcast and muggy. Stay cool and ensure ventilation!",
+    "alert": null
   }
 ]

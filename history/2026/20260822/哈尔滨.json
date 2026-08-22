@@ -298,5 +298,25 @@
     "ai_briefing_zh": "哈尔滨中雨，出门带伞，注意路滑，湿度高有点闷！",
     "ai_briefing_en": "Harbin has moderate rain, bring an umbrella. Watch for slippery roads, high humidity feels muggy!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-22T16:15+08:00",
+    "temp": "23",
+    "feelsLike": "21",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "18",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨中雨，出门带伞，天气微凉注意保暖哦！",
+    "ai_briefing_en": "Moderate rain in Harbin, bring an umbrella, it's a bit cool!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

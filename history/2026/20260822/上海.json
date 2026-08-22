@@ -378,5 +378,25 @@
     "ai_briefing_zh": "上海多云，体感 32℃，湿度高，注意防暑。",
     "ai_briefing_en": "Shanghai is cloudy, feels like 32℃. High humidity, watch out for heat.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-22T20:22+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "19",
+    "dew": "25",
+    "cloud": "92",
+    "ai_briefing_zh": "上海多云，体感 31℃ 略热，外出防晒别忘了！",
+    "ai_briefing_en": "Shanghai is cloudy and hot. Don't forget sunscreen!",
+    "alert": null
   }
 ]

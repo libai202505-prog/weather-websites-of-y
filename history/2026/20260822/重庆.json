@@ -378,5 +378,25 @@
     "ai_briefing_zh": "重庆 35℃，炎热难耐，务必注意防暑降温！",
     "ai_briefing_en": "Chongqing 35℃, extremely hot. Be sure to prevent heatstroke!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-22T20:22+08:00",
+    "temp": "34",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "23",
+    "dew": "24",
+    "cloud": "6",
+    "ai_briefing_zh": "重庆多云，体感 36℃ 酷热，务必注意防暑！",
+    "ai_briefing_en": "Chongqing is cloudy, feeling 36℃. Extreme heat, stay safe!",
+    "alert": null
   }
 ]

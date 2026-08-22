@@ -378,5 +378,25 @@
     "ai_briefing_zh": "武汉阴天，气温 33℃，风力 5级。注意防风防晒。",
     "ai_briefing_en": "Wuhan is cloudy, 33℃, wind force 5. Watch out for wind and sun.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-22T20:24+08:00",
+    "temp": "31",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "武汉阴天，体感 32℃，风力 4 级，记得防晒！",
+    "ai_briefing_en": "Wuhan is cloudy, breezy and hot. Don't forget sunscreen!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

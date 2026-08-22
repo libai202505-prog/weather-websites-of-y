@@ -138,5 +138,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-23T06:48+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "225",
+    "humidity": "91",
+    "precip": "2.1",
+    "pressure": "1000",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，风力 4级。海边风大，注意防风，小心吹感冒。",
+    "ai_briefing_en": "Dalian is cloudy, wind level 4. Windy by sea, watch for wind, avoid catching a cold.",
+    "alert": null
   }
 ]

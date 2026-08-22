@@ -138,5 +138,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-23T06:48+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "晴",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "180",
+    "humidity": "93",
+    "precip": "0.9",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳晴天，体感 24℃，湿度高。紫外线虽不强，但仍需注意防晒。",
+    "ai_briefing_en": "Shenyang is sunny, feels like 24℃, high humidity. UV not strong, but still mind sunscreen.",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "上海阴天，体感 34℃，闷热感强，及时补充水分！",
     "ai_briefing_en": "Shanghai is cloudy, feels 34℃. It's muggy, so drink plenty of water!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-22T14:22+08:00",
+    "temp": "30",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "1.0",
+    "pressure": "1003",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "96",
+    "ai_briefing_zh": "上海阴天，体感热，多补充水分哦。",
+    "ai_briefing_en": "Shanghai is cloudy and feels hot. Stay hydrated!",
+    "alert": null
   }
 ]

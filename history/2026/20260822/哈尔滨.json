@@ -418,5 +418,25 @@
     "ai_briefing_zh": "哈尔滨阴天，湿度 94%，体感舒适，记得室内通风。",
     "ai_briefing_en": "Harbin is overcast with 94% humidity. It feels comfortable, ventilate indoors.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-22T21:48+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "11",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": null
   }
 ]

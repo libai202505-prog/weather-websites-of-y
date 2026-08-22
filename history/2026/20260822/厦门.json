@@ -418,5 +418,25 @@
     "ai_briefing_zh": "厦门阴天，体感闷热，湿度 91%，记得防暑防潮哦！",
     "ai_briefing_en": "Xiamen is overcast and muggy with 91% humidity. Stay cool and dry!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-22T21:48+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "986",
+    "vis": "12",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门 夜间监测中，注意保暖",
+    "ai_briefing_en": "厦门: Night watch, stay warm.",
+    "alert": null
   }
 ]

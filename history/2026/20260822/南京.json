@@ -418,5 +418,25 @@
     "ai_briefing_zh": "南京阴天，湿度高达 97%，体感闷热，记得防潮。",
     "ai_briefing_en": "Nanjing is overcast with 97% humidity. It feels muggy, stay dry.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-22T21:48+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "20",
+    "wind360": "90",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "21",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": null
   }
 ]

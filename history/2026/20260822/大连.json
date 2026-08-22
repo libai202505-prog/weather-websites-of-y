@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连多云，湿度高，多喝水，保持心情舒畅。",
     "ai_briefing_en": "Dalian is cloudy and humid. Drink water, stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-22T08:48+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.4",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "多云天气，风力4级，出行注意防风哦！",
+    "ai_briefing_en": "Cloudy with strong winds, take care against the wind!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "青岛体感闷热，多补充水分，避免长时间户外。",
     "ai_briefing_en": "Qingdao feels muggy and hot. Hydrate, avoid long outdoor stays.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-22T09:00+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "多云闷热，湿度大，请注意补水降温。",
+    "ai_briefing_en": "Cloudy and muggy with high humidity, stay hydrated and cool.",
+    "alert": null
   }
 ]

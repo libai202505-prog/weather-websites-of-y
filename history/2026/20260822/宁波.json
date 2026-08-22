@@ -158,5 +158,25 @@
     "ai_briefing_zh": "宁波中雨，记得带伞，小心路滑，注意安全。",
     "ai_briefing_en": "Ningbo has moderate rain. Bring an umbrella, roads are slippery!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-22T08:48+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阵雨",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "29",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阵雨天气，湿度大，记得带伞防湿滑。",
+    "ai_briefing_en": "Showers and high humidity, bring an umbrella and watch for slick roads.",
+    "alert": null
   }
 ]

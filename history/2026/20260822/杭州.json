@@ -158,5 +158,25 @@
     "ai_briefing_zh": "杭州多云潮湿，注意除湿，保持室内干爽。",
     "ai_briefing_en": "Hangzhou is cloudy and humid. Remember to dehumidify indoors!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-22T08:48+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "21",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天热度不减，风力3级，记得多饮水。",
+    "ai_briefing_en": "Overcast but still hot, with moderate wind. Stay hydrated.",
+    "alert": null
   }
 ]

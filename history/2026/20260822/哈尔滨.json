@@ -338,5 +338,25 @@
     "ai_briefing_zh": "小雨微凉，体感 19℃。出门带伞，记得添件薄外套。",
     "ai_briefing_en": "Light rain, feels cool at 19℃. Take an umbrella and a light jacket.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-22T18:05+08:00",
+    "temp": "21",
+    "feelsLike": "16",
+    "text": "大雨",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "225",
+    "humidity": "92",
+    "precip": "0.1",
+    "pressure": "997",
+    "vis": "12",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

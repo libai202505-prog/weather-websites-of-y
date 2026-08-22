@@ -338,5 +338,25 @@
     "ai_briefing_zh": "阴天湿度大，体感闷热。注意防潮，保持身体清爽。",
     "ai_briefing_en": "Overcast and humid, feels muggy. Stay dry and refreshed!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-22T18:05+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "225",
+    "humidity": "85",
+    "precip": "0.2",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
+    "ai_briefing_en": "深圳: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

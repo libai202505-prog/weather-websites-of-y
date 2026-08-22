@@ -338,5 +338,25 @@
     "ai_briefing_zh": "多云体感 34℃，出门注意防晒补水，小心中暑。",
     "ai_briefing_en": "Cloudy and feels like 34℃, protect from sun, hydrate, avoid heatstroke.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-22T18:08+08:00",
+    "temp": "29",
+    "feelsLike": "34",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "1",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

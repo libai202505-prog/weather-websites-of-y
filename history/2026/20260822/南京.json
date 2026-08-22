@@ -178,5 +178,25 @@
     "ai_briefing_zh": "风力4级，体感闷热，注意防风和补水。",
     "ai_briefing_en": "Strong winds and muggy. Watch out for wind and hydrate.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-22T10:37+08:00",
+    "temp": "30",
+    "feelsLike": "35",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "90",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京体感 35℃，炎热潮湿，注意防暑多喝水哦。",
+    "ai_briefing_en": "Nanjing has a real feel of 35℃. It's hot and humid, remember to prevent heatstroke and drink plenty of water.",
+    "alert": null
   }
 ]

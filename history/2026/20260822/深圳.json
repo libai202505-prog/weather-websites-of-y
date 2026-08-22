@@ -178,5 +178,25 @@
     "ai_briefing_zh": "湿度特别大，体感闷热，记得多喝水哦！",
     "ai_briefing_en": "Extremely humid and muggy, remember to drink more water!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-22T10:37+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "180",
+    "humidity": "85",
+    "precip": "0.4",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，湿度大体感热，多补充水分注意防暑。",
+    "ai_briefing_en": "Shenzhen is overcast with high humidity and a hot feel. Drink plenty of water and prevent heatstroke.",
+    "alert": null
   }
 ]

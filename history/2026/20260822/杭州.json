@@ -178,5 +178,25 @@
     "ai_briefing_zh": "阴天热度不减，风力3级，记得多饮水。",
     "ai_briefing_en": "Overcast but still hot, with moderate wind. Stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-22T10:37+08:00",
+    "temp": "30",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "270",
+    "humidity": "70",
+    "precip": "1.8",
+    "pressure": "999",
+    "vis": "23",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天，体感 34℃，天气闷热，记得防晒补水。",
+    "ai_briefing_en": "Hangzhou is overcast with a real feel of 34℃. It's muggy, remember sun protection and hydration.",
+    "alert": null
   }
 ]

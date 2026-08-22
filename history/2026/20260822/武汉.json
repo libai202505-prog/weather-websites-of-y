@@ -178,5 +178,25 @@
     "ai_briefing_zh": "晴热闷湿，体感温度高，多喝水防中暑。",
     "ai_briefing_en": "Sunny, hot and humid. Drink water to prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-22T10:44+08:00",
+    "temp": "32",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "90",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "24",
+    "dew": "27",
+    "cloud": "91",
+    "ai_briefing_zh": "武汉体感 33℃，天气炎热，防暑降温，多补水。",
+    "ai_briefing_en": "Wuhan has a real feel of 33℃. It's hot, prevent heatstroke and keep cool, hydrate well.",
+    "alert": null
   }
 ]

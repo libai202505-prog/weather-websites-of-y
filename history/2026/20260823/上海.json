@@ -378,5 +378,25 @@
     "ai_briefing_zh": "多云体感微热，注意防暑保持舒适。",
     "ai_briefing_en": "Cloudy, warm. Stay cool, comfy!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-23T21:20+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "20",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "上海体感 31℃，多云天也要注意防晒，保持清爽。",
+    "ai_briefing_en": "Shanghai feels like 31℃, stay cool and protected from sun.",
+    "alert": null
   }
 ]

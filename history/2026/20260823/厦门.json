@@ -378,5 +378,25 @@
     "ai_briefing_zh": "阴天潮湿微热，穿衣清爽，保持舒适。",
     "ai_briefing_en": "Cloudy & humid. Be comfy.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-23T21:15+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "87",
+    "precip": "0.5",
+    "pressure": "986",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门体感 29℃，湿度 87%，注意防潮，保持好心情！",
+    "ai_briefing_en": "Xiamen feels like 29℃ with 87% humidity. Stay dry and cheerful!",
+    "alert": null
   }
 ]

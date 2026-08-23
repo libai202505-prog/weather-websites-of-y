@@ -378,5 +378,25 @@
     "ai_briefing_zh": "天气阴沉体感热，记得补水防中暑哦！",
     "ai_briefing_en": "Cloudy & hot. Hydrate, stay cool!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-23T21:20+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "北京体感 33℃，出门防晒，注意补水哦！",
+    "ai_briefing_en": "Beijing feels like 33℃, stay hydrated and protect from sun!",
+    "alert": null
   }
 ]

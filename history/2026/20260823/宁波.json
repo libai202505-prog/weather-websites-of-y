@@ -378,5 +378,25 @@
     "ai_briefing_zh": "多云潮湿风力大，注意防风，带把雨伞。",
     "ai_briefing_en": "Cloudy, windy. Umbrella!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-23T21:15+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "135",
+    "humidity": "91",
+    "precip": "1.1",
+    "pressure": "1007",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波体感 29℃，湿度 91%，闷热，及时补充水分。",
+    "ai_briefing_en": "Ningbo feels like 29℃ with 91% humidity. Stay hydrated!",
+    "alert": null
   }
 ]

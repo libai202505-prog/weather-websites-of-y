@@ -378,5 +378,25 @@
     "ai_briefing_zh": "阴天风力大，注意防风，及时增减衣物。",
     "ai_briefing_en": "Cloudy, windy. Mind wind.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-23T21:15+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "180",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳体感 30℃，湿度 86%，天气闷热，多喝水哦。",
+    "ai_briefing_en": "Shenyang feels like 30℃, 86% humidity. Stay hydrated!",
+    "alert": null
   }
 ]

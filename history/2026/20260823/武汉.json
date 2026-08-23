@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉阴天，体感 32℃ 有风，注意补水哦。",
     "ai_briefing_en": "Wuhan is cloudy, feels 32℃ & windy. Stay hydrated!",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-23T19:00+08:00",
+    "temp": "31",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "95",
+    "ai_briefing_zh": "武汉阴天，体感 31℃，风力 5级。注意防暑，小心大风！",
+    "ai_briefing_en": "Overcast Wuhan feels 31℃, very windy. Guard against heat, mind the strong wind!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

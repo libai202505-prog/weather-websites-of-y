@@ -338,5 +338,25 @@
     "ai_briefing_zh": "宁波风力 5级，湿度高，体感舒适，注意防潮。",
     "ai_briefing_en": "Ningbo, 5-level wind, high humidity, feels nice. Watch for dampness.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-23T18:48+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "135",
+    "humidity": "82",
+    "precip": "0.2",
+    "pressure": "1004",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云，体感 29℃，风力 4级。注意防晒，小心大风。",
+    "ai_briefing_en": "Partly cloudy Ningbo feels 29℃, windy. Sun protection, mind the strong wind.",
+    "alert": null
   }
 ]

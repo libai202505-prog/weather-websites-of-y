@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天体感闷热，及时补水，注意防暑。",
     "ai_briefing_en": "Cloudy and muggy. Hydrate and stay cool!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-23T14:15+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "225",
+    "humidity": "61",
+    "precip": "6.8",
+    "pressure": "950",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天也闷热，多喝水，注意防暑。",
+    "ai_briefing_en": "Cloudy & muggy. Hydrate, stay cool!",
+    "alert": null
   }
 ]

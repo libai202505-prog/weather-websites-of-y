@@ -238,5 +238,25 @@
     "ai_briefing_zh": "湿度偏高体感闷热，多补水哦。",
     "ai_briefing_en": "High humidity makes it muggy. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-23T14:15+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "180",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "天气多云体感热，注意补水和防晒。",
+    "ai_briefing_en": "Cloudy & warm. Stay hydrated!",
+    "alert": null
   }
 ]

@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天体感热，记得防晒多喝水。",
     "ai_briefing_en": "Cloudy but hot. Hydrate and protect from sun.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-23T14:15+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "225",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "天气闷热，注意防晒补水，小心哦。",
+    "ai_briefing_en": "Humid & hot. Hydrate, protect!",
+    "alert": null
   }
 ]

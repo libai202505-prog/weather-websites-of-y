@@ -238,5 +238,25 @@
     "ai_briefing_zh": "有阵雨，记得带伞！体感闷热多补水。",
     "ai_briefing_en": "Expect showers, bring an umbrella! Stay cool.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-23T14:22+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "27",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "气温 30℃ 啦，记得多喝水防暑！",
+    "ai_briefing_en": "It's 30℃, drink plenty of water!",
+    "alert": null
   }
 ]

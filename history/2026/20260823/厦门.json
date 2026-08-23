@@ -238,5 +238,25 @@
     "ai_briefing_zh": "阴天潮湿闷热，请注意防暑补水。",
     "ai_briefing_en": "Cloudy, humid and muggy. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-23T14:15+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "984",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天也闷热，多喝水，小心中暑哦！",
+    "ai_briefing_en": "Cloudy & muggy. Hydrate!",
+    "alert": null
   }
 ]

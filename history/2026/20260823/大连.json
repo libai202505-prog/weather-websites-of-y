@@ -158,5 +158,25 @@
     "ai_briefing_zh": "大连多云，风力 4级。海边风大，注意防风，小心吹感冒。",
     "ai_briefing_en": "Dalian is cloudy, wind level 4. Windy by sea, watch for wind, avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-23T08:48+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "225",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云体感 28℃，湿度高风大，外出注意防风。",
+    "ai_briefing_en": "Dalian feels 28℃, humid with strong winds. Be mindful of wind outdoors.",
+    "alert": null
   }
 ]

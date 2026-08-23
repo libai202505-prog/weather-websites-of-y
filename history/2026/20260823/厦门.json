@@ -158,5 +158,25 @@
     "ai_briefing_zh": "厦门有雾，体感 28℃，湿度高。能见度低，驾车出行请注意安全。",
     "ai_briefing_en": "Xiamen is foggy, feels like 28℃, high humidity. Low visibility, drive safe!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-23T08:48+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "986",
+    "vis": "26",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门多云体感 31℃，湿度高，注意防暑多补水。",
+    "ai_briefing_en": "Xiamen feels 31℃ and humid. Stay cool and hydrated!",
+    "alert": null
   }
 ]

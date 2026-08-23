@@ -158,5 +158,25 @@
     "ai_briefing_zh": "广州小雨，体感 28℃，湿度大。出门带伞，路面湿滑，注意安全。",
     "ai_briefing_en": "Guangzhou has light rain, feels like 28℃, high humidity. Bring umbrella, watch for wet roads!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-23T08:48+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "2.2",
+    "pressure": "994",
+    "vis": "24",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天体感 29℃，湿度 92%，记得保持清爽。",
+    "ai_briefing_en": "Guangzhou feels 29℃ with 92% humidity. Stay cool and fresh!",
+    "alert": null
   }
 ]

@@ -158,5 +158,25 @@
     "ai_briefing_zh": "西安晴朗，体感 27℃，湿度适中。外出愉快，注意补水哦！",
     "ai_briefing_en": "Xi'an is sunny, feels like 27℃, moderate humidity. Enjoy outdoors, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-23T08:48+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "963",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安多云体感 30℃，湿度近八成，注意补水防晒。",
+    "ai_briefing_en": "Xi'an feels 30℃ and humid. Hydrate and protect from sun.",
+    "alert": null
   }
 ]

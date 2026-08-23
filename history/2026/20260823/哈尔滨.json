@@ -278,5 +278,25 @@
     "ai_briefing_zh": "哈尔滨有阵雨，气温 23℃。出门带伞，注意防潮！",
     "ai_briefing_en": "Harbin has showers, 23℃. Bring an umbrella, watch out for dampness!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-23T16:15+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "92",
+    "precip": "0.7",
+    "pressure": "993",
+    "vis": "22",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴天微凉，湿度很高，出门注意防潮保暖。",
+    "ai_briefing_en": "Harbin is cloudy and cool with high humidity. Stay dry!",
+    "alert": null
   }
 ]

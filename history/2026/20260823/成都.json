@@ -358,5 +358,25 @@
     "ai_briefing_zh": "成都阴天，体感 34℃ 闷热，多喝水，注意防晒哦。",
     "ai_briefing_en": "Overcast Chengdu feels 34℃. It's muggy, drink more water, mind the sun!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-23T20:15+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "180",
+    "humidity": "79",
+    "precip": "0.5",
+    "pressure": "948",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天体感闷热，多补水，注意防暑哦。",
+    "ai_briefing_en": "Cloudy, muggy. Drink water.",
+    "alert": null
   }
 ]

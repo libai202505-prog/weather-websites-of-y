@@ -358,5 +358,25 @@
     "ai_briefing_zh": "北京阴天，体感 33℃ 略热，记得多喝水哟！",
     "ai_briefing_en": "Overcast Beijing feels 33℃. It's warm, remember to drink more water!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-23T20:28+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "天气阴沉体感热，记得补水防中暑哦！",
+    "ai_briefing_en": "Cloudy & hot. Hydrate, stay cool!",
+    "alert": null
   }
 ]

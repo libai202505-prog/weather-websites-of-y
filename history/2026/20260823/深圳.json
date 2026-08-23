@@ -358,5 +358,25 @@
     "ai_briefing_zh": "深圳阴天，体感 31℃ 闷热，多喝水，防晒要做好。",
     "ai_briefing_en": "Overcast Shenzhen feels 31℃. Muggy, drink more water, protect from sun.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-23T20:15+08:00",
+    "temp": "29",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "1.8",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "阴天体感稍热，记得多喝水，防潮。",
+    "ai_briefing_en": "Cloudy, warm. Hydrate!",
+    "alert": null
   }
 ]

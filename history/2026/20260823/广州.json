@@ -358,5 +358,25 @@
     "ai_briefing_zh": "广州阴天，体感 34℃ 高温，注意防暑，多补水哦。",
     "ai_briefing_en": "Overcast Guangzhou feels 34℃. It's hot, prevent heatstroke, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-23T20:15+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "13",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天潮湿体感闷，多喝水，注意防暑。",
+    "ai_briefing_en": "Cloudy & humid. Drink water.",
+    "alert": null
   }
 ]

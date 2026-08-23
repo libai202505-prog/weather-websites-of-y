@@ -358,5 +358,25 @@
     "ai_briefing_zh": "上海多云，体感 32℃ 略热，穿轻薄衣物，注意防晒！",
     "ai_briefing_en": "Partly cloudy Shanghai feels 32℃. Wear light clothes, protect from sun!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-23T20:28+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "21",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "多云体感微热，注意防暑保持舒适。",
+    "ai_briefing_en": "Cloudy, warm. Stay cool, comfy!",
+    "alert": null
   }
 ]

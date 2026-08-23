@@ -178,5 +178,25 @@
     "ai_briefing_zh": "大连多云体感 28℃，湿度高风大，外出注意防风。",
     "ai_briefing_en": "Dalian feels 28℃, humid with strong winds. Be mindful of wind outdoors.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-23T10:48+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "180",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "多云天，风力 4级，体感 30℃，小心着凉，注意防晒！",
+    "ai_briefing_en": "Cloudy and breezy, feels 30℃. Stay comfortable and protect from sun!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "天气闷热，注意防晒补水，小心哦。",
     "ai_briefing_en": "Humid & hot. Hydrate, protect!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-23T15:15+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "225",
+    "humidity": "76",
+    "precip": "0.4",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，体感 34℃。多喝水，午后小憩解暑！",
+    "ai_briefing_en": "Shenzhen is overcast, feels like 34℃. Stay hydrated, a nap helps beat the heat!",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "天气多云体感热，注意补水和防晒。",
     "ai_briefing_en": "Cloudy & warm. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-23T15:15+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "180",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，体感 30℃。湿度 74%，保持舒爽！",
+    "ai_briefing_en": "Dalian is cloudy, feels like 30℃. 74% humidity, stay comfortable!",
+    "alert": null
   }
 ]

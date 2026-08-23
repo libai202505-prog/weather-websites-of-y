@@ -198,5 +198,25 @@
     "ai_briefing_zh": "阴天体感 34℃，天气闷热，多喝水，防中暑！",
     "ai_briefing_en": "Cloudy and feels 34℃, muggy. Stay hydrated and avoid heatstroke!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-23T12:25+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "90",
+    "humidity": "87",
+    "precip": "7.4",
+    "pressure": "986",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "小雨绵绵，出门记得带把伞，注意防潮。",
+    "ai_briefing_en": "Light rain, remember your umbrella, watch out for dampness.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

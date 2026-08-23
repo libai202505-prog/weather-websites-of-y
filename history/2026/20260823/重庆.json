@@ -298,5 +298,25 @@
     "ai_briefing_zh": "重庆多云，风力 4级，外出注意防风，享受清凉。",
     "ai_briefing_en": "Chongqing is cloudy with 4-level wind, enjoy the breeze!",
     "alert": "📉 红色降温预警：1小时骤降7℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-23T17:08+08:00",
+    "temp": "30",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "270",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "25",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "重庆体感 32℃，多云天紫外线强，记得防晒补水。",
+    "ai_briefing_en": "Chongqing feels like 32℃. UV is strong on cloudy days, remember sun protection and hydration.",
+    "alert": null
   }
 ]

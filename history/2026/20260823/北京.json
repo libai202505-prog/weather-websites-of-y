@@ -298,5 +298,25 @@
     "ai_briefing_zh": "北京多云炎热，体感 35℃，记得防晒补水哦！",
     "ai_briefing_en": "Beijing is hot and cloudy, feels like 35℃. Hydrate and use sunscreen!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-23T17:08+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "225",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "13",
+    "dew": "25",
+    "cloud": "100",
+    "ai_briefing_zh": "北京体感 34℃，多云天也要注意防晒补水哦！",
+    "ai_briefing_en": "Beijing feels like 34℃. Even cloudy, remember sun protection and hydration!",
+    "alert": null
   }
 ]

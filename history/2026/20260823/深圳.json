@@ -318,5 +318,25 @@
     "ai_briefing_zh": "深圳体感 33℃，天阴风大，湿度高，注意防潮降温。",
     "ai_briefing_en": "Shenzhen feels like 33℃, cloudy with wind and high humidity. Mind the moisture and stay cool.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-23T18:05+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "180",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天闷热，体感 33℃，注意防暑。",
+    "ai_briefing_en": "Shenzhen is cloudy & muggy, feels 33℃. Stay cool!",
+    "alert": null
   }
 ]

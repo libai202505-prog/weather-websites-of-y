@@ -218,5 +218,25 @@
     "ai_briefing_zh": "湿度大风力强，体感湿热，多通风哦。",
     "ai_briefing_en": "High humidity, strong wind, feels muggy, ventilate.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-23T13:24+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "180",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "28",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "湿度大体感闷热，海边风大注意。",
+    "ai_briefing_en": "Humid and muggy. Strong winds by the sea.",
+    "alert": null
   }
 ]

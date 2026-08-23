@@ -218,5 +218,25 @@
     "ai_briefing_zh": "体感闷热，多补水，注意防暑降温哦。",
     "ai_briefing_en": "Feels muggy, hydrate more, prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-23T13:15+08:00",
+    "temp": "30",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天也别轻忽闷热，及时补水哦。",
+    "ai_briefing_en": "Cloudy and humid. Remember to hydrate!",
+    "alert": null
   }
 ]

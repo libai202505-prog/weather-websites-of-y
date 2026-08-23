@@ -398,5 +398,25 @@
     "ai_briefing_zh": "成都体感 31℃，湿度 90%，闷热，注意防暑解暑。",
     "ai_briefing_en": "Chengdu feels like 31℃ with 90% humidity, no wind. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-23T21:48+08:00",
+    "temp": "27",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

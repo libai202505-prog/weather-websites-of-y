@@ -398,5 +398,25 @@
     "ai_briefing_zh": "北京体感 33℃，出门防晒，注意补水哦！",
     "ai_briefing_en": "Beijing feels like 33℃, stay hydrated and protect from sun!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-08-23T22:00+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "14",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "北京 夜间监测中，注意保暖",
+    "ai_briefing_en": "北京: Night watch, stay warm.",
+    "alert": null
   }
 ]

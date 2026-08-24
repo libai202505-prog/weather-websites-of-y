@@ -318,5 +318,25 @@
     "ai_briefing_zh": "杭州多云，气温 33℃，风力 4 级，外出注意防晒。",
     "ai_briefing_en": "Hangzhou is cloudy, 33℃, level 4 winds. Be mindful of the sun.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-24T18:15+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "90",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "29",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，体感 34℃。出门带伞，注意防晒防暑哦！",
+    "ai_briefing_en": "Hangzhou is cloudy and feels like 34℃. Bring an umbrella, stay cool and protected.",
+    "alert": null
   }
 ]

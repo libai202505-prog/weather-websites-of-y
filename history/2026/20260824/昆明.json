@@ -318,5 +318,25 @@
     "ai_briefing_zh": "昆明阴天，气温适宜，外出散步的好天气。",
     "ai_briefing_en": "Kunming is overcast, pleasant temperature. Great for a walk.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-24T18:15+08:00",
+    "temp": "23",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "39",
+    "wind360": "45",
+    "humidity": "69",
+    "precip": "4.3",
+    "pressure": "807",
+    "vis": "22",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天，体感 20℃，风力 5级。注意添衣保暖，谨防着凉。",
+    "ai_briefing_en": "Kunming is cloudy, feels like 20℃ with 5-level wind. Dress warmly and avoid catching cold.",
+    "alert": "📉 红色降温预警：1小时骤降7℃ | 💨 北风警报：东北风 5级"
   }
 ]

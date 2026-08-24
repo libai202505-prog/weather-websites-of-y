@@ -398,5 +398,25 @@
     "ai_briefing_zh": "多云体感热，多补充水分。",
     "ai_briefing_en": "Cloudy & hot. Hydrate well.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-24T22:25+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

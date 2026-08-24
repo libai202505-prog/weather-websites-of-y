@@ -238,5 +238,25 @@
     "ai_briefing_zh": "杭州多云炎热，风力 5级。出门请注意防风防暑！",
     "ai_briefing_en": "Hangzhou is hot and windy, 5-level wind. Be careful of heat and wind!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-24T14:37+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "90",
+    "humidity": "51",
+    "precip": "0.9",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "东风 5级，体感 34℃，高温天，注意防暑。",
+    "ai_briefing_en": "Hot & windy 34℃. Keep cool!",
+    "alert": null
   }
 ]

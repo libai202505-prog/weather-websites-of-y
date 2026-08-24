@@ -238,5 +238,25 @@
     "ai_briefing_zh": "武汉阴天，气温 34℃。天气闷热，小心中暑哦！",
     "ai_briefing_en": "Wuhan is overcast, 34℃. It's muggy, watch out for heatstroke!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-24T14:51+08:00",
+    "temp": "35",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "90",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "高温 35℃，体感 36℃，注意防晒和多补水。",
+    "ai_briefing_en": "35℃, feels 36℃. Hydrate & SPF!",
+    "alert": null
   }
 ]

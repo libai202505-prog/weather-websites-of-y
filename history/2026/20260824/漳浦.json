@@ -238,5 +238,25 @@
     "ai_briefing_zh": "漳浦小雨，湿度 88%。体感 29℃，风力 4级，记得带伞！",
     "ai_briefing_en": "Zhangpu has light rain, 88% humidity. Feels like 29℃, bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-24T14:37+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "180",
+    "humidity": "96",
+    "precip": "2.9",
+    "pressure": "995",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "小雨 26℃，湿度 96%，出门务必带雨具，小心湿滑。",
+    "ai_briefing_en": "Rain 26℃, 96% humid. Umbrella!",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "多云微风，湿度较大。海边游玩，注意防风保暖哦！",
     "ai_briefing_en": "Cloudy with a slight breeze, high humidity. Enjoy the beach, mind the wind!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-24T10:58+08:00",
+    "temp": "30",
+    "feelsLike": "30",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "180",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

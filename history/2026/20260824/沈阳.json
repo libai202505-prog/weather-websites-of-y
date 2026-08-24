@@ -178,5 +178,25 @@
     "ai_briefing_zh": "中雨体感凉，湿度 100%。记得带好雨具，注意保暖！",
     "ai_briefing_en": "Moderate rain feels cool, 100% humidity. Bring rain gear, stay warm!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-24T10:48+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "45",
+    "humidity": "100",
+    "precip": "0.1",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

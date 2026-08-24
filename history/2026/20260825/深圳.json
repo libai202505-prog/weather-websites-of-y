@@ -58,5 +58,25 @@
     "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
     "ai_briefing_en": "深圳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-25T03:15+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "中雨",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "225",
+    "humidity": "92",
+    "precip": "0.6",
+    "pressure": "994",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
+    "ai_briefing_en": "深圳: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

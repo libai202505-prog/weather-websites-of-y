@@ -198,5 +198,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-24T12:25+08:00",
+    "temp": "25",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "6",
+    "windSpeed": "47",
+    "wind360": "0",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阴天，体感 23℃。风力 6级，出门多穿衣哦！",
+    "ai_briefing_en": "Dalian is cloudy 23℃, windy. Dress warmly outdoors!",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 6级"
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-24T17:37+08:00",
+    "temp": "24",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "82",
+    "precip": "2.7",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阴天，湿度 82%，体感舒适，出门带伞。",
+    "ai_briefing_en": "Dalian is overcast, 82% humidity. Pleasant, bring an umbrella.",
+    "alert": null
   }
 ]

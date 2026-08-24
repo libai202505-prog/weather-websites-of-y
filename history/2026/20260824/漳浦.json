@@ -158,5 +158,25 @@
     "ai_briefing_zh": "有雾，湿度 97%，体感暖和，出行注意安全！",
     "ai_briefing_en": "Foggy, humid. Alert!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-24T08:48+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "89",
+    "precip": "5.5",
+    "pressure": "997",
+    "vis": "24",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天湿度高，体感闷热。注意防潮，多饮水！",
+    "ai_briefing_en": "Cloudy with high humidity, feels stuffy. Mind the dampness, drink water!",
+    "alert": null
   }
 ]

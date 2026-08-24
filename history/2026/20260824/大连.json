@@ -158,5 +158,25 @@
     "ai_briefing_zh": "多云，风力 5级，湿度高。外出防风防潮！",
     "ai_briefing_en": "Cloudy, windy. Alert!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-24T08:48+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "2.3",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "阴天湿度高，体感舒适。外出记得带伞，以防小雨！",
+    "ai_briefing_en": "Cloudy with high humidity, feels comfortable. Bring an umbrella in case of light rain!",
+    "alert": null
   }
 ]

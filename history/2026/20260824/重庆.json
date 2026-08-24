@@ -378,5 +378,25 @@
     "ai_briefing_zh": "气温 35℃，体感 37℃，务必注意防暑降温！",
     "ai_briefing_en": "A scorching 35℃, feels like 37℃! Stay cool and hydrated!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-24T21:42+08:00",
+    "temp": "34",
+    "feelsLike": "37",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "315",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "21",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "多云酷热，务必防暑。",
+    "ai_briefing_en": "Cloudy, extremely hot. Cool down.",
+    "alert": null
   }
 ]

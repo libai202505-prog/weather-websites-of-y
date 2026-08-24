@@ -378,5 +378,25 @@
     "ai_briefing_zh": "阳光灿烂体感热，多补充水分很必要！",
     "ai_briefing_en": "Sunny and feels hot! Remember to drink plenty of water.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-08-24T21:37+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "270",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "961",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "多云炎热，注意防暑。",
+    "ai_briefing_en": "Cloudy, very hot. Stay cool.",
+    "alert": null
   }
 ]

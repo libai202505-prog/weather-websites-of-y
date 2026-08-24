@@ -258,5 +258,25 @@
     "ai_briefing_zh": "小雨 20℃，体感 18℃。出门带伞，注意保暖。",
     "ai_briefing_en": "Rain 20℃, feels 18℃. Keep warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-24T15:48+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "阵雨",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "20",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阵雨，气温 20℃。出门带好雨具，注意保暖。",
+    "ai_briefing_en": "Shenyang has showers at 20℃. Take an umbrella and stay warm.",
+    "alert": null
   }
 ]

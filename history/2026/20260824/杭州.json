@@ -218,5 +218,25 @@
     "ai_briefing_zh": "杭州阴天，体感 34℃。风力大，注意防晒补水！",
     "ai_briefing_en": "Hangzhou is cloudy, 34℃ with wind. Protect from sun!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-24T13:25+08:00",
+    "temp": "33",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "135",
+    "humidity": "55",
+    "precip": "0.5",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云炎热，风力 5级。出门请注意防风防暑！",
+    "ai_briefing_en": "Hangzhou is hot and windy, 5-level wind. Be careful of heat and wind!",
+    "alert": null
   }
 ]

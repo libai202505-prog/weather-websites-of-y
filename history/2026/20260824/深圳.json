@@ -358,5 +358,25 @@
     "ai_briefing_zh": "多云稍热，体感 31℃。湿度大，外出记得带水哦。",
     "ai_briefing_en": "Partly cloudy and warm, feels like 31°C. High humidity, remember water!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-24T20:37+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "225",
+    "humidity": "82",
+    "precip": "0.3",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "多云有风，湿度大，出行记得带伞哦！",
+    "ai_briefing_en": "Cloudy and breezy with high humidity. An umbrella might be handy!",
+    "alert": null
   }
 ]

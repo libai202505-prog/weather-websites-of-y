@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天微热，体感 32℃。湿度高，多喝水保持清爽！",
     "ai_briefing_en": "Overcast and warm, feels like 32°C with high humidity. Stay hydrated and cool!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-24T20:37+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "天气阴沉湿度高，体感闷热，注意防暑！",
+    "ai_briefing_en": "Cloudy and very humid! Keep cool and stay refreshed.",
+    "alert": null
   }
 ]

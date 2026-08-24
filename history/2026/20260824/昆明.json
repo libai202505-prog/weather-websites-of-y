@@ -358,5 +358,25 @@
     "ai_briefing_zh": "阴天舒适，气温 21℃。湿度 74%，注意防潮哦。",
     "ai_briefing_en": "Overcast and comfortable, 21°C. 74% humidity, be mindful of dampness!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-24T20:37+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "81",
+    "precip": "1.0",
+    "pressure": "809",
+    "vis": "28",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天舒适，湿度较高，注意通风防潮。",
+    "ai_briefing_en": "Cloudy and pleasant, but humid. Ensure good ventilation.",
+    "alert": null
   }
 ]

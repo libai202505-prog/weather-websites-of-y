@@ -338,5 +338,25 @@
     "ai_briefing_zh": "昆明阴天，体感 20℃，风力 5级。注意添衣保暖，谨防着凉。",
     "ai_briefing_en": "Kunming is cloudy, feels like 20℃ with 5-level wind. Dress warmly and avoid catching cold.",
     "alert": "📉 红色降温预警：1小时骤降7℃ | 💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-24T19:15+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天舒适，气温 21℃。湿度 74%，注意防潮哦。",
+    "ai_briefing_en": "Overcast and comfortable, 21°C. 74% humidity, be mindful of dampness!",
+    "alert": null
   }
 ]

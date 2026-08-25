@@ -298,5 +298,25 @@
     "ai_briefing_zh": "杭州阵雨，体感 32℃，带伞防湿哦。",
     "ai_briefing_en": "Hangzhou: Showers. Bring umbrella!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-25T16:25+08:00",
+    "temp": "32",
+    "feelsLike": "35",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "25",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -298,5 +298,25 @@
     "ai_briefing_zh": "上海晴朗，体感 33℃，防晒补水哦！",
     "ai_briefing_en": "Shanghai: Sunny. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-25T16:36+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "91",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

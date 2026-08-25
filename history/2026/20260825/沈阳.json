@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳天气阴，体感 29℃，出门记得带伞，以防阵雨。",
     "ai_briefing_en": "Shenyang is cloudy, feels 29℃. Remember your umbrella for possible showers.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-25T14:25+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "315",
+    "humidity": "72",
+    "precip": "3.1",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，体感 29℃，天气微凉，小心着凉。",
+    "ai_briefing_en": "Shenyang is overcast, feels 29℃. Slightly cool, be careful not to catch a cold.",
+    "alert": null
   }
 ]

@@ -258,5 +258,25 @@
     "ai_briefing_zh": "漳浦中雨，出行请备好雨具，路面湿滑，注意安全。",
     "ai_briefing_en": "Zhangpu has moderate rain. Take your rain gear, roads are slick, drive safely!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-25T14:25+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "8",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦小雨，气温 27℃，路面湿滑，慢行注意安全。",
+    "ai_briefing_en": "Zhangpu has light rain, 27℃. Roads are wet and slippery, drive slowly and safely.",
+    "alert": null
   }
 ]

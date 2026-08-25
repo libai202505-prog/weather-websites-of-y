@@ -278,5 +278,25 @@
     "ai_briefing_zh": "哈尔滨有 5级风，体感舒适，出门注意防风。",
     "ai_briefing_en": "Harbin has 5-level wind, feels comfortable. Mind the wind when going out.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-25T15:25+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "270",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨体感 24℃，天气宜人，风力 4 级。",
+    "ai_briefing_en": "Harbin: Pleasant 24℃. Enjoy your day!",
+    "alert": null
   }
 ]

@@ -198,5 +198,25 @@
     "ai_briefing_zh": "厦门小雨，湿度大，出门带伞，小心湿滑路面。",
     "ai_briefing_en": "Xiamen has light rain, very humid. Take umbrella, roads may be slick.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-25T11:37+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "45",
+    "humidity": "99",
+    "precip": "1.2",
+    "pressure": "988",
+    "vis": "4",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门小雨，体感 28℃，湿度 99%。出门带伞，小心湿滑！",
+    "ai_briefing_en": "Xiamen, light rain and feels like 28℃, 99% humidity. Take an umbrella and watch out for slippery surfaces!",
+    "alert": null
   }
 ]

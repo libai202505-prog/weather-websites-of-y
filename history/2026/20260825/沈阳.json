@@ -198,5 +198,25 @@
     "ai_briefing_zh": "沈阳多云，体感舒适，户外活动注意补水哦。",
     "ai_briefing_en": "Shenyang is pleasant and cloudy. Hydrate during outdoor activities.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-25T11:37+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "225",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳多云 28℃，体感 29℃。湿度高，风力 4级，多喝水哦！",
+    "ai_briefing_en": "Shenyang, cloudy 28℃ feels like 29℃ with high humidity and level 4 winds. Drink plenty of water!",
+    "alert": null
   }
 ]

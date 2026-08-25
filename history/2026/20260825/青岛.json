@@ -198,5 +198,25 @@
     "ai_briefing_zh": "青岛多云炎热，湿度高，请注意防暑降温。",
     "ai_briefing_en": "Qingdao is hot and humid. Please stay cool and prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-08-25T11:42+08:00",
+    "temp": "30",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "135",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "青岛多云 30℃，体感 31℃，湿度 80%。风力 4级，小心吹感冒。",
+    "ai_briefing_en": "Qingdao, cloudy 30℃ feels like 31℃, 80% humidity, level 4 winds. Beware of catching a cold!",
+    "alert": null
   }
 ]

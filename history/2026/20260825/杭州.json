@@ -198,5 +198,25 @@
     "ai_briefing_zh": "杭州体感炎热，注意防暑防晒，多补充水分。",
     "ai_briefing_en": "Hangzhou feels hot. Stay hydrated and protect from sun.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-08-25T11:37+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "70",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "24",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天 30℃，体感 33℃，风力 4级。天热易疲惫，午后小憩一下吧。",
+    "ai_briefing_en": "Hangzhou is cloudy, 30℃ feels like 33℃ with level 4 winds. Hot days are tiring, take a nap if you can!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

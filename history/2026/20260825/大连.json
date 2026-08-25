@@ -158,5 +158,25 @@
     "ai_briefing_zh": "湿度 92%，体感舒适，记得室内防潮，保持通风。",
     "ai_briefing_en": "92% humidity, pleasant feel. Remember to dehumidify indoors and ventilate.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-25T08:48+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "多云体感微热，湿度高，注意防潮，保持清爽！",
+    "ai_briefing_en": "Cloudy and humid, feels slightly warm, keep cool and dry!",
+    "alert": null
   }
 ]

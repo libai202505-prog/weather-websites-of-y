@@ -158,5 +158,25 @@
     "ai_briefing_zh": "体感 32℃，天气闷热，多饮水，注意休息防中暑。",
     "ai_briefing_en": "Feels like 32℃, it's hot and muggy. Drink water and rest to prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-08-25T09:00+08:00",
+    "temp": "33",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "973",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "4",
+    "ai_briefing_zh": "多云高温，体感爆热，注意防暑降温，避免长时间户外！",
+    "ai_briefing_en": "Cloudy and extremely hot, take precautions against heatstroke!",
+    "alert": null
   }
 ]

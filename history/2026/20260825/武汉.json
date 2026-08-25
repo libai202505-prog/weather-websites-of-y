@@ -338,5 +338,25 @@
     "ai_briefing_zh": "武汉晴朗高温，多喝水，避开烈日出门哦。",
     "ai_briefing_en": "Sunny and hot in Wuhan, drink water, avoid strong sun.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-25T18:26+08:00",
+    "temp": "35",
+    "feelsLike": "37",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "4",
+    "ai_briefing_zh": "武汉晴热，体感 37℃！酷热难耐，务必防暑。",
+    "ai_briefing_en": "Blazing hot, feels 37℃ in Wuhan! Stay cool and hydrated.",
+    "alert": null
   }
 ]

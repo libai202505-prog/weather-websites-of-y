@@ -338,5 +338,25 @@
     "ai_briefing_zh": "漳浦小雨，湿度高，注意防潮，出行带伞。",
     "ai_briefing_en": "Light rain in Zhangpu, high humidity, bring an umbrella.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-25T18:15+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "97",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦小雨，湿度 97%，带好雨具，小心路滑。",
+    "ai_briefing_en": "Light rain, 97% humidity. Bring umbrella, careful of slippery roads, Zhangpu.",
+    "alert": null
   }
 ]

@@ -378,5 +378,25 @@
     "ai_briefing_zh": "漳浦有雾，湿气重。驾车注意慢行，保持安全距离哦！",
     "ai_briefing_en": "Zhangpu is foggy and humid. Drive slowly, keep safe distance!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-26T21:37+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "雾",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "225",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "8",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦大雾天气，湿度 96%，注意交通安全，出行务必小心。",
+    "ai_briefing_en": "Zhangpu is very foggy with high humidity. Please drive and travel safely.",
+    "alert": null
   }
 ]

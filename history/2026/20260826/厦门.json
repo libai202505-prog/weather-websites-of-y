@@ -318,5 +318,25 @@
     "ai_briefing_zh": "厦门阴天，湿度 96%。体感潮湿，注意除湿，防着凉。",
     "ai_briefing_en": "Xiamen is overcast with 96% humidity. Feels damp, mind dehumidifying and avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-26T18:25+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "989",
+    "vis": "4",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门有雾，湿度 96%。能见度低，出行请小心。",
+    "ai_briefing_en": "Xiamen is foggy, 96% humidity. Low visibility, please travel safely.",
+    "alert": null
   }
 ]

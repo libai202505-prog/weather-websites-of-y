@@ -298,5 +298,25 @@
     "ai_briefing_zh": "深圳阴天，湿度偏高。保持舒爽，心情美美哒。",
     "ai_briefing_en": "Shenzhen: Overcast, humid. Keep cool.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-26T17:25+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "135",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，湿度 84%。体感闷热，记得多补充水分哦。",
+    "ai_briefing_en": "Shenzhen is overcast with 84% humidity. It feels muggy, remember to hydrate.",
+    "alert": null
   }
 ]

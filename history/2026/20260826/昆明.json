@@ -278,5 +278,25 @@
     "ai_briefing_zh": "昆明小雨，体感 19℃，湿度 90%，外出记得带伞，注意保暖。",
     "ai_briefing_en": "Kunming has light rain, 19℃, 90% humidity. Bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-26T16:25+08:00",
+    "temp": "20",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "180",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "808",
+    "vis": "27",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天，气温凉爽。湿度较高，出门带件薄外套。",
+    "ai_briefing_en": "Kunming: Overcast, cool. Humid. Coat!",
+    "alert": null
   }
 ]

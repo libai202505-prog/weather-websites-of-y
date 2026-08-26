@@ -278,5 +278,25 @@
     "ai_briefing_zh": "深圳阴天，湿度 80%，体感闷热，多喝水保持活力！",
     "ai_briefing_en": "Shenzhen is cloudy, 80% humidity. Feels stuffy, drink water and stay energetic!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-26T16:25+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "995",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，湿度偏高。保持舒爽，心情美美哒。",
+    "ai_briefing_en": "Shenzhen: Overcast, humid. Keep cool.",
+    "alert": null
   }
 ]

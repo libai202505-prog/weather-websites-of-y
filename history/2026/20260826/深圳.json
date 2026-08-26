@@ -198,5 +198,25 @@
     "ai_briefing_zh": "深圳中雨，出门带伞，路面湿滑，注意交通安全。",
     "ai_briefing_en": "Shenzhen has moderate rain. Bring an umbrella and drive safely on wet roads.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-26T12:15+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "997",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "小雨 27℃，湿度 93%。雨天潮湿，出门记得带伞哦！",
+    "ai_briefing_en": "Light rain 27℃, 93% humidity. Take an umbrella, it's damp!",
+    "alert": null
   }
 ]

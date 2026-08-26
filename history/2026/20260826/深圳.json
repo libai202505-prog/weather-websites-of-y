@@ -218,5 +218,25 @@
     "ai_briefing_zh": "小雨 27℃，湿度 93%。雨天潮湿，出门记得带伞哦！",
     "ai_briefing_en": "Light rain 27℃, 93% humidity. Take an umbrella, it's damp!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-26T13:15+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "阵雨",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "135",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阵雨，出门带伞。体感湿热，注意防潮。",
+    "ai_briefing_en": "Showers in Shenzhen, bring an umbrella. Humid and warm, stay dry!",
+    "alert": null
   }
 ]

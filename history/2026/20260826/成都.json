@@ -218,5 +218,25 @@
     "ai_briefing_zh": "多云 33℃，体感 39℃。高温闷热，记得多喝水哦！",
     "ai_briefing_en": "Cloudy 33℃ feels like 39℃. Hot and humid, drink plenty of water!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-26T13:15+08:00",
+    "temp": "31",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "45",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "949",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都体感热，湿度大。记得多喝水，避免长时间户外活动。",
+    "ai_briefing_en": "Chengdu feels hot and humid. Stay hydrated, limit outdoor activities!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

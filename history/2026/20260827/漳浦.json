@@ -18,5 +18,25 @@
     "ai_briefing_zh": "漳浦 夜间监测中，注意保暖",
     "ai_briefing_en": "漳浦: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-08-27T02:48+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "98",
+    "precip": "0.5",
+    "pressure": "1001",
+    "vis": "4",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦 夜间监测中，注意保暖",
+    "ai_briefing_en": "漳浦: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

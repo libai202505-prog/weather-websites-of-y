@@ -258,5 +258,25 @@
     "ai_briefing_zh": "沈阳阴天，气温适宜。多云天气，适合轻松出行。",
     "ai_briefing_en": "Shenyang is overcast with pleasant temperatures. Cloudy weather is good for a relaxed outing.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-08-26T15:25+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "41",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴天，体感 29℃，温度适宜，出门穿衣注意保暖。",
+    "ai_briefing_en": "Shenyang is cloudy, feels like 29℃. Mild weather, dress appropriately.",
+    "alert": null
   }
 ]

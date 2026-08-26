@@ -258,5 +258,25 @@
     "ai_briefing_zh": "哈尔滨多云，气温舒适，风力稍大，出行注意保暖！",
     "ai_briefing_en": "Harbin is cloudy and comfortable, with some wind. Dress appropriately when out!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-08-26T15:25+08:00",
+    "temp": "25",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "270",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨多云，体感 24℃，风力 4 级，微风习习，体感舒适。",
+    "ai_briefing_en": "Harbin is cloudy, feels like 24℃ with wind. A comfortable breeze today!",
+    "alert": null
   }
 ]

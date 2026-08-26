@@ -238,5 +238,25 @@
     "ai_briefing_zh": "成都体感热，湿度大。记得多喝水，避免长时间户外活动。",
     "ai_briefing_en": "Chengdu feels hot and humid. Stay hydrated, limit outdoor activities!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-08-26T14:37+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "小雨",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "270",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "948",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都小雨，湿度 100%，请带伞！体感闷热，注意除湿。",
+    "ai_briefing_en": "Chengdu has light rain and 100% humidity, bring an umbrella! It feels muggy, consider dehumidifying.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

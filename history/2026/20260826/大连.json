@@ -358,5 +358,25 @@
     "ai_briefing_zh": "大连阴天，湿度 90%，体感清凉。海边风力大，记得添衣。",
     "ai_briefing_en": "Dalian is cloudy with 90% humidity, feeling cool. Windy by the sea, layer up.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-26T20:37+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.1",
+    "pressure": "998",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阴天，湿度 89%。体感舒适，注意防潮，保持好心情！",
+    "ai_briefing_en": "Dalian is cloudy, 89% humidity. Feels comfortable, mind the dampness!",
+    "alert": null
   }
 ]

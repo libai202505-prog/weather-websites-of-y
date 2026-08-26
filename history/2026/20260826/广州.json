@@ -338,5 +338,25 @@
     "ai_briefing_zh": "广州阴天潮湿，体感 30℃。感觉闷热，记得清爽出行。",
     "ai_briefing_en": "Guangzhou is cloudy and humid, feels 30℃. It feels stuffy, dress lightly.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-08-26T19:15+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "994",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，湿度 89%，体感闷热。注意除湿，保持舒适。",
+    "ai_briefing_en": "Guangzhou is cloudy with 89% humidity, feeling stuffy. Keep cool and dry!",
+    "alert": null
   }
 ]

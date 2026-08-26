@@ -338,5 +338,25 @@
     "ai_briefing_zh": "上海多云，体感 34℃。多喝水，小心别中暑。",
     "ai_briefing_en": "Shanghai is cloudy, feels 34℃. Drink plenty of water to avoid heatstroke.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-26T19:24+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "20",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "上海晴热，体感 33℃。高温持续，记得多补充水分哦！",
+    "ai_briefing_en": "Shanghai is sunny and feels hot at 33℃. Stay hydrated in this heat!",
+    "alert": null
   }
 ]

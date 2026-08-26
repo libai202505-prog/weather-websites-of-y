@@ -178,5 +178,25 @@
     "ai_briefing_zh": "上海晴朗，30℃，体感 33℃ 略热，记得防晒补水。",
     "ai_briefing_en": "Sunny Shanghai, 30℃, feels 33℃. Stay cool and hydrated.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-26T10:26+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "25",
+    "dew": "25",
+    "cloud": "10",
+    "ai_briefing_zh": "上海阳光好，气温较高，出门记得做好防晒措施哦。",
+    "ai_briefing_en": "Shanghai is sunny and warm. Remember to protect yourself from the sun!",
+    "alert": null
   }
 ]

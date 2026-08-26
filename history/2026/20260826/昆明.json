@@ -178,5 +178,25 @@
     "ai_briefing_zh": "昆明阴天，20℃ 体感舒适。出门记得带雨具。",
     "ai_briefing_en": "Cloudy Kunming, 20℃ feels pleasant. Carry an umbrella!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-26T10:48+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "77",
+    "precip": "0.4",
+    "pressure": "810",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天，气温宜人。早晚温差大，别忘了添衣。",
+    "ai_briefing_en": "Kunming is cloudy with pleasant temperatures. Dress for cooler mornings/evenings.",
+    "alert": null
   }
 ]

@@ -178,5 +178,25 @@
     "ai_briefing_zh": "武汉晴热 32℃，体感 33℃。防晒补水是关键！",
     "ai_briefing_en": "Sunny and hot in Wuhan, 32℃ feels 33℃. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-26T10:26+08:00",
+    "temp": "34",
+    "feelsLike": "36",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "55",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "5",
+    "ai_briefing_zh": "武汉晴热，气温 34℃！注意防晒，避免高温时段出门。",
+    "ai_briefing_en": "Wuhan is sunny and hot at 34℃! Protect from sun and avoid peak heat hours.",
+    "alert": null
   }
 ]

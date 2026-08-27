@@ -58,5 +58,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-27T11:48+08:00",
+    "temp": "29",
+    "feelsLike": "26",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "6",
+    "windSpeed": "45",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "1.9",
+    "pressure": "1001",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "小雨伴 6级 风，体感 26℃，出门带伞，小心着凉。",
+    "ai_briefing_en": "Light rain with strong winds, feels like 26℃. Bring an umbrella, avoid catching a cold.",
+    "alert": "💨 北风警报：北风 6级"
   }
 ]

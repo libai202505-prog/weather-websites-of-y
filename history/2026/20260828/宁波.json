@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波阴天大风，体感凉爽，出门请注意大风安全。",
     "ai_briefing_en": "Ningbo is cloudy with strong winds. Feels cool, be careful with strong gusts.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-08-28T21:37+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "90",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云湿热，注意防暑补水哦。",
+    "ai_briefing_en": "Ningbo: Cloudy, humid. Hydrate!",
+    "alert": null
   }
 ]

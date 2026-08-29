@@ -38,5 +38,25 @@
     "ai_briefing_zh": "大连阴天 24℃，体感凉爽。风力 4级，外出注意防风。",
     "ai_briefing_en": "Dalian is cloudy 24℃, cool. 4-level wind, be aware of wind outside.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-08-29T20:05+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "225",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阴天舒适，湿度较大，出门记得带件薄外套。",
+    "ai_briefing_en": "Dalian is cloudy and comfy. A light jacket might be handy!",
+    "alert": null
   }
 ]

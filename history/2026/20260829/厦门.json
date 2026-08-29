@@ -38,5 +38,25 @@
     "ai_briefing_zh": "厦门体感 34℃，湿度大，风力 5级。注意防风防晒。",
     "ai_briefing_en": "Xiamen feels 34℃, humid, 5-level wind. Be careful of wind and sun outside.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-29T20:05+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "87",
+    "precip": "0.2",
+    "pressure": "985",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门多云湿度大，体感稍热，记得多补充水分。",
+    "ai_briefing_en": "Xiamen is cloudy and humid. Stay well hydrated, dear.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

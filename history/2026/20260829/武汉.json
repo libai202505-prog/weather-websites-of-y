@@ -38,5 +38,25 @@
     "ai_briefing_zh": "武汉风力 5级，多云潮湿。外出注意阵风，小心物品。",
     "ai_briefing_en": "Wuhan has 5-level wind, cloudy and humid. Watch for gusts, secure belongings.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-29T20:05+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "45",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉风力较大湿度高，出门注意防风防潮哦。",
+    "ai_briefing_en": "Wuhan is windy and humid. Stay safe from wind and dampness.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

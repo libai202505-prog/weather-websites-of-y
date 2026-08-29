@@ -18,5 +18,25 @@
     "ai_briefing_zh": "武汉阴天，风力 4级 体感 22℃，出门带件外套吧。",
     "ai_briefing_en": "Wuhan is overcast, windy at 22℃. Bring a light jacket!",
     "alert": "📉 红色降温预警：1小时骤降10℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-29T13:37+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "0",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉风力 5级，多云潮湿。外出注意阵风，小心物品。",
+    "ai_briefing_en": "Wuhan has 5-level wind, cloudy and humid. Watch for gusts, secure belongings.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

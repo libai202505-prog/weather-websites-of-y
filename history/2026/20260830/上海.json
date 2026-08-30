@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-08-30T15:50+08:00",
+    "temp": "31",
+    "feelsLike": "34",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "湿度大体感闷热，记得清爽出行。",
+    "ai_briefing_en": "High humidity, feels stuffy. Dress lightly!",
+    "alert": null
   }
 ]

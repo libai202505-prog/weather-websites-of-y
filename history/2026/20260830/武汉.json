@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云风力强，注意防晒，小心大风。",
     "ai_briefing_en": "Cloudy with strong winds. Protect from sun, watch out for gusts!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-08-30T21:25+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "45",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉风力较大，湿度高，出门注意防风，小心衣物。",
+    "ai_briefing_en": "Wuhan is windy and humid, take care with strong winds outdoors.",
+    "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：东北风 5级"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天湿度大，感觉黏黏的，注意防潮。",
     "ai_briefing_en": "Cloudy and humid. It feels sticky, beware of dampness.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-08-30T21:25+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "45",
+    "humidity": "95",
+    "precip": "1.2",
+    "pressure": "993",
+    "vis": "8",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳小雨绵绵，湿度大，出门记得带伞，小心路滑。",
+    "ai_briefing_en": "Shenzhen has light rain, take an umbrella and watch for slippery roads.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

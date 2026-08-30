@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天风力强，注意防风，小心衣物飘落。",
     "ai_briefing_en": "Cloudy with strong winds. Watch out for wind, secure your belongings.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-08-30T21:25+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "88",
+    "precip": "0.7",
+    "pressure": "986",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天湿度大，体感闷热，注意防潮防暑哦。",
+    "ai_briefing_en": "Xiamen is humid and muggy, stay cool and mind the dampness.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天微凉风力大，带件外套，小心着凉。",
     "ai_briefing_en": "Cloudy and cool with strong winds. Bring a jacket to avoid catching a cold.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-08-30T21:25+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "812",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明天气阴凉，体感舒适，出门记得带件薄外套。",
+    "ai_briefing_en": "Kunming is cool and comfortable, a light jacket might be nice.",
+    "alert": null
   }
 ]

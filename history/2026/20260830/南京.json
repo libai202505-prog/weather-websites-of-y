@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天风力大，带件外套，小心着凉。",
     "ai_briefing_en": "Cloudy with strong winds. Bring a jacket to avoid catching a cold.",
     "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：北风 6级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-08-30T21:25+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "95",
+    "precip": "12.1",
+    "pressure": "1000",
+    "vis": "26",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京湿度大风力强，体感闷热，注意防风防潮。",
+    "ai_briefing_en": "Nanjing is humid and windy, stay cool and mind the dampness.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

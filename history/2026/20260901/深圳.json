@@ -38,5 +38,25 @@
     "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
     "ai_briefing_en": "深圳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-09-01T09:25+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.5",
+    "pressure": "992",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳湿度很高，体感闷热，记得多喝水呀。",
+    "ai_briefing_en": "Shenzhen is very humid and muggy. Remember to drink more water!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

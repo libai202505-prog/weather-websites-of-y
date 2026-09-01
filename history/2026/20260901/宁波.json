@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-01T09:25+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波体感湿热，请多饮水，穿着舒适透气衣物。",
+    "ai_briefing_en": "Ningbo feels hot and humid. Drink plenty of water and wear breathable clothes.",
+    "alert": null
   }
 ]

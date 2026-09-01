@@ -38,5 +38,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-09-01T09:35+08:00",
+    "temp": "25",
+    "feelsLike": "23",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "13",
+    "cloud": "0",
+    "ai_briefing_zh": "北京阳光正好，体感舒适，户外活动很不错哦！",
+    "ai_briefing_en": "Beijing is sunny and pleasant. A great day for outdoor activities!",
+    "alert": null
   }
 ]

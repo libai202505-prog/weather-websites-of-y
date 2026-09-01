@@ -58,5 +58,25 @@
     "ai_briefing_zh": "广州风力较大，湿度高。外出注意防风防潮哦。",
     "ai_briefing_en": "Guangzhou has strong wind and high humidity. Take care when out.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-01T14:48+08:00",
+    "temp": "26",
+    "feelsLike": "23",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "0",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州中雨大风，请带雨具，注意保暖。",
+    "ai_briefing_en": "Rain and wind, umbrella!",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 5级"
   }
 ]

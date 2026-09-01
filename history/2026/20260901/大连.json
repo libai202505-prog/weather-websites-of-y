@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大连风力较强，外出注意防风，Enjoy！",
     "ai_briefing_en": "Dalian: windy, stay safe!",
     "alert": "💨 北风警报：北风 6级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-09-01T20:48+08:00",
+    "temp": "22",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "315",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阳光明媚，风力不小，户外防风保暖哦。",
+    "ai_briefing_en": "Dalian is sunny and windy. Stay warm and shield from wind.",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：西北风 5级"
   }
 ]

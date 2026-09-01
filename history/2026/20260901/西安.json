@@ -78,5 +78,25 @@
     "ai_briefing_zh": "西安体感炎热，多喝水，小心中暑。",
     "ai_briefing_en": "Xi'an: feels super hot, hydrate!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-09-01T20:48+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "967",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安阳光灿烂，体感暖和，多喝水防干燥哦。",
+    "ai_briefing_en": "Xi'an is sunny and warm. Drink water to stay well.",
+    "alert": "📉 红色降温预警：1小时骤降9℃"
   }
 ]

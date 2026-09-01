@@ -78,5 +78,25 @@
     "ai_briefing_zh": "成都烈日炎炎，体感酷热，记得防晒降温！",
     "ai_briefing_en": "Chengdu: very hot, sunblock!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-09-01T20:48+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "0",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "954",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阳光明媚，体感舒适，记得多补水哦。",
+    "ai_briefing_en": "Chengdu is sunny and pleasant. Enjoy the sunshine!",
+    "alert": "📉 红色降温预警：1小时骤降10℃"
   }
 ]

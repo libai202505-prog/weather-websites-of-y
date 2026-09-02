@@ -118,5 +118,25 @@
     "ai_briefing_zh": "杭州阴，26℃，湿度很高哦，出门记得带伞，注意防潮。",
     "ai_briefing_en": "Hangzhou is cloudy, 26℃ with very high humidity. Don't forget your umbrella and mind the dampness.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-02T20:48+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "2.5",
+    "pressure": "1004",
+    "vis": "28",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天有风，湿度偏高，记得多补水哦。",
+    "ai_briefing_en": "Overcast, windy, high humidity. Stay hydrated!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

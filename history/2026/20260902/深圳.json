@@ -98,5 +98,25 @@
     "ai_briefing_zh": "深圳阴天，湿度高。保持室内通风，穿着轻便。",
     "ai_briefing_en": "Shenzhen is cloudy and humid. Keep indoors ventilated, dress lightly.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-09-02T16:05+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "315",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "991",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴，29℃，湿度稍高，注意室内通风，保持清爽。",
+    "ai_briefing_en": "Shenzhen is cloudy, 29℃ with higher humidity. Keep indoors ventilated and stay fresh.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

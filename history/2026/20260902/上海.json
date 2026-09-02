@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海体感炎热潮湿，记得多喝水，保持清爽。",
     "ai_briefing_en": "Shanghai feels hot and damp. Remember to drink water and stay cool.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-02T16:05+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "29",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海阴，26℃，体感偏热伴高湿，注意除湿，保持舒适哦。",
+    "ai_briefing_en": "Shanghai is cloudy, 26℃ with high humidity making it feel warmer. Stay comfy and dehumidify!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

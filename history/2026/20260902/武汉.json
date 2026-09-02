@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉风力 5 级，注意防风。适时添减衣物哦！",
     "ai_briefing_en": "Wuhan has strong winds, mind your clothes.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-02T16:05+08:00",
+    "temp": "31",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "6",
+    "windSpeed": "45",
+    "wind360": "45",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阴，31℃，风力6级，外出注意防风，避免着凉感冒哦。",
+    "ai_briefing_en": "Wuhan is cloudy, 31℃ with strong winds. Be careful of the wind and avoid catching a cold!",
+    "alert": "💨 北风警报：东北风 6级"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "宁波体感 30℃，湿度大。多补充水分，注意防暑。",
     "ai_briefing_en": "Ningbo feels 30℃ and humid. Hydrate well, prevent heatstroke.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-02T16:05+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "90",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天，29℃ 偏湿热，注意保持清爽，室内可开窗通风。",
+    "ai_briefing_en": "Ningbo is cloudy, 29℃ and humid. Stay cool and consider ventilating indoors.",
+    "alert": null
   }
 ]

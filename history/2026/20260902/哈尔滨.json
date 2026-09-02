@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨体感 20℃，微凉。出门别忘带件外套。",
     "ai_briefing_en": "Harbin feels 20℃, a bit cool. Bring a jacket when going out.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-09-02T16:05+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "270",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨阴，21℃，体感舒适，户外活动适时添减衣物哦。",
+    "ai_briefing_en": "Harbin is cloudy, 21℃ with comfortable weather. Dress appropriately for outdoor activities!",
+    "alert": null
   }
 ]

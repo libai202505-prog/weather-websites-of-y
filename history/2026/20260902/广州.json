@@ -58,5 +58,25 @@
     "ai_briefing_zh": "广州阴天有风，湿度大，注意带伞。",
     "ai_briefing_en": "Guangzhou is cloudy and windy, bring an umbrella.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-02T09:48+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "0",
+    "humidity": "78",
+    "precip": "0.6",
+    "pressure": "993",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，注意保持室内通风，体感舒适。",
+    "ai_briefing_en": "Cloudy in Guangzhou, keep rooms ventilated. Feel comfortable!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

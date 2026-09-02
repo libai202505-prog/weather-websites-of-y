@@ -58,5 +58,25 @@
     "ai_briefing_zh": "杭州阴天有风，湿度大，体感舒适。",
     "ai_briefing_en": "Hangzhou is cloudy and windy, high humidity, feels comfy.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-02T09:48+08:00",
+    "temp": "28",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "0",
+    "humidity": "76",
+    "precip": "2.2",
+    "pressure": "1003",
+    "vis": "26",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天风力大。出门注意安全，小心高空坠物。",
+    "ai_briefing_en": "Hangzhou is cloudy and windy. Be careful outdoors!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

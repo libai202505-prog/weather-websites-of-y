@@ -58,5 +58,25 @@
     "ai_briefing_zh": "漳浦小雨风力大，带好雨具，注意安全。",
     "ai_briefing_en": "Zhangpu has light rain and strong wind, bring rain gear, stay safe.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-09-02T09:48+08:00",
+    "temp": "25",
+    "feelsLike": "22",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "45",
+    "humidity": "92",
+    "precip": "3.5",
+    "pressure": "994",
+    "vis": "7",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦小雨风力大，体感凉。出门记得带雨具。",
+    "ai_briefing_en": "Light rain and strong wind in Zhangpu. Remember your rain gear!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

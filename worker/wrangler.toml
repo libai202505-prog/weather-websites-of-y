@@ -1,0 +1,8 @@
+name = "gemini-proxy"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+
+[vars]
+GLM_MODEL = "glm-4.7"
+GEMINI_MODEL = "gemini-2.5-flash"
+ALLOWED_ORIGINS = "https://libai202505-prog.github.io,http://localhost:5173"

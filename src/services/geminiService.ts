@@ -6,23 +6,11 @@
 import { RAW_SOURCES } from '../data';
 import type { FuyaoPersonality } from '../types';
 
-// [通道 A] Cloudflare Worker (Gemini)
-const CLOUDFLARE_PROXY_URL = "https://gemini-proxy.1870160408.workers.dev";
-
-// [通道 B] DeepSeek API 配置 (Base64 编码防护)
-const DEEPSEEK_API_KEY_BASE64 = "c2stcnRid3lzZ3doZmNqamV6em5oZ3RoenN0d3dxd2hmdnBzc3FnYXZta2R3ZmxiZ2py";
-const DEEPSEEK_API_URL = "https://api.siliconflow.cn/v1/chat/completions";
-const DAILY_LIMIT_CNY = 1.0;
-
-// 🛡️ 简单的 Base64 解码
-const decodeKey = (b64: string) => {
-  try {
-    return atob(b64);
-  } catch (e) {
-    console.error("Failed to decode API Key");
-    return "";
-  }
-};
+// 浏览器只访问 Worker；所有模型密钥都保存在 Worker Secret 中。
+const AI_PROXY_URL = (
+  import.meta.env.VITE_AI_PROXY_URL ||
+  "https://gemini-proxy.1870160408.workers.dev"
+).replace(/\/$/, "");
 
 // ==========================================
 // 🧠 1. 知识库构建
@@ -148,20 +136,22 @@ Instructions:
 };
 
 // ==========================================
-// 📡 Gemini API 请求 (走代理)
+// 📡 统一 AI 请求（GLM / Gemini 均走 Worker）
 // ==========================================
-const callGoogleViaProxy = async (message: string, systemPrompt: string) => {
-  // 使用 flash 模型响应更快
-  const url = `${CLOUDFLARE_PROXY_URL}/v1beta/models/gemini-2.5-flash:generateContent`;
-
-  const response = await fetch(url, {
+const callAIProxy = async (
+  provider: AIProvider,
+  message: string,
+  systemPrompt: string,
+) => {
+  const response = await fetch(`${AI_PROXY_URL}/chat`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      system_instruction: { parts: { text: systemPrompt } },
-      contents: [{ role: "user", parts: [{ text: message }] }],
+      provider,
+      systemPrompt,
+      message,
     }),
   });
 
@@ -170,160 +160,20 @@ const callGoogleViaProxy = async (message: string, systemPrompt: string) => {
     console.error("Cloudflare Proxy Error Details:", errorText);
     throw new Error(`API Error: ${response.status}`);
   }
-  const data = await response.json();
-  return data.candidates?.[0]?.content?.parts?.[0]?.text || "";
-};
-
-// ==========================================
-// 🛡️ 使用量追踪 & 指纹生成 (IndexedDB)
-// ==========================================
-const getFingerprint = async (): Promise<string> => {
-  const ua = navigator.userAgent;
-  const canvas = document.createElement('canvas');
-  const ctx = canvas.getContext('2d');
-  if (ctx) {
-    ctx.textBaseline = 'top';
-    ctx.font = '14px "Arial"';
-    ctx.fillStyle = '#f60';
-    ctx.fillRect(125, 1, 62, 20);
-    ctx.fillStyle = '#069';
-    ctx.fillText('fingerprint', 2, 15);
-  }
-  const canvasData = canvas.toDataURL();
-  const raw = ua + '|' + canvasData;
-  const encoder = new TextEncoder();
-  const data = encoder.encode(raw);
-  const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-};
-
-const DB_NAME = 'deepseekUsageDB';
-const STORE_NAME = 'usage';
-
-const openDB = (): Promise<IDBDatabase> => {
-  return new Promise((resolve, reject) => {
-    const request = indexedDB.open(DB_NAME, 1);
-    request.onupgradeneeded = () => {
-      const db = request.result;
-      if (!db.objectStoreNames.contains(STORE_NAME)) {
-        db.createObjectStore(STORE_NAME);
-      }
-    };
-    request.onsuccess = () => resolve(request.result);
-    request.onerror = () => reject(request.error);
-  });
-};
-
-const idbGet = async (key: string): Promise<string | null> => {
-  const db = await openDB();
-  return new Promise((resolve, reject) => {
-    const tx = db.transaction(STORE_NAME, 'readonly');
-    const store = tx.objectStore(STORE_NAME);
-    const req = store.get(key);
-    req.onsuccess = () => resolve(req.result ?? null);
-    req.onerror = () => reject(req.error);
-  });
-};
-
-const idbSet = async (key: string, value: string): Promise<void> => {
-  const db = await openDB();
-  return new Promise((resolve, reject) => {
-    const tx = db.transaction(STORE_NAME, 'readwrite');
-    const store = tx.objectStore(STORE_NAME);
-    const req = store.put(value, key);
-    req.onsuccess = () => resolve();
-    req.onerror = () => reject(req.error);
-  });
-};
-
-const getStoredUsage = async (key: string): Promise<number> => {
-  const local = parseFloat(localStorage.getItem(key) || '0');
-  const session = parseFloat(sessionStorage.getItem(key) || '0');
-  const idb = parseFloat((await idbGet(key)) || '0');
-  return Math.max(local, session, idb);
-};
-
-const setStoredUsage = async (key: string, value: number): Promise<void> => {
-  const valStr = value.toFixed(6);
-  localStorage.setItem(key, valStr);
-  sessionStorage.setItem(key, valStr);
-  await idbSet(key, valStr);
-};
-
-// ==========================================
-// 📡 DeepSeek API 请求 (带费用限制)
-// ==========================================
-const checkUsageLimit = async (): Promise<boolean> => {
-  const fingerprint = await getFingerprint();
-  const today = new Date().toISOString().split('T')[0];
-  const key = `deepseek_usage_${fingerprint}_${today}`;
-  const usage = await getStoredUsage(key);
-  return usage < DAILY_LIMIT_CNY;
-};
-
-const trackUsage = async (inputChars: number, outputChars: number) => {
-  const fingerprint = await getFingerprint();
-  const today = new Date().toISOString().split('T')[0];
-  const key = `deepseek_usage_${fingerprint}_${today}`;
-  const current = await getStoredUsage(key);
-
-  // 估算费用: 输入 2元/百万token, 输出 8元/百万token (大致按1token=4char估算)
-  const inputCost = (inputChars / 4) * (2 / 1_000_000);
-  const outputCost = (outputChars / 4) * (8 / 1_000_000);
-  const newUsage = current + inputCost + outputCost;
-
-  await setStoredUsage(key, newUsage);
-};
-
-const callDeepSeek = async (message: string, systemPrompt: string) => {
-  if (!(await checkUsageLimit())) {
-    throw new Error("DAILY_LIMIT_EXCEEDED");
-  }
-
-  const apiKey = decodeKey(DEEPSEEK_API_KEY_BASE64);
-  if (!apiKey) throw new Error("API_KEY_MISSING");
-
-  const response = await fetch(DEEPSEEK_API_URL, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Authorization": `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model: "deepseek-ai/DeepSeek-V3",
-      messages: [
-        { role: "system", content: systemPrompt },
-        { role: "user", content: message },
-      ],
-      stream: false,
-    }),
-  });
-
-  if (!response.ok) {
-    const err = await response.text();
-    console.error("DeepSeek API Error:", err);
-    throw new Error(`API Error: ${response.status}`);
-  }
-
-  const data = await response.json();
-  const reply = data.choices?.[0]?.message?.content || "";
-
-  // 记录用量
-  await trackUsage(message.length + systemPrompt.length, reply.length);
-  return reply;
+  const data = await response.json() as { text?: string };
+  return data.text || "";
 };
 
 // ==========================================
 // 🚀 核心导出函数 (入口)
 // ==========================================
-export type AIProvider = 'gemini' | 'deepseek';
+export type AIProvider = 'glm' | 'gemini';
 
 export const sendMessageToGemini = async (
   message: string,
   personality: FuyaoPersonality = 'RANDOM',
   lang: 'en' | 'zh' = 'zh',
-  provider: AIProvider = 'gemini'
+  provider: AIProvider = 'glm'
 ): Promise<string> => {
 
   const lower = message.toLowerCase();
@@ -353,22 +203,11 @@ export const sendMessageToGemini = async (
     systemPrompt += contextInjection;
   }
 
-  // 5. 发起请求 (Gemini 或 DeepSeek)
+  // 5. 发起请求（密钥不会进入浏览器）
   try {
-    if (provider === 'deepseek') {
-      return await callDeepSeek(message, systemPrompt);
-    }
-    return await callGoogleViaProxy(message, systemPrompt);
+    return await callAIProxy(provider, message, systemPrompt);
   } catch (error: any) {
     console.error(`${provider} API Failed:`, error);
-
-    // 错误处理反馈
-    if (error.message === "DAILY_LIMIT_EXCEEDED") {
-      return lang === 'en' ? "DeepSeek daily limit reached." : "DeepSeek 今日额度已用完。";
-    }
-    if (error.message === "API_KEY_MISSING") {
-      return lang === 'en' ? "DeepSeek API Key missing." : "DeepSeek API Key 未配置。";
-    }
 
     // 兜底离线搜索
     const matches = findRelevantSources(lower);

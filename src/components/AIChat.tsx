@@ -37,13 +37,13 @@ const PERSONALITY_LABELS: Record<FuyaoPersonality, { en: string; zh: string }> =
 
 // Mapping for Bilingual Provider Labels
 const PROVIDER_LABELS: Record<AIProvider, { en: string; zh: string }> = {
+  glm: { en: 'GLM-4.7', zh: 'GLM-4.7' },
   gemini: { en: 'Gemini', zh: 'Gemini' },
-  deepseek: { en: 'DeepSeek', zh: 'DeepSeek' }
 };
 
 const AIChat: React.FC<AIChatProps> = ({ lang, isOpen, setIsOpen, personality, setPersonality }) => {
   // AI Provider State
-  const [provider, setProvider] = useState<AIProvider>('gemini');
+  const [provider, setProvider] = useState<AIProvider>('glm');
 
   // 🟢 新增：控制下拉菜单的开关
   const [isProviderOpen, setIsProviderOpen] = useState(false);
@@ -305,7 +305,7 @@ const AIChat: React.FC<AIChatProps> = ({ lang, isOpen, setIsOpen, personality, s
                   {/* Dropdown Menu: 用状态变量控制显示，而不是 hover */}
                   {isProviderOpen && (
                     <div className="absolute top-full right-0 mt-1 w-24 bg-[#0f172a] border border-white/20 rounded-lg shadow-xl overflow-hidden z-50">
-                      {(['gemini', 'deepseek'] as AIProvider[]).map(p => (
+                      {(['glm', 'gemini'] as AIProvider[]).map(p => (
                         <button
                           key={p}
                           onClick={(e) => { 

@@ -57,9 +57,8 @@ jobs:
       # 第二步：构建网页 (需要注入前端用的 VITE_ 变量！)
       - name: 🏗️ 构建网页 (Vite Build)
         env:
-          # 🚨 关键！必须在这里声明，Vite 才能读到 Secrets 并打包进 dist
-          VITE_QWEATHER_KEY: ${{ secrets.VITE_QWEATHER_KEY }}
-          #VITE_DEEPSEEK_API_KEY: ${{ secrets.VITE_DEEPSEEK_API_KEY }}
+          # 这里只能放公开配置；任何 API Key 都不得使用 VITE_ 前缀。
+          VITE_AI_PROXY_URL: ${{ vars.VITE_AI_PROXY_URL }}
         working-directory: main
         run: npm run build
 

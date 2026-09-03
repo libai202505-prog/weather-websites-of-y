@@ -78,5 +78,25 @@
     "ai_briefing_zh": "西安晴好，气温 23℃，宜人舒适，尽情享受吧。",
     "ai_briefing_en": "Xi'an is sunny and pleasant at 23℃, enjoy the lovely weather.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-09-03T14:48+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "45",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "966",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安晴朗干燥，注意补水和防晒哦。",
+    "ai_briefing_en": "Sunny and dry in Xi'an, remember to hydrate and use sunscreen.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "成都阴天，微风习习，体感舒适宜人。",
     "ai_briefing_en": "Chengdu is cloudy with a gentle breeze, feels pleasant.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-09-03T14:48+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "953",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天闷热，多喝水，防晒不能忘。",
+    "ai_briefing_en": "Cloudy and muggy in Chengdu, drink water, don't forget sunscreen.",
+    "alert": null
   }
 ]

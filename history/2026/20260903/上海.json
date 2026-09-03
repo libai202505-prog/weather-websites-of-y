@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海阴天闷热，注意防暑，保持清爽。",
     "ai_briefing_en": "Cloudy and muggy in Shanghai, stay cool and refreshed.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-03T19:37+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "26",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "体感 30℃ 较热，湿度高，注意防暑和补水。",
+    "ai_briefing_en": "It feels 30℃ hot and humid, prevent heatstroke and hydrate.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "哈尔滨多云宜人，享受舒适好天气。",
     "ai_briefing_en": "Partly cloudy and pleasant in Harbin, enjoy the nice weather.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-09-03T19:37+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "晴好微凉，早晚温差大，记得添衣。",
+    "ai_briefing_en": "Sunny and cool, mind the temperature difference, remember to layer up.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "青岛晴朗舒适，注意防晒，享受海风。",
     "ai_briefing_en": "Sunny and pleasant in Qingdao, protect from sun, enjoy sea breeze.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-09-03T19:37+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "45",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "晴朗微风，体感舒适，户外活动很棒。",
+    "ai_briefing_en": "Sunny with a light breeze, comfortable, great for outdoor activities!",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：东北风 4级"
   }
 ]

@@ -58,5 +58,25 @@
     "ai_briefing_zh": "厦门有阵雨和大风，出行务必带伞，注意安全！",
     "ai_briefing_en": "Xiamen has showers and strong winds. Carry an umbrella and stay safe.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-09-03T08:48+08:00",
+    "temp": "25",
+    "feelsLike": "22",
+    "text": "阵雨",
+    "windDir": "东风",
+    "windScale": "7",
+    "windSpeed": "54",
+    "wind360": "90",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "980",
+    "vis": "9",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阵雨，风力 7级 较大，请务必注意安全哦。",
+    "ai_briefing_en": "Xiamen has showers with strong force 7 winds, please stay safe.",
+    "alert": null
   }
 ]

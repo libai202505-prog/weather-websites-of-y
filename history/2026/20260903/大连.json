@@ -58,5 +58,25 @@
     "ai_briefing_zh": "大连阳光明媚，气温宜人，心情也会很棒！",
     "ai_briefing_en": "Dalian is sunny and pleasant. What a beautiful day!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-09-03T08:48+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "0",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连晴朗，风力 4级，体感舒适，记得补水哦。",
+    "ai_briefing_en": "Dalian is sunny with force 4 winds, feels comfortable, remember to hydrate.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

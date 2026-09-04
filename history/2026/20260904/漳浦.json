@@ -58,5 +58,25 @@
     "ai_briefing_zh": "漳浦 夜间监测中，注意保暖",
     "ai_briefing_en": "漳浦: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-09-04T08:37+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "0.6",
+    "pressure": "999",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦阴天 26℃，体感 29℃，闷热，多补水哦。",
+    "ai_briefing_en": "Zhangpu overcast 26℃, feels 29℃, muggy. Stay hydrated!",
+    "alert": null
   }
 ]

@@ -58,5 +58,25 @@
     "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
     "ai_briefing_en": "杭州: Night watch, stay warm.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-04T08:37+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "78",
+    "precip": "0.2",
+    "pressure": "1005",
+    "vis": "23",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天 26℃，湿度高风大，出行注意安全。",
+    "ai_briefing_en": "Hangzhou overcast 26℃, humid with strong wind. Stay safe outdoors.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

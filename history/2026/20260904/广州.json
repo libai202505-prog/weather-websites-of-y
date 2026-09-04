@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天湿度大，体感 30℃，记得多喝水，保持舒适哦！",
     "ai_briefing_en": "Cloudy with high humidity, feels like 30℃. Stay hydrated and comfy!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-04T18:25+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "996",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "多云潮湿，体感 29℃，注意补水哦！",
+    "ai_briefing_en": "Humid 29℃. Drink water!",
+    "alert": null
   }
 ]

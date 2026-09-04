@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海阴天 28℃，体感 30℃，有点闷热，多补水。",
     "ai_briefing_en": "Shanghai overcast 28℃, feels 30℃. A bit muggy, stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-04T13:25+08:00",
+    "temp": "30",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "24",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "阴天炎热，体感 34℃，多喝水，小心中暑哦！",
+    "ai_briefing_en": "Cloudy and muggy, feels like 34℃. Drink water and prevent heatstroke!",
+    "alert": null
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "宁波阴天 28℃，湿度高风力大，注意防潮。",
     "ai_briefing_en": "Ningbo overcast 28℃, humid with strong wind. Mind the dampness.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-04T13:25+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "0",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "29",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天风力 5级，体感 33℃，注意防风防暑，多喝水！",
+    "ai_briefing_en": "Cloudy with strong winds (Force 5), feels like 33℃. Mind the wind, prevent heatstroke, and hydrate!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

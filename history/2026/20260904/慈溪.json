@@ -78,5 +78,25 @@
     "ai_briefing_zh": "慈溪阴天 28℃，湿度高风力大，注意防潮。",
     "ai_briefing_en": "Cixi is overcast 28℃, humid with strong wind. Mind the damp!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-09-04T13:25+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "45",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "小雨连绵，湿度很高，出门记得带伞，小心路滑！",
+    "ai_briefing_en": "Light rain and high humidity. Don't forget your umbrella, watch your step!",
+    "alert": null
   }
 ]

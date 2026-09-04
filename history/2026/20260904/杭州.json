@@ -78,5 +78,25 @@
     "ai_briefing_zh": "杭州阴天 26℃，湿度高风大，出行注意安全。",
     "ai_briefing_en": "Hangzhou overcast 26℃, humid with strong wind. Stay safe outdoors.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-04T13:25+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "0",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "23",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天风力 5级，注意防风，早晚温差大哦！",
+    "ai_briefing_en": "Cloudy with strong winds (Force 5). Mind the wind and temperature changes!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

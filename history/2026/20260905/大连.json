@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大连多云，体感 26℃ 舒适。天气宜人，享受美好时光吧！",
     "ai_briefing_en": "Dalian is cloudy, feels comfortable at 26℃. Pleasant weather, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-09-05T20:15+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "90",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "多云天气，气温适中，微风轻拂很舒服哦。",
+    "ai_briefing_en": "Cloudy and mild, a gentle breeze, very pleasant!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

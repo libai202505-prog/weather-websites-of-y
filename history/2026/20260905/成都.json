@@ -98,5 +98,25 @@
     "ai_briefing_zh": "成都体感 39℃ 炎热干燥。请务必防暑，多喝水，小心中暑！",
     "ai_briefing_en": "Chengdu feels like 39℃, hot and dry. Be sure to prevent heatstroke and drink plenty of water!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-09-05T20:15+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "0",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "953",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "晴朗炎热，体感较高，记得多补水哦！",
+    "ai_briefing_en": "Sunny and hot, remember to hydrate frequently!",
+    "alert": "📉 红色降温预警：1小时骤降9℃"
   }
 ]

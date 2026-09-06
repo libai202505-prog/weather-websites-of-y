@@ -78,5 +78,25 @@
     "ai_briefing_zh": "宁波阵雨来袭，出门别忘雨具，注意地面湿滑。",
     "ai_briefing_en": "Ningbo has showers. Don't forget your umbrella and watch out for slippery grounds.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-06T13:15+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "多云体感舒适，风力较大，外出请注意防风！",
+    "ai_briefing_en": "Cloudy and feels comfortable with strong winds, mind the wind if out!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

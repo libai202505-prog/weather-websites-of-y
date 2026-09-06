@@ -78,5 +78,25 @@
     "ai_briefing_zh": "成都多云，体感湿热。多喝水，保持身体舒畅。",
     "ai_briefing_en": "Chengdu is cloudy and muggy. Drink more water to stay comfortable.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-09-06T13:15+08:00",
+    "temp": "33",
+    "feelsLike": "38",
+    "text": "多云",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "180",
+    "humidity": "44",
+    "precip": "0.4",
+    "pressure": "952",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "多云酷热，体感温度高，务必注意防暑！",
+    "ai_briefing_en": "Cloudy and scorching, high feels-like temp, absolutely prevent heatstroke!",
+    "alert": null
   }
 ]

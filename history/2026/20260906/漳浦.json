@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天体感热，风力较大，注意防暑降温！",
     "ai_briefing_en": "Cloudy and feels hot with strong winds, mind heatstroke and cool down!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-09-06T18:05+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "95",
+    "precip": "3.1",
+    "pressure": "1003",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "阴天湿度高达 95%，易闷热，多通风补水！",
+    "ai_briefing_en": "Overcast with 95% humidity, stuffy, ventilate and hydrate!",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

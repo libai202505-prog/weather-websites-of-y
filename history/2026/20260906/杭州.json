@@ -98,5 +98,25 @@
     "ai_briefing_zh": "多云炎热，外出请注意防暑，多补水！",
     "ai_briefing_en": "Cloudy and hot, please prevent heatstroke and hydrate if you go out!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-06T18:05+08:00",
+    "temp": "29",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "53",
+    "precip": "0.8",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "29℃ 多云伴 4级风，注意防风防晒。",
+    "ai_briefing_en": "29℃ cloudy with brisk wind, protect yourself from wind and sun.",
+    "alert": "📉 红色降温预警：1小时骤降7℃ | 💨 北风警报：北风 4级"
   }
 ]

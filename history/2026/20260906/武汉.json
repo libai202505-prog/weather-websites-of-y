@@ -98,5 +98,25 @@
     "ai_briefing_zh": "晴朗炎热，体感温度高，请做好防暑措施！",
     "ai_briefing_en": "Sunny and hot, high feels-like temp, take heatstroke precautions!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-06T18:05+08:00",
+    "temp": "31",
+    "feelsLike": "33",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "270",
+    "humidity": "46",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "晴热天气体感 33℃，防晒补水是关键！",
+    "ai_briefing_en": "Sunny and hot, feels 33℃, sunscreen and hydration are key!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

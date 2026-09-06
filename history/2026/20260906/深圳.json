@@ -58,5 +58,25 @@
     "ai_briefing_zh": "深圳 夜间监测中，注意保暖",
     "ai_briefing_en": "深圳: Night watch, stay warm.",
     "alert": "📉 红色降温预警：1小时骤降7℃"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-09-06T08:25+08:00",
+    "temp": "24",
+    "feelsLike": "24",
+    "text": "阵雨",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "96",
+    "precip": "0.2",
+    "pressure": "1002",
+    "vis": "5",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阵雨相伴，出门别忘带雨具，注意防潮。",
+    "ai_briefing_en": "Shenzhen has showers. Don't forget your umbrella and mind the humidity.",
+    "alert": null
   }
 ]

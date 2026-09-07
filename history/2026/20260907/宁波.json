@@ -118,5 +118,25 @@
     "ai_briefing_zh": "多云有风，出行注意防风保暖。",
     "ai_briefing_en": "Cloudy and windy. Mind the wind and stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-07T22:48+08:00",
+    "temp": "24",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "86",
+    "precip": "0.2",
+    "pressure": "1009",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
+    "ai_briefing_en": "宁波: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "南京晴朗，体感 30℃。阳光正好，注意补水！",
     "ai_briefing_en": "Nanjing is sunny, feels like 30℃. Stay hydrated under the sun!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-09-07T16:37+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "阳光明媚，微风轻拂，享受好天气。",
+    "ai_briefing_en": "Bright sunshine, gentle breeze. Enjoy the day!",
+    "alert": null
   }
 ]

@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-08T13:25+08:00",
+    "temp": "32",
+    "feelsLike": "36",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "天气炎热体感 36℃。多喝水，小心中暑哦！",
+    "ai_briefing_en": "Feeling hot at 36℃. Stay hydrated and be mindful of heatstroke!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

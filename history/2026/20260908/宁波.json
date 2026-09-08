@@ -78,5 +78,25 @@
     "ai_briefing_zh": "天气较热，风力 5 级。注意防风，多补充水分！",
     "ai_briefing_en": "Quite hot with strong winds (Force 5). Protect from wind and hydrate!",
     "alert": "💨 北风警报：西北风 5级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-08T18:25+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "45",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云，体感 26℃ 舒适。风力 4级，注意适时增减衣物。",
+    "ai_briefing_en": "Ningbo is cloudy, feels comfortable 26℃. Wind 4, adjust clothes as needed.",
+    "alert": "📉 红色降温预警：1小时骤降7℃ | 💨 北风警报：东北风 4级"
   }
 ]

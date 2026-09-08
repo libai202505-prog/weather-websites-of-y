@@ -78,5 +78,25 @@
     "ai_briefing_zh": "天气暖和，风力 5 级。外出注意防风保暖哦！",
     "ai_briefing_en": "Warm with strong winds (Force 5). Mind the wind and stay warm when out!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-09-08T18:25+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "0",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京晴朗 27℃，体感适中。北风送爽，外出游玩很不错！",
+    "ai_briefing_en": "Nanjing is sunny 27℃, feels just right. North wind, great for outdoor activities!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

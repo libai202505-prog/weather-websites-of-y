@@ -78,5 +78,25 @@
     "ai_briefing_zh": "天气较热，风力 5 级。注意防风，多补充水分！",
     "ai_briefing_en": "Quite hot with strong winds (Force 5). Protect from wind and hydrate!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-08T18:25+08:00",
+    "temp": "27",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "0",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，体感 25℃ 略凉，北风 5级，注意防风保暖。",
+    "ai_briefing_en": "Hangzhou is cloudy, feels cool 25℃. North wind 5, remember to stay warm!",
+    "alert": "📉 红色降温预警：1小时骤降8℃ | 💨 北风警报：北风 5级"
   }
 ]

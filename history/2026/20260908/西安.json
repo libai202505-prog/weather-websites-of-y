@@ -98,5 +98,25 @@
     "ai_briefing_zh": "西安阵雨，体感 17℃ 湿凉。出门别忘带伞，注意防着凉。",
     "ai_briefing_en": "Xi'an has showers, feels damp and cool 17℃. Bring an umbrella, avoid catching a cold.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-09-08T22:37+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "45",
+    "humidity": "94",
+    "precip": "0.6",
+    "pressure": "972",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安 夜间监测中，注意保暖",
+    "ai_briefing_en": "西安: Night watch, stay warm.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

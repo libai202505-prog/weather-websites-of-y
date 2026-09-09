@@ -58,5 +58,25 @@
     "ai_briefing_zh": "厦门晴朗，风力4级。体感27℃，注意防晒，多喝水！",
     "ai_briefing_en": "Xiamen is sunny with moderate wind. Feels 27℃, stay hydrated and protected from sun!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-09-09T11:05+08:00",
+    "temp": "23",
+    "feelsLike": "18",
+    "text": "中雨",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "45",
+    "humidity": "87",
+    "precip": "0.2",
+    "pressure": "996",
+    "vis": "25",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门中雨风大湿冷，记得添衣带伞，注意安全。",
+    "ai_briefing_en": "Xiamen has moderate rain, strong winds, and is cold and damp. Remember to dress warmly, bring an umbrella, and stay safe.",
+    "alert": "📉 红色降温预警：1小时骤降9℃ | 💨 北风警报：东北风 5级"
   }
 ]

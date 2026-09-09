@@ -78,5 +78,25 @@
     "ai_briefing_zh": "沈阳晴天舒适，湿度稍低，多喝水润燥。",
     "ai_briefing_en": "Shenyang is sunny and comfortable, with low humidity. Drink more water to stay hydrated.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-09-09T16:25+08:00",
+    "temp": "22",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "315",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳晴天有风，体感 20℃。外出注意保暖，防止着凉。",
+    "ai_briefing_en": "Shenyang is sunny and breezy, feels like 20℃. Dress cozy!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

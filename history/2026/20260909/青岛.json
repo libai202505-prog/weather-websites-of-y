@@ -78,5 +78,25 @@
     "ai_briefing_zh": "青岛风力超大，出门一定注意防风保暖哦！",
     "ai_briefing_en": "Qingdao has very strong winds, be sure to protect from wind and stay warm!",
     "alert": "💨 北风警报：北风 6级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-09-09T16:25+08:00",
+    "temp": "26",
+    "feelsLike": "22",
+    "text": "阵雨",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "38",
+    "wind360": "0",
+    "humidity": "36",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛阵雨风力大，体感 22℃。带伞防风，注意保暖。",
+    "ai_briefing_en": "Qingdao has showers and strong winds. Bring umbrella, stay warm!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

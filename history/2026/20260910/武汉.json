@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-10T08:37+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "45",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阴天，体感 18℃ 略凉，出门记得带件外套。",
+    "ai_briefing_en": "Wuhan is cloudy and feels cool at 18℃. Grab a jacket before you head out!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

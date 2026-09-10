@@ -78,5 +78,25 @@
     "ai_briefing_zh": "厦门多云，东北风 6级 强劲，出行请注意防风安全。",
     "ai_briefing_en": "Xiamen is cloudy with strong force 6 northeast winds. Stay safe!",
     "alert": "💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-09-10T13:25+08:00",
+    "temp": "28",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "45",
+    "humidity": "62",
+    "precip": "1.0",
+    "pressure": "997",
+    "vis": "25",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门多云 28℃，风力 5级。风大，出行注意安全哦！",
+    "ai_briefing_en": "Xiamen is cloudy at 28℃ with strong winds (Force 5). Be careful when out!",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

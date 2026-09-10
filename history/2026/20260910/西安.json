@@ -78,5 +78,25 @@
     "ai_briefing_zh": "西安阴天 15℃，体感 14℃ 湿冷，注意保暖防潮哦。",
     "ai_briefing_en": "Xi'an is cloudy at 15℃, feels 14℃ damp and cold. Keep warm and dry!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-09-10T13:25+08:00",
+    "temp": "18",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "75",
+    "precip": "1.1",
+    "pressure": "981",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安阴凉 18℃，湿度大。出行带伞，注意添衣。",
+    "ai_briefing_en": "Xi'an is cloudy and cool at 18℃, high humidity. Take an umbrella and dress warmly.",
+    "alert": null
   }
 ]

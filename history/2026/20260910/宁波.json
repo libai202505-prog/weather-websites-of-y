@@ -78,5 +78,25 @@
     "ai_briefing_zh": "宁波阴天，体感 21℃ 略凉，风力 4级，记得添衣哦。",
     "ai_briefing_en": "Ningbo is cloudy, feels 21℃ cool with a force 4 wind. Don't forget to layer up!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-10T13:25+08:00",
+    "temp": "26",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "315",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天 26℃，风力 5级。风大，出门注意安全哦！",
+    "ai_briefing_en": "Ningbo is cloudy at 26℃ with strong winds (Force 5). Stay safe outdoors!",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

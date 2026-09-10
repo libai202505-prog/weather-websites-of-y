@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉阴天，体感 18℃ 略凉，出门记得带件外套。",
     "ai_briefing_en": "Wuhan is cloudy and feels cool at 18℃. Grab a jacket before you head out!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-10T13:25+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉多云 23℃，体感舒适。出门记得带外套哦！",
+    "ai_briefing_en": "Wuhan is cloudy and comfortable at 23℃. Don't forget your jacket when going out!",
+    "alert": null
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "阴天微凉，湿度较高，出门带伞不打湿。",
     "ai_briefing_en": "Cloudy and cool, high humidity. Carry an umbrella.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-09-11T16:15+08:00",
+    "temp": "22",
+    "feelsLike": "21",
+    "text": "阵雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "6",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京阵雨，记得带伞，湿度很大哦！",
+    "ai_briefing_en": "Showers in Nanjing, remember an umbrella, it's very humid!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "多云天气，体感稍热。注意补水，保持清爽。",
     "ai_briefing_en": "Partly cloudy, feels warm. Hydrate and stay cool.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-11T16:15+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "34",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉多云，气温适宜，祝您一天愉快！",
+    "ai_briefing_en": "Partly cloudy in Wuhan, pleasant temperature, have a nice day!",
+    "alert": null
   }
 ]

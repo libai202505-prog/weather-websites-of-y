@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉多云，气温适宜，祝您一天愉快！",
     "ai_briefing_en": "Partly cloudy in Wuhan, pleasant temperature, have a nice day!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-11T20:48+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "270",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "28",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

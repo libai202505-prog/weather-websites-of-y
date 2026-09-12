@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-13T07:37+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "多云",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "225",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云 23 ℃，体感舒适，湿度高，记得多喝水哦。",
+    "ai_briefing_en": "Ningbo is cloudy 23℃, feels comfy. High humidity, remember to hydrate!",
+    "alert": null
   }
 ]

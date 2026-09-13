@@ -58,5 +58,25 @@
     "ai_briefing_zh": "上海阴天 25 ℃，体感微热，小心闷热，保持好心情。",
     "ai_briefing_en": "Shanghai is cloudy 25℃, feels warm. Stay cool and cheerful!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-13T11:15+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "0",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "21",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海体感 31℃ 略热，湿度不低，穿衣清爽些。",
+    "ai_briefing_en": "Shanghai feels a bit warm at 31℃. Dress light due to humidity.",
+    "alert": null
   }
 ]

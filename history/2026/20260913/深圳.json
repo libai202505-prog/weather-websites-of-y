@@ -58,5 +58,25 @@
     "ai_briefing_zh": "深圳多云 26 ℃，体感热，湿度大，风力 3 级，注意防晒。",
     "ai_briefing_en": "Shenzhen is cloudy 26℃, feels hot and humid. Mind the sun!",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-09-13T11:15+08:00",
+    "temp": "29",
+    "feelsLike": "32",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "90",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳体感 32℃ 较热，湿度高，注意防晒，多补充水分。",
+    "ai_briefing_en": "Shenzhen feels hot at 32℃ with high humidity. Protect from sun and hydrate.",
+    "alert": null
   }
 ]

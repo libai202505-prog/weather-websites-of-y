@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉有雾 21 ℃，湿度高，能见度低，出行注意安全。",
     "ai_briefing_en": "Wuhan is foggy 21℃, high humidity. Drive safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-13T11:15+08:00",
+    "temp": "30",
+    "feelsLike": "35",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 30℃ 晴朗，体感 35℃ 炎热，请务必注意防暑哦！",
+    "ai_briefing_en": "Wuhan is sunny and hot at 30℃, feels like 35℃. Please take precautions against heatstroke!",
+    "alert": null
   }
 ]

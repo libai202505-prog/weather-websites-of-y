@@ -98,5 +98,25 @@
     "ai_briefing_zh": "漳浦多云酷热，风力较大。外出记得防暑，多补水。",
     "ai_briefing_en": "Zhangpu is cloudy and very hot with strong wind. Prevent heatstroke, drink water.",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-09-14T19:37+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "90",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦阴天风大，体感闷热，及时补充水分。",
+    "ai_briefing_en": "Zhangpu is cloudy, windy, and muggy. Stay hydrated!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "宁波多云，风力较大。外出小心大风，注意安全。",
     "ai_briefing_en": "Ningbo is cloudy with strong winds. Be careful with strong wind, stay safe.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-14T19:37+08:00",
+    "temp": "25",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "45",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云风大，记得带伞，小心着凉哦。",
+    "ai_briefing_en": "Ningbo is cloudy and windy. Bring an umbrella and stay warm!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 4级"
   }
 ]

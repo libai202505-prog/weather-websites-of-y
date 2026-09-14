@@ -98,5 +98,25 @@
     "ai_briefing_zh": "武汉多云炎热，体感酷热，外出务必防暑，多喝水。",
     "ai_briefing_en": "Wuhan is cloudy and very hot. Take care in the heat, drink water.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-14T19:37+08:00",
+    "temp": "28",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "28",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉多云稍热，体感干燥，多喝水润润喉吧。",
+    "ai_briefing_en": "Wuhan is cloudy and a bit dry. Remember to drink water!",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

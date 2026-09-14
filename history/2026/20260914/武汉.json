@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-14T08:37+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "66",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉多云，体感 28℃，天气适中，祝你愉快！",
+    "ai_briefing_en": "Cloudy Wuhan, 28℃ feels moderate. Wish you a pleasant day!",
+    "alert": null
   }
 ]

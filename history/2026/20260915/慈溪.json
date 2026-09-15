@@ -38,5 +38,25 @@
     "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
     "ai_briefing_en": "慈溪: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-09-15T07:48+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "0",
+    "humidity": "76",
+    "precip": "0.2",
+    "pressure": "1022",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪多云，气温 25℃，风力不小，注意防风哦！",
+    "ai_briefing_en": "Cixi is cloudy, 25℃, with strong winds. Mind the wind!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

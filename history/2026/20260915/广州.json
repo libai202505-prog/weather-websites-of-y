@@ -58,5 +58,25 @@
     "ai_briefing_zh": "广州多云，气温 25℃，湿度高，体感热，记得补水！",
     "ai_briefing_en": "Guangzhou is cloudy 25℃, high humidity. Stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-15T13:37+08:00",
+    "temp": "31",
+    "feelsLike": "33",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "0",
+    "humidity": "66",
+    "precip": "0.2",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

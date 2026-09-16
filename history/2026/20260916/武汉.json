@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉小雨，湿度较大，出门别忘带雨具哦！",
     "ai_briefing_en": "Wuhan has light rain and high humidity, don't forget your rain gear!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-16T11:15+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "90",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "20",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉小雨，出门别忘带雨具，注意路滑哦。",
+    "ai_briefing_en": "Wuhan has light rain. Don't forget your umbrella and watch for slippery roads.",
+    "alert": null
   }
 ]

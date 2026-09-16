@@ -78,5 +78,25 @@
     "ai_briefing_zh": "哈尔滨多云，风力 4级，出门注意防风，小心着凉。",
     "ai_briefing_en": "Harbin is cloudy with Force 4 winds. Mind the wind, avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-09-16T16:48+08:00",
+    "temp": "20",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "多云微凉体感舒适，记得添衣别着凉。",
+    "ai_briefing_en": "Cloudy and cool. Keep warm!",
+    "alert": null
   }
 ]

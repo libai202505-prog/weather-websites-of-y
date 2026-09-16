@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉小雨，出门别忘带雨具，注意路滑哦。",
     "ai_briefing_en": "Wuhan has light rain. Don't forget your umbrella and watch for slippery roads.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-16T16:48+08:00",
+    "temp": "26",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "天气阴沉有微风，注意温度变化哦。",
+    "ai_briefing_en": "Overcast, mild, windy.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

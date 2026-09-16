@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气阴沉有微风，注意温度变化哦。",
     "ai_briefing_en": "Overcast, mild, windy.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-16T22:15+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "64",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

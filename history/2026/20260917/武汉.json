@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉体感 16℃，湿度 97%，添件薄外套，注意保暖。",
     "ai_briefing_en": "Wuhan feels 16℃ with high humidity, wear a light jacket to stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-17T13:37+08:00",
+    "temp": "19",
+    "feelsLike": "13",
+    "text": "大雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "1.5",
+    "pressure": "1012",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

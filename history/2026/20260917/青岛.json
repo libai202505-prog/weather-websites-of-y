@@ -58,5 +58,25 @@
     "ai_briefing_zh": "青岛阴天，风力 4级，体感 22℃，注意防风保暖。",
     "ai_briefing_en": "Qingdao is cloudy with 4-level winds, stay warm and comfy.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-09-17T13:37+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "180",
+    "humidity": "75",
+    "precip": "0.3",
+    "pressure": "1008",
+    "vis": "23",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

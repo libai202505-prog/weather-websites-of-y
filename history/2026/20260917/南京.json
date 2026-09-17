@@ -78,5 +78,25 @@
     "ai_briefing_zh": "南京 夜间监测中，注意保暖",
     "ai_briefing_en": "南京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-09-17T18:48+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京小雨 21℃，湿度 100%。雨天路滑，注意安全。",
+    "ai_briefing_en": "Light rain in Nanjing, 21℃ with 100% humidity. Roads are slippery, drive safe.",
+    "alert": null
   }
 ]

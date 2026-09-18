@@ -78,5 +78,25 @@
     "ai_briefing_zh": "杭州多云，体感 32℃，清凉穿搭，元气满满！",
     "ai_briefing_en": "Hangzhou is cloudy, feels like 32℃. Dress cool and stay energetic!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-18T16:37+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "24",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云 29℃。体感舒适，出行愉快。",
+    "ai_briefing_en": "Hangzhou: Cloudy, 29℃. Pleasant.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

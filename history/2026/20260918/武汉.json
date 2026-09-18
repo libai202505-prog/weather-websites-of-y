@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉阴天潮湿，注意衣物防潮，保持好心情！",
     "ai_briefing_en": "Wuhan is cloudy and humid. Mind your clothes, keep them dry and stay cheerful!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-18T16:37+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "12",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阴天 23℃，湿度 84%。防潮。",
+    "ai_briefing_en": "Wuhan: Overcast, 23℃. Humid.",
+    "alert": null
   }
 ]

@@ -98,5 +98,25 @@
     "ai_briefing_zh": "广州晴热 36℃！户外防晒防暑。",
     "ai_briefing_en": "Guangzhou: Sunny, 36℃. Hot!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-18T20:48+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "88",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州晴热湿润，出门注意防晒补水哦！",
+    "ai_briefing_en": "Guangzhou is sunny, warm, humid. Sunscreen up!",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

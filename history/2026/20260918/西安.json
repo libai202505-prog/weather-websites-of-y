@@ -98,5 +98,25 @@
     "ai_briefing_zh": "西安多云 23℃。温和舒适，愉快出行。",
     "ai_briefing_en": "Xi'an: Cloudy, 23℃. Pleasant.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-09-18T20:48+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安多云，气温适中，出门注意保暖哦。",
+    "ai_briefing_en": "Xi'an is cloudy and mild. Keep warm if needed.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

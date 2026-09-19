@@ -98,5 +98,25 @@
     "ai_briefing_zh": "宁波多云，体感温热，湿度较高，请多喝水。",
     "ai_briefing_en": "Ningbo is cloudy and warm, with high humidity, please drink more water.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-19T20:37+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "21",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云，体感较热。多喝水，注意防暑降温哦！",
+    "ai_briefing_en": "Ningbo is partly cloudy and feels quite warm. Stay hydrated and cool!",
+    "alert": null
   }
 ]

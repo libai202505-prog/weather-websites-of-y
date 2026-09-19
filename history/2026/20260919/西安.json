@@ -98,5 +98,25 @@
     "ai_briefing_zh": "西安阴天舒适，湿度适中，出行愉快哦。",
     "ai_briefing_en": "Xi'an is overcast and comfortable, moderate humidity, enjoy your outing.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-09-19T20:37+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.0",
+    "pressure": "975",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安小雨，体感微凉。记得带伞，加件薄外套哦！",
+    "ai_briefing_en": "Xi'an has light rain, feels a bit cool. Grab an umbrella and light jacket!",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大连阴天，湿度较大，体感舒适，保持好心情。",
     "ai_briefing_en": "Dalian is overcast with high humidity, feels comfortable, keep a good mood.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-09-20T13:25+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "0",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阴天 25℃，体感 26℃。风力舒适，出门享受好天气吧！",
+    "ai_briefing_en": "Dalian is cloudy at 25℃, feeling 26℃. The wind is comfortable, enjoy the nice weather!",
+    "alert": null
   }
 ]

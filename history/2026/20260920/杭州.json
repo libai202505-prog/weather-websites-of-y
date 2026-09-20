@@ -78,5 +78,25 @@
     "ai_briefing_zh": "杭州多云风力 4级，出门注意防风，小心着凉。",
     "ai_briefing_en": "Hangzhou is cloudy with strong winds (level 4), mind the wind when going out, avoid catching a cold.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-20T13:25+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "75",
+    "precip": "0.6",
+    "pressure": "1012",
+    "vis": "15",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天 26℃，体感 28℃ 潮湿。午后可能有点闷，多喝水哦！",
+    "ai_briefing_en": "Hangzhou is cloudy at 26℃, feeling humid. It might be muggy, drink more water!",
+    "alert": null
   }
 ]

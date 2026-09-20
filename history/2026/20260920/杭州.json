@@ -98,5 +98,25 @@
     "ai_briefing_zh": "杭州阴天 26℃，体感 28℃ 潮湿。午后可能有点闷，多喝水哦！",
     "ai_briefing_en": "Hangzhou is cloudy at 26℃, feeling humid. It might be muggy, drink more water!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-20T18:25+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "16",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云，体感舒适，穿衣要适度哦。",
+    "ai_briefing_en": "Cloudy in Hangzhou, feels pleasant. Dress appropriately!",
+    "alert": null
   }
 ]

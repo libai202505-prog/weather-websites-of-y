@@ -98,5 +98,25 @@
     "ai_briefing_zh": "青岛多云 30℃，体感 34℃。海风宜人，记得带上遮阳帽哦！",
     "ai_briefing_en": "Qingdao is partly cloudy at 30℃, feeling 34℃. Enjoy the sea breeze, bring a sun hat!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-09-20T18:25+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "315",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "14",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛多云，风力较大，出行注意防风。",
+    "ai_briefing_en": "Cloudy in Qingdao, quite windy. Mind the wind when you're out!",
+    "alert": "📉 红色降温预警：1小时骤降8℃ | 💨 北风警报：西北风 4级"
   }
 ]

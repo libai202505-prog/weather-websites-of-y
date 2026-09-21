@@ -78,5 +78,25 @@
     "ai_briefing_zh": "宁波晴朗炎热，体感高，防晒多补水！",
     "ai_briefing_en": "Hot Ningbo, protect from sun & hydrate!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-21T17:15+08:00",
+    "temp": "28",
+    "feelsLike": "29",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "24",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波晴朗舒适，紫外线强，出门记得防晒。",
+    "ai_briefing_en": "Ningbo is sunny and pleasant. Strong UV, remember sun protection outdoors.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "厦门多云体感热，湿度高，多补充水分！",
     "ai_briefing_en": "Hot, humid Xiamen, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-09-21T17:15+08:00",
+    "temp": "27",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "135",
+    "humidity": "79",
+    "precip": "0.7",
+    "pressure": "995",
+    "vis": "21",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门多云风力 4级，风大潮湿，记得带伞！",
+    "ai_briefing_en": "Xiamen is cloudy with Force 4 winds. Windy and humid, remember an umbrella!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

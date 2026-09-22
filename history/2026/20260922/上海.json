@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气阴沉，体感微热，别忘了带伞哦！",
     "ai_briefing_en": "Cloudy and a bit warm, don't forget your umbrella!",
     "alert": "📉 红色降温预警：1小时骤降5℃"
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-22T21:48+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "225",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "16",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

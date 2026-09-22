@@ -78,5 +78,25 @@
     "ai_briefing_zh": "广州高温闷热，及时补充水分，小心中暑哦。",
     "ai_briefing_en": "Guangzhou is hot and humid! Hydrate and avoid heatstroke.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-22T16:48+08:00",
+    "temp": "27",
+    "feelsLike": "29",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.6",
+    "pressure": "1003",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "雾气较浓，空气潮湿，出行注意安全哦！",
+    "ai_briefing_en": "Foggy and humid. Please drive safely!",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

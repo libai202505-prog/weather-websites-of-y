@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海体感闷热，多云注意防晒，保持清爽。",
     "ai_briefing_en": "Shanghai feels muggy. Stay cool and protect from sun.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-22T16:48+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "135",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "19",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "天气阴沉，体感微热，别忘了带伞哦！",
+    "ai_briefing_en": "Cloudy and a bit warm, don't forget your umbrella!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

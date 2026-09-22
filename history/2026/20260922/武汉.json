@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉小雨，出门带伞。气温稍凉，别着凉。",
     "ai_briefing_en": "Wuhan has light rain, bring an umbrella. Stay warm.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-22T16:48+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "雾",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "270",
+    "humidity": "98",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "6",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "雾气很重，湿度大，出行请注意交通安全！",
+    "ai_briefing_en": "Very foggy and humid. Please drive safely!",
+    "alert": null
   }
 ]

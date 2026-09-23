@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气阴沉，湿度 77%。出门别忘带雨具哦。",
     "ai_briefing_en": "Overcast with 77% humidity. Don't forget your umbrella!",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-09-23T22:48+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "957",
+    "vis": "8",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": null
   }
 ]

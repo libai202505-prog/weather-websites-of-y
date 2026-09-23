@@ -98,5 +98,25 @@
     "ai_briefing_zh": "大雾笼罩，湿度 100%。路面湿滑，请注意安全！",
     "ai_briefing_en": "Heavy fog, 100% humidity. Roads are slippery, drive safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-23T22:48+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "雾",
+    "windDir": "南风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "180",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "1",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

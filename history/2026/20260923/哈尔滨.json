@@ -98,5 +98,25 @@
     "ai_briefing_zh": "气温偏低，体感 11℃，早晚注意保暖添衣哦。",
     "ai_briefing_en": "Cool with a perceived 11℃. Dress warmly in mornings/evenings!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-09-23T22:48+08:00",
+    "temp": "11",
+    "feelsLike": "8",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
   }
 ]

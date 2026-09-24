@@ -58,5 +58,25 @@
     "ai_briefing_zh": "上海阴天体感稍热，记得穿轻薄透气衣物。",
     "ai_briefing_en": "Shanghai feels warm under cloudy skies. Wear light, breathable clothes.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-24T14:48+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "25",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海 26℃，体感微热。湿度较高，出门别忘带把伞哦。",
+    "ai_briefing_en": "Shanghai is warm at 26℃ with high humidity. An umbrella might be handy!",
+    "alert": null
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "成都 24℃，湿度 96%。体感闷热，多通风，注意防潮哦！",
     "ai_briefing_en": "Chengdu is 24℃ with high humidity. Stay cool and mind the dampness!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-09-24T20:48+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "99",
+    "precip": "0.0",
+    "pressure": "955",
+    "vis": "8",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天湿度高，体感潮湿，注意防潮哦。",
+    "ai_briefing_en": "Chengdu is overcast and very humid, mind the dampness.",
+    "alert": null
   }
 ]

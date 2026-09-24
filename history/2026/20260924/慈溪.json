@@ -78,5 +78,25 @@
     "ai_briefing_zh": "慈溪 31℃，体感 33℃。天气炎热，记得多喝水，防晒哦！",
     "ai_briefing_en": "Cixi is hot at 31℃. Stay hydrated and protect yourself from the sun!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-09-24T20:48+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "多云天气，体感稍热，记得多补充水分。",
+    "ai_briefing_en": "Cloudy with a warm feel, remember to stay hydrated.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

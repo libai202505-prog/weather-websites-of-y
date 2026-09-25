@@ -58,5 +58,25 @@
     "ai_briefing_zh": "中雨伴微凉，出门记得带伞，多穿点衣物哦！",
     "ai_briefing_en": "Moderate rain and cool, bring an umbrella and dress warmly!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-09-25T13:37+08:00",
+    "temp": "19",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "90",
+    "humidity": "93",
+    "precip": "3.2",
+    "pressure": "1006",
+    "vis": "14",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛小雨，风力 5级，体感湿冷，请注意保暖。",
+    "ai_briefing_en": "Qingdao has light rain and level 5 winds, feels cold and damp. Please keep warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

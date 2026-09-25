@@ -58,5 +58,25 @@
     "ai_briefing_zh": "有雾视线不佳，出行注意安全。湿度大体感热！",
     "ai_briefing_en": "Foggy, poor visibility, be safe. Humid and feels hot!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-25T13:37+08:00",
+    "temp": "32",
+    "feelsLike": "34",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "270",
+    "humidity": "62",
+    "precip": "0.2",
+    "pressure": "1009",
+    "vis": "16",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阴天，气温 32℃，风力较大注意防风。",
+    "ai_briefing_en": "Wuhan is cloudy and 32℃, with strong winds. Take care!",
+    "alert": null
   }
 ]

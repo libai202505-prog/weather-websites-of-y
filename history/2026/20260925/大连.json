@@ -58,5 +58,25 @@
     "ai_briefing_zh": "雾气弥漫，能见度低，驾车出行注意安全哦！",
     "ai_briefing_en": "Foggy, low visibility, drive safely!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-09-25T13:37+08:00",
+    "temp": "22",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "225",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "13",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阴天，风力 5级，体感凉爽，记得添衣。",
+    "ai_briefing_en": "Dalian is cloudy with level 5 winds, feels cool. Remember to add clothes.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

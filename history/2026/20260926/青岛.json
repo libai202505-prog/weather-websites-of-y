@@ -98,5 +98,25 @@
     "ai_briefing_zh": "青岛阴天，体感 23℃。气候宜人，可以放松心情哦！",
     "ai_briefing_en": "Qingdao is overcast, feels like 23℃. The climate is pleasant, you can relax and enjoy!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-09-26T21:48+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "135",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1003",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": null
   }
 ]

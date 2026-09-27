@@ -78,5 +78,25 @@
     "ai_briefing_zh": "南京 夜间监测中，注意保暖",
     "ai_briefing_en": "南京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-09-27T20:37+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1005",
+    "vis": "9",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "小雨淅沥，湿度 100%，记得带伞，小心路滑。",
+    "ai_briefing_en": "Light rain and 100% humidity, bring an umbrella and watch for slippery roads.",
+    "alert": null
   }
 ]

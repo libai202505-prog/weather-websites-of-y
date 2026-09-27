@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-27T07:48+08:00",
+    "temp": "26",
+    "feelsLike": "29",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "315",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1007",
+    "vis": "7",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "有雾闷热，湿度大，开车记得减速慢行哦。",
+    "ai_briefing_en": "Foggy & muggy. Drive carefully!",
+    "alert": null
   }
 ]

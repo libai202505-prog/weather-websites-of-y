@@ -58,5 +58,25 @@
     "ai_briefing_zh": "雾气浓重，能见度低，注意出行安全。",
     "ai_briefing_en": "Dense fog, low visibility. Travel safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-09-28T11:37+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.4",
+    "pressure": "1008",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阴天，湿度 100%，可能要下雨了。",
+    "ai_briefing_en": "Wuhan is overcast with 100% humidity. Rain might be coming!",
+    "alert": null
   }
 ]

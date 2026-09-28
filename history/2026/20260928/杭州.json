@@ -78,5 +78,25 @@
     "ai_briefing_zh": "杭州中雨，路滑注意慢行，记得带伞！",
     "ai_briefing_en": "Hangzhou has moderate rain. Drive carefully and bring an umbrella!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-28T18:37+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "90",
+    "humidity": "86",
+    "precip": "0.5",
+    "pressure": "1005",
+    "vis": "8",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州有雾，气温 26℃。注意能见度，小心驾驶。",
+    "ai_briefing_en": "Fog in Hangzhou, 26°C. Mind visibility and drive carefully.",
+    "alert": null
   }
 ]

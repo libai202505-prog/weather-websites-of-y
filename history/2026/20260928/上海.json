@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海阴天 25℃，出门带伞，祝你愉快！",
     "ai_briefing_en": "Shanghai is overcast at 25℃. Take an umbrella!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-09-28T18:37+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "24",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海阴天 25℃，体感微热。出门注意携带雨具哦。",
+    "ai_briefing_en": "Overcast in Shanghai, 25°C, feels warm. Bring an umbrella!",
+    "alert": null
   }
 ]

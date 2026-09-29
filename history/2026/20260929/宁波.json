@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波有雾，体感 28℃。能见度低，驾车慢行！",
     "ai_briefing_en": "Ningbo: Foggy, 28℃. Caution!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-09-29T12:15+08:00",
+    "temp": "28",
+    "feelsLike": "31",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "82",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天，体感 31℃，湿度 82%。注意防暑防潮。",
+    "ai_briefing_en": "Ningbo is overcast, feels like 31℃ and humid. Stay cool!",
+    "alert": null
   }
 ]

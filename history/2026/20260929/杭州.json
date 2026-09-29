@@ -38,5 +38,25 @@
     "ai_briefing_zh": "杭州有雾，体感 24℃。能见度低，驾车请慢行哦！",
     "ai_briefing_en": "Hangzhou: Foggy, 24℃. Caution!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-09-29T12:15+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "86",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "5",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州有雾，能见度低，体感 28℃。驾车请慢行！",
+    "ai_briefing_en": "Hangzhou is foggy, visibility low, feels like 28℃. Drive carefully!",
+    "alert": null
   }
 ]

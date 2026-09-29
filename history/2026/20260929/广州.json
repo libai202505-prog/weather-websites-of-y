@@ -58,5 +58,25 @@
     "ai_briefing_zh": "广州炎热，体感高达 39℃！记得多补水防晒。",
     "ai_briefing_en": "Guangzhou is scorching hot, feels like 39℃! Drink plenty of water and wear sunscreen.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-29T18:48+08:00",
+    "temp": "30",
+    "feelsLike": "33",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

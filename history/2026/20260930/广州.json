@@ -58,5 +58,25 @@
     "ai_briefing_zh": "体感 35℃ 炎热，湿度 77%。注意防晒补水！",
     "ai_briefing_en": "Guangzhou is sunny and very hot. Remember sunscreen and hydrate!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-09-30T15:48+08:00",
+    "temp": "35",
+    "feelsLike": "39",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "1.1",
+    "pressure": "1002",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州 夜间监测中，注意保暖",
+    "ai_briefing_en": "广州: Night watch, stay warm.",
+    "alert": null
   }
 ]

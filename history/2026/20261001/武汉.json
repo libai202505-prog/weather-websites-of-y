@@ -18,5 +18,25 @@
     "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
     "ai_briefing_en": "武汉: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-01T08:05+08:00",
+    "temp": "17",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "6",
+    "windSpeed": "45",
+    "wind360": "0",
+    "humidity": "64",
+    "precip": "0.7",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉风力大体感凉，出门小心阵风，多穿衣。",
+    "ai_briefing_en": "Wuhan is windy and cool. Watch for gusts, dress warmly.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：北风 6级"
   }
 ]

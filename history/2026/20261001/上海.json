@@ -38,5 +38,25 @@
     "ai_briefing_zh": "上海阴天体感舒适，湿度较高，保持好心情！",
     "ai_briefing_en": "Cloudy Shanghai feels good, but it's humid. Keep smiling!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-01T14:37+08:00",
+    "temp": "23",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "90",
+    "humidity": "76",
+    "precip": "0.2",
+    "pressure": "1017",
+    "vis": "29",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海阴天湿度高，体感略闷，出门注意防潮，带把伞有备无患。",
+    "ai_briefing_en": "Shanghai is cloudy and humid. It feels a bit muggy, bring an umbrella.",
+    "alert": null
   }
 ]

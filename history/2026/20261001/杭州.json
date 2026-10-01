@@ -38,5 +38,25 @@
     "ai_briefing_zh": "杭州有小雨，风力较大，出门记得带伞添衣。",
     "ai_briefing_en": "Light rain and strong winds in Hangzhou. Grab an umbrella and coat.",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-10-01T14:37+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "78",
+    "precip": "3.7",
+    "pressure": "1013",
+    "vis": "19",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天潮湿，体感微凉。出门注意防潮，备件薄外套。",
+    "ai_briefing_en": "Hangzhou is cloudy and damp, feels a bit cool. Bring a light jacket and watch out for humidity.",
+    "alert": null
   }
 ]

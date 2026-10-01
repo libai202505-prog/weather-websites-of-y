@@ -38,5 +38,25 @@
     "ai_briefing_zh": "漳浦有雾，体感闷热，路滑小心，记得多喝水。",
     "ai_briefing_en": "Foggy and muggy Zhangpu. Roads are slick, stay hydrated!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-10-01T14:37+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "96",
+    "precip": "0.5",
+    "pressure": "1008",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦有小雨，湿度非常高。出门记得带伞，注意防潮防滑。",
+    "ai_briefing_en": "Zhangpu has light rain, very high humidity. Bring an umbrella, watch out for dampness and slippery surfaces.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

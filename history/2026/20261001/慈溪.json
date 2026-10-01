@@ -58,5 +58,25 @@
     "ai_briefing_zh": "慈溪阴天微热，湿度适中，出门体感舒适，祝您有个好心情！",
     "ai_briefing_en": "Cixi is cloudy and warm, moderate humidity. Enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-10-01T21:48+08:00",
+    "temp": "21",
+    "feelsLike": "21",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.3",
+    "pressure": "1021",
+    "vis": "19",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "慈溪 夜间监测中，注意保暖",
+    "ai_briefing_en": "慈溪: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

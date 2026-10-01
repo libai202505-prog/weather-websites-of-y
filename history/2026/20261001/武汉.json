@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉阴冷潮湿，风力较大。记得添衣保暖，尤其注意防湿。",
     "ai_briefing_en": "Wuhan is cold, damp, and windy. Dress warmly and pay attention to the high humidity.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-01T21:48+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "1.9",
+    "pressure": "1019",
+    "vis": "7",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

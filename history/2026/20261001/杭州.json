@@ -58,5 +58,25 @@
     "ai_briefing_zh": "杭州阴天潮湿，体感微凉。出门注意防潮，备件薄外套。",
     "ai_briefing_en": "Hangzhou is cloudy and damp, feels a bit cool. Bring a light jacket and watch out for humidity.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-10-01T21:48+08:00",
+    "temp": "20",
+    "feelsLike": "21",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "95",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "7",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

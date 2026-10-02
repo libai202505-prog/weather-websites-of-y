@@ -38,5 +38,25 @@
     "ai_briefing_zh": "大连晴朗，空气偏干，记得多喝水润润喉。",
     "ai_briefing_en": "Sunny in Dalian, air is dry, remember to drink more water.",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-10-02T14:25+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "315",
+    "humidity": "40",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连晴朗舒适，微风轻抚。享受阳光，好心情。",
+    "ai_briefing_en": "Dalian is sunny and comfortable with a light breeze. Enjoy the sun and stay happy.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

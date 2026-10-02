@@ -58,5 +58,25 @@
     "ai_briefing_zh": "宁波阴天有风，体感微凉。出门记得带外套。",
     "ai_briefing_en": "Ningbo is cloudy and windy, feels a bit cool. Remember your jacket when you go out.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-10-02T21:15+08:00",
+    "temp": "21",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "80",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天，体感舒适。虽然没雨，出门备伞吧。",
+    "ai_briefing_en": "Ningbo is cloudy and pleasant. No rain, but keep an umbrella handy.",
+    "alert": null
   }
 ]

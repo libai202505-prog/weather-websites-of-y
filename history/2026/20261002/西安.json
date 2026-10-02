@@ -58,5 +58,25 @@
     "ai_briefing_zh": "西安阴天，气温适中。保持好心情，迎接美好。",
     "ai_briefing_en": "Xi'an is cloudy, temperature is mild. Stay cheerful and embrace the day.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-10-02T21:15+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "西南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "225",
+    "humidity": "92",
+    "precip": "0.6",
+    "pressure": "973",
+    "vis": "11",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安小雨微凉，体感偏冷，记得多穿件衣服。",
+    "ai_briefing_en": "Xi'an has light rain, feels cool. Remember to wear an extra layer.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

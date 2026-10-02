@@ -58,5 +58,25 @@
     "ai_briefing_zh": "北京晴朗舒适，湿度低，多喝水保持活力哦！",
     "ai_briefing_en": "Beijing is sunny and comfortable. Low humidity, remember to hydrate!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-10-02T21:15+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "135",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "17",
+    "dew": "17",
+    "cloud": "0",
+    "ai_briefing_zh": "北京晴朗，微风舒适，记得多喝水哦。",
+    "ai_briefing_en": "Beijing is clear and breezy. Stay hydrated!",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

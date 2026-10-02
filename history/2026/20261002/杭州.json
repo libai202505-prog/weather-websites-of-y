@@ -18,5 +18,25 @@
     "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
     "ai_briefing_en": "杭州: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-10-02T08:25+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "0",
+    "humidity": "79",
+    "precip": "1.4",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天有风，注意保暖，别着凉。",
+    "ai_briefing_en": "Overcast and windy in Hangzhou, stay warm to avoid colds.",
+    "alert": null
   }
 ]

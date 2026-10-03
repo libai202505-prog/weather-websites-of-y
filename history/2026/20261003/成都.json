@@ -58,5 +58,25 @@
     "ai_briefing_zh": "成都体感偏热，多云天气，注意补水防晒。",
     "ai_briefing_en": "Chengdu feels warm/hot, cloudy weather. Hydrate and use sunscreen.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-10-03T20:48+08:00",
+    "temp": "22",
+    "feelsLike": "24",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "0",
+    "windSpeed": "1",
+    "wind360": "180",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "960",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天，体感 24℃。风力 0 级，出门散步也很惬意呢。",
+    "ai_briefing_en": "Chengdu: Overcast, 24℃. Relax!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

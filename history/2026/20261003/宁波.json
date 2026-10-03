@@ -58,5 +58,25 @@
     "ai_briefing_zh": "宁波阴天微热，注意补充水分，保持身体清爽。",
     "ai_briefing_en": "Ningbo is cloudy and slightly warm. Stay hydrated and cool.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-10-03T20:48+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "90",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "24",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天，体感 22℃，湿度 90%。天气潮湿，保持好心情。",
+    "ai_briefing_en": "Ningbo: Overcast, 22℃. Stay dry!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

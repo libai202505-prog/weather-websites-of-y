@@ -58,5 +58,25 @@
     "ai_briefing_zh": "深圳天气闷热，多喝水，防晒避暑哦！",
     "ai_briefing_en": "Shenzhen is muggy and hot. Drink water, protect from sun and heat.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-10-03T20:48+08:00",
+    "temp": "26",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "135",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳晴朗，体感 28℃。阳光充足，注意防晒和多饮水哦！",
+    "ai_briefing_en": "Shenzhen: Sunny, 28℃. Stay cool!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

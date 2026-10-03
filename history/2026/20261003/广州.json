@@ -58,5 +58,25 @@
     "ai_briefing_zh": "广州体感炎热，注意防晒补水，保持清爽。",
     "ai_briefing_en": "Guangzhou feels hot. Stay hydrated and cool, mind the sun.",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-10-03T20:48+08:00",
+    "temp": "25",
+    "feelsLike": "28",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "93",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "25",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州晴朗，体感 28℃，湿度 93%。天气炎热，注意防晒补水。",
+    "ai_briefing_en": "Guangzhou: Sunny, 28℃. Stay cool!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

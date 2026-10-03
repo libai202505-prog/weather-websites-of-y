@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉小雨，体感湿冷，出门带伞，注意保暖。",
     "ai_briefing_en": "Wuhan is rainy and damp. Take an umbrella and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-03T20:48+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "100",
+    "precip": "0.5",
+    "pressure": "1014",
+    "vis": "5",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉小雨，体感 15℃，湿度 100%。出门带伞，注意保暖！",
+    "ai_briefing_en": "Wuhan: Rain, 15℃. Dress warm!",
+    "alert": null
   }
 ]

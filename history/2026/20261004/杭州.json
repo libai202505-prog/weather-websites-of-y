@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阵雨天气，风力 4级，体感偏凉，注意保暖防雨。",
     "ai_briefing_en": "Showers and breezy, feels cool at 16°C. Keep warm and dry!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-10-04T23:25+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "315",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1015",
+    "vis": "9",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": null
   }
 ]

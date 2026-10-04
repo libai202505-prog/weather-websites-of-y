@@ -78,5 +78,25 @@
     "ai_briefing_zh": "天气炎热体感高，多喝水，注意防暑防晒。",
     "ai_briefing_en": "Hot and feels even hotter. Drink water and protect from sunstroke.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-10-04T18:37+08:00",
+    "temp": "26",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "135",
+    "humidity": "83",
+    "precip": "1.1",
+    "pressure": "995",
+    "vis": "27",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天但体感温暖，风力不小，多留意防晒补水。",
+    "ai_briefing_en": "Overcast but feels warm at 27°C, also breezy. Hydrate and sun protect!",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

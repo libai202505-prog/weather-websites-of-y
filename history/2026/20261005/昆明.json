@@ -58,5 +58,25 @@
     "ai_briefing_zh": "昆明阵雨，体感较冷，出门记得带伞加衣。",
     "ai_briefing_en": "Kunming has showers and feels cold. Bring an umbrella and jacket!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-10-05T16:15+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "45",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "817",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "阴天伴湿冷，体感较凉，记得多穿保暖，注意防潮。",
+    "ai_briefing_en": "Cloudy and damp-cold, feels chilly. Dress warmly and stay dry.",
+    "alert": null
   }
 ]

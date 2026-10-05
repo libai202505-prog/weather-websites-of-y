@@ -58,5 +58,25 @@
     "ai_briefing_zh": "广州阴天有点湿，注意通风防潮哦。",
     "ai_briefing_en": "Guangzhou is cloudy and humid. Keep good ventilation!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-10-05T16:15+08:00",
+    "temp": "25",
+    "feelsLike": "22",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "6",
+    "windSpeed": "39",
+    "wind360": "0",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天多风，体感凉爽，风力较大，出门注意防风。",
+    "ai_briefing_en": "Cloudy and very windy, mind the strong wind and stay cozy.",
+    "alert": "💨 北风警报：北风 6级"
   }
 ]

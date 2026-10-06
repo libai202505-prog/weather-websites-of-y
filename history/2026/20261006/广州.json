@@ -38,5 +38,25 @@
     "ai_briefing_zh": "广州多云 27℃，风力 4级，湿度 52%。体感微热，注意防晒哦。",
     "ai_briefing_en": "Cloudy Guangzhou at 27°C, wind force 4, 52% humidity. It feels a bit warm, remember sun protection.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-10-06T20:37+08:00",
+    "temp": "22",
+    "feelsLike": "23",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "315",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州阴天，湿度略高，外出注意带伞，保持心情愉快。",
+    "ai_briefing_en": "Guangzhou is cloudy and humid. Bring an umbrella and stay cheerful!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

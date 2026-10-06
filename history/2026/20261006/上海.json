@@ -38,5 +38,25 @@
     "ai_briefing_zh": "上海 24℃ 阳光明媚，体感舒适。南风轻拂，是个好天气！",
     "ai_briefing_en": "Sunny Shanghai at 24°C, feels comfortable. A gentle south breeze, what lovely weather!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-06T20:37+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "0",
+    "windSpeed": "0",
+    "wind360": "225",
+    "humidity": "45",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "21",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海晴空万里，无风舒适，体感宜人，尽享好天气。",
+    "ai_briefing_en": "Sunny Shanghai, no wind, lovely weather! Enjoy the day.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

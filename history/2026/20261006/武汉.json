@@ -38,5 +38,25 @@
     "ai_briefing_zh": "武汉晴朗 25℃，体感 27℃，微热。西南风拂面，户外活动愉快。",
     "ai_briefing_en": "Sunny Wuhan at 25°C, feels like 27°C, a bit warm. A southwest breeze, enjoy your outdoor activities.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-06T20:37+08:00",
+    "temp": "15",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东南风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "135",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉阳光灿烂，湿度极高，记得多补充水分，保持活力！",
+    "ai_briefing_en": "Wuhan is sunny but extremely humid. Stay hydrated and energetic!",
+    "alert": "📉 红色降温预警：1小时骤降12℃"
   }
 ]

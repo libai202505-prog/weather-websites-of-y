@@ -38,5 +38,25 @@
     "ai_briefing_zh": "南京晴朗 24℃，体感舒适。风力 3级，湿度适中，是个好天气！",
     "ai_briefing_en": "Sunny Nanjing at 24°C, feels comfortable. Moderate wind, suitable humidity, lovely weather!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-10-06T20:37+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "0",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "17",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京阳光明媚，湿度较高，出门感受温暖，别忘补水。",
+    "ai_briefing_en": "Nanjing is sunny and humid. Enjoy the warmth, remember to hydrate!",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

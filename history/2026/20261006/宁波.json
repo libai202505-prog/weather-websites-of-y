@@ -18,5 +18,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-10-06T13:37+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "0",
+    "humidity": "30",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波晴朗 23℃，体感 22℃。北风 5级，风力不小，多穿一点哦。",
+    "ai_briefing_en": "Sunny Ningbo at 23°C, feels like 22°C. North wind force 5, quite windy, so dress a bit warmer.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

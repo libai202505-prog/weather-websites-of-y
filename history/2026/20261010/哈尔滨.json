@@ -38,5 +38,25 @@
     "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
     "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-10-10T09:48+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "59",
+    "precip": "0.2",
+    "pressure": "1010",
+    "vis": "15",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨多云，气温很低，出门多穿点！",
+    "ai_briefing_en": "Harbin is cloudy and very cold. Dress warmly when going out!",
+    "alert": null
   }
 ]

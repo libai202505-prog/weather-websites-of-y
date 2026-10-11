@@ -38,5 +38,25 @@
     "ai_briefing_zh": "多云，风力较大。出门注意防风，海边游玩请多加小心。",
     "ai_briefing_en": "Cloudy and windy. Mind the wind, be careful if near the sea.",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-10-11T12:05+08:00",
+    "temp": "28",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "90",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1002",
+    "vis": "27",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门晴朗，体感 30℃，风力 4 级，注意防晒和补水！",
+    "ai_briefing_en": "Sunny in Xiamen, feels like 30℃ with level 4 wind. Sunscreen and hydration are key!",
+    "alert": null
   }
 ]

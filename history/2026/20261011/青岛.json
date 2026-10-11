@@ -38,5 +38,25 @@
     "ai_briefing_zh": "大雾天气，能见度差。出行务必减速慢行，注意交通。",
     "ai_briefing_en": "Heavy fog, low visibility. Please drive slowly and mind traffic.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-10-11T12:05+08:00",
+    "temp": "23",
+    "feelsLike": "23",
+    "text": "多云",
+    "windDir": "东南风",
+    "windScale": "4",
+    "windSpeed": "20",
+    "wind360": "135",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "17",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛风力 4 级，湿度 72%，出门注意防风防潮哦！",
+    "ai_briefing_en": "Windy with level 4 breeze in Qingdao, 72% humidity. Be mindful of wind and dampness!",
+    "alert": null
   }
 ]

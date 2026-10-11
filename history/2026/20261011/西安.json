@@ -38,5 +38,25 @@
     "ai_briefing_zh": "阴天，气温适中。注意添衣，以防昼夜温差引起不适哦。",
     "ai_briefing_en": "Cloudy with moderate temperatures. Dress in layers for temperature changes.",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-10-11T12:05+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "90",
+    "humidity": "85",
+    "precip": "0.4",
+    "pressure": "974",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "西安小雨，体感 15℃，记得带伞加衣，别着凉了！",
+    "ai_briefing_en": "Light rain in Xi'an, feels like 15℃. Bring an umbrella and dress warmly!",
+    "alert": null
   }
 ]

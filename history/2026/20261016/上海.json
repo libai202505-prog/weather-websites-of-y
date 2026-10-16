@@ -58,5 +58,25 @@
     "ai_briefing_zh": "阴天 22℃，湿度适中，小心多变天气，带件薄外套。",
     "ai_briefing_en": "Cloudy at 22℃, moderate humidity, bring a light jacket for changeable weather.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-16T13:15+08:00",
+    "temp": "25",
+    "feelsLike": "27",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海阴天体感稍热，注意防晒和补水哦！",
+    "ai_briefing_en": "Shanghai feels warm and cloudy. Stay hydrated and sun-safe!",
+    "alert": null
   }
 ]

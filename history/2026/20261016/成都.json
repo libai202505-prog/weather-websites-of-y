@@ -98,5 +98,25 @@
     "ai_briefing_zh": "阴天湿度高，体感舒适，记得多喝水。",
     "ai_briefing_en": "Cloudy and very humid, feels pleasant, remember to drink water.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-10-16T22:48+08:00",
+    "temp": "19",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "951",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

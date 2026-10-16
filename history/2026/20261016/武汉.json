@@ -98,5 +98,25 @@
     "ai_briefing_zh": "小雨绵绵，出门记得带伞，路面湿滑注意安全。",
     "ai_briefing_en": "Light rain, bring an umbrella, roads are slick, drive safely.",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-16T22:48+08:00",
+    "temp": "21",
+    "feelsLike": "22",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

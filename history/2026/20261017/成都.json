@@ -98,5 +98,25 @@
     "ai_briefing_zh": "成都阴天 21℃，体感微凉，记得带件薄外套。",
     "ai_briefing_en": "Chengdu is overcast, 21℃. Feels cool, bring a light jacket.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-10-17T22:48+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "959",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都 夜间监测中，注意保暖",
+    "ai_briefing_en": "成都: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 4级"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "大连阴天，体感 17℃ 湿凉，风力较大，注意防风保暖。",
     "ai_briefing_en": "Dalian: Cloudy, feels damp 17℃. Very windy, dress warmly and protect from wind!",
     "alert": null
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-10-17T19:05+08:00",
+    "temp": "19",
+    "feelsLike": "15",
+    "text": "小雨",
+    "windDir": "东南风",
+    "windScale": "7",
+    "windSpeed": "52",
+    "wind360": "135",
+    "humidity": "90",
+    "precip": "3.4",
+    "pressure": "1004",
+    "vis": "9",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连小雨，风力 7级，出门请带伞，注意防风。",
+    "ai_briefing_en": "Dalian has light rain and strong winds. Bring an umbrella and brace for wind!",
+    "alert": null
   }
 ]

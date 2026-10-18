@@ -58,5 +58,25 @@
     "ai_briefing_zh": "南京阴天风力不小，体感微凉，记得添衣保暖，别着凉！",
     "ai_briefing_en": "Nanjing is overcast and windy, feels a bit cool. Remember to add layers and keep warm!",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-10-18T11:05+08:00",
+    "temp": "18",
+    "feelsLike": "12",
+    "text": "大雨",
+    "windDir": "西风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "270",
+    "humidity": "97",
+    "precip": "2.1",
+    "pressure": "1015",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

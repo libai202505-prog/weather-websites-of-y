@@ -58,5 +58,25 @@
     "ai_briefing_zh": "哈尔滨小雨大风，体感 4℃ 很冷，注意防雨保暖，小心路滑！",
     "ai_briefing_en": "Harbin has light rain and strong winds, feels very cold at 4℃. Keep warm, stay dry, and watch for slippery roads!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-10-18T11:05+08:00",
+    "temp": "11",
+    "feelsLike": "6",
+    "text": "小雨",
+    "windDir": "南风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "180",
+    "humidity": "92",
+    "precip": "4.4",
+    "pressure": "991",
+    "vis": "7",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": null
   }
 ]

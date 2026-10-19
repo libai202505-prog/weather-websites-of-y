@@ -98,5 +98,25 @@
     "ai_briefing_zh": "上海湿度 85%，体感略闷，出门注意携带雨具备用。",
     "ai_briefing_en": "Shanghai is humid at 85%, feeling muggy. Don't forget an umbrella!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-19T20:05+08:00",
+    "temp": "23",
+    "feelsLike": "25",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "1",
+    "windSpeed": "4",
+    "wind360": "45",
+    "humidity": "87",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "10",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海多云，体感 25℃。天气闷热，别忘了多喝水！",
+    "ai_briefing_en": "Shanghai is cloudy, feels like 25℃. It's muggy, remember to drink more water!",
+    "alert": null
   }
 ]

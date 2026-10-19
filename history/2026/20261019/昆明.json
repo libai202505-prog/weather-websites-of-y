@@ -98,5 +98,25 @@
     "ai_briefing_zh": "昆明风力 5级，风儿有些大，外出时要注意防风哦！",
     "ai_briefing_en": "Kunming has strong winds, it's a bit windy out. Take care to stay warm.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-10-19T20:05+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "814",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明多云，体感 16℃。温度适宜，享受舒适的一天。",
+    "ai_briefing_en": "Kunming is cloudy, feels like 16℃. Pleasant temperature, enjoy your day.",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

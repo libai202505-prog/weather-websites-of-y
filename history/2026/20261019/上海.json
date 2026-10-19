@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海有雾 21℃，能见度低。驾车慢行，注意安全哦。",
     "ai_briefing_en": "Shanghai is foggy, 21℃. Drive carefully due to low visibility.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-19T13:37+08:00",
+    "temp": "23",
+    "feelsLike": "25",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "270",
+    "humidity": "85",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "13",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海湿度 85%，体感略闷，出门注意携带雨具备用。",
+    "ai_briefing_en": "Shanghai is humid at 85%, feeling muggy. Don't forget an umbrella!",
+    "alert": null
   }
 ]

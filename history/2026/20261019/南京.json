@@ -78,5 +78,25 @@
     "ai_briefing_zh": "南京中雨 16℃，体感凉。记得带伞，注意保暖。",
     "ai_briefing_en": "Nanjing has moderate rain, 16℃. It feels cool, bring an umbrella and stay warm.",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-10-19T13:37+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "45",
+    "humidity": "96",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "5",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京大雾弥漫，湿度 96%，出行注意安全，当心湿滑。",
+    "ai_briefing_en": "Nanjing is very foggy with 96% humidity, travel safely and watch for slippery spots.",
+    "alert": null
   }
 ]

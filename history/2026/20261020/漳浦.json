@@ -58,5 +58,25 @@
     "ai_briefing_zh": "漳浦晴朗炎热，注意防暑，多喝水！",
     "ai_briefing_en": "Zhangpu: Hot, sunny. Hydrate!",
     "alert": null
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-10-20T16:48+08:00",
+    "temp": "29",
+    "feelsLike": "29",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "90",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦晴热，湿度 72%。防晒防暑要做好哦。",
+    "ai_briefing_en": "Sunny and warm in Zhangpu, high humidity. Stay cool.",
+    "alert": "📉 红色降温预警：1小时骤降7℃"
   }
 ]

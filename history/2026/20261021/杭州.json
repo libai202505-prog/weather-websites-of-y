@@ -58,5 +58,25 @@
     "ai_briefing_zh": "杭州阴天风大，体感凉意浓。出门多穿点，注意防风！",
     "ai_briefing_en": "Hangzhou is cloudy and very windy. Dress warmly and stay protected from the wind!",
     "alert": "💨 北风警报：北风 6级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-10-21T14:48+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "36",
+    "wind360": "0",
+    "humidity": "67",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "7",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

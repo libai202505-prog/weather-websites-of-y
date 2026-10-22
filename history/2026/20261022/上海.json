@@ -58,5 +58,25 @@
     "ai_briefing_zh": "上海多云，体感 17℃。东风和煦，出行愉快。",
     "ai_briefing_en": "Shanghai is cloudy, feels like 17℃. Gentle east wind, enjoy your day!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-22T15:05+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "45",
+    "humidity": "47",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海多云，体感 19℃，出门别忘带外套。",
+    "ai_briefing_en": "Cloudy in Shanghai, feels like 19℃. Bring a jacket!",
+    "alert": null
   }
 ]

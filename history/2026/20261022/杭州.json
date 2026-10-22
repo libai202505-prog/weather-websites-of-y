@@ -58,5 +58,25 @@
     "ai_briefing_zh": "杭州晴好，体感 16℃。东风 4级，注意防风保暖。",
     "ai_briefing_en": "Hangzhou is sunny, feels like 16℃. East wind level 4, remember to keep warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-10-22T15:05+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "90",
+    "humidity": "51",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州多云风力大，体感 19℃，注意保暖。",
+    "ai_briefing_en": "Cloudy and windy in Hangzhou, feels like 19℃. Keep warm!",
+    "alert": null
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉阴天，体感 16℃，湿度大，记得防潮。",
     "ai_briefing_en": "Cloudy in Wuhan, feels like 16℃, high humidity. Stay dry!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-22T21:15+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "0",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "8",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有雾 16℃，能见度低，出行请注意交通安全。",
+    "ai_briefing_en": "Wuhan is foggy at 16℃. Visibility is low, please drive safely.",
+    "alert": null
   }
 ]

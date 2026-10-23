@@ -78,5 +78,25 @@
     "ai_briefing_zh": "重庆阴天 20℃，体感 19℃。天气略有凉意，记得添衣哦。",
     "ai_briefing_en": "Overcast and 19℃ in Chongqing. A bit cool, remember to add a layer!",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-10-23T20:48+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "315",
+    "humidity": "79",
+    "precip": "0.0",
+    "pressure": "983",
+    "vis": "13",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆多云，体感 16℃ 舒适，晚间可能稍凉，适时添衣。",
+    "ai_briefing_en": "Chongqing is cloudy and feels comfortable at 16℃. It might get cooler in the evening, dress accordingly.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

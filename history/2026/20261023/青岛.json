@@ -78,5 +78,25 @@
     "ai_briefing_zh": "青岛多云，体感 17℃，风力 4级。天气宜人，出门注意防风。",
     "ai_briefing_en": "Cloudy and pleasant 17℃ with moderate wind in Qingdao. Mind the wind outdoors.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-10-23T20:48+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "晴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "90",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛晴朗，体感 15℃ 微凉，东风 3级 吹拂，记得添衣哦。",
+    "ai_briefing_en": "Qingdao is sunny, feels slightly cool at 15℃ with a 3-level east wind. Remember to add a layer!",
+    "alert": null
   }
 ]

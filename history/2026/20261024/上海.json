@@ -98,5 +98,25 @@
     "ai_briefing_zh": "天气阴沉，湿度较大，出门记得带把伞，有备无患。",
     "ai_briefing_en": "Cloudy and humid. Bring an umbrella, just in case.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-24T21:48+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "小雨",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "0",
+    "humidity": "89",
+    "precip": "0.4",
+    "pressure": "1013",
+    "vis": "22",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

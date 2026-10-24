@@ -78,5 +78,25 @@
     "ai_briefing_zh": "小雨大风，气温较低，注意添衣带伞。",
     "ai_briefing_en": "Rainy, windy. Umbrella!",
     "alert": "💨 北风警报：东北风 7级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-10-24T17:48+08:00",
+    "temp": "19",
+    "feelsLike": "14",
+    "text": "中雨",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "36",
+    "wind360": "0",
+    "humidity": "94",
+    "precip": "8.5",
+    "pressure": "1009",
+    "vis": "7",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "中雨伴强风，体感湿冷。出门带伞，注意防风保暖。",
+    "ai_briefing_en": "Moderate rain and strong winds. It feels damp and cold, bring an umbrella and stay warm.",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "阴天微凉，湿度大。注意保暖防潮。",
     "ai_briefing_en": "Overcast, cool. Stay warm!",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-10-24T17:48+08:00",
+    "temp": "18",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "0",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "953",
+    "vis": "16",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "天气阴沉，湿度不低。出门添件薄外套，保持好心情。",
+    "ai_briefing_en": "Cloudy and humid. Wear a light jacket, keep spirits high.",
+    "alert": null
   }
 ]

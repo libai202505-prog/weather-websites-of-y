@@ -78,5 +78,25 @@
     "ai_briefing_zh": "晴热天气，体感炎热，注意防暑降温。",
     "ai_briefing_en": "Sunny and hot. Stay cool!",
     "alert": null
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-10-24T17:48+08:00",
+    "temp": "27",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东南风",
+    "windScale": "5",
+    "windSpeed": "32",
+    "wind360": "135",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "988",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天微热，风力较大。出门注意防晒和保湿。",
+    "ai_briefing_en": "Cloudy and warm with strong winds. Remember sun protection and hydration.",
+    "alert": "📉 红色降温预警：1小时骤降8℃"
   }
 ]

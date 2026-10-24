@@ -78,5 +78,25 @@
     "ai_briefing_zh": "阳光明媚，体感较热，记得补充水分。",
     "ai_briefing_en": "Sunny, warm. Hydrate!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-10-24T17:48+08:00",
+    "temp": "26",
+    "feelsLike": "24",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "0",
+    "humidity": "59",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "天气晴朗微风，体感舒适。外出记得防晒补水哦！",
+    "ai_briefing_en": "Sunny and breezy, feels great! Remember sun protection and hydration.",
+    "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：北风 5级"
   }
 ]

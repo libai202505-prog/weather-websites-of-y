@@ -78,5 +78,25 @@
     "ai_briefing_zh": "阵雨天气，体感稍凉，记得添衣带伞。",
     "ai_briefing_en": "Showers, cool. Umbrella!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-10-24T17:48+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "阵雨",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "0",
+    "humidity": "96",
+    "precip": "1.2",
+    "pressure": "1008",
+    "vis": "5",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "阵雨降临，体感稍凉。出门带伞，注意路滑和保暖。",
+    "ai_briefing_en": "Showers expected, feels cooler. Bring an umbrella, watch for slippery roads.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

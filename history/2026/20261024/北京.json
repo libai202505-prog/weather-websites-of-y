@@ -78,5 +78,25 @@
     "ai_briefing_zh": "霾天出行请戴口罩，注意防护。",
     "ai_briefing_en": "Hazy, wear a mask.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-10-24T17:48+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "4",
+    "dew": "17",
+    "cloud": "0",
+    "ai_briefing_zh": "雾气朦胧，出门注意安全，气温微凉，记得添衣哦！",
+    "ai_briefing_en": "Foggy weather, drive safe. It's cool, remember to add layers!",
+    "alert": null
   }
 ]

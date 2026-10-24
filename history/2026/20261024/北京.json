@@ -58,5 +58,25 @@
     "ai_briefing_zh": "有雾哦，出门注意安全和保暖，开车慢点。",
     "ai_briefing_en": "Foggy day, stay warm, drive safe, and mind visibility!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-10-24T12:48+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "霾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "4",
+    "dew": "17",
+    "cloud": "0",
+    "ai_briefing_zh": "霾天出行请戴口罩，注意防护。",
+    "ai_briefing_en": "Hazy, wear a mask.",
+    "alert": null
   }
 ]

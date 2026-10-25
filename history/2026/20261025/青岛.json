@@ -98,5 +98,25 @@
     "ai_briefing_zh": "青岛晴朗 21℃，风力 4 级。风和日丽，适合户外活动。",
     "ai_briefing_en": "Qingdao is sunny at 21℃, 4-level wind. Pleasant day, good for outdoor activities.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-10-25T18:37+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "0",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "20",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "晴朗舒适，风力较大，出门注意防风保暖哦。",
+    "ai_briefing_en": "Sunny and pleasant, but windy. Stay warm and shield from wind.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

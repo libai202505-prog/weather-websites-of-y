@@ -98,5 +98,25 @@
     "ai_briefing_zh": "北京有雾，气温 13℃，能见度低，出行请注意安全！",
     "ai_briefing_en": "Beijing is foggy with 13℃. Visibility is low, please travel safely!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-10-25T18:37+08:00",
+    "temp": "11",
+    "feelsLike": "9",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "45",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "9",
+    "dew": "17",
+    "cloud": "0",
+    "ai_briefing_zh": "雾天路滑，能见度低，出门请注意交通安全和保暖哦。",
+    "ai_briefing_en": "Foggy and chilly. Drive safely and dress warmly!",
+    "alert": null
   }
 ]

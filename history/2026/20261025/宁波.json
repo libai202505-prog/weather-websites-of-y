@@ -98,5 +98,25 @@
     "ai_briefing_zh": "宁波阴天 20℃，风力 5 级，湿度大。风大潮湿，注意保暖。",
     "ai_briefing_en": "Ningbo is cloudy at 20℃, 5-level wind, high humidity. Windy and damp, stay warm.",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-10-25T18:37+08:00",
+    "temp": "21",
+    "feelsLike": "19",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "多云舒适，风力稍大，出行注意防风。",
+    "ai_briefing_en": "Cloudy and pleasant, a bit windy. Mind the wind when out.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

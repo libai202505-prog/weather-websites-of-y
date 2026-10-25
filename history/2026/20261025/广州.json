@@ -78,5 +78,25 @@
     "ai_briefing_zh": "广州晴好，气温 24℃ 宜人，享受阳光好天气吧！",
     "ai_briefing_en": "Guangzhou is sunny and warm at 24℃. Enjoy the beautiful day!",
     "alert": null
+  },
+  {
+    "name": "广州",
+    "updateTime": "2026-10-25T13:25+08:00",
+    "temp": "29",
+    "feelsLike": "30",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "45",
+    "humidity": "54",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "广州晴热 29℃，体感 30℃，风力 4 级。记得多补充水分哦！",
+    "ai_briefing_en": "Guangzhou is sunny and hot at 29℃, feels like 30℃, 4-level wind. Stay hydrated!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

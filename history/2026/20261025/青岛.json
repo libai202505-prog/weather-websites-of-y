@@ -78,5 +78,25 @@
     "ai_briefing_zh": "青岛晴朗，体感 15℃ 凉，早晚温差大，注意保暖。",
     "ai_briefing_en": "Qingdao is sunny, cool at 15℃. A light jacket is suggested.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-10-25T13:25+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "315",
+    "humidity": "53",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "10",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛晴朗 21℃，风力 4 级。风和日丽，适合户外活动。",
+    "ai_briefing_en": "Qingdao is sunny at 21℃, 4-level wind. Pleasant day, good for outdoor activities.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

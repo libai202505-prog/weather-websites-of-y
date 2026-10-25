@@ -78,5 +78,25 @@
     "ai_briefing_zh": "上海阴天，气温 20℃ 舒适，但风力 3 级，注意添衣。",
     "ai_briefing_en": "Shanghai is overcast, 20℃. A light jacket might be nice.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-25T13:25+08:00",
+    "temp": "22",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "270",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海多云 22℃，体感舒适。愿您有个好心情！",
+    "ai_briefing_en": "Shanghai is cloudy at 22℃, feeling comfortable. Have a good day!",
+    "alert": null
   }
 ]

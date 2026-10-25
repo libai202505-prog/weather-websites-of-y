@@ -58,5 +58,25 @@
     "ai_briefing_zh": "上海 夜间监测中，注意保暖",
     "ai_briefing_en": "上海: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-10-25T08:37+08:00",
+    "temp": "20",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "45",
+    "humidity": "81",
+    "precip": "1.7",
+    "pressure": "1016",
+    "vis": "30",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海阴天，气温 20℃ 舒适，但风力 3 级，注意添衣。",
+    "ai_briefing_en": "Shanghai is overcast, 20℃. A light jacket might be nice.",
+    "alert": null
   }
 ]

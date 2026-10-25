@@ -38,5 +38,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-10-26T07:37+08:00",
+    "temp": "10",
+    "feelsLike": "6",
+    "text": "雾",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "7",
+    "wind360": "45",
+    "humidity": "81",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "25",
+    "dew": "17",
+    "cloud": "0",
+    "ai_briefing_zh": "雾气弥漫，能见度低，出行请注意安全哦！",
+    "ai_briefing_en": "Foggy today, visibility is low. Please stay safe when out and about!",
+    "alert": null
   }
 ]

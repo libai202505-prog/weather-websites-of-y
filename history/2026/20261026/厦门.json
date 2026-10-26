@@ -58,5 +58,25 @@
     "ai_briefing_zh": "多云暖和，但风力不小，小心出行，注意防风。",
     "ai_briefing_en": "Cloudy and warm, but quite windy. Take care when out.",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-10-26T11:15+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "18",
+    "wind360": "90",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1004",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天，体感 26℃。温度适中，注意保持清爽。",
+    "ai_briefing_en": "Xiamen is overcast, feels 26℃. Pleasant temperature, stay cool!",
+    "alert": null
   }
 ]

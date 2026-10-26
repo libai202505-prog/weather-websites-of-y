@@ -58,5 +58,25 @@
     "ai_briefing_zh": "雾气弥漫，能见度低，出行请注意安全哦！",
     "ai_briefing_en": "Foggy today, visibility is low. Please stay safe when out and about!",
     "alert": null
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-10-26T11:15+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "315",
+    "humidity": "48",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "17",
+    "cloud": "0",
+    "ai_briefing_zh": "北京多云凉爽，风力 4 级，注意保暖防风哦！",
+    "ai_briefing_en": "Beijing is cloudy and cool with a strong breeze. Stay warm and mind the wind!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

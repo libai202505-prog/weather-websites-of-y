@@ -58,5 +58,25 @@
     "ai_briefing_zh": "多云，微凉有风。出门记得带件薄外套，防风保暖。",
     "ai_briefing_en": "Cloudy and breezy. Bring a light jacket to stay warm.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-10-26T11:15+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "0",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "15",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波多云，体感 20℃，风力 5 级。风大微凉，注意防风保暖。",
+    "ai_briefing_en": "Ningbo is cloudy, feels 20℃ with strong wind. Dress warmly and mind the wind!",
+    "alert": "💨 北风警报：北风 5级"
   }
 ]

@@ -78,5 +78,25 @@
     "ai_briefing_zh": "晴朗舒适有风，早晚微凉，出行多加一件衣裳！",
     "ai_briefing_en": "Sunny and breezy, cool mornings. Bring a jacket!",
     "alert": "💨 北风警报：北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-10-27T21:48+08:00",
+    "temp": "14",
+    "feelsLike": "12",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "14",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京 夜间监测中，注意保暖",
+    "ai_briefing_en": "南京: Night watch, stay warm.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

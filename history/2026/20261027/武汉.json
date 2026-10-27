@@ -78,5 +78,25 @@
     "ai_briefing_zh": "阴天风力大，体感稍凉，记得加衣别感冒！",
     "ai_briefing_en": "Cloudy and windy, feels cool. Add layers to avoid colds!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-27T21:48+08:00",
+    "temp": "18",
+    "feelsLike": "16",
+    "text": "雾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "90",
+    "humidity": "74",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "5",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

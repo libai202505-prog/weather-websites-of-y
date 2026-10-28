@@ -58,5 +58,25 @@
     "ai_briefing_zh": "天气阴冷，体感低于冰点。请务必穿厚衣服，注意防风！",
     "ai_briefing_en": "Overcast and freezing! Dress very warmly and watch out for wind.",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-10-28T18:37+08:00",
+    "temp": "1",
+    "feelsLike": "-2",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "2",
+    "windSpeed": "12",
+    "wind360": "90",
+    "humidity": "52",
+    "precip": "0.0",
+    "pressure": "999",
+    "vis": "15",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
+    "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
+    "alert": null
   }
 ]

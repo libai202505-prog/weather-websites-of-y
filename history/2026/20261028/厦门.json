@@ -38,5 +38,25 @@
     "ai_briefing_zh": "厦门多云暖和，风力 5级，出行注意防风。",
     "ai_briefing_en": "Xiamen is warm and windy with 5-level winds, mind the wind!",
     "alert": "💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-10-28T11:48+08:00",
+    "temp": "23",
+    "feelsLike": "21",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "5",
+    "windSpeed": "30",
+    "wind360": "45",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "28",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "多云且风力较大，体感舒适。注意防风，海边游玩小心。",
+    "ai_briefing_en": "Cloudy with strong winds, but comfortable. Be mindful of wind, especially by the sea.",
+    "alert": "💨 北风警报：东北风 5级"
   }
 ]

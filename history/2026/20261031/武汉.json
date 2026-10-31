@@ -38,5 +38,25 @@
     "ai_briefing_zh": "武汉雾气蒙蒙，视线不佳，注意交通安全。",
     "ai_briefing_en": "Wuhan is foggy. Drive carefully, stay safe!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-10-31T14:25+08:00",
+    "temp": "25",
+    "feelsLike": "26",
+    "text": "霾",
+    "windDir": "东南风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "135",
+    "humidity": "65",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "8",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉有霾，湿度高。出行注意防护，多补水。",
+    "ai_briefing_en": "Haze in Wuhan, humid. Take care and hydrate.",
+    "alert": null
   }
 ]

@@ -58,5 +58,25 @@
     "ai_briefing_zh": "杭州晴朗，气温 23℃。微风舒适，适合户外活动。",
     "ai_briefing_en": "Hangzhou is sunny 23℃. Gentle breeze, perfect for outdoors.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-11-01T16:37+08:00",
+    "temp": "20",
+    "feelsLike": "17",
+    "text": "雾",
+    "windDir": "北风",
+    "windScale": "5",
+    "windSpeed": "37",
+    "wind360": "0",
+    "humidity": "74",
+    "precip": "0.5",
+    "pressure": "1011",
+    "vis": "8",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州有雾，风力 5级体感凉。出行注意安全保暖。",
+    "ai_briefing_en": "Hangzhou is foggy and windy, feels cool. Stay safe and warm.",
+    "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：北风 5级"
   }
 ]

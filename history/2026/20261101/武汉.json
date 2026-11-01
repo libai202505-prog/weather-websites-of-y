@@ -78,5 +78,25 @@
     "ai_briefing_zh": "武汉小雨体感 9℃，记得带伞多穿衣，注意防寒。",
     "ai_briefing_en": "Wuhan has light rain, feels 9℃. Bring an umbrella, dress warmly!",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-11-01T23:37+08:00",
+    "temp": "13",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "0",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1022",
+    "vis": "23",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

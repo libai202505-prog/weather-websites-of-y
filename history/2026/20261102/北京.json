@@ -18,5 +18,25 @@
     "ai_briefing_zh": "北京 夜间监测中，注意保暖",
     "ai_briefing_en": "北京: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "北京",
+    "updateTime": "2026-11-02T08:05+08:00",
+    "temp": "5",
+    "feelsLike": "2",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "45",
+    "humidity": "73",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "19",
+    "dew": "17",
+    "cloud": "0",
+    "ai_briefing_zh": "北京今天晴朗，但体感较冷，记得多穿衣保暖哦！",
+    "ai_briefing_en": "Beijing: Sunny, 5℃. Stay warm!",
+    "alert": null
   }
 ]

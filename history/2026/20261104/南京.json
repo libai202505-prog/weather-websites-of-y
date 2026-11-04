@@ -18,5 +18,25 @@
     "ai_briefing_zh": "南京 夜间监测中，注意保暖",
     "ai_briefing_en": "南京: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-11-04T09:37+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "小雨",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "98",
+    "precip": "0.1",
+    "pressure": "1015",
+    "vis": "2",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京小雨，体感 11℃，风力 3级。注意保暖防湿！",
+    "ai_briefing_en": "Nanjing has light rain, feels like 11℃ with a level 3 wind. Stay warm and dry!",
+    "alert": null
   }
 ]

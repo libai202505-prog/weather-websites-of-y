@@ -38,5 +38,25 @@
     "ai_briefing_zh": "杭州小雨，体感 13℃ 湿冷。出门记得带伞添衣。",
     "ai_briefing_en": "Hangzhou has light rain and feels damp and cold at 13℃. Remember your umbrella and extra clothes.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-11-04T16:25+08:00",
+    "temp": "17",
+    "feelsLike": "16",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "270",
+    "humidity": "94",
+    "precip": "2.4",
+    "pressure": "1010",
+    "vis": "22",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州阴天，体感16℃，湿度大。注意防潮。",
+    "ai_briefing_en": "Hangzhou cloudy. Watch damp.",
+    "alert": null
   }
 ]

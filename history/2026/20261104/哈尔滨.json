@@ -38,5 +38,25 @@
     "ai_briefing_zh": "哈尔滨阴天，体感 2℃，风力 4级。注意防风保暖！",
     "ai_briefing_en": "Harbin is overcast, feels like 2℃ with a level 4 wind. Watch out for wind, stay warm!",
     "alert": null
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-11-04T16:25+08:00",
+    "temp": "4",
+    "feelsLike": "1",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "14",
+    "wind360": "90",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "998",
+    "vis": "9",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨霾天，体感1℃。天气寒冷，务必保暖。",
+    "ai_briefing_en": "Harbin haze, 1℃. Keep warm.",
+    "alert": null
   }
 ]

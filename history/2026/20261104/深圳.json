@@ -38,5 +38,25 @@
     "ai_briefing_zh": "深圳阴天，体感 27℃。风力 3级，穿衣清爽就好。",
     "ai_briefing_en": "Shenzhen is overcast and feels warm at 27℃. With a level 3 breeze, light clothing is fine.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-11-04T16:25+08:00",
+    "temp": "26",
+    "feelsLike": "26",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "45",
+    "humidity": "76",
+    "precip": "0.0",
+    "pressure": "1008",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳多云，26℃，风力4级。防晒，保持清爽。",
+    "ai_briefing_en": "Shenzhen 26℃. Sun protect.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

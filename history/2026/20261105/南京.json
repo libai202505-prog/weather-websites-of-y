@@ -58,5 +58,25 @@
     "ai_briefing_zh": "南京阴冷潮湿，记得添衣，出门带伞哦。",
     "ai_briefing_en": "Nanjing is cool and humid, add clothes and bring an umbrella.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-11-05T19:37+08:00",
+    "temp": "15",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "225",
+    "humidity": "83",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "10",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京阴天，体感 13℃。湿度大，出门带伞哦！",
+    "ai_briefing_en": "Nanjing: Cloudy, 13℃. Keep dry!",
+    "alert": null
   }
 ]

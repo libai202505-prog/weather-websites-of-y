@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-05T10:48+08:00",
+    "temp": "20",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "6",
+    "windSpeed": "41",
+    "wind360": "315",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波风力大，出门注意安全，小心高空坠物。",
+    "ai_briefing_en": "Ningbo is very windy, stay safe outdoors, watch for falling objects.",
+    "alert": "💨 北风警报：西北风 6级"
   }
 ]

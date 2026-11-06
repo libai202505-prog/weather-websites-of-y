@@ -38,5 +38,25 @@
     "ai_briefing_zh": "上海有雾，气温 16℃。能见度低，出行请注意安全哦！",
     "ai_briefing_en": "Shanghai is foggy, 16℃. Low visibility, please travel safely!",
     "alert": null
+  },
+  {
+    "name": "上海",
+    "updateTime": "2026-11-06T15:25+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "1025",
+    "vis": "21",
+    "dew": "24",
+    "cloud": "90",
+    "ai_briefing_zh": "上海 夜间监测中，注意保暖",
+    "ai_briefing_en": "上海: Night watch, stay warm.",
+    "alert": null
   }
 ]

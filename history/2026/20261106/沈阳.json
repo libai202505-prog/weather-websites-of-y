@@ -38,5 +38,25 @@
     "ai_briefing_zh": "沈阳晴朗，气温 1℃。风力较大，出门注意防风保暖哦！",
     "ai_briefing_en": "Shenyang is sunny, 1℃. Quite windy, dress warm to protect from wind!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-11-06T15:25+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "晴",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "270",
+    "humidity": "21",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

@@ -38,5 +38,25 @@
     "ai_briefing_zh": "武汉有雾 14℃，能见度低，出行注意安全。",
     "ai_briefing_en": "Wuhan 14℃ and foggy. Visibility low, drive safely!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-11-07T16:05+08:00",
+    "temp": "15",
+    "feelsLike": "11",
+    "text": "中雨",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "2.3",
+    "pressure": "1019",
+    "vis": "1",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉中雨，体感较凉。出门记得带雨具。",
+    "ai_briefing_en": "Wuhan: Moderate rain, feels cool. Bring your umbrella!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

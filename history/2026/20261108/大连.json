@@ -18,5 +18,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-11-08T07:15+08:00",
+    "temp": "2",
+    "feelsLike": "-4",
+    "text": "阵雪",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "25",
+    "wind360": "0",
+    "humidity": "96",
+    "precip": "0.6",
+    "pressure": "1024",
+    "vis": "3",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连阵雪 2℃，体感 -4℃ 又大风。请务必注意防风防滑，多穿暖！",
+    "ai_briefing_en": "Dalian has snow showers at 2℃, feels -4℃ with strong winds. Be sure to guard against wind and slippery roads, dress warmly!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

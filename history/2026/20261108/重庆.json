@@ -58,5 +58,25 @@
     "ai_briefing_zh": "重庆风力 4级，体感 13℃，有点凉，记得加衣。",
     "ai_briefing_en": "Chongqing windy, feels like 13°C. A bit chilly, remember to layer up!",
     "alert": "💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-11-08T19:25+08:00",
+    "temp": "16",
+    "feelsLike": "15",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "65",
+    "precip": "0.3",
+    "pressure": "1004",
+    "vis": "28",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆阴天体感 15℃。早晚温差大，请注意适时添衣。",
+    "ai_briefing_en": "Chongqing is cloudy, feels like 15℃. Mild, but mind the temp change between day and night.",
+    "alert": null
   }
 ]

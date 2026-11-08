@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉风力 5级，体感 12℃，注意保暖，防风防湿。",
     "ai_briefing_en": "Wuhan windy, feels like 12°C. Stay warm and guard against dampness!",
     "alert": "💨 北风警报：北风 5级"
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-11-08T19:25+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "45",
+    "humidity": "75",
+    "precip": "0.0",
+    "pressure": "1033",
+    "vis": "12",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉风力 4 级，体感 11℃。阴冷有风，请注意防风保暖。",
+    "ai_briefing_en": "Wuhan has 4-level winds, feels like 11℃. It's chilly and windy, stay warm!",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

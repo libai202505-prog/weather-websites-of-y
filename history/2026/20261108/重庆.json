@@ -38,5 +38,25 @@
     "ai_briefing_zh": "重庆阴天 17℃，体感舒适。风力 3 级，户外活动注意防风。",
     "ai_briefing_en": "Chongqing is overcast at 17℃, feels comfy. With level 3 winds, remember to guard against wind when outdoors.",
     "alert": null
+  },
+  {
+    "name": "重庆",
+    "updateTime": "2026-11-08T12:25+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "26",
+    "wind360": "315",
+    "humidity": "69",
+    "precip": "0.7",
+    "pressure": "1001",
+    "vis": "30",
+    "dew": "21",
+    "cloud": "10",
+    "ai_briefing_zh": "重庆风力 4级，体感 13℃，有点凉，记得加衣。",
+    "ai_briefing_en": "Chongqing windy, feels like 13°C. A bit chilly, remember to layer up!",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

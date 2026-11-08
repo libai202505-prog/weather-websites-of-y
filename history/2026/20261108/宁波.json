@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波小雨，湿度 100% 真是湿漉漉。雨天路滑，外出请带好雨具。",
     "ai_briefing_en": "Ningbo has light rain, 100% humidity makes it very damp. Roads might be slick, take your umbrella out.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-08T12:25+08:00",
+    "temp": "19",
+    "feelsLike": "19",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "1",
+    "windSpeed": "3",
+    "wind360": "315",
+    "humidity": "78",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "22",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天，体感 19℃，湿度 78%，出门好天气！",
+    "ai_briefing_en": "Ningbo is cloudy, feels like 19°C. Humidity 78%, nice weather out!",
+    "alert": null
   }
 ]

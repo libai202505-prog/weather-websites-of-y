@@ -38,5 +38,25 @@
     "ai_briefing_zh": "昆明 夜间监测中，注意保暖",
     "ai_briefing_en": "昆明: Night watch, stay warm.",
     "alert": "💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-11-09T09:15+08:00",
+    "temp": "5",
+    "feelsLike": "-1",
+    "text": "阵雨",
+    "windDir": "东风",
+    "windScale": "4",
+    "windSpeed": "24",
+    "wind360": "90",
+    "humidity": "81",
+    "precip": "0.6",
+    "pressure": "827",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阵雨，体感 -1℃。湿冷且风大，务必带伞添衣。",
+    "ai_briefing_en": "Kunming: -1℃, rainy. Cold, windy. Umbrella!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

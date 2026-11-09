@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：西北风 6级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-09T09:15+08:00",
+    "temp": "12",
+    "feelsLike": "7",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "7",
+    "windSpeed": "50",
+    "wind360": "315",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天，体感 7℃，风力 7级。风狂，请务必注意安全！",
+    "ai_briefing_en": "Ningbo: 7℃, strong wind. Stay safe!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：西北风 7级"
   }
 ]

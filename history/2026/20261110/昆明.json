@@ -38,5 +38,25 @@
     "ai_briefing_zh": "昆明阴冷潮湿，风力大，请务必多穿衣保暖！",
     "ai_briefing_en": "Kunming is cloudy, cold, and humid with a breeze. Please dress very warmly!",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-11-10T19:48+08:00",
+    "temp": "7",
+    "feelsLike": "4",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "0",
+    "humidity": "87",
+    "precip": "0.1",
+    "pressure": "819",
+    "vis": "13",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天，体感 4℃ 湿冷，风大，记得多穿保暖！",
+    "ai_briefing_en": "Cloudy in Kunming, feels cold and damp at 4℃. It's windy, dress warmly!",
+    "alert": null
   }
 ]

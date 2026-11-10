@@ -18,5 +18,25 @@
     "ai_briefing_zh": "宁波 夜间监测中，注意保暖",
     "ai_briefing_en": "宁波: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-10T10:48+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "315",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1032",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阴天微凉，记得加件外套，小心着凉。",
+    "ai_briefing_en": "Ningbo is cloudy and a bit cool. Remember a jacket to avoid catching a chill.",
+    "alert": null
   }
 ]

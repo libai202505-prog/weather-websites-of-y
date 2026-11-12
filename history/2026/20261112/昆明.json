@@ -38,5 +38,25 @@
     "ai_briefing_zh": "阴天湿度大，气温适中。记得添衣，保持愉悦心情。",
     "ai_briefing_en": "Overcast and humid, mild temperature. Add layers, stay cheerful.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-11-12T13:48+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "225",
+    "humidity": "56",
+    "precip": "0.2",
+    "pressure": "815",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "昆明阴天，风力 4 级，出门添件薄外套，小心着凉。",
+    "ai_briefing_en": "Cloudy in Kunming, breezy (level 4). Bring a light jacket!",
+    "alert": null
   }
 ]

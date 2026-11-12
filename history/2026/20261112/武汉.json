@@ -58,5 +58,25 @@
     "ai_briefing_zh": "武汉阴冷，体感偏低，湿度高，注意防潮和保暖。",
     "ai_briefing_en": "Cold and damp in Wuhan, feels chilly. Stay warm and mind the humidity!",
     "alert": null
+  },
+  {
+    "name": "武汉",
+    "updateTime": "2026-11-12T22:37+08:00",
+    "temp": "12",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "东南风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "135",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1020",
+    "vis": "4",
+    "dew": "26",
+    "cloud": "0",
+    "ai_briefing_zh": "武汉 夜间监测中，注意保暖",
+    "ai_briefing_en": "武汉: Night watch, stay warm.",
+    "alert": null
   }
 ]

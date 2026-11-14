@@ -18,5 +18,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-11-14T07:48+08:00",
+    "temp": "2",
+    "feelsLike": "-2",
+    "text": "霾",
+    "windDir": "东风",
+    "windScale": "1",
+    "windSpeed": "5",
+    "wind360": "90",
+    "humidity": "100",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "3",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳有霾，气温低湿度大，请注意防护，保暖防湿！",
+    "ai_briefing_en": "Shenyang has haze, cold and very humid. Protect yourself, stay warm and dry!",
+    "alert": null
   }
 ]

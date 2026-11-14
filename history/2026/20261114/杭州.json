@@ -38,5 +38,25 @@
     "ai_briefing_zh": "杭州大雾，能见度低，开车注意安全，小心慢行哦！",
     "ai_briefing_en": "Hangzhou is very foggy, visibility low. Drive safely and slowly!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-11-14T15:05+08:00",
+    "temp": "18",
+    "feelsLike": "15",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "315",
+    "humidity": "94",
+    "precip": "0.0",
+    "pressure": "1009",
+    "vis": "6",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "有雾体感凉。出行多注意能见度，小心驾驶。",
+    "ai_briefing_en": "Foggy and cool. Watch visibility when out, drive carefully.",
+    "alert": null
   }
 ]

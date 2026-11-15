@@ -18,5 +18,25 @@
     "ai_briefing_zh": "哈尔滨 夜间监测中，注意保暖",
     "ai_briefing_en": "哈尔滨: Night watch, stay warm.",
     "alert": "📉 红色降温预警：1小时骤降5℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "哈尔滨",
+    "updateTime": "2026-11-16T07:25+08:00",
+    "temp": "-9",
+    "feelsLike": "-13",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "3",
+    "windSpeed": "19",
+    "wind360": "0",
+    "humidity": "71",
+    "precip": "0.0",
+    "pressure": "1019",
+    "vis": "30",
+    "dew": "19",
+    "cloud": "100",
+    "ai_briefing_zh": "哈尔滨严寒，多穿戴帽子手套，注意防寒保暖！",
+    "ai_briefing_en": "Harbin is freezing, wear hats and gloves, keep warm!",
+    "alert": null
   }
 ]

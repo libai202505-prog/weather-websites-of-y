@@ -38,5 +38,25 @@
     "ai_briefing_zh": "晴朗但有凉意，湿度较高。早晚温差大，注意添衣。",
     "ai_briefing_en": "Sunny but cool, and quite humid. Mind the temperature changes, dress in layers.",
     "alert": null
+  },
+  {
+    "name": "昆明",
+    "updateTime": "2026-11-15T12:48+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "36",
+    "wind360": "270",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "811",
+    "vis": "30",
+    "dew": "15",
+    "cloud": "100",
+    "ai_briefing_zh": "多云 17℃，风力 5级。微凉，记得添件外套哦。",
+    "ai_briefing_en": "Cloudy 17℃, strong winds. A bit cool, remember a jacket!",
+    "alert": null
   }
 ]

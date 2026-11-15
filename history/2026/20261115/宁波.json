@@ -38,5 +38,25 @@
     "ai_briefing_zh": "雾浓风大，湿度百分百，体感湿冷。出行注意安全。",
     "ai_briefing_en": "Dense fog, windy, and 100% humidity. Drive carefully and stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-15T12:48+08:00",
+    "temp": "19",
+    "feelsLike": "16",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "29",
+    "wind360": "315",
+    "humidity": "63",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "27",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "多云 19℃，体感 16℃。风力 5级，记得添衣。",
+    "ai_briefing_en": "Cloudy 19℃, feels like 16℃. Strong winds, remember to layer up.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

@@ -38,5 +38,25 @@
     "ai_briefing_zh": "雾浓伴北风，体感湿冷。出行注意交通安全，多穿点。",
     "ai_briefing_en": "Dense fog with a north wind, feels damp and chilly. Drive safely and dress warmly.",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-11-15T12:48+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "31",
+    "wind360": "315",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "5",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "多云 14℃，体感 11℃。风力 5级，多加件外套哦。",
+    "ai_briefing_en": "Cloudy 14℃, feels like 11℃. Strong winds, wear an extra jacket!",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

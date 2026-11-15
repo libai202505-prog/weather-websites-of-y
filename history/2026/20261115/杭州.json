@@ -38,5 +38,25 @@
     "ai_briefing_zh": "雾气浓重伴北风，体感较凉。出行注意安全，别着凉。",
     "ai_briefing_en": "Dense fog with a brisk north wind. Drive safely and stay warm.",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-11-15T12:48+08:00",
+    "temp": "19",
+    "feelsLike": "17",
+    "text": "多云",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "45",
+    "humidity": "61",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "12",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "多云 19℃，体感微凉。风力 4级，出门多加件衣。",
+    "ai_briefing_en": "Cloudy 19℃, feels a bit cool. Strong winds, wear an extra layer.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

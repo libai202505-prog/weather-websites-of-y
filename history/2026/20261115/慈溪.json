@@ -38,5 +38,25 @@
     "ai_briefing_zh": "多云有风，湿度大体感凉。小心着凉，注意除湿哦。",
     "ai_briefing_en": "Cloudy and windy, feels a bit damp and cool. Stay cozy and consider dehumidifying.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "慈溪",
+    "updateTime": "2026-11-15T12:48+08:00",
+    "temp": "20",
+    "feelsLike": "18",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "0",
+    "humidity": "57",
+    "precip": "0.0",
+    "pressure": "1016",
+    "vis": "16",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "多云舒适，气温 20℃。北风微凉，出门注意防风。",
+    "ai_briefing_en": "Cloudy and pleasant, 20℃. Mind the breeze when you're out!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

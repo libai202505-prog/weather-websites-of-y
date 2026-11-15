@@ -58,5 +58,25 @@
     "ai_briefing_zh": "阴天湿冷，体感 7℃。多穿点，小心湿气重感冒。",
     "ai_briefing_en": "Cloudy and damp, feels like 7℃. Dress warm to avoid a cold!",
     "alert": null
+  },
+  {
+    "name": "西安",
+    "updateTime": "2026-11-15T21:15+08:00",
+    "temp": "9",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "1",
+    "windSpeed": "2",
+    "wind360": "180",
+    "humidity": "84",
+    "precip": "0.0",
+    "pressure": "976",
+    "vis": "16",
+    "dew": "22",
+    "cloud": "9",
+    "ai_briefing_zh": "阴天微凉，湿度高。出门记得添衣保暖。",
+    "ai_briefing_en": "Cloudy, cool, humid. Layer up.",
+    "alert": null
   }
 ]

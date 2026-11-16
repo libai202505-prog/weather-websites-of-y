@@ -58,5 +58,25 @@
     "ai_briefing_zh": "杭州多云，风力 4级，体感 17℃，风大注意防风。",
     "ai_briefing_en": "Hangzhou is cloudy with a 4-level breeze, feels like 17°C. Stay sheltered!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-11-16T22:37+08:00",
+    "temp": "16",
+    "feelsLike": "14",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "16",
+    "wind360": "90",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "6",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

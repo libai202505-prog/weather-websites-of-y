@@ -38,5 +38,25 @@
     "ai_briefing_zh": "成都阴天湿度大，记得开窗通风，保持干燥。",
     "ai_briefing_en": "Chengdu is cloudy and humid, open windows for ventilation and stay dry.",
     "alert": null
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-11-16T12:48+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "315",
+    "humidity": "64",
+    "precip": "0.2",
+    "pressure": "957",
+    "vis": "10",
+    "dew": "23",
+    "cloud": "10",
+    "ai_briefing_zh": "成都阴天微凉，体感 11℃，出门别忘添衣。",
+    "ai_briefing_en": "Chengdu is cloudy and a bit cool, feels like 11°C. Don't forget to layer up!",
+    "alert": null
   }
 ]

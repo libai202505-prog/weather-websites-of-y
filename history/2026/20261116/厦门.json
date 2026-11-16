@@ -38,5 +38,25 @@
     "ai_briefing_zh": "厦门多云微风，温度适宜，注意防晒哦。",
     "ai_briefing_en": "Xiamen is cloudy with light breeze, pleasant temperature, remember sunscreen.",
     "alert": "🟧 橙色降温提示：1小时降温4℃"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-11-16T12:48+08:00",
+    "temp": "23",
+    "feelsLike": "22",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "17",
+    "wind360": "90",
+    "humidity": "62",
+    "precip": "0.0",
+    "pressure": "1000",
+    "vis": "26",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门多云温暖，气温 23℃，风力 3级，体感舒适。",
+    "ai_briefing_en": "Xiamen is cloudy and warm at 23°C with a 3-level breeze. Enjoy the comfortable weather!",
+    "alert": null
   }
 ]

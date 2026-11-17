@@ -18,5 +18,25 @@
     "ai_briefing_zh": "漳浦有雾 17℃，湿度 97%。能见度差，小心驾驶哦！",
     "ai_briefing_en": "Zhangpu, 17℃ and foggy. Poor visibility, please drive carefully!",
     "alert": "📉 红色降温预警：1小时骤降6℃"
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-11-17T14:37+08:00",
+    "temp": "27",
+    "feelsLike": "28",
+    "text": "多云",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "13",
+    "wind360": "90",
+    "humidity": "56",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "29",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦多云，体感 28℃。天气炎热，记得补水防晒！",
+    "ai_briefing_en": "Zhangpu is cloudy and feels like 28℃. Stay hydrated!",
+    "alert": null
   }
 ]

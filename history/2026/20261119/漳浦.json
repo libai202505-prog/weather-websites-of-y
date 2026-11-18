@@ -18,5 +18,25 @@
     "ai_briefing_zh": "漳浦 夜间监测中，注意保暖",
     "ai_briefing_en": "漳浦: Night watch, stay warm.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "漳浦",
+    "updateTime": "2026-11-19T06:48+08:00",
+    "temp": "17",
+    "feelsLike": "15",
+    "text": "霾",
+    "windDir": "南风",
+    "windScale": "2",
+    "windSpeed": "10",
+    "wind360": "180",
+    "humidity": "90",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "18",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "漳浦有霾，湿度高，外出建议戴口罩，注意健康。",
+    "ai_briefing_en": "Zhangpu has haze and high humidity. Wear a mask outdoors and mind your health.",
+    "alert": "📉 红色降温预警：1小时骤降6℃"
   }
 ]

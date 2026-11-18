@@ -18,5 +18,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-11-19T06:48+08:00",
+    "temp": "-4",
+    "feelsLike": "-9",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "34",
+    "wind360": "270",
+    "humidity": "50",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳严寒，风力 5级，风寒效应明显，请务必保暖！",
+    "ai_briefing_en": "Shenyang is severe cold with 5-level wind. Wind chill is strong, please keep very warm!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

@@ -18,5 +18,25 @@
     "ai_briefing_zh": "大连 夜间监测中，注意保暖",
     "ai_briefing_en": "大连: Night watch, stay warm.",
     "alert": "💨 北风警报：西北风 5级"
+  },
+  {
+    "name": "大连",
+    "updateTime": "2026-11-19T06:48+08:00",
+    "temp": "3",
+    "feelsLike": "-1",
+    "text": "多云",
+    "windDir": "西北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "315",
+    "humidity": "39",
+    "precip": "0.0",
+    "pressure": "1011",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "99",
+    "ai_briefing_zh": "大连多云，风力 4级，风寒感强，注意防风和保暖。",
+    "ai_briefing_en": "Dalian is cloudy with 4-level wind, strong wind chill. Mind the wind and keep warm.",
+    "alert": "💨 北风警报：西北风 4级"
   }
 ]

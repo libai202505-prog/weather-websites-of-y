@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波大雾锁城，湿度很高，注意出行安全。",
     "ai_briefing_en": "Ningbo is very foggy and humid. Please take care when traveling.",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-18T13:48+08:00",
+    "temp": "14",
+    "feelsLike": "10",
+    "text": "雾",
+    "windDir": "西北风",
+    "windScale": "6",
+    "windSpeed": "40",
+    "wind360": "315",
+    "humidity": "69",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "8",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波有雾风力大，行车注意安全，及时添衣！",
+    "ai_briefing_en": "Ningbo is foggy and windy, drive carefully and add clothes promptly!",
+    "alert": "💨 北风警报：西北风 6级"
   }
 ]

@@ -38,5 +38,25 @@
     "ai_briefing_zh": "沈阳阴冷，体感偏低，记得多穿保暖衣物哦。",
     "ai_briefing_en": "Shenyang is overcast and very cold. Remember to layer up and stay warm!",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-11-18T13:48+08:00",
+    "temp": "2",
+    "feelsLike": "-3",
+    "text": "阴",
+    "windDir": "西风",
+    "windScale": "5",
+    "windSpeed": "35",
+    "wind360": "270",
+    "humidity": "32",
+    "precip": "0.0",
+    "pressure": "1012",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳阴冷风力大，注意添衣保暖，别冻着啦！",
+    "ai_briefing_en": "Shenyang is cloudy, cold, and windy, remember to add clothes, keep warm, and don't catch a cold!",
+    "alert": null
   }
 ]

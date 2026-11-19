@@ -38,5 +38,25 @@
     "ai_briefing_zh": "杭州晴好微凉，体感较冷，湿度大，记得保暖防潮。",
     "ai_briefing_en": "Hangzhou is sunny and cool, feels chilly with high humidity. Keep warm and dry!",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-11-19T13:48+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "23",
+    "wind360": "45",
+    "humidity": "37",
+    "precip": "0.0",
+    "pressure": "1021",
+    "vis": "25",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州 夜间监测中，注意保暖",
+    "ai_briefing_en": "杭州: Night watch, stay warm.",
+    "alert": "💨 北风警报：东北风 4级"
   }
 ]

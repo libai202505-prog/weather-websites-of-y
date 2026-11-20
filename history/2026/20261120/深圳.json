@@ -38,5 +38,25 @@
     "ai_briefing_zh": "深圳风大阴天，体感 9℃。注意防风，别感冒咯！",
     "ai_briefing_en": "Shenzhen is windy, feels like 9℃. Protect from wind!",
     "alert": "📉 红色降温预警：1小时骤降6℃ | 💨 北风警报：西北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-11-20T13:48+08:00",
+    "temp": "11",
+    "feelsLike": "6",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "45",
+    "humidity": "91",
+    "precip": "0.0",
+    "pressure": "1018",
+    "vis": "7",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳小雨蒙蒙，体感很冷，注意保暖，出门带伞！",
+    "ai_briefing_en": "Shenzhen sees light rain, feeling quite cold. Stay warm and bring an umbrella!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：东北风 4级"
   }
 ]

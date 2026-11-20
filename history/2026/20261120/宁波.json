@@ -38,5 +38,25 @@
     "ai_briefing_zh": "宁波多云，体感 3℃。出门添衣，别感冒了哦！",
     "ai_briefing_en": "Ningbo is cloudy, 3℃. Add a layer, don't catch cold!",
     "alert": null
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-20T13:48+08:00",
+    "temp": "13",
+    "feelsLike": "10",
+    "text": "晴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "0",
+    "humidity": "29",
+    "precip": "0.0",
+    "pressure": "1026",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "宁波阳光明媚，但风力不小，多穿一点，小心感冒！",
+    "ai_briefing_en": "Ningbo is sunny but windy. Dress warmly to avoid catching a cold!",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

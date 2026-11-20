@@ -58,5 +58,25 @@
     "ai_briefing_zh": "青岛阳光虽好，风大体感冷，注意保暖，谨防感冒！",
     "ai_briefing_en": "Qingdao is sunny but windy and feels cold. Stay warm and prevent colds!",
     "alert": null
+  },
+  {
+    "name": "青岛",
+    "updateTime": "2026-11-20T22:48+08:00",
+    "temp": "6",
+    "feelsLike": "3",
+    "text": "多云",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "21",
+    "wind360": "0",
+    "humidity": "43",
+    "precip": "0.0",
+    "pressure": "1017",
+    "vis": "30",
+    "dew": "20",
+    "cloud": "92",
+    "ai_briefing_zh": "青岛 夜间监测中，注意保暖",
+    "ai_briefing_en": "青岛: Night watch, stay warm.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]

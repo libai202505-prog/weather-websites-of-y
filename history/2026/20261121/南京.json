@@ -38,5 +38,25 @@
     "ai_briefing_zh": "南京阳光明媚，风力适中，午后外出很舒服哦。",
     "ai_briefing_en": "Nanjing is sunny and mild, enjoy the lovely afternoon!",
     "alert": null
+  },
+  {
+    "name": "南京",
+    "updateTime": "2026-11-21T19:48+08:00",
+    "temp": "8",
+    "feelsLike": "6",
+    "text": "晴",
+    "windDir": "西北风",
+    "windScale": "2",
+    "windSpeed": "8",
+    "wind360": "315",
+    "humidity": "72",
+    "precip": "0.0",
+    "pressure": "1024",
+    "vis": "11",
+    "dew": "26",
+    "cloud": "10",
+    "ai_briefing_zh": "南京晴朗，体感 6℃ 左右。风力不大，记得添件外套。",
+    "ai_briefing_en": "Nanjing is sunny and feels around 6℃. A light jacket would be good!",
+    "alert": "📉 红色降温预警：1小时骤降5℃"
   }
 ]

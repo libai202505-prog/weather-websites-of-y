@@ -38,5 +38,25 @@
     "ai_briefing_zh": "杭州阳光和煦，风力适中，外出感受好天气吧！",
     "ai_briefing_en": "Hangzhou is sunny and mild, perfect for outdoor strolls!",
     "alert": null
+  },
+  {
+    "name": "杭州",
+    "updateTime": "2026-11-21T19:48+08:00",
+    "temp": "10",
+    "feelsLike": "8",
+    "text": "晴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "9",
+    "wind360": "225",
+    "humidity": "49",
+    "precip": "0.0",
+    "pressure": "1023",
+    "vis": "24",
+    "dew": "27",
+    "cloud": "10",
+    "ai_briefing_zh": "杭州晴朗，体感微凉，小心温差。记得及时调整衣物哦。",
+    "ai_briefing_en": "Hangzhou is sunny but feels a bit cool. Mind the temperature change and dress wisely!",
+    "alert": "🟧 橙色降温提示：1小时降温4℃"
   }
 ]

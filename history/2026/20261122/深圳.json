@@ -38,5 +38,25 @@
     "ai_briefing_zh": "深圳多云，微风体感适中，记得多喝水。",
     "ai_briefing_en": "Shenzhen is cloudy with a gentle breeze. Stay hydrated.",
     "alert": null
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-11-22T15:37+08:00",
+    "temp": "21",
+    "feelsLike": "20",
+    "text": "阴",
+    "windDir": "东风",
+    "windScale": "3",
+    "windSpeed": "15",
+    "wind360": "90",
+    "humidity": "68",
+    "precip": "0.0",
+    "pressure": "1013",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳阴天，气温适宜。湿度较高，保持舒爽。",
+    "ai_briefing_en": "Shenzhen is overcast and mild. High humidity, stay comfortable.",
+    "alert": null
   }
 ]

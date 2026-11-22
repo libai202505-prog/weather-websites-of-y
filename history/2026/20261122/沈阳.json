@@ -58,5 +58,25 @@
     "ai_briefing_zh": "沈阳阴冷，风力强劲。防寒保暖，谨防感冒。",
     "ai_briefing_en": "Shenyang is cold and windy. Stay warm to avoid catching a cold.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-11-22T23:37+08:00",
+    "temp": "4",
+    "feelsLike": "0",
+    "text": "阴",
+    "windDir": "南风",
+    "windScale": "4",
+    "windSpeed": "22",
+    "wind360": "180",
+    "humidity": "60",
+    "precip": "0.2",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
+    "ai_briefing_en": "沈阳: Night watch, stay warm.",
+    "alert": null
   }
 ]

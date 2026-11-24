@@ -18,5 +18,25 @@
     "ai_briefing_zh": "成都阴天体感 9℃，湿度 94%，注意防潮。",
     "ai_briefing_en": "Chengdu: Cloudy, 9℃. Humid.",
     "alert": "🟧 橙色降温提示：1小时降温3℃"
+  },
+  {
+    "name": "成都",
+    "updateTime": "2026-11-24T16:25+08:00",
+    "temp": "14",
+    "feelsLike": "11",
+    "text": "阴",
+    "windDir": "西南风",
+    "windScale": "2",
+    "windSpeed": "6",
+    "wind360": "225",
+    "humidity": "58",
+    "precip": "0.0",
+    "pressure": "972",
+    "vis": "11",
+    "dew": "8",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天湿润，适时增减衣物哦。",
+    "ai_briefing_en": "Cloudy and humid, adjust your clothing.",
+    "alert": null
   }
 ]

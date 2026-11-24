@@ -18,5 +18,25 @@
     "ai_briefing_zh": "宁波有雾体感 7℃，风力 4级，出行注意安全。",
     "ai_briefing_en": "Ningbo: Foggy, 7℃. Windy.",
     "alert": "🟧 橙色降温提示：1小时降温3℃ | 💨 北风警报：北风 4级"
+  },
+  {
+    "name": "宁波",
+    "updateTime": "2026-11-24T16:25+08:00",
+    "temp": "12",
+    "feelsLike": "8",
+    "text": "阴",
+    "windDir": "西北风",
+    "windScale": "5",
+    "windSpeed": "33",
+    "wind360": "315",
+    "humidity": "38",
+    "precip": "0.0",
+    "pressure": "1029",
+    "vis": "29",
+    "dew": "26",
+    "cloud": "91",
+    "ai_briefing_zh": "阴天风大，出门记得多穿点。",
+    "ai_briefing_en": "Cloudy and windy, dress warmly.",
+    "alert": "💨 北风警报：西北风 5级"
   }
 ]

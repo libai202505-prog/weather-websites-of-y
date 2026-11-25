@@ -18,5 +18,25 @@
     "ai_briefing_zh": "沈阳 夜间监测中，注意保暖",
     "ai_briefing_en": "沈阳: Night watch, stay warm.",
     "alert": null
+  },
+  {
+    "name": "沈阳",
+    "updateTime": "2026-11-25T11:05+08:00",
+    "temp": "5",
+    "feelsLike": "1",
+    "text": "多云",
+    "windDir": "西风",
+    "windScale": "4",
+    "windSpeed": "28",
+    "wind360": "270",
+    "humidity": "44",
+    "precip": "0.0",
+    "pressure": "1006",
+    "vis": "30",
+    "dew": "23",
+    "cloud": "100",
+    "ai_briefing_zh": "沈阳多云，体感 1℃，风力 4级。注意防风保暖哦。",
+    "ai_briefing_en": "Cloudy, cold, and windy in Shenyang (1℃). Stay warm and covered!",
+    "alert": null
   }
 ]

@@ -38,5 +38,25 @@
     "ai_briefing_zh": "深圳阴天有风，气温 18℃，注意防风保暖哦。",
     "ai_briefing_en": "Cloudy and windy in Shenzhen, around 18℃. Stay warm!",
     "alert": "💨 北风警报：东北风 4级"
+  },
+  {
+    "name": "深圳",
+    "updateTime": "2026-11-25T21:37+08:00",
+    "temp": "15",
+    "feelsLike": "12",
+    "text": "小雨",
+    "windDir": "东北风",
+    "windScale": "2",
+    "windSpeed": "11",
+    "wind360": "45",
+    "humidity": "77",
+    "precip": "0.0",
+    "pressure": "1014",
+    "vis": "30",
+    "dew": "26",
+    "cloud": "98",
+    "ai_briefing_zh": "深圳小雨 15℃。带好雨具，湿冷记得保暖！",
+    "ai_briefing_en": "Shenzhen has light rain at 15℃. Bring an umbrella, stay warm in the damp chill!",
+    "alert": "🟧 橙色降温提示：1小时降温3℃"
   }
 ]

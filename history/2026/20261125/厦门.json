@@ -38,5 +38,25 @@
     "ai_briefing_zh": "厦门阴天风力 6级！气温 15℃，外出务必注意防风。",
     "ai_briefing_en": "Cloudy and very windy in Xiamen (15℃). Watch out for strong gusts!",
     "alert": "💨 北风警报：东北风 6级"
+  },
+  {
+    "name": "厦门",
+    "updateTime": "2026-11-25T21:37+08:00",
+    "temp": "16",
+    "feelsLike": "13",
+    "text": "阴",
+    "windDir": "北风",
+    "windScale": "4",
+    "windSpeed": "27",
+    "wind360": "0",
+    "humidity": "58",
+    "precip": "0.4",
+    "pressure": "1005",
+    "vis": "30",
+    "dew": "25",
+    "cloud": "91",
+    "ai_briefing_zh": "厦门阴天 16℃，风力 4级。风大，注意防风保暖。",
+    "ai_briefing_en": "Xiamen is overcast at 16℃, windy. Strong winds, keep warm and sheltered.",
+    "alert": "💨 北风警报：北风 4级"
   }
 ]
